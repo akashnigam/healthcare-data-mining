@@ -1,8 +1,11 @@
 import scrapy
+import pandas as pd
 
 class HeadphonesSpider(scrapy.Spider):
 
     name = "patient_info"
+
+    mylist = []
 
     def start_requests(self):
         #urls = [
@@ -13,11 +16,16 @@ class HeadphonesSpider(scrapy.Spider):
         urlPrefix = 'https://patient.info/forums/index-'
         alphabet = 'A'
         i = 0
+        print("##########################################")
+        #print(self.df.shape)
+        #exit()
         while i<2:
             url = urlPrefix + chr(ord(alphabet) + i)
             #print(url)
             yield scrapy.Request(url=url, callback=self.parse)
             i += 1
+        print(self.mylist)
+        print("------------------------------------------")
 
     def parse(self, response):
         '''
@@ -71,4 +79,15 @@ class HeadphonesSpider(scrapy.Spider):
             postContent += para.get() + ' '
         print(postHeading)
         print(postContent)
+        self.mylist.append([postHeading, postContent])
+        print("##########################################")
+
+    def closed(self, reason):
+        print("##########################################")
+        print("##########################################")
+        print(self.mylist)
+        df = pd.DataFrame(self.mylist, columns=['heading','passage'], index=None)
+        print(df.head())
+        df.to_csv('patientInfo.csv')
+        print("##########################################")
         print("##########################################")
