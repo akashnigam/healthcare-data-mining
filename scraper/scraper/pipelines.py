@@ -1,3 +1,7 @@
+import json
+import csv
+from datetime import datetime
+
 # -*- coding: utf-8 -*-
 
 # Define your item pipelines here
@@ -7,12 +11,40 @@
 
 
 class ScraperPipeline(object):
-    def process_item(self, item, spider):
-        print("##########################################")
-        print(item)
-        print("##########################################")
-        return item
 
+    def __init__(self):
+        self.linkDisease = {}
+        csvOutputPath = "data/" + datetime.today().strftime("%Y-%m-%d_%H-%M-%S") + ".csv"
+        self.outputFile = open(csvOutputPath, "a")
+        row = ['disease', 'postLink', 'postHeading', 'postContent']
+        print(row)
+        writer = csv.writer(self.outputFile)
+        writer.writerow(row)
+
+    def __del__(self):
+        self.outputFile.close()
+
+    def process_item(self, item, spider):
+        print('--------------------------------------')
+        print('--------------------------------------')
+        print('--------Inside Pipeline---------------')
+        print(item)
+        print('--------------------------------------')
+        if item['contentType'] == 'disease':
+            self.linkDisease[item['postLink']] = item['disease']
+            print(json.dumps(self.linkDisease))
+        else:
+            disease = self.linkDisease[item['postLink']]
+            row = [disease, item['postLink'], item['postHeading'], item['postContent']]
+            print(row)
+            writer = csv.writer(self.outputFile)
+            writer.writerow(row)
+        print('--------------------------------------')
+        print('--------------------------------------')
+        #print("##########################################")
+        #print(item)
+        #print("##########################################")
+        return item
 
 class MysqlPipeline(object):
     #collection_name = 'scrapy_items'
