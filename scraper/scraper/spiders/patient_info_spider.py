@@ -8,7 +8,7 @@ class PatientInfoSpider(scrapy.Spider):
         urlPrefix = 'https://patient.info/forums/index-'
         alphabet = 'A'
         i = 0
-        while i<1:
+        while i<26:
             url = urlPrefix + chr(ord(alphabet) + i)
             yield scrapy.Request(url=url, callback=self.parse)
             i += 1
