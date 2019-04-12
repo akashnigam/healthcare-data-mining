@@ -1,2 +1,2 @@
 scraper/data/*.csv
-build/
+/MetaMapAnnotator/build/
