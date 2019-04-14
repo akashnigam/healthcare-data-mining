@@ -1,3 +1,7 @@
+DROP database if exists ontology;
+CREATE database ontology;
+use ontology;
+
 CREATE TABLE `diseases`
 (
   `disease_id` int PRIMARY KEY,
