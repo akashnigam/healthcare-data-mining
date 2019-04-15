@@ -18,10 +18,10 @@
  */
 package gov.nih.nlm.nls.metamap;
 
-import java.sql.*;
 import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.PrintStream;
@@ -30,11 +30,11 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
-import java.util.StringJoiner;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import org.apache.commons.collections4.iterators.PeekingIterator;
 import org.apache.commons.csv.CSVFormat;
+import org.apache.commons.csv.CSVPrinter;
 import org.apache.commons.csv.CSVRecord;
 import se.sics.prologbeans.PBTerm;
 import org.apache.commons.text.similarity.JaroWinklerDistance;
@@ -48,123 +48,12 @@ import org.apache.commons.text.similarity.JaroWinklerDistance;
  */
 public class MetaMapAnnotator {
 
-    private static void init() throws IOException {
-        InputStream configStream = MetaMapAnnotator.class.getClassLoader().getResourceAsStream("./gov/nih/nlm/nls/metamap/MetaMapAnnotatorConfig.properties");
-        configProp.load(configStream);
-        populateIgnoredWordsList();
-        populatePOSTags();
-    }
-
     private static Properties configProp = new Properties();
-    public static final String PATH_TO_RESOURCES = "./resources/";
+    private static final String PATH_TO_RESOURCES = "./resources/";
 
     MetaMapApi api;
-    private static Connection hcmConn;
-
     private static List<String> ignoredWords = new ArrayList<String>();
     private static List<String> includePOSTags = new ArrayList<String>();
-
-    private static void populateIgnoredWordsList() {
-        Reader in = null;
-        try {
-            File file = new File(PATH_TO_RESOURCES + configProp.getProperty("ignored_words_file_name"));
-            in = new FileReader(file);
-            Iterable<CSVRecord> records = CSVFormat.RFC4180.withFirstRecordAsHeader().parse(in);
-            for (CSVRecord record : records) {
-                ignoredWords.add(record.get(0));
-            }
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (IOException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        } finally {
-            try {
-                if (in != null) {
-                    in.close();
-                }
-            } catch (IOException ex) {
-                Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-            }
-        }
-    }
-
-    private static void populatePOSTags() {
-        Reader in = null;
-        try {
-            File file = new File(PATH_TO_RESOURCES + configProp.getProperty("include_pos_tags_file_name"));
-            in = new FileReader(file);
-            Iterable<CSVRecord> records = CSVFormat.RFC4180.withFirstRecordAsHeader().parse(in);
-            for (CSVRecord record : records) {
-                includePOSTags.add(record.get(0));
-            }
-        } catch (FileNotFoundException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        } catch (IOException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        } finally {
-            try {
-                if (in != null) {
-                    in.close();
-                }
-            } catch (IOException ex) {
-                Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-            }
-        }
-    }
-
-    private static void connectToHCMDB() {
-
-        try {
-            hcmConn = DriverManager.getConnection(
-                    "jdbc:mysql://" + configProp.getProperty("db_host") + ":" + configProp.getProperty("db_port") + "/" + configProp.getProperty("db_name") + "?autoReconnect=true&useSSL=false", configProp.getProperty("db_user_name"), configProp.getProperty("db_user_password"));
-        } catch (SQLException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
-
-    private static void closeDBConnection() {
-        try {
-            hcmConn.close();
-        } catch (SQLException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        }
-    }
-
-    private static ResultSet executeQueryStatement(String statement) {
-        ResultSet rs = null;
-        try {
-            rs = hcmConn.createStatement().executeQuery(statement);
-        } catch (SQLException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        return rs;
-    }
-
-    private static int executeDMLStatement(String statement) {
-        int rs = -1;
-        try {
-            rs = hcmConn.createStatement().executeUpdate(statement);
-        } catch (SQLException ex) {
-            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
-        }
-        return rs;
-    }
-
-    private static int insertDiseaseRecord(int disease_id, String disease_name, String description, int records_count, int has_symptom_count, int has_treatment_count) {
-        return executeDMLStatement("INSERT INTO `" + configProp.getProperty("db_name") + "`.`diseases` (`disease_id`, `disease_name`, `description`, `records_count`, `has_symptom_count`, `has_treatment_count`) VALUES (" + (new StringJoiner(",").add(String.valueOf(disease_id)).add(disease_name).add(description).add(String.valueOf(records_count)).add(String.valueOf(has_symptom_count)).add(String.valueOf(has_treatment_count))) + ")");
-    }
-
-    private static int insertDiseaseRecord(int disease_id, String disease_name, String description) {
-        return executeDMLStatement("INSERT INTO `" + configProp.getProperty("db_name") + "`.`diseases` (`disease_id`, `disease_name`, `description`) VALUES (" + (new StringJoiner(",").add(String.valueOf(disease_id)).add(disease_name).add(description)) + ")");
-    }
-
-    private static int insertSymptomRecord(int symptom_id, String description) {
-        return executeDMLStatement("INSERT INTO `" + configProp.getProperty("db_name") + "`.`symptoms` (`symptom_id`, `description`) VALUES (" + String.valueOf(symptom_id) + "," + description + ")");
-    }
-
-    private static int insertDiseaseSymptomRelationRecord(int disease_id, int symptom_id) {
-        return executeDMLStatement("INSERT INTO `" + configProp.getProperty("db_name") + "`.`disease_symptoms` (`disease_id`, `symptom_id`) VALUES (" + String.valueOf(disease_id) + "," + String.valueOf(symptom_id) + ")");
-    }
 
     /**
      * Creates new instance with the given mmserver config details
@@ -195,9 +84,7 @@ public class MetaMapAnnotator {
 
         try {
             init();
-            connectToHCMDB();
-            readFromCSV();
-            closeDBConnection();
+            processWebUserPostData();
         } catch (Exception ex) {
             Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, ex.getMessage(), ex);
         }
@@ -205,11 +92,79 @@ public class MetaMapAnnotator {
     }
 
     /**
+     * Load the initial setup and config data
+     *
+     * @throws IOException
+     */
+    private static void init() throws IOException {
+        InputStream configStream = MetaMapAnnotator.class.getClassLoader().getResourceAsStream("./gov/nih/nlm/nls/metamap/MetaMapAnnotatorConfig.properties");
+        configProp.load(configStream);
+        populateIgnoredWordsList();
+        populatePOSTags();
+    }
+
+    /**
+     * Populate the words to be ignored from the CSV file into a list
+     * 
+     */
+    private static void populateIgnoredWordsList() {
+        Reader in = null;
+        try {
+            File file = new File(PATH_TO_RESOURCES + configProp.getProperty("ignored_words_file_name"));
+            in = new FileReader(file);
+            Iterable<CSVRecord> records = CSVFormat.RFC4180.withFirstRecordAsHeader().parse(in);
+            for (CSVRecord record : records) {
+                ignoredWords.add(record.get(0));
+            }
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                if (in != null) {
+                    in.close();
+                }
+            } catch (IOException ex) {
+                Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }
+
+    /**
+     * Populate the POS tags to be included from the CSV file into a list
+     * 
+     */
+    private static void populatePOSTags() {
+        Reader in = null;
+        try {
+            File file = new File(PATH_TO_RESOURCES + configProp.getProperty("include_pos_tags_file_name"));
+            in = new FileReader(file);
+            Iterable<CSVRecord> records = CSVFormat.RFC4180.withFirstRecordAsHeader().parse(in);
+            for (CSVRecord record : records) {
+                includePOSTags.add(record.get(0));
+            }
+        } catch (FileNotFoundException ex) {
+            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
+        } catch (IOException ex) {
+            Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
+        } finally {
+            try {
+                if (in != null) {
+                    in.close();
+                }
+            } catch (IOException ex) {
+                Logger.getLogger(MetaMapAnnotator.class.getName()).log(Level.SEVERE, null, ex);
+            }
+        }
+    }
+
+    /**
      * Set the timeout
      *
      * @param interval
      */
-    void setTimeout(int interval) {
+    private void setTimeout(int interval) {
         this.api.setTimeout(interval);
     }
 
@@ -220,32 +175,41 @@ public class MetaMapAnnotator {
      * @throws IOException
      * @throws Exception
      */
-    private static void readFromCSV() throws FileNotFoundException, IOException, Exception {
+    private static void processWebUserPostData() throws FileNotFoundException, IOException, Exception {
         File dir = new File(configProp.getProperty("web_scraper_csv_folder"));
-
         File[] csvFilesList = dir.listFiles((File directory, String filename) -> filename.endsWith(".csv"));
         for (File file : csvFilesList) {
             Reader in = new FileReader(file);
             Iterable<CSVRecord> records = CSVFormat.RFC4180.withFirstRecordAsHeader().parse(in);
+            String outputFile = PATH_TO_RESOURCES + file.getName();
+            CSVFormat csvFileFormat = CSVFormat.EXCEL.withHeader("PostNumber", "DiseaseId", "DiseaseName", "SymptomId", "SymptomName");
+            FileWriter fileWriter = new FileWriter(outputFile);
+            CSVPrinter csvFilePrinter = new CSVPrinter(fileWriter, csvFileFormat);
             for (CSVRecord record : records) {
-                String disease = record.get(0);
+                long recordNumber = record.getRecordNumber();
+                String diseaseCategory = record.get(0);
                 String postLink = record.get(1);
                 String postHeading = record.get(2);
                 String postContent = record.get(3);
+
                 //clean off non ascii characters
-                disease = stripNonASCII(disease);
+                diseaseCategory = stripNonASCII(diseaseCategory);
                 postHeading = stripNonASCII(postHeading);
                 postContent = stripNonASCII(postContent);
 
                 System.out.println("----------------------------------------------------");
-//                System.out.println(disease);
+//                System.out.println(disease_name);
 //                System.out.println(postHeading);
 //                System.out.println(postContent);
 //                System.out.println("----------------------------------------------------");
-                triggerMetaMap(disease, postHeading, postContent);
+                triggerMetaMap(csvFilePrinter, recordNumber, diseaseCategory, postHeading, postContent);
                 System.out.println("----------------------------------------------------");
             }
+            fileWriter.flush();
+            fileWriter.close();
+            csvFilePrinter.close();
         }
+
     }
 
     /**
@@ -275,7 +239,7 @@ public class MetaMapAnnotator {
      *
      * @throws Exception
      */
-    private static void triggerMetaMap(String category, String postHeading, String postContent) throws Exception {
+    private static void triggerMetaMap(CSVPrinter csvFilePrinter, long recordNumber, String category, String postHeading, String postContent) throws Exception {
         String serverhost = MetaMapApi.DEFAULT_SERVER_HOST;
         int serverport = MetaMapApi.DEFAULT_SERVER_PORT;
         int timeout = -1;
@@ -298,7 +262,7 @@ public class MetaMapAnnotator {
         if (timeout > -1) {
             frontEnd.setTimeout(timeout);
         }
-        frontEnd.process(postContent, output, options);
+        frontEnd.process(csvFilePrinter, recordNumber, postContent, output, options);
         frontEnd.api.disconnect();
     }
 
@@ -312,7 +276,7 @@ public class MetaMapAnnotator {
      *
      * @throws Exception
      */
-    public void process(String terms, PrintStream out, List<String> serverOptions) throws Exception {
+    private void process(CSVPrinter csvFilePrinter, long recordNumber, String terms, PrintStream out, List<String> serverOptions) throws Exception {
         if (serverOptions.size() > 0) {
             api.setOptions(serverOptions);
         }
@@ -362,7 +326,7 @@ public class MetaMapAnnotator {
                 for (Utterance utterance : result.getUtteranceList()) {
 //                    out.println("Utterance:");
 //                    out.println(" Id: " + utterance.getId());
-                    out.println("Utterance text: " + utterance.getString());
+//                    out.println("Utterance text: " + utterance.getString());
 //                    out.println(" Position: " + utterance.getPosition());
                     for (PCM pcm : utterance.getPCMList()) {
 
@@ -389,7 +353,7 @@ public class MetaMapAnnotator {
 //                        }
 //                        out.println(" " + pcm.getPhrase().getMincoMan());
 //                        HashMap<String, String> wordTagList = listInputMatches(pcm.getPhrase().getMincoMan());
-                        out.println("  Mappings:");
+//                        out.println("  Mappings:");
                         for (Mapping map : pcm.getMappingList()) {
 //                        out.println(" Map Score: " + map.getScore());
                             for (Ev mapEv : map.getEvList()) {
@@ -421,7 +385,7 @@ public class MetaMapAnnotator {
 //                                out.println("   Score: " + mapEv.getScore());
                                 out.println("   Filter Status: " + filterOut);
                                 out.println("   Concept Id: " + mapEv.getConceptId());
-                                out.println("   Term: " + mapEv.getTerm());
+//                                out.println("   Term: " + mapEv.getTerm());
                                 out.println("   Concept Name: " + mapEv.getConceptName());
                                 out.println("   Preferred Name: " + mapEv.getPreferredName());
                                 out.println("   Matched Words: " + mapEv.getMatchedWords());
@@ -434,6 +398,18 @@ public class MetaMapAnnotator {
 //                                out.println("   Positional Info: " + mapEv.getPositionalInfo());
 //                                out.println("   Pruning Status: " + mapEv.getPruningStatus());
 //                                out.println("   Negation Status: " + mapEv.getNegationStatus());
+                                if (!filterOut) {
+                                    String diseaseName = "", symptomName = "", diseaseId = "", symptomId = "";
+                                    if (mapEv.getSemanticTypes().contains("dsyn")) {
+                                        diseaseName = mapEv.getPreferredName();
+                                        diseaseId = mapEv.getConceptId();
+                                    }
+                                    if (mapEv.getSemanticTypes().contains("sosy")) {
+                                        symptomName = mapEv.getPreferredName();
+                                        symptomId = mapEv.getConceptId();
+                                    }
+                                    csvFilePrinter.printRecord(recordNumber, diseaseId, diseaseName, symptomId, symptomName);
+                                }
 //                                }
                             }
                         }
@@ -447,11 +423,14 @@ public class MetaMapAnnotator {
         this.api.resetOptions();
     }
 
-    private String getPOSTag(PBTerm pbList) {
-        return listInputMatches(pbList).toString();
-    }
-
-    public List<PBTerm> listArgs(PBTerm compoundTerm) {
+    /**
+     * Returns the arguments of a compound term
+     *
+     * @param compoundTerm
+     *
+     * @return
+     */
+    private List<PBTerm> listArgs(PBTerm compoundTerm) {
         List<PBTerm> elements = new ArrayList<PBTerm>();
         for (int i = 1; i <= compoundTerm.getArity(); i++) {
             elements.add(compoundTerm.getArgument(i));
@@ -459,7 +438,14 @@ public class MetaMapAnnotator {
         return elements;
     }
 
-    public List<PBTerm> listElements(PBTerm listTerm) {
+    /**
+     * Returns the elements of the list term
+     *
+     * @param listTerm
+     *
+     * @return
+     */
+    private List<PBTerm> listElements(PBTerm listTerm) {
         List<PBTerm> elements = new ArrayList<PBTerm>();
         for (int i = 1; i <= listTerm.length(); i++) {
             elements.add(TermUtils.getListElement(listTerm, i));
@@ -467,7 +453,14 @@ public class MetaMapAnnotator {
         return elements;
     }
 
-    public List<String> listAtomTermses(PBTerm mincoManTerm) {
+    /**
+     * Returns the atom terms of the given MincoMan term
+     *
+     * @param mincoManTerm
+     *
+     * @return
+     */
+    private List<String> listAtomTermses(PBTerm mincoManTerm) {
         List<String> atomTermsList = new ArrayList<String>();
         if (mincoManTerm.isListCell()) {
             for (PBTerm elem : listElements(mincoManTerm)) {
@@ -488,28 +481,45 @@ public class MetaMapAnnotator {
         return atomTermsList;
     }
 
+    /**
+     * Returns the POS tag for the given word
+     *
+     * @param posTagList
+     * @param matchedWord
+     *
+     * @return
+     */
     private String getPOSMatch(HashMap<String, String> posTagList, String matchedWord) {
-        for (HashMap.Entry<String, String> en : posTagList.entrySet()) {
-            String key = en.getKey();
+        for (HashMap.Entry<String, String> posTagEntry : posTagList.entrySet()) {
+            String key = posTagEntry.getKey();
             if (key.toLowerCase().equals(matchedWord.toLowerCase())) {
-                return en.getValue();
+                return posTagEntry.getValue();
             }
         }
-        for (HashMap.Entry<String, String> en : posTagList.entrySet()) {
-            String key = en.getKey();
+        for (HashMap.Entry<String, String> posTagEntry : posTagList.entrySet()) {
+            String key = posTagEntry.getKey();
             if (key.toLowerCase().contains(matchedWord.toLowerCase())) {
-                return en.getValue();
+                return posTagEntry.getValue();
             }
         }
-        for (HashMap.Entry<String, String> en : posTagList.entrySet()) {
-            String key = en.getKey();
+        for (HashMap.Entry<String, String> posTagEntry : posTagList.entrySet()) {
+            String key = posTagEntry.getKey();
             if (matchedWord.toLowerCase().contains(key.toLowerCase())) {
-                return en.getValue();
+                return posTagEntry.getValue();
             }
         }
         return "";
     }
 
+    /**
+     * Returns true if the given two strings are NOT Acronyms that is if they
+     * are highly dissimilar
+     *
+     * @param conceptName
+     * @param matchedWords
+     *
+     * @return
+     */
     private boolean isAcronym(String conceptName, String matchedWords) {
         String match = matchedWords;
         match = match.substring(1, match.length() - 1);
@@ -525,7 +535,15 @@ public class MetaMapAnnotator {
         return false;
     }
 
-    public HashMap<String, String> listInputMatches(PBTerm mincoManTerm) {
+    /**
+     * Returns a Map with the word and corresponding POS tag for the given
+     * MincoMan term
+     *
+     * @param mincoManTerm
+     *
+     * @return
+     */
+    private HashMap<String, String> listInputMatches(PBTerm mincoManTerm) {
         HashMap<String, String> termlist = new HashMap<String, String>();
         List<String> atomTermsList = listAtomTermses(mincoManTerm);
         PeekingIterator<String> iter = new PeekingIterator<>(atomTermsList.iterator());

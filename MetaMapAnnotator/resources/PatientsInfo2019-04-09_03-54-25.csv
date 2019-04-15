@@ -1,0 +1,1100 @@
+PostNumber,DiseaseId,DiseaseName,SymptomId,SymptomName
+1,,,C0027769,Nervousness
+1,,,C0231218,Malaise
+1,C0272285,Heparin-induced thrombocytopenia,,
+2,,,C0221423,Illness (finding)
+2,,,C3714552,Weakness
+2,,,C3714552,Weakness
+2,,,C0042571,Vertigo
+2,,,C0027497,Nausea
+2,,,C0015672,Fatigue
+2,,,C0010200,Coughing
+3,C0034069,Pulmonary Fibrosis,,
+3,C0796085,Nance-Horan syndrome,,
+4,C0034069,Pulmonary Fibrosis,,
+4,C0238990,Acute lower respiratory tract infection,,
+4,,,C0015672,Fatigue
+4,,,C0040822,Tremor
+4,,,C0010200,Coughing
+4,,,C0030193,Pain
+5,,,C0010200,Coughing
+5,,,C0013404,Dyspnea
+5,C0006267,Bronchiectasis,,
+5,C0034069,Pulmonary Fibrosis,,
+5,C0006267,Bronchiectasis,,
+5,C0034069,Pulmonary Fibrosis,,
+6,C0034069,Pulmonary Fibrosis,,
+7,,,C0850149,Dry cough
+7,C0034069,Pulmonary Fibrosis,,
+8,C0034069,Pulmonary Fibrosis,,
+11,,,C0917801,Sleeplessness
+11,,,C2219848,Daytime somnolence
+11,,,C0012833,Dizziness
+11,,,C2219848,Daytime somnolence
+12,C0751249,Chronic Insomnia,,
+14,C0034065,Pulmonary Embolism,,
+15,,,C0008031,Chest Pain
+15,,,C0008031,Chest Pain
+15,,,C0008031,Chest Pain
+15,,,C0231218,Malaise
+15,C0027051,Myocardial Infarction,,
+15,,,C0231218,Malaise
+15,,,C0847554,lump in throat
+15,,,C0008031,Chest Pain
+15,,,C0018681,Headache
+15,,,C0012833,Dizziness
+15,,,C0847554,lump in throat
+15,,,C0008031,Chest Pain
+15,,,C0018681,Headache
+15,,,C0027497,Nausea
+15,,,C0234238,Ache
+15,,,C0015672,Fatigue
+16,,,C2242996,Has tingling sensation
+17,,,C0235108,Feeling tense
+17,,,C3714552,Weakness
+17,,,C0557875,Tired
+17,,,C3714552,Weakness
+17,C0232197,Fibrillation,,
+17,,,C0015644,Muscular fasciculation
+17,C0013595,Eczema,,
+17,,,C0231218,Malaise
+18,C0022104,Irritable Bowel Syndrome,,
+18,,,C0030193,Pain
+18,,,C3714552,Weakness
+18,,,C0231528,Myalgia
+18,C0012634,Disease,,
+18,C0012634,Disease,,
+19,C0015674,Chronic Fatigue Syndrome,,
+19,C0015674,Chronic Fatigue Syndrome,,
+19,,,C0007859,Neck Pain
+19,,,C0030193,Pain
+19,,,C1517205,Flare
+19,C0015674,Chronic Fatigue Syndrome,,
+19,,,C0007859,Neck Pain
+19,,,C0030193,Pain
+21,,,C0234233,Sore to touch
+21,,,C0042571,Vertigo
+21,,,C0013404,Dyspnea
+22,C0744638,headache migraine chronic,,
+22,,,C0003862,Arthralgia
+22,C0854740,delayed sleep phase,,
+22,,,C0917801,Sleeplessness
+22,,,C0042963,Vomiting
+22,,,C0012833,Dizziness
+22,C0027404,Narcolepsy,,
+22,C1510471,Vitamin Deficiency,,
+22,C0021053,Immune System Diseases,,
+23,,,C0221423,Illness (finding)
+23,,,C0557875,Tired
+23,,,C0557875,Tired
+23,,,C0424489,Chapping of lips
+23,,,C0013404,Dyspnea
+23,C0011168,Deglutition Disorders,,
+23,C0004096,Asthma,,
+23,,,C3714552,Weakness
+23,,,C0557875,Tired
+23,C0026848,Myopathy,,
+23,,,C0030193,Pain
+24,,,C0030193,Pain
+24,C0270814,Spastic syndrome,,
+26,C0678236,Rare Diseases,,
+27,,,C0015672,Fatigue
+27,,,C0557875,Tired
+27,,,C3714552,Weakness
+27,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,
+27,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,
+27,,,C3714552,Weakness
+27,C0268621,Hepatic methionine adenosyltransferase deficiency,,
+27,C0002871,Anemia,,
+27,,,C3714552,Weakness
+27,,,C3714552,Weakness
+28,,,C0030193,Pain
+28,,,C0037088,Signs and Symptoms
+28,C1568363,Tendinosis,,
+28,C2895080,"Osteophyte, left shoulder",,
+28,C2895078,"Osteophyte, shoulder",,
+29,,,C0030193,Pain
+30,,,C1704276,Spasmodic movement
+30,,,C2169806,recurrent muscle twitches (symptom)
+30,,,C0427008,Stiffness
+30,C0024473,Magnesium Deficiency,,
+31,,,C0231218,Malaise
+31,,,C0231218,Malaise
+31,,,C3714552,Weakness
+31,C0270814,Spastic syndrome,,
+31,C0458224,Piriformis Muscle Syndrome,,
+31,C1568272,Tendinopathy,,
+32,,,C0184567,Acute onset pain
+32,,,C0030193,Pain
+32,C0423086,Staring,,
+32,,,C0030193,Pain
+32,C0270814,Spastic syndrome,,
+33,,,C0231528,Myalgia
+33,,,C0231528,Myalgia
+34,,,C2242996,Has tingling sensation
+34,C0020498,"Hyperostosis, Diffuse Idiopathic Skeletal",,
+34,,,C0030193,Pain
+34,,,C2242996,Has tingling sensation
+35,,,C0239377,Arm Pain
+35,,,C0030193,Pain
+35,,,C0234233,Sore to touch
+35,,,C0231528,Myalgia
+35,,,C0023380,Lethargy
+35,,,C0023380,Lethargy
+35,,,C0023380,Lethargy
+35,,,C0231528,Myalgia
+35,,,C0023380,Lethargy
+35,C3714873,"Axenfeld-Rieger Syndrome, Type 1",,
+36,,,C0455270,Sharp pain
+36,,,C3714552,Weakness
+36,,,C2242996,Has tingling sensation
+36,,,C3714552,Weakness
+36,,,C0030193,Pain
+36,,,C0030193,Pain
+37,,,C0085631,Agitation
+37,,,C0234229,Deep pain
+37,,,C0030193,Pain
+37,,,C0030193,Pain
+38,C0026848,Myopathy,,
+38,C0851578,Sleep Disorders,,
+38,C0272285,Heparin-induced thrombocytopenia,,
+38,C0272285,Heparin-induced thrombocytopenia,,
+38,,,C0015230,Exanthema
+38,C0272285,Heparin-induced thrombocytopenia,,
+38,,,C0015230,Exanthema
+38,C0272285,Heparin-induced thrombocytopenia,,
+38,C0272285,Heparin-induced thrombocytopenia,,
+38,C0851578,Sleep Disorders,,
+38,C0851578,Sleep Disorders,,
+38,C0851578,Sleep Disorders,,
+38,C0032064,Plague,,
+41,,,C3714552,Weakness
+41,,,C0234373,Fine Tremor
+41,,,C3714552,Weakness
+41,,,C0577573,Mass of body region
+41,C0012634,Disease,,
+41,C0085655,Polymyositis,,
+41,,,C3714552,Weakness
+42,,,C0037763,Spasm
+42,,,C0030193,Pain
+42,,,C0037763,Spasm
+42,,,C0557875,Tired
+42,,,C0009806,Constipation
+42,,,C0037763,Spasm
+42,,,C0026821,Muscle Cramp
+42,C0014518,Toxic Epidermal Necrolysis,,
+42,,,C0012833,Dizziness
+44,C1535939,Pneumocystis jiroveci pneumonia,,
+44,C1535939,Pneumocystis jiroveci pneumonia,,
+44,,,C0231528,Myalgia
+44,,,C0231528,Myalgia
+44,,,C0015230,Exanthema
+44,,,C2242996,Has tingling sensation
+44,C2239188,Burning feet syndrome,,
+44,C0020676,Hypothyroidism,,
+45,,,C0026821,Muscle Cramp
+45,,,C0026821,Muscle Cramp
+45,,,C0026821,Muscle Cramp
+45,C0042870,Vitamin D Deficiency,,
+47,,,C0085624,Burning sensation
+47,,,C0036572,Seizures
+47,,,C0085624,Burning sensation
+47,C0020498,"Hyperostosis, Diffuse Idiopathic Skeletal",,
+47,,,C0234233,Sore to touch
+48,,,C0037763,Spasm
+48,,,C0037763,Spasm
+48,,,C0037763,Spasm
+50,,,C0849970,Feeling tired
+50,,,C0015672,Fatigue
+50,,,C3714552,Weakness
+50,,,C3714552,Weakness
+50,,,C3714552,Weakness
+50,,,C0015672,Fatigue
+50,,,C0015672,Fatigue
+50,,,C0015672,Fatigue
+51,C0032460,Polycystic Ovary Syndrome,,
+51,C0032460,Polycystic Ovary Syndrome,,
+51,C0032460,Polycystic Ovary Syndrome,,
+52,,,C0030193,Pain
+52,,,C0007859,Neck Pain
+52,,,C0234233,Sore to touch
+52,,,C0234233,Sore to touch
+52,C1535939,Pneumocystis jiroveci pneumonia,,
+52,C0041912,Upper Respiratory Infections,,
+52,,,C0557875,Tired
+52,C1535939,Pneumocystis jiroveci pneumonia,,
+52,,,C2242996,Has tingling sensation
+52,,,C0026821,Muscle Cramp
+52,,,C0015672,Fatigue
+52,,,C0015672,Fatigue
+52,,,C0221170,Muscular stiffness
+52,,,C3714552,Weakness
+52,,,C0015672,Fatigue
+52,,,C0026821,Muscle Cramp
+52,C2676739,Chromosome 2q32-Q33 Deletion Syndrome,,
+52,,,C0557875,Tired
+52,,,C0557875,Tired
+53,,,C0010200,Coughing
+53,,,C0010200,Coughing
+53,C0004623,Bacterial Infections,,
+55,C0006266,Bronchial Spasm,,
+55,C0006266,Bronchial Spasm,,
+56,,,C3714552,Weakness
+58,C0034065,Pulmonary Embolism,,
+59,C0040213,Tietze's Syndrome,,
+59,,,C0010200,Coughing
+61,C0030305,Pancreatitis,,
+61,C0524702,Pulmonary Thromboembolisms,,
+62,,,C2016599,pain between shoulder blades
+64,C0002871,Anemia,,
+65,C0238990,Acute lower respiratory tract infection,,
+65,,,C0010200,Coughing
+65,,,C1384493,Catarrh
+66,C0149871,Deep Vein Thrombosis,,
+67,C0034065,Pulmonary Embolism,,
+67,C0032285,Pneumonia,,
+67,C0004364,Autoimmune Diseases,,
+67,C0005956,Bone Marrow Diseases,,
+68,,,C0030193,Pain
+68,,,C0008031,Chest Pain
+69,,,C0036572,Seizures
+69,,,C0557875,Tired
+70,,,C0013404,Dyspnea
+70,,,C0231528,Myalgia
+70,C0877322,Muscle tightness,,
+71,,,C0008031,Chest Pain
+71,,,C0030193,Pain
+71,,,C0008031,Chest Pain
+71,,,C0030193,Pain
+72,,,C0013404,Dyspnea
+72,,,C0600142,Hot flushes
+72,,,C0085593,Chills
+72,,,C0026821,Muscle Cramp
+72,,,C0008031,Chest Pain
+72,,,C0010200,Coughing
+72,,,C0026821,Muscle Cramp
+72,,,C0004604,Back Pain
+72,,,C0235710,Chest discomfort
+72,C0009450,Communicable Diseases,,
+72,C0238990,Acute lower respiratory tract infection,,
+73,,,C0030193,Pain
+74,,,C0008031,Chest Pain
+74,,,C0008031,Chest Pain
+74,,,C0024902,Mastodynia
+74,,,C0010200,Coughing
+74,,,C0234233,Sore to touch
+74,,,C0234233,Sore to touch
+76,,,C0008031,Chest Pain
+76,,,C0024902,Mastodynia
+76,,,C0013404,Dyspnea
+76,,,C0013404,Dyspnea
+76,C0004096,Asthma,,
+76,,,C0013404,Dyspnea
+76,,,C0039070,Syncope
+76,,,C0024902,Mastodynia
+76,,,C0013404,Dyspnea
+76,,,C0013404,Dyspnea
+76,,,C0013404,Dyspnea
+76,,,C0013404,Dyspnea
+77,,,C0026821,Muscle Cramp
+77,,,C0037763,Spasm
+77,,,C0012833,Dizziness
+77,,,C0018681,Headache
+77,,,C0018681,Headache
+77,,,C0004604,Back Pain
+77,,,C3714552,Weakness
+77,,,C0026821,Muscle Cramp
+77,,,C0037763,Spasm
+78,,,C0027497,Nausea
+78,,,C0232292,Chest tightness
+78,,,C0030193,Pain
+79,,,C0221423,Illness (finding)
+79,C0034065,Pulmonary Embolism,,
+79,,,C0085624,Burning sensation
+79,,,C0455270,Sharp pain
+79,,,C0438716,Chest pressure
+79,,,C0000737,Abdominal Pain
+79,,,C0030193,Pain
+79,C0034065,Pulmonary Embolism,,
+80,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+80,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+81,,,C0030193,Pain
+81,,,C0028643,Numbness
+81,,,C0030193,Pain
+81,,,C2242996,Has tingling sensation
+81,,,C0016512,Foot pain
+81,,,C0085624,Burning sensation
+81,,,C0016512,Foot pain
+81,,,C2242996,Has tingling sensation
+81,,,C0030193,Pain
+81,C0016510,Foot Diseases,,
+84,,,C0085631,Agitation
+86,C1861537,OROFACIAL CLEFT 1,,
+86,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+88,,,C0221423,Illness (finding)
+89,C0031350,Pharyngitis,,
+89,,,C0242429,Sore Throat
+89,C0031350,Pharyngitis,,
+89,,,C0242429,Sore Throat
+91,,,C0012833,Dizziness
+91,,,C0012833,Dizziness
+94,,,C0917801,Sleeplessness
+95,,,C0004604,Back Pain
+95,C0015695,Fatty Liver,,
+95,,,C0020175,Hunger
+95,,,C0231218,Malaise
+95,C0277556,Recurrent disease,,
+95,,,C0231218,Malaise
+95,C0015695,Fatty Liver,,
+96,,,C0917801,Sleeplessness
+96,C1969653,MUNGAN SYNDROME,,
+96,,,C0036572,Seizures
+96,,,C0241902,Grunting respiration
+101,,,C0231218,Malaise
+101,C3714506,Meckel syndrome type 1,,
+103,,,C0011991,Diarrhea
+104,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+104,,,C0557875,Tired
+106,C1868649,PANIC DISORDER 1,,
+106,,,C0917801,Sleeplessness
+107,,,C0557875,Tired
+107,,,C0578687,Sore eye
+109,C0035258,Restless Legs Syndrome,,
+111,,,C0030193,Pain
+112,C0034069,Pulmonary Fibrosis,,
+112,C0034069,Pulmonary Fibrosis,,
+113,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+113,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+113,C0751249,Chronic Insomnia,,
+113,,,C0085624,Burning sensation
+113,,,C2242996,Has tingling sensation
+113,,,C0028643,Numbness
+113,,,C0085624,Burning sensation
+113,,,C0344232,Blurred vision
+114,,,C0557875,Tired
+118,C0034069,Pulmonary Fibrosis,,
+118,C0024117,Chronic Obstructive Airway Disease,,
+118,,,C0557875,Tired
+119,C0270724,Infantile Neuroaxonal Dystrophy,,
+119,C0024117,Chronic Obstructive Airway Disease,,
+119,C0270724,Infantile Neuroaxonal Dystrophy,,
+120,C0034069,Pulmonary Fibrosis,,
+120,C0876973,Infectious disease of lung,,
+120,,,C0013404,Dyspnea
+120,,,C0013404,Dyspnea
+121,C1800706,Idiopathic Pulmonary Fibrosis,,
+121,,,C0015672,Fatigue
+121,C1800706,Idiopathic Pulmonary Fibrosis,,
+123,C1800706,Idiopathic Pulmonary Fibrosis,,
+125,,,C0013404,Dyspnea
+125,C0741260,asthma adult onset,,
+125,C0034069,Pulmonary Fibrosis,,
+125,,,C0043144,Wheezing
+125,,,C0850149,Dry cough
+125,,,C0010200,Coughing
+125,C0034069,Pulmonary Fibrosis,,
+126,C0024115,Lung diseases,,
+126,,,C0221423,Illness (finding)
+126,C0034069,Pulmonary Fibrosis,,
+127,C1800706,Idiopathic Pulmonary Fibrosis,,
+127,C1800706,Idiopathic Pulmonary Fibrosis,,
+128,,,C0850149,Dry cough
+128,,,C0013404,Dyspnea
+128,C0024117,Chronic Obstructive Airway Disease,,
+128,C0206062,"Lung Diseases, Interstitial",,
+128,C0206062,"Lung Diseases, Interstitial",,
+129,,,C0013404,Dyspnea
+129,C0034069,Pulmonary Fibrosis,,
+130,C0034067,Pulmonary Emphysema,,
+130,C0034069,Pulmonary Fibrosis,,
+131,C0034069,Pulmonary Fibrosis,,
+132,C0034069,Pulmonary Fibrosis,,
+132,C0027051,Myocardial Infarction,,
+133,,,C0010200,Coughing
+133,C0009450,Communicable Diseases,,
+134,C0004364,Autoimmune Diseases,,
+134,C0004364,Autoimmune Diseases,,
+134,C0004364,Autoimmune Diseases,,
+134,C0012634,Disease,,
+134,C0031046,Pericarditis,,
+134,C0744673,heart inflammation,,
+134,C0277553,Idiopathic disease,,
+135,C0016038,Fibroelastosis,,
+136,C0730604,Mild chronic obstructive pulmonary disease,,
+136,C0034069,Pulmonary Fibrosis,,
+136,C0017168,Gastroesophageal reflux disease,,
+136,,,C0742339,chest heaviness
+136,,,C0683369,Clouded consciousness
+137,C0744254,gallbladder infection,,
+137,C0024115,Lung diseases,,
+137,C0678236,Rare Diseases,,
+137,C0021053,Immune System Diseases,,
+137,,,C0013404,Dyspnea
+137,,,C0010200,Coughing
+137,,,C0557875,Tired
+137,,,C0518214,Perceived quality of life
+137,,,C0030193,Pain
+137,,,C0033774,Pruritus
+137,,,C0033774,Pruritus
+137,,,C0234233,Sore to touch
+137,,,C0085624,Burning sensation
+137,,,C0030193,Pain
+137,C0024115,Lung diseases,,
+137,C0024115,Lung diseases,,
+137,C0012634,Disease,,
+137,C0021053,Immune System Diseases,,
+137,C0206062,"Lung Diseases, Interstitial",,
+139,C0021400,Influenza,,
+140,,,C0085624,Burning sensation
+140,C0009450,Communicable Diseases,,
+141,,,C0013404,Dyspnea
+141,C1800706,Idiopathic Pulmonary Fibrosis,,
+142,,,C0030193,Pain
+142,,,C0085624,Burning sensation
+142,,,C0030193,Pain
+142,C0033581,prostatitis,,
+142,C0009450,Communicable Diseases,,
+142,C0033581,prostatitis,,
+142,,,C0030193,Pain
+142,,,C0085624,Burning sensation
+142,,,C0030193,Pain
+142,,,C0030193,Pain
+142,,,C0030193,Pain
+142,,,C0030193,Pain
+143,,,C0027769,Nervousness
+144,,,C0221170,Muscular stiffness
+144,,,C0036572,Seizures
+144,,,C3640008,Agonizing Pain
+144,,,C0028084,Nightmares
+144,,,C0231617,Catch - Finding of sensory dimension of pain
+145,C0042029,Urinary tract infection,,
+145,,,C0024031,Low Back Pain
+146,,,C0455270,Sharp pain
+146,,,C1442877,Sore skin
+146,,,C0030193,Pain
+146,,,C0683369,Clouded consciousness
+146,C0041912,Upper Respiratory Infections,,
+146,C0035086,Renal Osteodystrophy,,
+146,,,C0030193,Pain
+146,,,C0016382,Flushing
+146,,,C0016382,Flushing
+146,,,C0030193,Pain
+146,,,C0026837,Muscle Rigidity
+146,,,C0677500,Stinging Sensation
+148,C0238157,Benign hematuria,,
+148,C0238157,Benign hematuria,,
+149,,,C0030193,Pain
+149,,,C0085624,Burning sensation
+149,,,C0030193,Pain
+149,,,C0030193,Pain
+150,C0042029,Urinary tract infection,,
+150,C0009450,Communicable Diseases,,
+150,,,C0030193,Pain
+150,,,C0549299,uti symptoms
+150,,,C0030193,Pain
+150,,,C0037763,Spasm
+150,,,C0000729,Abdominal Cramps
+150,,,C0030193,Pain
+150,C0036916,Sexually Transmitted Diseases,,
+150,C0750466,Yeast infection,,
+150,C0042029,Urinary tract infection,,
+150,C0175697,Van der Woude syndrome,,
+150,,,C0030193,Pain
+150,,,C0030193,Pain
+150,,,C0030193,Pain
+150,,,C0030193,Pain
+151,C0042029,Urinary tract infection,,
+151,C0017168,Gastroesophageal reflux disease,,
+151,C0042029,Urinary tract infection,,
+151,,,C0030193,Pain
+151,,,C0030193,Pain
+151,C0034186,Pyelonephritis,,
+152,,,C0030193,Pain
+152,,,C0030193,Pain
+152,,,C0231218,Malaise
+152,,,C0030193,Pain
+152,,,C0085624,Burning sensation
+152,,,C0004604,Back Pain
+152,C0027743,Nerve compression syndrome,,
+152,,,C0037763,Spasm
+152,,,C0030193,Pain
+153,,,C0012833,Dizziness
+153,,,C0027769,Nervousness
+155,,,C0221423,Illness (finding)
+155,C0010692,Cystitis,,
+155,,,C0234230,"Pain, Burning"
+155,,,C0030193,Pain
+156,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,
+156,C1720771,Testicular Hydrocele,,
+156,C0042029,Urinary tract infection,,
+157,C0042029,Urinary tract infection,,
+157,C0042029,Urinary tract infection,,
+158,,,C0221423,Illness (finding)
+158,C0041912,Upper Respiratory Infections,,
+158,,,C0030193,Pain
+158,,,C0030193,Pain
+158,,,C0030193,Pain
+159,C0033581,prostatitis,,
+160,,,C0085624,Burning sensation
+160,,,C0085624,Burning sensation
+161,C0042029,Urinary tract infection,,
+161,C0749901,urethra irritation,,
+161,C0009450,Communicable Diseases,,
+161,C0749901,urethra irritation,,
+162,,,C0030193,Pain
+162,,,C0085624,Burning sensation
+162,C0275626,Struck,,
+162,,,C0677500,Stinging Sensation
+162,,,C0030193,Pain
+162,,,C0030193,Pain
+162,,,C0030193,Pain
+162,,,C0030193,Pain
+162,,,C0030193,Pain
+162,,,C0030193,Pain
+162,,,C0030193,Pain
+162,,,C0234255,Night pain
+162,,,C0030193,Pain
+162,,,C0030193,Pain
+165,,,C0012833,Dizziness
+166,,,C0917801,Sleeplessness
+166,C0751781,Dentatorubral-Pallidoluysian Atrophy,,
+166,,,C0018681,Headache
+166,,,C0012833,Dizziness
+166,,,C3714552,Weakness
+166,,,C0012833,Dizziness
+166,,,C3714552,Weakness
+166,C0043352,Xerostomia,,
+167,C0423086,Staring,,
+167,,,C0018681,Headache
+167,,,C0221423,Illness (finding)
+167,,,C0344232,Blurred vision
+171,C0020538,Hypertensive disease,,
+173,,,C0004604,Back Pain
+175,C0002170,Alopecia,,
+175,,,C0015230,Exanthema
+175,C0002170,Alopecia,,
+175,C0002170,Alopecia,,
+175,C0002170,Alopecia,,
+175,,,C0015230,Exanthema
+176,C0149931,Migraine Disorders,,
+176,,,C0850630,tingling in fingers
+176,C0149931,Migraine Disorders,,
+176,,,C0578994,Unpleasant taste in mouth
+176,C0009443,Common Cold,,
+176,C0272302,Gray Platelet Syndrome,,
+176,,,C0242429,Sore Throat
+176,C0012634,Disease,,
+176,C0038325,Stevens-Johnson Syndrome,,
+176,C0272302,Gray Platelet Syndrome,,
+177,,,C0015230,Exanthema
+177,,,C0683369,Clouded consciousness
+177,,,C0557875,Tired
+177,C0149931,Migraine Disorders,,
+178,,,C0848290,sick to stomach
+178,,,C0030193,Pain
+178,,,C0596601,gastrointestinal gas
+178,,,C0848390,excessive urination
+179,C0149931,Migraine Disorders,,
+180,C0041912,Upper Respiratory Infections,,
+180,C3539909,Allergic disposition,,
+181,,,C0744648,headache persistent
+181,C3661947,Daily headache,,
+181,C0149931,Migraine Disorders,,
+181,,,C0018681,Headache
+181,C0149931,Migraine Disorders,,
+181,,,C0234238,Ache
+181,,,C0423729,Chest pain on breathing
+181,,,C0917801,Sleeplessness
+181,,,C0234369,Trembling
+181,,,C0542476,Forgetful
+181,,,C0027497,Nausea
+182,C1969653,MUNGAN SYNDROME,,
+183,C0149931,Migraine Disorders,,
+183,,,C0423572,Pins and needles
+183,,,C0039070,Syncope
+183,,,C0683369,Clouded consciousness
+183,,,C0683369,Clouded consciousness
+183,,,C0039070,Syncope
+183,C0002170,Alopecia,,
+183,C0002170,Alopecia,,
+184,,,C0392674,Exhaustion
+184,,,C0344232,Blurred vision
+185,,,C0221512,Stomach ache
+185,C0149931,Migraine Disorders,,
+185,,,C0221512,Stomach ache
+186,C0002170,Alopecia,,
+187,C0149931,Migraine Disorders,,
+187,C0042029,Urinary tract infection,,
+187,C0600041,Infective cystitis,,
+187,,,C0426390,Bladder spasm
+187,C0022650,Kidney Calculi,,
+187,C0002170,Alopecia,,
+187,,,C0850674,Twitching eye
+187,,,C0751295,Memory Loss
+188,,,C0231528,Myalgia
+188,,,C3714552,Weakness
+189,,,C0683369,Clouded consciousness
+189,,,C0542476,Forgetful
+190,C0149931,Migraine Disorders,,
+190,,,C0795701,Neck cramps
+190,,,C0795701,Neck cramps
+190,C0149931,Migraine Disorders,,
+191,,,C0027497,Nausea
+191,,,C0015672,Fatigue
+191,,,C0036572,Seizures
+191,,,C0036572,Seizures
+191,,,C0036572,Seizures
+191,,,C0036572,Seizures
+191,,,C0036572,Seizures
+191,,,C0036572,Seizures
+191,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+191,,,C0036572,Seizures
+191,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+192,,,C0024031,Low Back Pain
+192,,,C0039070,Syncope
+193,C0002170,Alopecia,,
+193,C0149931,Migraine Disorders,,
+193,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+193,C0002170,Alopecia,,
+194,C0342895,Fish-Eye Disease,,
+195,,,C0018681,Headache
+196,,,C0030193,Pain
+196,,,C2242996,Has tingling sensation
+196,,,C0030193,Pain
+196,,,C0027796,Neuralgia
+196,,,C0040460,Toothache
+196,C0011432,Dentin Sensitivity,,
+196,,,C0455270,Sharp pain
+196,,,C0278146,Shooting pain
+196,,,C0234238,Ache
+198,C0040997,Trigeminal Neuralgia,,
+198,,,C0030193,Pain
+198,,,C0030193,Pain
+199,C0040997,Trigeminal Neuralgia,,
+199,,,C0040460,Toothache
+199,,,C0030193,Pain
+199,C0040997,Trigeminal Neuralgia,,
+199,,,C0030193,Pain
+199,,,C0037763,Spasm
+199,,,C0040822,Tremor
+199,C0012634,Disease,,
+199,,,C0037763,Spasm
+199,,,C0030193,Pain
+199,,,C0030193,Pain
+199,,,C0030193,Pain
+200,C0040997,Trigeminal Neuralgia,,
+200,,,C0030193,Pain
+200,,,C0234233,Sore to touch
+200,,,C0455270,Sharp pain
+200,,,C0030193,Pain
+200,,,C0030193,Pain
+200,,,C0030193,Pain
+200,,,C0220870,Lightheadedness
+200,,,C0085624,Burning sensation
+200,,,C3714552,Weakness
+200,,,C0234233,Sore to touch
+200,,,C0030193,Pain
+201,C0040997,Trigeminal Neuralgia,,
+201,,,C0037088,Signs and Symptoms
+201,,,C0030193,Pain
+201,,,C0030193,Pain
+201,,,C0030193,Pain
+201,,,C0030193,Pain
+201,,,C0030193,Pain
+201,,,C0030193,Pain
+201,,,C0030193,Pain
+202,,,C0030193,Pain
+202,C1395831,pressure area,,
+202,,,C0040822,Tremor
+202,,,C0040822,Tremor
+202,,,C0085635,Photopsia
+203,C0019360,Herpes zoster disease,,
+203,C3863028,Left trigeminal neuralgia,,
+203,C0032768,Postherpetic neuralgia,,
+203,C0032768,Postherpetic neuralgia,,
+203,C0019360,Herpes zoster disease,,
+203,C0019360,Herpes zoster disease,,
+203,,,C0030193,Pain
+203,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+203,,,C0023222,Pain in lower limb
+203,,,C0030193,Pain
+203,C0749263,temporal pain,,
+203,C0032768,Postherpetic neuralgia,,
+203,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+203,,,C0018681,Headache
+203,C0042109,Urticaria,,
+203,C0032768,Postherpetic neuralgia,,
+203,,,C0030193,Pain
+203,C0041912,Upper Respiratory Infections,,
+203,C0175697,Van der Woude syndrome,,
+203,,,C0030193,Pain
+203,C0040997,Trigeminal Neuralgia,,
+203,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+204,,,C0030193,Pain
+204,,,C0423732,After pains
+204,,,C0030193,Pain
+204,,,C0030193,Pain
+204,,,C0030193,Pain
+206,,,C0455270,Sharp pain
+206,,,C0030193,Pain
+206,,,C0016204,Flatulence
+206,,,C0030193,Pain
+206,,,C0030193,Pain
+206,,,C0030193,Pain
+206,,,C0030193,Pain
+206,,,C0030193,Pain
+206,,,C0030193,Pain
+206,C0040997,Trigeminal Neuralgia,,
+206,,,C0683369,Clouded consciousness
+206,,,C0030193,Pain
+206,,,C0030193,Pain
+206,C0040997,Trigeminal Neuralgia,,
+206,,,C0030193,Pain
+206,C0040997,Trigeminal Neuralgia,,
+206,,,C0030193,Pain
+206,,,C0030193,Pain
+207,C0149931,Migraine Disorders,,
+207,C0149931,Migraine Disorders,,
+207,,,C3714552,Weakness
+207,,,C0232431,Cold sweat
+207,,,C0042963,Vomiting
+207,,,C0030193,Pain
+207,,,C0030193,Pain
+207,C0149931,Migraine Disorders,,
+208,,,C0015468,Facial Pain
+208,C0040997,Trigeminal Neuralgia,,
+208,,,C0030193,Pain
+208,,,C0030193,Pain
+208,,,C0028643,Numbness
+208,,,C0030193,Pain
+208,,,C0030193,Pain
+208,,,C0030193,Pain
+208,,,C0030193,Pain
+208,,,C0030193,Pain
+208,C0040997,Trigeminal Neuralgia,,
+208,,,C0030193,Pain
+208,C0040997,Trigeminal Neuralgia,,
+208,,,C0040822,Tremor
+208,,,C0036572,Seizures
+208,,,C0030193,Pain
+208,,,C0030193,Pain
+208,,,C0030193,Pain
+208,,,C0028643,Numbness
+208,C0040997,Trigeminal Neuralgia,,
+208,,,C0036572,Seizures
+209,,,C0683369,Clouded consciousness
+209,,,C0030193,Pain
+209,C0009443,Common Cold,,
+209,,,C0030193,Pain
+209,,,C0030193,Pain
+209,,,C0030193,Pain
+209,,,C0030193,Pain
+209,,,C0039070,Syncope
+209,,,C0030193,Pain
+209,,,C0030193,Pain
+209,,,C0030193,Pain
+209,,,C0030193,Pain
+209,,,C0455270,Sharp pain
+209,,,C0037763,Spasm
+209,,,C0231218,Malaise
+209,,,C0037763,Spasm
+209,,,C0683369,Clouded consciousness
+209,,,C0030193,Pain
+209,,,C0557875,Tired
+209,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+211,,,C0030193,Pain
+211,C3160718,"PARKINSON DISEASE, LATE-ONSET",,
+211,,,C0030193,Pain
+211,,,C0030193,Pain
+212,,,C0858722,Facial twitching
+212,,,C0030193,Pain
+212,,,C0030193,Pain
+212,,,C0030193,Pain
+212,,,C0221423,Illness (finding)
+213,,,C0028643,Numbness
+213,C0006430,Burning Mouth Syndrome,,
+213,,,C0030193,Pain
+213,,,C0015468,Facial Pain
+213,,,C2242996,Has tingling sensation
+213,,,C0028643,Numbness
+213,,,C0030193,Pain
+214,,,C0030193,Pain
+214,,,C0030193,Pain
+218,C0011334,Dental caries,,
+218,,,C0040460,Toothache
+218,,,C0030193,Pain
+218,,,C0312422,Blackout - symptom
+218,,,C0312422,Blackout - symptom
+218,,,C0030193,Pain
+218,,,C0030193,Pain
+218,,,C0030193,Pain
+218,,,C0085624,Burning sensation
+218,,,C0241426,Burning tongue
+218,,,C0234230,"Pain, Burning"
+218,,,C0085624,Burning sensation
+218,,,C0278144,Dull pain
+218,,,C0234238,Ache
+218,,,C0017672,Glossalgia
+218,,,C0013456,Earache
+218,,,C0027796,Neuralgia
+218,,,C0017672,Glossalgia
+218,,,C0030193,Pain
+218,,,C0234238,Ache
+218,,,C0017672,Glossalgia
+218,,,C2242996,Has tingling sensation
+218,,,C2242996,Has tingling sensation
+218,,,C0010200,Coughing
+218,,,C0017672,Glossalgia
+218,,,C0085624,Burning sensation
+218,,,C0234238,Ache
+218,,,C0017672,Glossalgia
+218,,,C0439814,Prickling sensation
+218,,,C0030193,Pain
+218,,,C0030193,Pain
+218,,,C0017672,Glossalgia
+218,,,C0027497,Nausea
+218,,,C0015468,Facial Pain
+218,,,C0030193,Pain
+218,,,C0030193,Pain
+218,C0009782,Connective Tissue Diseases,,
+218,,,C0392678,Swallowing problem
+218,C0026272,Mixed Connective Tissue Disease,,
+218,,,C0557875,Tired
+218,C0014175,Endometriosis,,
+218,,,C0392678,Swallowing problem
+218,,,C0178310,signs and symptoms of ill-defined conditions
+218,,,C0426601,Swallowing symptoms
+218,,,C0392678,Swallowing problem
+218,,,C0392678,Swallowing problem
+218,,,C0030193,Pain
+219,,,C0154729,Atypical facial pain
+219,,,C0040460,Toothache
+219,,,C0030193,Pain
+219,,,C0028643,Numbness
+219,,,C2242996,Has tingling sensation
+219,,,C0030193,Pain
+219,C0012634,Disease,,
+220,,,C0302539,spells (neurological symptom)
+220,,,C0030193,Pain
+222,,,C0030193,Pain
+222,,,C0030193,Pain
+222,,,C0015468,Facial Pain
+222,,,C0030193,Pain
+222,,,C2242996,Has tingling sensation
+222,,,C0030193,Pain
+222,,,C0030193,Pain
+223,,,C0030193,Pain
+224,,,C0030193,Pain
+224,,,C0019559,Hip pain
+224,,,C0030193,Pain
+224,,,C0030193,Pain
+225,,,C0030193,Pain
+225,,,C0030193,Pain
+225,,,C0015230,Exanthema
+226,,,C0030193,Pain
+227,,,C0030193,Pain
+228,,,C0404484,Chronic pelvic pain of female
+228,C0035258,Restless Legs Syndrome,,
+229,,,C3714552,Weakness
+229,,,C0221423,Illness (finding)
+229,,,C0030193,Pain
+229,,,C0018681,Headache
+229,,,C0221423,Illness (finding)
+229,C0009443,Common Cold,,
+229,,,C0392674,Exhaustion
+229,,,C0085631,Agitation
+229,,,C0917801,Sleeplessness
+229,C0014518,Toxic Epidermal Necrolysis,,
+230,,,C0030193,Pain
+230,,,C0030193,Pain
+230,,,C0012833,Dizziness
+230,,,C0015672,Fatigue
+230,C0751781,Dentatorubral-Pallidoluysian Atrophy,,
+230,C0751781,Dentatorubral-Pallidoluysian Atrophy,,
+230,,,C0028084,Nightmares
+230,,,C0033774,Pruritus
+230,,,C0033774,Pruritus
+230,,,C0234238,Ache
+230,,,C0033774,Pruritus
+230,,,C0234238,Ache
+230,,,C3714552,Weakness
+230,,,C0016382,Flushing
+230,C0017152,Gastritis,,
+230,C0013295,Duodenal Ulcer,,
+231,,,C0221423,Illness (finding)
+233,C0001175,Acquired Immunodeficiency Syndrome,,
+233,C0001175,Acquired Immunodeficiency Syndrome,,
+233,,,C0036572,Seizures
+233,C0001175,Acquired Immunodeficiency Syndrome,,
+233,C0796085,Nance-Horan syndrome,,
+233,,,C0235283,Buzzing in ear
+233,,,C0013456,Earache
+233,,,C0231617,Catch - Finding of sensory dimension of pain
+233,C0001175,Acquired Immunodeficiency Syndrome,,
+233,C0021345,Infectious Mononucleosis,,
+233,C0009450,Communicable Diseases,,
+233,C0262502,Hearing loss of left ear,,
+233,C0001175,Acquired Immunodeficiency Syndrome,,
+233,C0009450,Communicable Diseases,,
+233,C0001175,Acquired Immunodeficiency Syndrome,,
+235,,,C0027066,Myoclonus
+235,C0678236,Rare Diseases,,
+235,C0012634,Disease,,
+235,,,C0014724,Eructation
+235,,,C0037763,Spasm
+235,,,C0557875,Tired
+236,C3495919,Enthesitis-Related Arthritis,,
+236,,,C0221423,Illness (finding)
+238,,,C0557875,Tired
+239,C0022893,Labyrinthitis,,
+239,C0022893,Labyrinthitis,,
+239,,,C0039070,Syncope
+239,,,C0034880,Hyperacusis
+240,,,C0751559,Pulsatile Tinnitus
+240,C0011119,Decompression Sickness,,
+240,C0038454,Cerebrovascular accident,,
+240,C0027051,Myocardial Infarction,,
+241,C0699744,Infection of ear,,
+241,C0009450,Communicable Diseases,,
+241,C3714506,Meckel syndrome type 1,,
+241,C0041834,Erythema,,
+241,C0009450,Communicable Diseases,,
+241,,,C0010200,Coughing
+241,,,C3257803,Watery eyes
+241,,,C0012833,Dizziness
+241,,,C0557875,Tired
+242,C0006849,Oral candidiasis,,
+242,C0006849,Oral candidiasis,,
+242,C0019693,HIV Infections,,
+242,C0006849,Oral candidiasis,,
+243,,,C0557875,Tired
+245,,,C0003862,Arthralgia
+245,,,C0151786,Muscle Weakness
+245,,,C0023218,Leg cramps
+245,,,C0162298,Joint stiffness
+245,,,C0003862,Arthralgia
+245,,,C0427008,Stiffness
+245,,,C0030193,Pain
+245,,,C0162298,Joint stiffness
+246,,,C0231218,Malaise
+246,,,C0010200,Coughing
+246,,,C0242429,Sore Throat
+246,,,C0235234,Pharyngeal dryness
+246,,,C0231218,Malaise
+246,C0017168,Gastroesophageal reflux disease,,
+246,,,C0018834,Heartburn
+246,,,C0497406,Overweight
+247,C0018213,Graves Disease,,
+247,,,C0150841,muscle pain or weakness
+247,,,C0018681,Headache
+247,,,C0150841,muscle pain or weakness
+247,,,C0018681,Headache
+247,,,C0741585,BODY ACHE
+247,,,C0008031,Chest Pain
+247,,,C0151786,Muscle Weakness
+247,,,C0018681,Headache
+247,,,C0741585,BODY ACHE
+247,,,C0151786,Muscle Weakness
+247,,,C0234255,Night pain
+247,,,C0018681,Headache
+247,,,C0741585,BODY ACHE
+247,,,C0151786,Muscle Weakness
+247,,,C0234255,Night pain
+247,,,C0018681,Headache
+247,,,C0151786,Muscle Weakness
+247,,,C0018681,Headache
+247,,,C0741585,BODY ACHE
+247,,,C0008031,Chest Pain
+247,,,C3714552,Weakness
+247,,,C0018681,Headache
+247,,,C0741585,BODY ACHE
+247,,,C0151827,Eye pain
+248,,,C0221512,Stomach ache
+248,,,C0018681,Headache
+248,,,C0015672,Fatigue
+248,,,C3714552,Weakness
+248,C0029456,Osteoporosis,,
+248,C0029456,Osteoporosis,,
+249,C1535939,Pneumocystis jiroveci pneumonia,,
+249,C0011119,Decompression Sickness,,
+252,,,C0027497,Nausea
+252,,,C0040822,Tremor
+252,,,C0009806,Constipation
+252,C0030517,Parathyroid Diseases,,
+253,,,C0426484,Throat symptom
+253,,,C0019825,Hoarseness
+253,,,C0019825,Hoarseness
+253,C0031350,Pharyngitis,,
+253,,,C0242429,Sore Throat
+253,,,C0010200,Coughing
+255,,,C3714552,Weakness
+255,,,C0392674,Exhaustion
+255,C0010709,Cyst,,
+255,,,C0221423,Illness (finding)
+255,,,C3714552,Weakness
+255,,,C0231218,Malaise
+255,C0012619,disc disorder,,
+255,,,C0848290,sick to stomach
+255,C0149931,Migraine Disorders,,
+255,,,C0278148,Throbbing pain
+255,,,C0009806,Constipation
+255,,,C0221423,Illness (finding)
+255,C0162299,Cyst of thyroid,,
+255,C0030283,Pancreatic Cyst,,
+255,C0267834,Liver cyst,,
+255,C0010709,Cyst,,
+255,C1535939,Pneumocystis jiroveci pneumonia,,
+255,,,C0042963,Vomiting
+255,,,C3714552,Weakness
+255,,,C0023380,Lethargy
+255,,,C0018681,Headache
+255,,,C0007859,Neck Pain
+255,,,C0010200,Coughing
+255,,,C0030193,Pain
+255,,,C0557875,Tired
+255,,,C3714552,Weakness
+255,,,C3714552,Weakness
+256,,,C0011991,Diarrhea
+256,,,C0009806,Constipation
+256,,,C1291077,Abdominal bloating
+256,C0700201,Dyssomnias,,
+256,,,C0018834,Heartburn
+257,,,C0015672,Fatigue
+257,C0024117,Chronic Obstructive Airway Disease,,
+257,,,C0600142,Hot flushes
+257,,,C0392171,Influenza-like symptoms
+257,,,C0027497,Nausea
+257,,,C0392171,Influenza-like symptoms
+258,,,C3257980,Other symptoms
+258,C0020550,Hyperthyroidism,,
+258,C0020550,Hyperthyroidism,,
+258,,,C0015672,Fatigue
+258,,,C0231617,Catch - Finding of sensory dimension of pain
+258,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+258,C1112303,Facial wasting,,
+258,,,C0020175,Hunger
+258,,,C0030193,Pain
+258,,,C0234233,Sore to touch
+258,C0020598,Hypocalcemia,,
+258,C0039621,Tetany,,
+258,C0039614,Tetanus,,
+258,,,C0221512,Stomach ache
+258,,,C0027497,Nausea
+258,,,C0392674,Exhaustion
+258,,,C0023380,Lethargy
+258,,,C0231617,Catch - Finding of sensory dimension of pain
+258,,,C1579931,Depressed - symptom
+258,,,C1579931,Depressed - symptom
+259,,,C0030794,Pelvic Pain
+260,C0032064,Plague,,
+260,,,C0028081,Night sweats
+260,,,C0013456,Earache
+260,,,C0015672,Fatigue
+260,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+260,,,C1579931,Depressed - symptom
+261,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,
+261,,,C0239739,Tenderness of gums
+261,,,C0030193,Pain
+262,C0178468,Autoimmune thyroid disease,,
+263,,,C0008031,Chest Pain
+264,C0342208,Multinodular goiter,,
