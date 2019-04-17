@@ -19,12 +19,21 @@ class ScraperPipeline(object):
         writer = csv.writer(self.outputFile)
         writer.writerow(row)
 
+        linkCsvOutputPath = "data/" + "links_" + datetime.today().strftime("%Y-%m-%d_%H-%M-%S") + ".csv"
+        self.linkOutputFile = open(linkCsvOutputPath, "a")
+        row = ['disease', 'postLink']
+        writer = csv.writer(self.linkOutputFile)
+        writer.writerow(row)
+
     def __del__(self):
         self.outputFile.close()
 
     def process_item(self, item, spider):
         if item['contentType'] == 'disease':
             self.linkDisease[item['postLink']] = item['disease']
+            row = [item['disease'], item['postLink']]
+            writer = csv.writer(self.linkOutputFile)
+            writer.writerow(row)
         else:
             disease = self.linkDisease[item['postLink']]
             row = [disease, item['postLink'], item['postHeading'], item['postContent']]

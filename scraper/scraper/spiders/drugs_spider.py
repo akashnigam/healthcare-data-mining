@@ -10,7 +10,7 @@ class PatientInfoSpider(scrapy.Spider):
 
     def parse(self, response):
         conditionGroups = response.xpath("//ul[@class='column-span column-span-3']/li/a/@href")
-        conditionGroups = conditionGroups[:1]
+        #conditionGroups = conditionGroups[:1]
         print("#########   1  #############")
         print("############################")
         print(conditionGroups)
@@ -28,7 +28,7 @@ class PatientInfoSpider(scrapy.Spider):
         disease = disease.replace("Questions", "")
         disease = disease.strip()
         posts = response.xpath("//div[@class='questionList visited']/div[@class='listContent']/h2/a/@href")
-        posts = posts[:1]
+        #posts = posts[:1]
         print("Count:", len(posts))
         print("disease:"+disease+":")
         for postHeading in posts:
