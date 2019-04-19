@@ -15,7 +15,7 @@ class ScraperPipeline(object):
         self.linkDisease = {}
         csvOutputPath = "data/" + datetime.today().strftime("%Y-%m-%d_%H-%M-%S") + ".csv"
         self.outputFile = open(csvOutputPath, "a")
-        row = ['disease', 'postLink', 'postHeading', 'postContent']
+        row = ['disease', 'postLink', 'postHeading', 'postContent', 'postTags']
         writer = csv.writer(self.outputFile)
         writer.writerow(row)
 
@@ -36,7 +36,10 @@ class ScraperPipeline(object):
             writer.writerow(row)
         else:
             disease = self.linkDisease[item['postLink']]
-            row = [disease, item['postLink'], item['postHeading'], item['postContent']]
+            if 'postTags' in item:
+                row = [disease, item['postLink'], item['postHeading'], item['postContent'], item['postTags']]
+            else:
+                row = [disease, item['postLink'], item['postHeading'], item['postContent']]
             writer = csv.writer(self.outputFile)
             writer.writerow(row)
         return item
