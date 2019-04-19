@@ -14,9 +14,10 @@ class WebMDSpider(scrapy.Spider):
 
     def parse(self, response):
         topics = response.xpath('//*[@id="fragment-2071092687"]/div[1]/div/div/div[3]/div[1]//div[@class="link"]/a/@href').getall()
-        topic_link = response.urljoin(topics[0])
 
-        yield scrapy.Request(url=topic_link, callback=self.parse_topics)
+        for topic in topics:
+            topic_link = response.urljoin(topic)
+            yield scrapy.Request(url=topic_link, callback=self.parse_topics)
 
     def parse_topics(self, response):
         disease = response.xpath('//*[@id="fragment-36"]/div[1]/h1/a/text()').get()
