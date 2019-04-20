@@ -27,6 +27,7 @@ import java.io.InputStream;
 import java.io.PrintStream;
 import java.io.Reader;
 import java.util.ArrayList;
+import java.util.Map;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Properties;
@@ -182,7 +183,7 @@ public class MetaMapAnnotator {
             Reader in = new FileReader(file);
             Iterable<CSVRecord> records = CSVFormat.RFC4180.withFirstRecordAsHeader().parse(in);
             String outputFile = PATH_TO_RESOURCES + file.getName();
-            CSVFormat csvFileFormat = CSVFormat.EXCEL.withHeader("PostNumber", "DiseaseId", "DiseaseName", "SymptomId", "SymptomName");
+            CSVFormat csvFileFormat = CSVFormat.EXCEL.withHeader("PostNumber", "DiseaseId", "DiseaseName", "SymptomId", "SymptomName","treatmentId","treatmentName","drugId", "drugname","bodypartId","bodypartName");
             FileWriter fileWriter = new FileWriter(outputFile);
             CSVPrinter csvFilePrinter = new CSVPrinter(fileWriter, csvFileFormat);
             for (CSVRecord record : records) {
@@ -249,7 +250,7 @@ public class MetaMapAnnotator {
         List<String> options = new ArrayList<>();
         options.add("-y");
         options.add("--restrict_to_sts");
-        options.add("dsyn,sosy");
+        options.add("dsyn,sosy,topp,clnd,bpoc");
         options.add("--unique_acros_abbrs_only");
         options.add("--no_derivational_variants");
         options.add("--TAGGER_SERVER");
@@ -262,7 +263,7 @@ public class MetaMapAnnotator {
         if (timeout > -1) {
             frontEnd.setTimeout(timeout);
         }
-        frontEnd.process(csvFilePrinter, recordNumber, postContent, output, options);
+        frontEnd.process(csvFilePrinter, recordNumber,category, postContent, output, options);
         frontEnd.api.disconnect();
     }
 
@@ -276,11 +277,41 @@ public class MetaMapAnnotator {
      *
      * @throws Exception
      */
-    private void process(CSVPrinter csvFilePrinter, long recordNumber, String terms, PrintStream out, List<String> serverOptions) throws Exception {
+    private void process(CSVPrinter csvFilePrinter, long recordNumber,String category, String terms, PrintStream out, List<String> serverOptions) throws Exception {
         if (serverOptions.size() > 0) {
             api.setOptions(serverOptions);
         }
+        int diseasesCount=0;
+        HashMap<String, String> diseaseDict = new HashMap<>(); 
+        HashMap<String, String> symptomDict = new HashMap<>();
+        HashMap<String, String> treatmentDict = new HashMap<>();
+        HashMap<String, String> drugsDict = new HashMap<>();
+        HashMap<String, String> bodyPartDict = new HashMap<>();
+        List<Result> categoryMM=api.processCitationsFromString(category);
+        String categoryMMName="";
+        String categoryMMId="";
+        for (Result result : categoryMM) {
+            if (result != null) {
+            for (Utterance utterance : result.getUtteranceList()) {
+            for (PCM pcm : utterance.getPCMList()) {
+            for (Mapping map : pcm.getMappingList()) {
+                for (Ev mapEv : map.getEvList()) {
+                    if (mapEv.getSemanticTypes().contains("dsyn")) {
+                                        categoryMMName = mapEv.getPreferredName();
+                                        categoryMMId = mapEv.getConceptId();
+                                    }
+                }
+            }
+            }
+            }
+            
+            }
+            
+        }
+        
         List<Result> resultList = api.processCitationsFromString(terms);
+        
+        
         for (Result result : resultList) {
             if (result != null) {
 //                out.println("input text: ");
@@ -399,16 +430,35 @@ public class MetaMapAnnotator {
 //                                out.println("   Pruning Status: " + mapEv.getPruningStatus());
 //                                out.println("   Negation Status: " + mapEv.getNegationStatus());
                                 if (!filterOut) {
-                                    String diseaseName = "", symptomName = "", diseaseId = "", symptomId = "";
+                                    String diseaseName = "", symptomName = "", diseaseId = "", symptomId = "",treatmentName="", treatmentId="", drugName="", drugId="", bodyPartName="", bodypartId="";
                                     if (mapEv.getSemanticTypes().contains("dsyn")) {
                                         diseaseName = mapEv.getPreferredName();
                                         diseaseId = mapEv.getConceptId();
+                                        diseaseDict.put(diseaseId, diseaseName);
+                                        diseasesCount=diseasesCount+1;
                                     }
                                     if (mapEv.getSemanticTypes().contains("sosy")) {
                                         symptomName = mapEv.getPreferredName();
                                         symptomId = mapEv.getConceptId();
+                                        symptomDict.put(symptomId, symptomName);
                                     }
-                                    csvFilePrinter.printRecord(recordNumber, diseaseId, diseaseName, symptomId, symptomName);
+                                    if (mapEv.getSemanticTypes().contains("topp")) {
+                                        treatmentName = mapEv.getPreferredName();
+                                        treatmentId = mapEv.getConceptId();
+                                        treatmentDict.put(treatmentId, treatmentName);
+                                    }
+                                    if (mapEv.getSemanticTypes().contains("clnd")) {
+                                        drugName = mapEv.getPreferredName();
+                                        drugId = mapEv.getConceptId();
+                                        drugsDict.put(drugId, drugName);
+                                    }
+                                    if (mapEv.getSemanticTypes().contains("bpoc")) {
+                                        bodyPartName = mapEv.getPreferredName();
+                                        bodypartId = mapEv.getConceptId();
+                                        bodyPartDict.put(bodypartId, bodyPartName);
+                                        
+                                    }
+                                    //csvFilePrinter.printRecord(recordNumber, diseaseId, diseaseName, symptomId, symptomName, treatmentId, treatmentName, drugId, drugName, bodypartId, bodyPartName);
                                 }
 //                                }
                             }
@@ -420,6 +470,34 @@ public class MetaMapAnnotator {
                 out.println("NULL result instance! ");
             }
         }
+        if(!"".equals(categoryMMId)){
+        if(diseasesCount==0){
+            diseaseDict.put(categoryMMId, categoryMMName);
+        }
+        if(diseasesCount>1){
+            diseaseDict.clear();
+            diseaseDict.put(categoryMMId, categoryMMName);
+        }
+        }
+        if(diseaseDict.size()==1){
+            for (Map.Entry<String,String> entry : diseaseDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber,entry.getKey(),entry.getValue(),"","","","","","","","");
+            }
+            for (Map.Entry<String,String> entry : symptomDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber,"","",entry.getKey(),entry.getValue(),"","","","","","");
+            }
+            for (Map.Entry<String,String> entry : treatmentDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber,"","","","",entry.getKey(),entry.getValue(),"","","","");
+            }
+            for (Map.Entry<String,String> entry : drugsDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber,"","","","","","",entry.getKey(),entry.getValue(),"","");
+            }
+            for (Map.Entry<String,String> entry : bodyPartDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber,"","","","","","","","",entry.getKey(),entry.getValue());
+            }
+        }
+        
+        
         this.api.resetOptions();
     }
 
