@@ -72,6 +72,17 @@ BEGIN
 		END IF;
     END IF;
 	
+	IF b_id<>"" THEN
+		SELECT count(1) INTO @b_cnt FROM ontology.anatomy WHERE anatomy_id=b_id;
+        IF @b_cnt=0 THEN
+			INSERT INTO ontology.anatomy VALUES (b_id,b_name);
+		END IF;
+        SELECT count(1) INTO @dis_a_cnt FROM ontology.disease_anatomy WHERE disease_id=d_id and anatomy_id=b_id;
+        IF @dis_a_cnt=0 THEN
+			INSERT INTO ontology.disease_anatomy VALUES (d_id,b_id);
+		END IF;
+    END IF;
+	
   END LOOP;
   
 SELECT concat('Successfully inserted ', my_rec_cnt, ' records in ontology') as Message;
