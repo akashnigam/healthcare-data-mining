@@ -4,7 +4,7 @@ use ontology;
 
 CREATE TABLE `diseases`
 (
-  `disease_id` int PRIMARY KEY,
+  `disease_id` varchar(255) PRIMARY KEY,
   `disease_name` varchar(255),
   `description` varchar(255),
   `records_count` int,
@@ -14,41 +14,41 @@ CREATE TABLE `diseases`
 
 CREATE TABLE `treatment`
 (
-  `treatment_id` int PRIMARY KEY,
+  `treatment_id` varchar(255) PRIMARY KEY,
   `description` varchar(255),
   `type` varchar(255)
 );
 
 CREATE TABLE `symptoms`
 (
-  `symptom_id` int PRIMARY KEY,
+  `symptom_id` varchar(255) PRIMARY KEY,
   `description` varchar(255)
 );
 
 CREATE TABLE `disease_symptoms`
 (
-  `disease_id` int,
-  `symptom_id` int,
+  `disease_id` varchar(255),
+  `symptom_id` varchar(255),
   `count` int
 );
 
 CREATE TABLE `disease_treatments`
 (
-  `disease_id` int,
-  `treatment_id` int,
+  `disease_id` varchar(255),
+  `treatment_id` varchar(255),
   `count` int
 );
 
 CREATE TABLE `anatomy`
 (
-  `anatomy_id` int PRIMARY KEY,
+  `anatomy_id` varchar(255) PRIMARY KEY,
   `description` varchar(255)
 );
 
 CREATE TABLE `disease_anatomy`
 (
-  `disease_id` int,
-  `anatomy_id` int
+  `disease_id` varchar(255),
+  `anatomy_id` varchar(255)
 );
 
 ALTER TABLE `disease_symptoms` ADD FOREIGN KEY (`disease_id`) REFERENCES `diseases` (`disease_id`);
