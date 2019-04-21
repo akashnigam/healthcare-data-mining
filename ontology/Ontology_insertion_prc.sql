@@ -20,7 +20,7 @@ BEGIN
     END IF;
     SELECT count(1) INTO @dis_cnt FROM ontology.diseases WHERE disease_id=d_id;
     IF @dis_cnt =0 THEN
-      INSERT INTO ontology.diseases VALUES (d_id,d_name,"new",1,1,1);
+      INSERT INTO ontology.diseases VALUES (d_id,d_name,"new",1,0,0);
     ELSE
       UPDATE ontology.diseases SET records_count=records_count+1 WHERE disease_id=d_id;
     END IF;
