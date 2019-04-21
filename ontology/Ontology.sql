@@ -53,7 +53,7 @@ CREATE TABLE `disease_anatomy`
 
 ALTER TABLE `disease_symptoms` ADD FOREIGN KEY (`disease_id`) REFERENCES `diseases` (`disease_id`);
 
-ALTER TABLE `disease_symptoms` ADD FOREIGN KEY (`symptom_id`) REFERENCES `treatment` (`treatment_id`);
+ALTER TABLE `disease_symptoms` ADD FOREIGN KEY (`symptom_id`) REFERENCES `symptoms` (`symptom_id`);
 
 ALTER TABLE `disease_treatments` ADD FOREIGN KEY (`disease_id`) REFERENCES `diseases` (`disease_id`);
 
