@@ -6,7 +6,8 @@ def getPostWiseSymptoms():
     file = '../MetaMapAnnotator/resources/combinedData.csv'
     allpostSymptoms = {}
     allSymptoms = {}
-    symtomIndex = 1
+    symtomsReverseMap = {}
+    symtomIndex = 0
     postIndex = 1
     with open(file) as f:
         reader = csv.reader(f)
@@ -22,8 +23,9 @@ def getPostWiseSymptoms():
                 allpostSymptoms[postId]["symptomList"].append(symptomId)
                 if symptomId not in allSymptoms:
                     allSymptoms[symptomId] = {"index": symtomIndex, "name": symptomName}
+                    symtomsReverseMap[symtomIndex] = symptomId
                     symtomIndex += 1
-    return allpostSymptoms, allSymptoms
+    return allpostSymptoms, allSymptoms, symtomsReverseMap
 
 def postWiseSymptomMatrix(allpostSymptoms, allSymptoms):
     postSymptomsMat = []
@@ -31,7 +33,7 @@ def postWiseSymptomMatrix(allpostSymptoms, allSymptoms):
         symptoms = [0 for x in range(len(allSymptoms))]
         for symptomId in postInfo["symptomList"]:
             symptomMatIndex = allSymptoms[symptomId]["index"]
-            symptoms[symptomMatIndex-1] += 1
+            symptoms[symptomMatIndex] += 1
         postSymptomsMat.append(symptoms)
         print(postId, postInfo)
     return postSymptomsMat
@@ -61,8 +63,30 @@ def createSympGraph(postSymptomsMat, allSymptoms):
     #print(json.dumps(postSymptomsMat))
     return symptomGraph
 
+def getSymgraphEdges(symptomGraph, symtomsReverseMap):
+    symptomGraphList = symptomGraph.tolist()
+    edgeList = []
+    for row, symtoms in enumerate(symptomGraphList):
+        for col in range(row + 1 ,len(symptomGraphList)):
+            source = symtomsReverseMap[row]
+            dest = symtomsReverseMap[col]
+            weight = symptomGraphList[row][col]
+            if weight >= 1:
+                edgeList.append([source, dest, weight])
+    return edgeList
+
+def writeSympGraph(edgeList):
+    with open('sympgraph.csv', 'w') as writeFile:
+        writer = csv.writer(writeFile)
+        writer.writerow(["Source", "Destination", "Weight"])
+        writer.writerows(edgeList)
+        writeFile.close()
+
 if __name__ == '__main__':
-    allpostSymptoms, allSymptoms = getPostWiseSymptoms()
+    allpostSymptoms, allSymptoms, symtomsReverseMap = getPostWiseSymptoms()
     postSymptomsMat = postWiseSymptomMatrix(allpostSymptoms, allSymptoms)
     symptomGraph = createSympGraph(postSymptomsMat, allSymptoms)
+    edgeList = getSymgraphEdges(symptomGraph, symtomsReverseMap)
+    writeSympGraph(edgeList)
+    print("Successully generated Sympgraph")
 
