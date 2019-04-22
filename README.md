@@ -1,18 +1,20 @@
-# Mining Healthcare Forums
-The aim of this project is to build an information extraction system that can turn unstructured medical data from multiple sources (user’s posts in healthcare related websites, clinical notes, etc.) into semi-structured information and build a parametric search interface for a category (can be a disease, symptom, drug, etc.). The goal is to apply information extraction and rule mining to collect various attributes of diseases from unstructured medical data and store it in a relational form, using any of the existing medical ontologies. Using the search interface, users will be able to get the different attributes of input disease, possible diseases for given symptoms, or the usage of the input drug, etc. Also, the search output data attributes will be ranked based on their occurrence frequency on data sources, to help users in differentiating the more common ones to the lesser ones. The attributes of a disease could be symptoms, the category of disease, treatment, its related diseases, age group affected, etc. For symptoms, various features can be probable diseases, remedies, causes, etc. Similarly, drug-related data will consist of the diseases it cures and other attributes like its side effects, dosage, price, etc.
+# Mining Healthcare Forums 👨‍⚕️
+The aim of this project is to build an information extraction system that can turn unstructured medical healthcare data from user posts of multiple sources (in [WebMD.com](https://www.webmd.com/), [Drugs.com](https://www.drugs.com/), [Patient.info](https://patient.info/)) into structured information and build a parametric search interface for a category (a disease/symptom/drug). Using the search interface, users will be able to get the different attributes of input disease, possible diseases for given symptoms, or the usage of the input drug, etc. Also, the search output data attributes will be ranked based on their occurrence frequency on data sources, to help users in differentiating the more common ones to the less frequent ones. The attributes of a disease include symptoms, the category of disease, treatment.
 
+
+> :warning: For the install, excute instructions, screenshots and module specific functions look at the **README.md** files under each module.
+> This is a general **README** file with higher level details of the project.
 
 ### The Problem
 
-###### ● Unstructured Health-related experience data
+● Unstructured Health-related experience data
 
-###### ● Experiences spread across Multiple Sources
+● Experiences spread across Multiple Sources
 
-###### ● No Disease - Symptom search tools for data mined from user posts
+● No Disease - Symptom search tools for data mined from user posts
 
 
 ### Assumptions
-
 
 The majority of the user posts
 
@@ -55,8 +57,7 @@ Knee Replacement Arthroplasty,
 Exercise
 ```
 ### Solution
-
-**Following insights can be derived from the structured data collected from user posts.**
+Following insights can be derived from the structured data collected from user posts
 
 ###### Top symptoms of a Disease
 
@@ -95,25 +96,17 @@ websites.
 1. Using xpath
 2. Using CSS selector
 
-
-### Web Scraping
-
 **Healthcare websites from where data is extracted**
+* WebMD.com
+* Patient.info
+* Dugs.com
 
-**Python’s scrapy framework for web scraping**
+**Python’s scrapy framework will be used for web scraping**
 
-
-### Web Scraping
-
-```
-Webpage
-```
-```
-Generated CSV file
-```
 
 ### UMLS : Unified Medical Language System
 
+##### 3 Knowledge Sources
 ```
 Metathesaurus
 
@@ -139,14 +132,6 @@ programs for language
 processing
 ```
 
-##### 3 Knowledge Sources
-
-```
-● Thesaurus of Bio-medical Vocabularies and ontologies
-```
-```
-● Translation among Terminology systems
-```
 
 ### MetaMap
 
@@ -165,6 +150,7 @@ processing
 
 
 ### MetaMap - Input / Output
+
 **_Text to be processed_**
 
 ```
@@ -182,13 +168,12 @@ hurt any worse since starting
 this exercise.”
 ```
 
-```
-Annotated Text with UMLS concepts and Semantics
-```
+**Annotated Text with UMLS concepts and Semantics**
+
 ```
 Score/ Term/ (UMLS Concept Preferred Name)/ [Semantic Type]
-```
-```
+
+
 581 Pain NOS (Pain NOS Adverse Event) [Finding]
 748 SWELLING (Swelling) [Finding]
 861 knees (Knee) [Body Part, Organ, or Organ Component]
@@ -222,8 +207,10 @@ Procedure]
 
 ● A graph with symptoms as nodes and co-occurrence
 relations between symptoms as edges.
+
 ● Generated using symptoms from different
 posts/comments from different patients
+
 ● Can be used for symptom expansion
 
 
@@ -242,7 +229,7 @@ extraction system for clinical narratives. J Am Med Inform Assoc 17: 19–24
 ● https://www.sciencedirect.com/science/article/pii/S1532046417302563/
 ```
 
-###### Q & A
+### Q & A
 
 **Q.1: What exactly is symptom expansion which you are trying to achieve using SympGraph?
 How is it beneficial?
