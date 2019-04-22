@@ -46,7 +46,7 @@ import org.apache.commons.text.similarity.JaroWinklerDistance;
  * annotates the input and dumps the concepts, relationships identified into the
  * database.
  *
- * @author Sandeep Nadella <vnadell1@asu.edu>
+ * @author Sandeep Nadella Email: vnadell1@asu.edu
  */
 public class MetaMapAnnotator {
 
