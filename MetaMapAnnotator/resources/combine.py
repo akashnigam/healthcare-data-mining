@@ -23,7 +23,7 @@ for file in files:
             lastPostNumber = postNumber
         prevFilesTotalPosts += lastPostNumber
 
-with open('cobinedData.csv', 'w') as writeFile:
+with open('combinedData.csv', 'w') as writeFile:
     writer = csv.writer(writeFile)
     writer.writerow(headers)
     writer.writerows(allRows)
