@@ -102,7 +102,7 @@ public class MetaMapAnnotator {
      * @throws IOException
      */
     private static void init() throws IOException {
-        File configFile = new File(PATH_TO_RESOURCES+"MetaMapAnnotatorConfig.properties");
+        File configFile = new File(PATH_TO_RESOURCES + "MetaMapAnnotatorConfig.properties");
         FileInputStream configStream = new FileInputStream(configFile);
         configProp.load(configStream);
         populateIgnoredWordsList();
@@ -183,6 +183,28 @@ public class MetaMapAnnotator {
      */
     private static void processWebUserPostData() throws FileNotFoundException, IOException, Exception {
         File dir = new File(configProp.getProperty("web_scraper_csv_folder"));
+                String serverhost = MetaMapApi.DEFAULT_SERVER_HOST;
+        int serverport = MetaMapApi.DEFAULT_SERVER_PORT;
+        int timeout = -1;
+
+        PrintStream output = System.out;
+        MetaMapAnnotator frontEnd = new MetaMapAnnotator(serverhost, serverport);
+        List<String> options = new ArrayList<>();
+        options.add("-y");  // Use word sense disambiguation https://metamap.nlm.nih.gov/Docs/FAQ/WSD.pdf Adds overhead to processing
+        options.add("--restrict_to_sts");   // Retain only Concepts with Specified Semantic Types. https://metamap.nlm.nih.gov/SemanticTypesAndGroups.shtml
+        options.add("dsyn,sosy,topp,clnd,bpoc");
+        options.add("--unique_acros_abbrs_only");   // Restricts the generation of acronym/abbreviation (AA) variants to those forms with unique expansions.
+        options.add("--no_derivational_variants");  // Prevents the use of any derivational variation in the computation of word variants. This option exists because derivational variants can involve a significant change in meaning.
+        options.add("--TAGGER_SERVER");
+        options.add("localhost");
+        //disable below option if slow
+        options.add("--composite_phrases");
+        options.add("4");
+
+//        System.out.println("options: " + options);
+        if (timeout > -1) {
+            frontEnd.setTimeout(timeout);
+        }
         File[] csvFilesList = dir.listFiles((File directory, String filename) -> filename.endsWith(".csv"));
         for (File file : csvFilesList) {
             Reader in = new FileReader(file);
@@ -209,13 +231,15 @@ public class MetaMapAnnotator {
 //                System.out.println(postHeading);
 //                System.out.println(postContent);
 //                System.out.println("----------------------------------------------------");
-                    triggerMetaMap(csvFilePrinter, recordNumber, diseaseCategory, postHeading, postContent);
+                    triggerMetaMap(frontEnd, output, options, csvFilePrinter, recordNumber, diseaseCategory, postHeading, postContent);
                     System.out.println("----------------------------------------------------");
                 }
                 fileWriter.flush();
             }
             csvFilePrinter.close();
         }
+        
+        frontEnd.api.disconnect();
 
     }
 
@@ -246,31 +270,11 @@ public class MetaMapAnnotator {
      *
      * @throws Exception
      */
-    private static void triggerMetaMap(CSVPrinter csvFilePrinter, long recordNumber, String category, String postHeading, String postContent) throws Exception {
-        String serverhost = MetaMapApi.DEFAULT_SERVER_HOST;
-        int serverport = MetaMapApi.DEFAULT_SERVER_PORT;
-        int timeout = -1;
+    private static void triggerMetaMap(MetaMapAnnotator mmFrontEnd, PrintStream output,List<String> options, CSVPrinter csvFilePrinter, long recordNumber, String category, String postHeading, String postContent) throws Exception {
 
-        PrintStream output = System.out;
-        MetaMapAnnotator frontEnd = new MetaMapAnnotator(serverhost, serverport);
-        List<String> options = new ArrayList<>();
-        options.add("-y");  // Use word sense disambiguation https://metamap.nlm.nih.gov/Docs/FAQ/WSD.pdf Adds overhead to processing
-        options.add("--restrict_to_sts");   // Retain only Concepts with Specified Semantic Types. https://metamap.nlm.nih.gov/SemanticTypesAndGroups.shtml
-        options.add("dsyn,sosy,topp,clnd,bpoc");
-        options.add("--unique_acros_abbrs_only");   // Restricts the generation of acronym/abbreviation (AA) variants to those forms with unique expansions.
-        options.add("--no_derivational_variants");  // Prevents the use of any derivational variation in the computation of word variants. This option exists because derivational variants can involve a significant change in meaning.
-        options.add("--TAGGER_SERVER");
-        options.add("localhost");
-        //disable below option if slow
-        options.add("--composite_phrases");
-        options.add("4");
-
-//        System.out.println("options: " + options);
-        if (timeout > -1) {
-            frontEnd.setTimeout(timeout);
+        if (!"".equals(postContent) && !"".equals(category)) {
+            mmFrontEnd.process(csvFilePrinter, recordNumber, category, postContent, output, options);
         }
-        frontEnd.process(csvFilePrinter, recordNumber, category, postContent, output, options);
-        frontEnd.api.disconnect();
     }
 
     /**
@@ -314,7 +318,6 @@ public class MetaMapAnnotator {
             }
 
         }
-
         List<Result> resultList = api.processCitationsFromString(terms);
 
         for (Result result : resultList) {
