@@ -15,7 +15,7 @@ CREATE TABLE `patientsinfo` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci;
 
 
---change path as per location of CSV
+/* change path as per location of CSV */
 LOAD DATA INFILE 'D:\2ndSem\\SWM Project\\PatientsInfo2019-04-09_03-54-25.csv' 
 INTO TABLE ontology.patientsinfo
 FIELDS TERMINATED BY ',' 
