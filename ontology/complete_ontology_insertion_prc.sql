@@ -59,16 +59,16 @@ BEGIN
 	
 	IF dr_id<>"" THEN
 		UPDATE ontology.diseases SET has_treatment_count=has_treatment_count+1 WHERE disease_id=d_id;
-		SELECT count(1) INTO @td_cnt FROM ontology.treatment WHERE treatment_id=t_id;
+		SELECT count(1) INTO @td_cnt FROM ontology.treatment WHERE treatment_id=dr_id;
         IF @td_cnt=0 THEN
-			INSERT INTO ontology.treatment VALUES (t_id,t_name,"Drug");
+			INSERT INTO ontology.treatment VALUES (dr_id,dr_name,"Drug");
 		END IF;
-        SELECT count(1) INTO @dis_tr1_cnt FROM ontology.disease_treatments WHERE disease_id=d_id and treatment_id=t_id;
+        SELECT count(1) INTO @dis_tr1_cnt FROM ontology.disease_treatments WHERE disease_id=d_id and treatment_id=dr_id;
         IF @dis_tr1_cnt=0 THEN
-			INSERT INTO ontology.disease_treatments VALUES (d_id,t_id,0);
+			INSERT INTO ontology.disease_treatments VALUES (d_id,dr_id,0);
 		ELSE
 			UPDATE ontology.disease_treatments SET count=count+1
-            WHERE treatment_id=t_id AND disease_id=d_id;
+            WHERE treatment_id=dr_id AND disease_id=d_id;
 		END IF;
     END IF;
 	
