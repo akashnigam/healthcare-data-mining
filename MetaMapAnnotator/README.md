@@ -62,6 +62,45 @@ $ java -jar dist/MetaMapAnnotator.jar
 ```
 * The input will be picked up neighbouring scraper/data folder. All csv files inside data folder(but not it's sub folders) will be taken as input by this application.
 * The output will be written to resources folder under MetMapAnnotator folder.
+* Run *combine.py* under resources folder to combine all the result set CSVs of WebMD, Drugs.com and Patient.info sites into one so that the **ontology** module can take it as input and load the data into the ontology database. Ouput should look something like this
+```
+sanadell@smac ~/NetBeansProjects/HealthCareMining/MetaMapAnnotator/resources (master)
+$ python3 combine.py 
+Webmd2019-04-19_02-31-05 copy 9.csv
+Webmd2019-04-19_02-31-05 copy 8.csv
+PatientsInfo2019-04-09_03-54-25 copy 10.csv
+Webmd2019-04-19_02-31-05 copy 10.csv
+Drugs2019-04-16_17-04-52 copy 1-0.csv
+Drugs2019-04-16_17-04-52 copy 1.csv
+PatientsInfo2019-04-09_03-54-25 copy 3.csv
+PatientsInfo2019-04-09_03-54-25 copy 2.csv
+Drugs2019-04-16_17-04-52 copy 2.csv
+PatientsInfo2019-04-09_03-54-25 copy 1.csv
+Drugs2019-04-16_17-04-52 copy 3.csv
+Drugs2019-04-16_17-04-52 copy 7.csv
+PatientsInfo2019-04-09_03-54-25 copy 5.csv
+PatientsInfo2019-04-09_03-54-25 copy 4.csv
+Drugs2019-04-16_17-04-52 copy 6.csv
+Drugs2019-04-16_17-04-52 copy 4.csv
+PatientsInfo2019-04-09_03-54-25 copy 6.csv
+PatientsInfo2019-04-09_03-54-25 copy 7.csv
+Drugs2019-04-16_17-04-52 copy 5.csv
+Drugs2019-04-16_17-04-52 copy 8.csv
+Drugs2019-04-16_17-04-52 copy 9.csv
+Drugs2019-04-16_17-04-52 copy 10.csv
+PatientsInfo2019-04-09_03-54-25 copy 9.csv
+PatientsInfo2019-04-09_03-54-25 copy 8.csv
+PatientsInfo2019-04-09_03-54-25 copy 1-0.csv
+Webmd2019-04-19_02-31-05 copy 1.csv
+Webmd2019-04-19_02-31-05 copy 3.csv
+Webmd2019-04-19_02-31-05 copy 2.csv
+Webmd2019-04-19_02-31-05 copy 6.csv
+Webmd2019-04-19_02-31-05 copy 7.csv
+Webmd2019-04-19_02-31-05 copy 5.csv
+Webmd2019-04-19_02-31-05 copy 4.csv
+Combined CSV file successfully created
+
+```
 
 # Known Issues
 1. The *mmserver* crashes when a post in the csv file being fed contains non ASCII characters<br>
