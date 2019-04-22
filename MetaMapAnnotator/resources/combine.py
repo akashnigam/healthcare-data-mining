@@ -14,8 +14,11 @@ for file in files:
         data = [r for r in reader]
         lastPostNumber = 0
         for index, row in enumerate(data):
+            for columnId, columnVal in enumerate(row):
+                row[columnId] = columnVal.replace(",", "|")
             postNumber = int(row[0])
             row[0] = prevFilesTotalPosts + postNumber
+
             allRows.append(row)
             lastPostNumber = postNumber
         prevFilesTotalPosts += lastPostNumber
