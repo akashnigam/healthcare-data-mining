@@ -1,0 +1,4234 @@
+PostNumber,DiseaseId,DiseaseName,SymptomId,SymptomName,TreatmentId,TreatmentName,DrugId,DrugName,BodypartId,BodypartName
+1,C0036916,Sexually Transmitted Diseases,,,,,,,,
+1,,,C0033774,Pruritus,,,,,,
+1,,,,,C0087111,Therapeutic procedure,,,,
+1,,,,,,,,,C0003461,Anus
+2,C0036916,Sexually Transmitted Diseases,,,,,,,,
+2,,,C0085624,Burning sensation,,,,,,
+2,,,,,C0152054,Therapeutic tactile stimulation,,,,
+2,,,,,,,C1126333,Azithromycin 500 MG,,
+2,,,,,,,,,C0030851,penis
+2,,,,,,,,,C1281584,Entire finger
+3,C0036916,Sexually Transmitted Diseases,,,,,,,,
+3,,,C0011124,Decreased Libido,,,,,,
+4,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+4,,,C0221423,Illness (finding),,,,,,
+4,,,,,C1293134,Enlargement procedure,,,,
+4,,,,,,,,,C1278920,Entire stomach
+4,,,,,,,,,C0947209,Vein.left
+5,C0036916,Sexually Transmitted Diseases,,,,,,,,
+6,C0036916,Sexually Transmitted Diseases,,,,,,,,
+6,,,C0683369,Clouded consciousness,,,,,,
+6,,,,,,,,,C0018563,Hand
+6,,,,,,,,,C1281584,Entire finger
+6,,,,,,,,,C0230393,Middle finger structure
+8,C0009450,Communicable Diseases,,,,,,,,
+10,C0036916,Sexually Transmitted Diseases,,,,,,,,
+10,,,C0596601,gastrointestinal gas,,,,,,
+10,,,C0039591,Pain in testicle,,,,,,
+17,C0012813,Diverticulitis,,,,,,,,
+17,,,C0009806,Constipation,,,,,,
+17,,,,,C0014268,Administration of enema,,,,
+18,C0423086,Staring,,,,,,,,
+18,,,,,,,,,C0018563,Hand
+18,,,,,,,,,C0015392,Eye
+19,C0036916,Sexually Transmitted Diseases,,,,,,,,
+19,,,,,,,,,C0031354,Pharyngeal structure
+20,C0036916,Sexually Transmitted Diseases,,,,,,,,
+20,,,C0033774,Pruritus,,,,,,
+20,,,,,,,,,C0042993,Vulva
+20,,,,,,,,,C1261042,Skin of vulva
+21,C0036916,Sexually Transmitted Diseases,,,,,,,,
+21,,,C0033774,Pruritus,,,,,,
+22,C0036916,Sexually Transmitted Diseases,,,,,,,,
+22,,,,,,,,,C0030851,penis
+23,C0036916,Sexually Transmitted Diseases,,,,,,,,
+23,,,C0231218,Malaise,,,,,,
+23,,,C0033774,Pruritus,,,,,,
+23,,,C0151908,Dry skin,,,,,,
+23,,,C0030193,Pain,,,,,,
+23,,,C0683369,Clouded consciousness,,,,,,
+23,,,,,C0600080,Stretching exercises,,,,
+23,,,,,,,,,C0030851,penis
+23,,,,,,,,,C0205029,Skin structure of head
+24,C0036916,Sexually Transmitted Diseases,,,,,,,,
+24,,,C0030193,Pain,,,,,,
+25,C0019345,Herpes Labialis,,,,,,,,
+26,C0877478,bumps lip,,,,,,,,
+26,,,C0033774,Pruritus,,,,,,
+26,,,C0030193,Pain,,,,,,
+26,,,,,,,C0718788,"Baby Oil, topical oil",,
+28,C0036916,Sexually Transmitted Diseases,,,,,,,,
+28,,,C0015230,Exanthema,,,,,,
+28,,,C0033774,Pruritus,,,,,,
+28,,,C0030193,Pain,,,,,,
+28,,,,,,,,,C0222193,Skin of penis
+28,,,,,,,,,C0227952,Foreskin of penis
+31,C0036916,Sexually Transmitted Diseases,,,,,,,,
+31,,,,,C0184904,Slitting,,,,
+31,,,,,,,,,C1281590,Entire head
+31,,,,,,,,,C1550261,Glans
+31,,,,,,,,,C0423866,Lanugo
+33,C0036916,Sexually Transmitted Diseases,,,,,,,,
+33,,,,,C0152054,Therapeutic tactile stimulation,,,,
+33,,,,,,,,,C0042232,Vagina
+37,C0036916,Sexually Transmitted Diseases,,,,,,,,
+37,,,C0026821,Muscle Cramp,,,,,,
+37,,,,,C0029151,Oral contraception,,,,
+37,,,,,C0851160,Morning after pill method of contraception,,,,
+38,C0036916,Sexually Transmitted Diseases,,,,,,,,
+38,,,,,,,,,C0030851,penis
+38,,,,,,,,,C0031354,Pharyngeal structure
+39,C0036916,Sexually Transmitted Diseases,,,,,,,,
+39,,,C0018681,Headache,,,,,,
+40,C0019340,herpes,,,,,,,,
+40,,,,,,,,,C0018563,Hand
+40,,,,,,,,,C0227759,Labium
+40,,,,,,,,,C1281586,Entire thigh
+41,C0036916,Sexually Transmitted Diseases,,,,,,,,
+42,C0036916,Sexually Transmitted Diseases,,,,,,,,
+42,,,C0231218,Malaise,,,,,,
+42,,,,,,,,,C0227952,Foreskin of penis
+42,,,,,,,,,C1280739,Entire penis
+43,C0019342,Genital Herpes,,,,,,,,
+43,,,C0033774,Pruritus,,,,,,
+43,,,,,C0152054,Therapeutic tactile stimulation,,,,
+43,,,,,C0522772,Shaving - surgical procedure,,,,
+43,,,,,,,,,C0030851,penis
+43,,,,,,,,,C0034014,Bone structure of pubis
+43,,,,,,,,,C1269613,Entire thumb
+43,,,,,,,,,C0018563,Hand
+43,,,,,,,,,C0222001,Structure of nail of finger
+43,,,,,,,,,C1305636,Entire hair of pubis
+44,C0036916,Sexually Transmitted Diseases,,,,,,,,
+44,,,,,,,,,C0042232,Vagina
+44,,,,,,,,,C0222001,Structure of nail of finger
+44,,,,,,,,,C0018494,Hair
+44,,,,,,,,,C1305636,Entire hair of pubis
+45,C0036916,Sexually Transmitted Diseases,,,,,,,,
+46,C0730321,Punctate inner choroidopathy,,,,,,,,
+46,,,C0015230,Exanthema,,,,,,
+46,,,C0033774,Pruritus,,,,,,
+47,C0017168,Gastroesophageal reflux disease,,,,,,,,
+47,,,C0221512,Stomach ache,,,,,,
+47,,,C0027497,Nausea,,,,,,
+50,C0023895,Liver diseases,,,,,,,,
+50,,,C3714552,Weakness,,,,,,
+50,,,C0151786,Muscle Weakness,,,,,,
+50,,,,,C1522704,Exercise Pain Management,,,,
+53,C0043154,Dental White Spot,,,,,,,,
+53,,,C0033774,Pruritus,,,,,,
+53,,,,,,,,,C1281590,Entire head
+53,,,,,,,,,C0222193,Skin of penis
+54,C0010346,Crohn Disease,,,,,,,,
+56,C0020538,Hypertensive disease,,,,,,,,
+56,,,,,C0242390,Home Remedies,,,,
+62,C0036916,Sexually Transmitted Diseases,,,,,,,,
+62,,,C0015230,Exanthema,,,,,,
+62,,,C0030193,Pain,,,,,,
+62,,,C0234233,Sore to touch,,,,,,
+62,,,,,C0600080,Stretching exercises,,,,
+62,,,,,,,,,C1280389,Entire lower lip
+62,,,,,,,,,C1278911,Entire lip
+62,,,,,,,,,C0040408,Tongue
+63,C0036916,Sexually Transmitted Diseases,,,,,,,,
+63,,,C0028643,Numbness,,,,,,
+63,,,C0085624,Burning sensation,,,,,,
+63,,,C0033774,Pruritus,,,,,,
+63,,,,,C0074125,bleomycin/doxorubicin/lomustine/streptozocin protocol,,,,
+63,,,,,C0872145,Directly Observed Therapy,,,,
+63,,,,,,,,,C1278911,Entire lip
+63,,,,,,,,,C0023759,Lip structure
+64,C0036916,Sexually Transmitted Diseases,,,,,,,,
+64,,,C0033774,Pruritus,,,,,,
+64,,,,,,,,,C0042232,Vagina
+64,,,,,,,,,C1280739,Entire penis
+65,C0036916,Sexually Transmitted Diseases,,,,,,,,
+66,C0036916,Sexually Transmitted Diseases,,,,,,,,
+66,,,C0037088,Signs and Symptoms,,,,,,
+66,,,C0000737,Abdominal Pain,,,,,,
+66,,,C0015230,Exanthema,,,,,,
+66,,,C0018520,Halitosis,,,,,,
+66,,,C0032781,Posterior rhinorrhea,,,,,,
+66,,,C0242429,Sore Throat,,,,,,
+66,,,C3714552,Weakness,,,,,,
+66,,,C0023380,Lethargy,,,,,,
+66,,,,,C1511790,Detection,,,,
+66,,,,,,,,,C0042232,Vagina
+67,C0036916,Sexually Transmitted Diseases,,,,,,,,
+68,C0036916,Sexually Transmitted Diseases,,,,,,,,
+69,C0032633,Vesicular eczema of hands and/or feet,,,,,,,,
+69,,,C0015230,Exanthema,,,,,,
+69,,,,,,,,,C1269078,Entire upper limb
+72,C0004135,Ataxia Telangiectasia,,,,,,,,
+72,,,C0221512,Stomach ache,,,,,,
+72,,,C0011991,Diarrhea,,,,,,
+72,,,C0000737,Abdominal Pain,,,,,,
+72,,,,,C0184958,Toilet procedure,,,,
+72,,,,,,,,,C1278920,Entire stomach
+74,C0151977,Ulceration of small intestine,,,,,,,,
+74,,,C0037088,Signs and Symptoms,,,,,,
+74,,,C0030193,Pain,,,,,,
+75,C0017152,Gastritis,,,,,,,,
+75,,,C0221423,Illness (finding),,,,,,
+75,,,C0231218,Malaise,,,,,,
+75,,,C0085624,Burning sensation,,,,,,
+75,,,C1291077,Abdominal bloating,,,,,,
+75,,,C0946092,gas/bloating,,,,,,
+77,C0036916,Sexually Transmitted Diseases,,,,,,,,
+77,,,C2242996,Has tingling sensation,,,,,,
+77,,,C0030193,Pain,,,,,,
+77,,,,,C0152277,Incision and drainage,,,,
+77,,,,,,,,,C0023759,Lip structure
+78,C0036916,Sexually Transmitted Diseases,,,,,,,,
+78,,,C1442877,Sore skin,,,,,,
+78,,,C0234233,Sore to touch,,,,,,
+78,,,,,,,,,C0030851,penis
+78,,,,,,,,,C0227952,Foreskin of penis
+78,,,,,,,,,C0042449,Veins
+79,C0036916,Sexually Transmitted Diseases,,,,,,,,
+80,C0036916,Sexually Transmitted Diseases,,,,,,,,
+80,,,C1321898,Blood in stool,,,,,,
+80,,,,,,,,,C1278927,Entire anus
+81,C0036916,Sexually Transmitted Diseases,,,,,,,,
+81,,,,,C2973270,Health Checkup,,,,
+82,C0036916,Sexually Transmitted Diseases,,,,,,,,
+82,,,,,C0185051,Removal by grinding,,,,
+83,C0036916,Sexually Transmitted Diseases,,,,,,,,
+83,,,C0033774,Pruritus,,,,,,
+83,,,,,C0522772,Shaving - surgical procedure,,,,
+84,C0036916,Sexually Transmitted Diseases,,,,,,,,
+84,,,,,C0185051,Removal by grinding,,,,
+87,C0036916,Sexually Transmitted Diseases,,,,,,,,
+87,,,C0234229,Deep pain,,,,,,
+87,,,C0240141,LABIAL PAIN,,,,,,
+87,,,C0030193,Pain,,,,,,
+87,,,C0751372,Nerve Pain,,,,,,
+87,,,C0234233,Sore to touch,,,,,,
+87,,,,,,,,,C0227759,Labium
+87,,,,,,,,,C1280541,Entire nerve
+87,,,,,,,,,C0023759,Lip structure
+89,C0036916,Sexually Transmitted Diseases,,,,,,,,
+89,,,,,,,,,C0227952,Foreskin of penis
+91,C0022104,Irritable Bowel Syndrome,,,,,,,,
+92,C0017152,Gastritis,,,,,,,,
+92,,,C0231218,Malaise,,,,,,
+92,,,C0026821,Muscle Cramp,,,,,,
+92,,,C0030193,Pain,,,,,,
+92,,,,,C0557982,Constant supervision,,,,
+92,,,,,C1519433,Special Diet Therapy,,,,
+92,,,,,C0452415,Diet good,,,,
+92,,,,,,,,,C0038351,Stomach
+92,,,,,,,,,C0229985,Surgical margins
+93,C0036689,Streptococcal sore throat,,,,,,,,
+93,,,C0235678,Vaginal odor,,,,,,
+93,,,C0033774,Pruritus,,,,,,
+94,C0036916,Sexually Transmitted Diseases,,,,,,,,
+95,C0036916,Sexually Transmitted Diseases,,,,,,,,
+95,,,,,,,,,C0018563,Hand
+95,,,,,,,,,C0423866,Lanugo
+96,C0036916,Sexually Transmitted Diseases,,,,,,,,
+97,C0036916,Sexually Transmitted Diseases,,,,,,,,
+97,,,,,,,,,C1281590,Entire head
+97,,,,,,,,,C0227952,Foreskin of penis
+97,,,,,,,,,C1281591,Entire face
+97,,,,,,,,,C1280739,Entire penis
+98,C0009450,Communicable Diseases,,,,,,,,
+98,,,C0030193,Pain,,,,,,
+98,,,,,C0600080,Stretching exercises,,,,
+98,,,,,,,,,C1563093,Distal intermedial ridge of tibia
+99,C0036916,Sexually Transmitted Diseases,,,,,,,,
+100,C0036916,Sexually Transmitted Diseases,,,,,,,,
+100,,,,,C0087111,Therapeutic procedure,,,,
+101,C0036916,Sexually Transmitted Diseases,,,,,,,,
+101,,,C0184567,Acute onset pain,,,,,,
+101,,,C0030193,Pain,,,,,,
+101,,,C0677500,Stinging Sensation,,,,,,
+101,,,C0027769,Nervousness,,,,,,
+101,,,,,,,,,C0008984,Clitoris
+102,C0036916,Sexually Transmitted Diseases,,,,,,,,
+102,,,,,C0021485,Injection of therapeutic agent,,,,
+104,C0010346,Crohn Disease,,,,,,,,
+104,,,C1517205,Flare,,,,,,
+104,,,C0026821,Muscle Cramp,,,,,,
+104,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+104,,,,,,,,,C0224086,Belly of skeletal muscle
+105,C0017168,Gastroesophageal reflux disease,,,,,,,,
+107,C0012634,Disease,,,,,,,,
+107,,,C0577573,Mass of body region,,,,,,
+107,,,C1291077,Abdominal bloating,,,,,,
+107,,,C0018681,Headache,,,,,,
+107,,,C1579931,Depressed - symptom,,,,,,
+107,,,C0455270,Sharp pain,,,,,,
+107,,,,,C0677962,Total hysterectomy (procedure),,,,
+107,,,,,,,,,C0230102,Lower back structure
+107,,,,,,,,,C1278920,Entire stomach
+107,,,,,,,,,C0016976,Gallbladder
+107,,,,,,,,,C1269001,Entire gallbladder
+109,C0036916,Sexually Transmitted Diseases,,,,,,,,
+109,,,C1442877,Sore skin,,,,,,
+109,,,,,,,,,C1280739,Entire penis
+110,C0036916,Sexually Transmitted Diseases,,,,,,,,
+110,,,,,C3687832,DRUGS,,,,
+110,,,,,C1504473,Herbal Supplement,,,,
+111,C0036916,Sexually Transmitted Diseases,,,,,,,,
+111,,,C0033774,Pruritus,,,,,,
+111,,,C0030193,Pain,,,,,,
+111,,,C0234233,Sore to touch,,,,,,
+111,,,,,C0451615,Pain relief,,,,
+111,,,,,C2709207,Rx therapy,,,,
+111,,,,,,,,,C0042232,Vagina
+111,,,,,,,,,C1281584,Entire finger
+112,C0036916,Sexually Transmitted Diseases,,,,,,,,
+113,C0036916,Sexually Transmitted Diseases,,,,,,,,
+114,C0036916,Sexually Transmitted Diseases,,,,,,,,
+115,C0036916,Sexually Transmitted Diseases,,,,,,,,
+116,C0009450,Communicable Diseases,,,,,,,,
+116,,,C0030193,Pain,,,,,,
+116,,,,,C0600080,Stretching exercises,,,,
+116,,,,,C3275067,Cardiac Lead Procedure,,,,
+116,,,,,,,,,C0227936,Body of penis
+116,,,,,,,,,C1563093,Distal intermedial ridge of tibia
+116,,,,,,,,,C0227952,Foreskin of penis
+116,,,,,,,,,C0042449,Veins
+116,,,,,,,,,C0934502,anatomical layer
+116,,,,,,,,,C1280739,Entire penis
+117,C0036916,Sexually Transmitted Diseases,,,,,,,,
+117,,,C0184567,Acute onset pain,,,,,,
+117,,,C0030193,Pain,,,,,,
+117,,,C0241136,Pain of skin,,,,,,
+117,,,C0027769,Nervousness,,,,,,
+119,C0019342,Genital Herpes,,,,,,,,
+119,,,C0030193,Pain,,,,,,
+120,C0014534,Epididymitis,,,,,,,,
+120,,,C0231218,Malaise,,,,,,
+120,,,C0030193,Pain,,,,,,
+120,,,,,C0087111,Therapeutic procedure,,,,
+120,,,,,,,,,C0039597,Testis
+120,,,,,,,,,C0014533,Epididymis
+120,,,,,,,,,C0227997,Structure of right testis
+121,C0036916,Sexually Transmitted Diseases,,,,,,,,
+121,,,,,C0152054,Therapeutic tactile stimulation,,,,
+121,,,,,,,,,C0227952,Foreskin of penis
+123,C0022104,Irritable Bowel Syndrome,,,,,,,,
+126,C0016167,Anal Fissure,,,,,,,,
+126,,,C0030193,Pain,,,,,,
+126,,,,,C0184958,Toilet procedure,,,,
+130,C0036916,Sexually Transmitted Diseases,,,,,,,,
+130,,,,,,,,,C0028109,Nipples
+131,C0022104,Irritable Bowel Syndrome,,,,,,,,
+131,,,,,C1883583,Yoga,,,,
+131,,,,,C1519433,Special Diet Therapy,,,,
+131,,,,,C0035029,Relaxation Techniques,,,,
+131,,,,,,,,,C1278920,Entire stomach
+132,C0036916,Sexually Transmitted Diseases,,,,,,,,
+132,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+132,,,,,C0152054,Therapeutic tactile stimulation,,,,
+132,,,,,,,,,C1281583,Entire hand
+133,C0036916,Sexually Transmitted Diseases,,,,,,,,
+133,,,,,,,,,C0029939,Ovary
+134,C0019342,Genital Herpes,,,,,,,,
+134,,,,,C1456647,Childhood Immunization,,,,
+134,,,,,C0021485,Injection of therapeutic agent,,,,
+135,C0036916,Sexually Transmitted Diseases,,,,,,,,
+135,,,C0030193,Pain,,,,,,
+135,,,,,,,,,C1280739,Entire penis
+136,C0036916,Sexually Transmitted Diseases,,,,,,,,
+136,,,C0849852,skin bump,,,,,,
+136,,,,,,,,,C0039597,Testis
+137,C0036916,Sexually Transmitted Diseases,,,,,,,,
+137,,,C0234233,Sore to touch,,,,,,
+137,,,,,,,C0723917,triple antibiotic ointment,,
+138,C0036916,Sexually Transmitted Diseases,,,,,,,,
+139,C0036916,Sexually Transmitted Diseases,,,,,,,,
+139,,,C0030193,Pain,,,,,,
+139,,,,,C0152054,Therapeutic tactile stimulation,,,,
+139,,,,,,,,,C0042232,Vagina
+139,,,,,,,,,C0040408,Tongue
+139,,,,,,,,,C1281584,Entire finger
+140,C0036916,Sexually Transmitted Diseases,,,,,,,,
+140,,,,,,,,,C0042232,Vagina
+141,C0007570,Celiac Disease,,,,,,,,
+145,C0022104,Irritable Bowel Syndrome,,,,,,,,
+145,,,C0518214,Perceived quality of life,,,,,,
+150,C0028754,Obesity,,,,,,,,
+150,,,C0497406,Overweight,,,,,,
+153,C0022104,Irritable Bowel Syndrome,,,,,,,,
+153,,,C0011991,Diarrhea,,,,,,
+153,,,C0024031,Low Back Pain,,,,,,
+153,,,C1517205,Flare,,,,,,
+153,,,C2242996,Has tingling sensation,,,,,,
+153,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+153,,,,,C0814469,treatment and maintenance,,,,
+153,,,,,,,C2916901,Dicyclomine Hydrochloride 20 MG,,
+153,,,,,,,,,C0227073,Mandibular right first molar
+153,,,,,,,,,C0040132,Thyroid Gland
+153,,,,,,,,,C0230415,Right lower extremity
+154,C0022104,Irritable Bowel Syndrome,,,,,,,,
+156,C0036916,Sexually Transmitted Diseases,,,,,,,,
+156,,,C0030193,Pain,,,,,,
+156,,,C0234233,Sore to touch,,,,,,
+156,,,,,C0074125,bleomycin/doxorubicin/lomustine/streptozocin protocol,,,,
+156,,,,,,,,,C1281590,Entire head
+156,,,,,,,,,C1280739,Entire penis
+157,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+158,C0036916,Sexually Transmitted Diseases,,,,,,,,
+158,,,C0221423,Illness (finding),,,,,,
+158,,,C0027497,Nausea,,,,,,
+158,,,C0694551,Right lower quadrant pain,,,,,,
+158,,,C0458109,Ovarian pain,,,,,,
+158,,,C0030193,Pain,,,,,,
+158,,,C0004604,Back Pain,,,,,,
+158,,,C0026821,Muscle Cramp,,,,,,
+158,,,C0013404,Dyspnea,,,,,,
+158,,,C0234255,Night pain,,,,,,
+158,,,,,C2985296,Hormonal Contraception,,,,
+158,,,,,C0020944,Immobilization,,,,
+158,,,,,C0700589,Contraceptive methods,,,,
+158,,,,,C0152277,Incision and drainage,,,,
+158,,,,,,,,,C0018563,Hand
+158,,,,,,,,,C0029939,Ovary
+158,,,,,,,,,C0227874,Structure of left ovary
+158,,,,,,,,,C1281196,Entire right ovary
+159,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+159,,,,,C1522704,Exercise Pain Management,,,,
+159,,,,,,,,,C0015665,Fat Body
+160,C0036916,Sexually Transmitted Diseases,,,,,,,,
+161,C0036916,Sexually Transmitted Diseases,,,,,,,,
+162,C0036916,Sexually Transmitted Diseases,,,,,,,,
+162,,,,,C0152054,Therapeutic tactile stimulation,,,,
+162,,,,,C0184958,Toilet procedure,,,,
+162,,,,,,,,,C0030851,penis
+163,C0036916,Sexually Transmitted Diseases,,,,,,,,
+163,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+164,C0036916,Sexually Transmitted Diseases,,,,,,,,
+164,,,,,,,,,C0041638,Umbilicus (Anatomy)
+168,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+168,,,C0024031,Low Back Pain,,,,,,
+168,,,C0009806,Constipation,,,,,,
+168,,,C0085624,Burning sensation,,,,,,
+168,,,C0030193,Pain,,,,,,
+168,,,,,C3814046,PAD Regimen,,,,
+168,,,,,,,,,C0003461,Anus
+169,C0036916,Sexually Transmitted Diseases,,,,,,,,
+169,,,,,C0184958,Toilet procedure,,,,
+169,,,,,,,,,C0042232,Vagina
+171,C0030305,Pancreatitis,,,,,,,,
+171,,,C0030193,Pain,,,,,,
+171,,,,,,,,,C0016976,Gallbladder
+171,,,,,,,,,C1269001,Entire gallbladder
+175,C0036916,Sexually Transmitted Diseases,,,,,,,,
+175,,,C0018834,Heartburn,,,,,,
+175,,,C3714552,Weakness,,,,,,
+175,,,,,C3650840,Traditional therapy,,,,
+175,,,,,C0332293,Treated with,,,,
+175,,,,,C0199779,Administration of antibiotic,,,,
+175,,,,,C0338237,Antibiotic therapy,,,,
+175,,,,,C0204785,Vaginal douching,,,,
+175,,,,,C0032042,Placebos,,,,
+175,,,,,C0418981,Medical therapy,,,,
+175,,,,,C0677850,adjuvant therapy,,,,
+175,,,,,C0392148,Providing presence (regime/therapy),,,,
+175,,,,,C0679868,relapse treatment,,,,
+175,,,,,C0009429,Combined Modality Therapy,,,,
+175,,,,,C0152060,Transection (procedure),,,,
+175,,,,,C0949216,Alternative Therapies,,,,
+175,,,,,C0011209,Obstetric Delivery,,,,
+175,,,,,C2827774,Current Therapy,,,,
+175,,,,,C0079613,Adoptive Immunotherapy,,,,
+175,,,,,C0683525,treatment options,,,,
+175,,,,,C0199176,Prophylactic treatment,,,,
+175,,,,,C1963578,Release (procedure),,,,
+175,,,,,C1511790,Detection,,,,
+175,,,,,C0087111,Therapeutic procedure,,,,
+175,,,,,,,C0360345,Metronidazole Oral Product,,
+175,,,,,,,C1253511,Metronidazole Vaginal Gel,,
+175,,,,,,,,,C1278985,Entire vagina
+175,,,,,,,,,C0042232,Vagina
+175,,,,,,,,,C1184743,bony process
+176,C0036916,Sexually Transmitted Diseases,,,,,,,,
+177,C0036916,Sexually Transmitted Diseases,,,,,,,,
+177,,,C0033774,Pruritus,,,,,,
+177,,,C2242996,Has tingling sensation,,,,,,
+177,,,,,C1519433,Special Diet Therapy,,,,
+177,,,,,C0452415,Diet good,,,,
+177,,,,,,,,,C1281590,Entire head
+178,C0036916,Sexually Transmitted Diseases,,,,,,,,
+178,,,,,,,,,C0017420,Genitalia
+179,C0036916,Sexually Transmitted Diseases,,,,,,,,
+180,C0036916,Sexually Transmitted Diseases,,,,,,,,
+180,,,C0030193,Pain,,,,,,
+180,,,,,C0152054,Therapeutic tactile stimulation,,,,
+181,C0036916,Sexually Transmitted Diseases,,,,,,,,
+181,,,C0015230,Exanthema,,,,,,
+181,,,C0085624,Burning sensation,,,,,,
+181,,,C0033774,Pruritus,,,,,,
+181,,,C0030193,Pain,,,,,,
+181,,,C0858708,itch burning,,,,,,
+181,,,C0234233,Sore to touch,,,,,,
+181,,,,,,,,,C0227936,Body of penis
+182,C0036916,Sexually Transmitted Diseases,,,,,,,,
+183,C0036916,Sexually Transmitted Diseases,,,,,,,,
+183,,,,,,,,,C0017420,Genitalia
+183,,,,,,,,,C0023759,Lip structure
+183,,,,,,,,,C0016504,Foot
+184,C0036916,Sexually Transmitted Diseases,,,,,,,,
+186,C0012634,Disease,,,,,,,,
+186,,,C0476270,Cardiovascular symptoms,,,,,,
+186,,,,,C0741847,Bypass,,,,
+186,,,,,C0185060,Crushing procedure,,,,
+186,,,,,C1536078,Bypass Surgery,,,,
+186,,,,,,,,,C0005847,Blood Vessel
+187,C0036916,Sexually Transmitted Diseases,,,,,,,,
+187,,,C0850045,intestinal pain,,,,,,
+187,,,C0000737,Abdominal Pain,,,,,,
+187,,,C1282310,Intermittent pain,,,,,,
+187,,,C0030193,Pain,,,,,,
+187,,,,,,,,,C0003461,Anus
+187,,,,,,,,,C0021853,Intestines
+192,C0027051,Myocardial Infarction,,,,,,,,
+192,,,C0008031,Chest Pain,,,,,,
+192,,,C0564820,Pain in left arm,,,,,,
+192,,,C0004604,Back Pain,,,,,,
+192,,,C0234255,Night pain,,,,,,
+192,,,C0013404,Dyspnea,,,,,,
+192,,,,,,,,,C1305417,Entire elbow region
+192,,,,,,,,,C1269612,Entire upper arm
+192,,,,,,,,,C1268990,Entire breast
+194,C0027051,Myocardial Infarction,,,,,,,,
+194,,,,,C3687832,DRUGS,,,,
+194,,,,,,,,,C0018787,Heart
+194,,,,,,,,,C1186983,anatomic valve
+195,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+195,,,C0012833,Dizziness,,,,,,
+195,,,C0235710,Chest discomfort,,,,,,
+195,,,C0013404,Dyspnea,,,,,,
+195,,,,,C1522704,Exercise Pain Management,,,,
+195,,,,,C0547070,Ablation,,,,
+197,C0036916,Sexually Transmitted Diseases,,,,,,,,
+197,,,,,,,,,C0030851,penis
+197,,,,,,,,,C0227998,Structure of left testis
+197,,,,,,,,,C0042449,Veins
+198,C0036916,Sexually Transmitted Diseases,,,,,,,,
+198,,,C0030193,Pain,,,,,,
+198,,,,,,,,,C0004895,Beak
+200,C0036916,Sexually Transmitted Diseases,,,,,,,,
+200,,,C0232861,Discharge from penis,,,,,,
+201,C0036916,Sexually Transmitted Diseases,,,,,,,,
+201,,,C0033774,Pruritus,,,,,,
+201,,,,,,,,,C0230388,Index finger
+201,,,,,,,,,C0018563,Hand
+201,,,,,,,,,C0040067,Thumb structure
+201,,,,,,,,,C1279153,Entire cheek
+201,,,,,,,,,C1281583,Entire hand
+202,C0036916,Sexually Transmitted Diseases,,,,,,,,
+203,C0036916,Sexually Transmitted Diseases,,,,,,,,
+203,,,,,,,,,C0042232,Vagina
+204,C0036916,Sexually Transmitted Diseases,,,,,,,,
+204,,,C0016204,Flatulence,,,,,,
+204,,,C0030193,Pain,,,,,,
+204,,,C0233488,Feeling despair,,,,,,
+204,,,,,C0021485,Injection of therapeutic agent,,,,
+204,,,,,C0152054,Therapeutic tactile stimulation,,,,
+204,,,,,C0474166,Medical counseling,,,,
+204,,,,,C0087111,Therapeutic procedure,,,,
+205,C0036916,Sexually Transmitted Diseases,,,,,,,,
+206,C0036916,Sexually Transmitted Diseases,,,,,,,,
+207,C0036916,Sexually Transmitted Diseases,,,,,,,,
+216,C0027051,Myocardial Infarction,,,,,,,,
+216,,,C0012833,Dizziness,,,,,,
+216,,,C0564820,Pain in left arm,,,,,,
+216,,,C0238995,sharp chest pain,,,,,,
+216,,,C0013404,Dyspnea,,,,,,
+216,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+216,,,,,C1522704,Exercise Pain Management,,,,
+216,,,,,,,,,C0018787,Heart
+216,,,,,,,,,C0230347,Left upper arm structure
+216,,,,,,,,,C2333155,Set of fingers of left hand
+217,C0020538,Hypertensive disease,,,,,,,,
+217,,,C0008031,Chest Pain,,,,,,
+217,,,C0795691,HEART PROBLEM,,,,,,
+217,,,C0018681,Headache,,,,,,
+217,,,C0010200,Coughing,,,,,,
+217,,,C0438716,Chest pressure,,,,,,
+217,,,,,C1293134,Enlargement procedure,,,,
+217,,,,,,,,,C0018787,Heart
+217,,,,,,,,,C1522460,Thoracic aorta
+222,C0004135,Ataxia Telangiectasia,,,,,,,,
+222,,,C0011991,Diarrhea,,,,,,
+222,,,,,C0184958,Toilet procedure,,,,
+224,C0036916,Sexually Transmitted Diseases,,,,,,,,
+225,C0020538,Hypertensive disease,,,,,,,,
+225,,,,,,,,,C0730183,Joint structure of ankle and/or foot
+225,,,,,,,,,C0016504,Foot
+226,C0036916,Sexually Transmitted Diseases,,,,,,,,
+226,,,,,C0920425,cancer therapy,,,,
+226,,,,,C0087111,Therapeutic procedure,,,,
+226,,,,,,,,,C0033572,Prostate
+227,C0036916,Sexually Transmitted Diseases,,,,,,,,
+228,C0036916,Sexually Transmitted Diseases,,,,,,,,
+228,,,,,C0152277,Incision and drainage,,,,
+229,C0036916,Sexually Transmitted Diseases,,,,,,,,
+230,C0036916,Sexually Transmitted Diseases,,,,,,,,
+230,,,,,C0040808,Treatment Protocols,,,,
+230,,,,,C0087111,Therapeutic procedure,,,,
+231,C0036916,Sexually Transmitted Diseases,,,,,,,,
+231,,,C0234233,Sore to touch,,,,,,
+231,,,,,,,,,C0018563,Hand
+231,,,,,,,,,C0015392,Eye
+231,,,,,,,,,C1281584,Entire finger
+231,,,,,,,,,C1281591,Entire face
+232,C0036916,Sexually Transmitted Diseases,,,,,,,,
+233,C0036916,Sexually Transmitted Diseases,,,,,,,,
+233,,,C0231218,Malaise,,,,,,
+233,,,C0030193,Pain,,,,,,
+233,,,,,,,,,C0007874,Cervix Uteri
+234,C0036916,Sexually Transmitted Diseases,,,,,,,,
+241,C0017152,Gastritis,,,,,,,,
+241,,,C0221512,Stomach ache,,,,,,
+241,,,C0221423,Illness (finding),,,,,,
+241,,,C0027497,Nausea,,,,,,
+243,C0036916,Sexually Transmitted Diseases,,,,,,,,
+243,,,,,,,,,C1281590,Entire head
+244,C0036916,Sexually Transmitted Diseases,,,,,,,,
+244,,,C0236082,Vaginal pain,,,,,,
+245,C0036916,Sexually Transmitted Diseases,,,,,,,,
+245,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+245,,,,,C0679624,medical treatment method,,,,
+246,C0036916,Sexually Transmitted Diseases,,,,,,,,
+246,,,C0312414,Menstrual spotting,,,,,,
+247,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+252,C0036916,Sexually Transmitted Diseases,,,,,,,,
+252,,,C0236080,Vaginal discomfort,,,,,,
+252,,,C0015230,Exanthema,,,,,,
+252,,,C0231218,Malaise,,,,,,
+252,,,C0033774,Pruritus,,,,,,
+252,,,C0242429,Sore Throat,,,,,,
+252,,,C0231528,Myalgia,,,,,,
+252,,,,,,,,,C1278997,Entire scalp
+254,C0036916,Sexually Transmitted Diseases,,,,,,,,
+254,,,C0242429,Sore Throat,,,,,,
+254,,,C0033774,Pruritus,,,,,,
+254,,,,,,,,,C0042232,Vagina
+255,C0019693,HIV Infections,,,,,,,,
+255,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+255,,,C0030193,Pain,,,,,,
+255,,,C0234233,Sore to touch,,,,,,
+255,,,,,,,,,C0030851,penis
+255,,,,,,,,,C0042232,Vagina
+261,C0270814,Spastic syndrome,,,,,,,,
+261,,,C0596601,gastrointestinal gas,,,,,,
+261,,,C0476289,Abdominal wind pain,,,,,,
+261,,,,,,,,,C0222762,Thoracic cage structure
+263,C0036916,Sexually Transmitted Diseases,,,,,,,,
+264,C0036916,Sexually Transmitted Diseases,,,,,,,,
+264,,,C0033774,Pruritus,,,,,,
+264,,,C0030193,Pain,,,,,,
+264,,,C0236078,Pain in scrotum,,,,,,
+264,,,,,,,,,C0036471,Scrotum
+264,,,,,,,,,C1280739,Entire penis
+265,C0036916,Sexually Transmitted Diseases,,,,,,,,
+265,,,C0234233,Sore to touch,,,,,,
+265,,,,,C0152277,Incision and drainage,,,,
+266,C0036916,Sexually Transmitted Diseases,,,,,,,,
+266,,,C0033774,Pruritus,,,,,,
+267,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+267,,,,,,,C0987221,Lisinopril 40 MG,,
+267,,,,,,,,,C0022646,Kidney
+269,C0036916,Sexually Transmitted Diseases,,,,,,,,
+270,C0036916,Sexually Transmitted Diseases,,,,,,,,
+270,,,C1096446,slight fever,,,,,,
+270,,,C0231218,Malaise,,,,,,
+270,,,C0242429,Sore Throat,,,,,,
+270,,,,,C0040423,Tonsillectomy,,,,
+271,C0036916,Sexually Transmitted Diseases,,,,,,,,
+271,,,C0234233,Sore to touch,,,,,,
+271,,,,,,,,,C1281590,Entire head
+271,,,,,,,,,C0030851,penis
+272,C0036916,Sexually Transmitted Diseases,,,,,,,,
+272,,,C0948521,itching mouth,,,,,,
+272,,,C0268988,Pruritus of penis,,,,,,
+272,,,,,,,,,C1281590,Entire head
+273,C0009663,Condylomata Acuminata,,,,,,,,
+273,,,C0033774,Pruritus,,,,,,
+273,,,,,C1456647,Childhood Immunization,,,,
+273,,,,,C0152054,Therapeutic tactile stimulation,,,,
+273,,,,,,,,,C0030851,penis
+273,,,,,,,,,C1279153,Entire cheek
+274,C0263492,Pili incarnati (disorder),,,,,,,,
+275,C0036916,Sexually Transmitted Diseases,,,,,,,,
+275,,,C0085631,Agitation,,,,,,
+276,C0036916,Sexually Transmitted Diseases,,,,,,,,
+276,,,C0015230,Exanthema,,,,,,
+276,,,,,,,,,C0030851,penis
+276,,,,,,,,,C0017420,Genitalia
+278,C0004135,Ataxia Telangiectasia,,,,,,,,
+278,,,,,,,,,C0021853,Intestines
+279,C0014130,Endocrine System Diseases,,,,,,,,
+279,,,C0011991,Diarrhea,,,,,,
+279,,,C0231239,Fluctuation,,,,,,
+279,,,,,C0700589,Contraceptive methods,,,,
+279,,,,,C0032042,Placebos,,,,
+279,,,,,C0029151,Oral contraception,,,,
+280,C0036916,Sexually Transmitted Diseases,,,,,,,,
+280,,,C0037088,Signs and Symptoms,,,,,,
+280,,,C0848259,male puberty,,,,,,
+280,,,C0040822,Tremor,,,,,,
+280,,,,,C0439631,Primary operation,,,,
+280,,,,,C1959633,Spatial guidance for medical procedure,,,,
+280,,,,,,,,,C0039597,Testis
+280,,,,,,,,,C0030851,penis
+280,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+280,,,,,,,,,C0017421,Female genitalia
+280,,,,,,,,,C0017420,Genitalia
+280,,,,,,,,,C0008984,Clitoris
+280,,,,,,,,,C0221980,Structure of hair of face
+282,C0036916,Sexually Transmitted Diseases,,,,,,,,
+282,,,C0497406,Overweight,,,,,,
+282,,,,,C0042387,Vasectomy,,,,
+282,,,,,,,,,C0030851,penis
+282,,,,,,,,,C0005847,Blood Vessel
+284,C0027051,Myocardial Infarction,,,,,,,,
+289,C0036916,Sexually Transmitted Diseases,,,,,,,,
+289,,,,,C0185115,Extraction,,,,
+289,,,,,,,,,C1281591,Entire face
+290,C0036916,Sexually Transmitted Diseases,,,,,,,,
+290,,,C0085635,Photopsia,,,,,,
+290,,,C0085624,Burning sensation,,,,,,
+290,,,C0030193,Pain,,,,,,
+290,,,,,,,,,C0023317,"Lens, Crystalline"
+291,C0036916,Sexually Transmitted Diseases,,,,,,,,
+291,,,C0015230,Exanthema,,,,,,
+291,,,C0085624,Burning sensation,,,,,,
+291,,,C2242996,Has tingling sensation,,,,,,
+291,,,,,C0439631,Primary operation,,,,
+291,,,,,,,,,C1281590,Entire head
+291,,,,,,,,,C0030851,penis
+292,C0036916,Sexually Transmitted Diseases,,,,,,,,
+292,,,,,C0184661,Interventional procedure,,,,
+292,,,,,C1627358,Refractive surgery enhancement,,,,
+292,,,,,C0087111,Therapeutic procedure,,,,
+292,,,,,,,,,C0030851,penis
+292,,,,,,,,,C1184743,bony process
+293,C0036916,Sexually Transmitted Diseases,,,,,,,,
+293,,,C0015230,Exanthema,,,,,,
+293,,,,,,,,,C0036471,Scrotum
+293,,,,,,,,,C0030851,penis
+294,C0036916,Sexually Transmitted Diseases,,,,,,,,
+294,,,C0240812,Prostatic pain,,,,,,
+295,C0036916,Sexually Transmitted Diseases,,,,,,,,
+295,,,C0007939,Syphilitic chancre,,,,,,
+295,,,C0030193,Pain,,,,,,
+295,,,C0234233,Sore to touch,,,,,,
+295,,,,,,,,,C0042232,Vagina
+295,,,,,,,,,C1281584,Entire finger
+296,C0027051,Myocardial Infarction,,,,,,,,
+296,,,,,C0086153,Dietary Modification,,,,
+296,,,,,,,,,C0018787,Heart
+296,,,,,,,,,C4068922,Earlobe
+296,,,,,,,,,C0015392,Eye
+296,,,,,,,,,C0229315,Ear lobe
+300,C0036916,Sexually Transmitted Diseases,,,,,,,,
+300,,,C0231218,Malaise,,,,,,
+300,,,C0312414,Menstrual spotting,,,,,,
+300,,,C0030193,Pain,,,,,,
+300,,,,,C0029151,Oral contraception,,,,
+301,C0011119,Decompression Sickness,,,,,,,,
+301,,,C0014724,Eructation,,,,,,
+301,,,,,C0152060,Transection (procedure),,,,
+301,,,,,C1522704,Exercise Pain Management,,,,
+301,,,,,,,,,C0018787,Heart
+301,,,,,,,,,C1281592,Entire neck
+302,C0036916,Sexually Transmitted Diseases,,,,,,,,
+308,C0017547,Gigantism,,,,,,,,
+308,,,,,,,,,C0030851,penis
+311,C0022104,Irritable Bowel Syndrome,,,,,,,,
+311,,,C0030193,Pain,,,,,,
+311,,,,,C1519433,Special Diet Therapy,,,,
+311,,,,,,,,,C1278920,Entire stomach
+311,,,,,,,,,C1281590,Entire head
+311,,,,,,,,,C0021853,Intestines
+314,C0036916,Sexually Transmitted Diseases,,,,,,,,
+317,C0039128,Syphilis,,,,,,,,
+317,,,C0033774,Pruritus,,,,,,
+317,,,,,C1511790,Detection,,,,
+317,,,,,,,,,C0230102,Lower back structure
+317,,,,,,,,,C1281591,Entire face
+317,,,,,,,,,C1281592,Entire neck
+318,C0036916,Sexually Transmitted Diseases,,,,,,,,
+318,,,C0033774,Pruritus,,,,,,
+318,,,,,,,,,C1306819,Entire prepuce
+318,,,,,,,,,C0018563,Hand
+318,,,,,,,,,C1550261,Glans
+318,,,,,,,,,C0227951,Corona of glans
+318,,,,,,,,,C1280739,Entire penis
+320,C0036916,Sexually Transmitted Diseases,,,,,,,,
+321,C0036916,Sexually Transmitted Diseases,,,,,,,,
+322,C0037856,Spermatic Cord Torsion,,,,,,,,
+323,C0019340,herpes,,,,,,,,
+325,C0036916,Sexually Transmitted Diseases,,,,,,,,
+325,,,C0221512,Stomach ache,,,,,,
+325,,,C0011991,Diarrhea,,,,,,
+325,,,C0018681,Headache,,,,,,
+325,,,C0030193,Pain,,,,,,
+326,C0036916,Sexually Transmitted Diseases,,,,,,,,
+326,,,,,,,,,C0022646,Kidney
+330,C0036916,Sexually Transmitted Diseases,,,,,,,,
+331,C0036916,Sexually Transmitted Diseases,,,,,,,,
+331,,,C0027769,Nervousness,,,,,,
+332,C0036916,Sexually Transmitted Diseases,,,,,,,,
+333,C0036916,Sexually Transmitted Diseases,,,,,,,,
+334,C0036916,Sexually Transmitted Diseases,,,,,,,,
+334,,,C0234233,Sore to touch,,,,,,
+335,C0036916,Sexually Transmitted Diseases,,,,,,,,
+335,,,C0033774,Pruritus,,,,,,
+335,,,,,,,,,C1278985,Entire vagina
+335,,,,,,,,,C0227296,Papilla of duodenum
+335,,,,,,,,,C0042993,Vulva
+335,,,,,,,,,C0003461,Anus
+337,C0036916,Sexually Transmitted Diseases,,,,,,,,
+338,C0036916,Sexually Transmitted Diseases,,,,,,,,
+340,C0036916,Sexually Transmitted Diseases,,,,,,,,
+340,,,C0221423,Illness (finding),,,,,,
+341,C0036916,Sexually Transmitted Diseases,,,,,,,,
+341,,,C0020175,Hunger,,,,,,
+341,,,,,,,,,C0003461,Anus
+342,C0042029,Urinary tract infection,,,,,,,,
+342,,,C0030794,Pelvic Pain,,,,,,
+342,,,C0497481,Pain in penis,,,,,,
+342,,,,,,,,,C1278980,Entire prostate
+343,C0036916,Sexually Transmitted Diseases,,,,,,,,
+343,,,C0033774,Pruritus,,,,,,
+343,,,C0030193,Pain,,,,,,
+343,,,,,,,,,C0042993,Vulva
+343,,,,,,,,,C1268990,Entire breast
+344,C0036916,Sexually Transmitted Diseases,,,,,,,,
+344,,,C0234233,Sore to touch,,,,,,
+344,,,,,,,,,C1281591,Entire face
+344,,,,,,,,,C1280739,Entire penis
+345,C0010709,Cyst,,,,,,,,
+345,,,,,,,,,C1281197,Entire left ovary
+346,C0008350,Cholelithiasis,,,,,,,,
+346,,,C0011991,Diarrhea,,,,,,
+346,,,C0221423,Illness (finding),,,,,,
+346,,,C0042963,Vomiting,,,,,,
+346,,,C0027497,Nausea,,,,,,
+348,C0021843,Intestinal Obstruction,,,,,,,,
+348,,,C0009806,Constipation,,,,,,
+348,,,C0042963,Vomiting,,,,,,
+348,,,C0596601,gastrointestinal gas,,,,,,
+348,,,C0013395,Dyspepsia,,,,,,
+348,,,C0027497,Nausea,,,,,,
+348,,,,,C1306232,Severing,,,,
+348,,,,,C0012826,Division of adhesions,,,,
+348,,,,,C0192573,Operation on intestine,,,,
+348,,,,,C0023038,Laparotomy,,,,
+348,,,,,,,,,C0021852,"Intestines, Small"
+348,,,,,,,,,C1281594,Entire abdomen
+349,C0036916,Sexually Transmitted Diseases,,,,,,,,
+351,C0036916,Sexually Transmitted Diseases,,,,,,,,
+351,,,C0027497,Nausea,,,,,,
+351,,,C0030193,Pain,,,,,,
+351,,,,,C0886384,5 minutes Office visit,,,,
+352,C0036916,Sexually Transmitted Diseases,,,,,,,,
+352,,,C0030193,Pain,,,,,,
+352,,,,,C0024875,Massage,,,,
+352,,,,,,,,,C0039597,Testis
+352,,,,,,,,,C0014533,Epididymis
+352,,,,,,,,,C0227997,Structure of right testis
+353,C0036916,Sexually Transmitted Diseases,,,,,,,,
+353,,,C0015230,Exanthema,,,,,,
+353,,,C0231218,Malaise,,,,,,
+353,,,C0030193,Pain,,,,,,
+353,,,,,,,,,C1281590,Entire head
+353,,,,,,,,,C1280739,Entire penis
+362,C0036916,Sexually Transmitted Diseases,,,,,,,,
+362,,,C0030193,Pain,,,,,,
+362,,,,,,,,,C0030851,penis
+363,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+363,,,C3714552,Weakness,,,,,,
+363,,,,,C0040732,Transplantation,,,,
+363,,,,,C1519433,Special Diet Therapy,,,,
+366,C0036916,Sexually Transmitted Diseases,,,,,,,,
+367,C0085166,Bacterial Vaginosis,,,,,,,,
+367,,,C0036572,Seizures,,,,,,
+367,,,C0312414,Menstrual spotting,,,,,,
+367,,,,,C0600080,Stretching exercises,,,,
+367,,,,,,,,,C0020412,Structure of hymen
+368,C0009663,Condylomata Acuminata,,,,,,,,
+368,,,,,,,,,C0227936,Body of penis
+368,,,,,,,,,C1280740,Entire scrotum
+368,,,,,,,,,C1280739,Entire penis
+370,C0036916,Sexually Transmitted Diseases,,,,,,,,
+370,,,C0085624,Burning sensation,,,,,,
+370,,,,,,,,,C0030851,penis
+370,,,,,,,,,C1280739,Entire penis
+372,C1861537,OROFACIAL CLEFT 1,,,,,,,,
+372,,,C0009806,Constipation,,,,,,
+372,,,C0085624,Burning sensation,,,,,,
+372,,,,,C3665370,Operation on uterus,,,,
+372,,,,,C0728940,Excision,,,,
+372,,,,,C0020699,Hysterectomy,,,,
+372,,,,,,,,,C0224086,Belly of skeletal muscle
+372,,,,,,,,,C0042149,Uterus
+372,,,,,,,,,C0042232,Vagina
+374,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+374,,,C0037088,Signs and Symptoms,,,,,,
+374,,,C0497406,Overweight,,,,,,
+374,,,,,C0152277,Incision and drainage,,,,
+374,,,,,C1522704,Exercise Pain Management,,,,
+375,C0019112,Hemorrhoids,,,,,,,,
+375,,,C0221512,Stomach ache,,,,,,
+375,,,C0039070,Syncope,,,,,,
+375,,,C0030193,Pain,,,,,,
+375,,,,,C0184958,Toilet procedure,,,,
+375,,,,,C0152277,Incision and drainage,,,,
+378,C0041912,Upper Respiratory Infections,,,,,,,,
+378,,,C0221423,Illness (finding),,,,,,
+379,C0878544,Cardiomyopathies,,,,,,,,
+379,,,C0232119,Pulsus trigeminus,,,,,,
+379,,,,,,,,,C0018787,Heart
+379,,,,,,,,,C1281592,Entire neck
+383,C0152020,Gastroparesis,,,,,,,,
+383,,,C0027497,Nausea,,,,,,
+386,C0036690,Septicemia,,,,,,,,
+386,,,,,C0152054,Therapeutic tactile stimulation,,,,
+386,,,,,,,C0785689,alcohol swabs,,
+386,,,,,,,,,C0040132,Thyroid Gland
+386,,,,,,,,,C0018563,Hand
+386,,,,,,,,,C0042449,Veins
+387,C0036916,Sexually Transmitted Diseases,,,,,,,,
+387,,,C0221423,Illness (finding),,,,,,
+387,,,C0392171,Influenza-like symptoms,,,,,,
+387,,,C0234233,Sore to touch,,,,,,
+387,,,,,,,,,C0042232,Vagina
+388,C0020538,Hypertensive disease,,,,,,,,
+388,,,C0581879,Felt faint,,,,,,
+388,,,,,,,,,C0018787,Heart
+390,C0036916,Sexually Transmitted Diseases,,,,,,,,
+390,,,C0577573,Mass of body region,,,,,,
+390,,,C0012833,Dizziness,,,,,,
+390,,,,,,,,,C0039597,Testis
+390,,,,,,,,,C0227997,Structure of right testis
+390,,,,,,,,,C1281594,Entire abdomen
+391,C0036916,Sexually Transmitted Diseases,,,,,,,,
+391,,,C0030193,Pain,,,,,,
+392,C0036916,Sexually Transmitted Diseases,,,,,,,,
+392,,,C0027769,Nervousness,,,,,,
+392,,,,,C0301571,Liquid diet,,,,
+392,,,,,,,,,C1281590,Entire head
+392,,,,,,,,,C1278985,Entire vagina
+392,,,,,,,,,C0227936,Body of penis
+392,,,,,,,,,C0042232,Vagina
+392,,,,,,,,,C1280739,Entire penis
+393,C0036916,Sexually Transmitted Diseases,,,,,,,,
+394,C0036916,Sexually Transmitted Diseases,,,,,,,,
+394,,,C0037088,Signs and Symptoms,,,,,,
+394,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+394,,,,,C0087111,Therapeutic procedure,,,,
+395,C0036916,Sexually Transmitted Diseases,,,,,,,,
+395,,,,,C0040461,Toothbrushing,,,,
+395,,,,,,,,,C1278927,Entire anus
+398,C0036916,Sexually Transmitted Diseases,,,,,,,,
+398,,,,,,,,,C1281590,Entire head
+400,C0036916,Sexually Transmitted Diseases,,,,,,,,
+400,,,C0037088,Signs and Symptoms,,,,,,
+400,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+400,,,,,C0087111,Therapeutic procedure,,,,
+402,C0036916,Sexually Transmitted Diseases,,,,,,,,
+402,,,C0033774,Pruritus,,,,,,
+402,,,C0085624,Burning sensation,,,,,,
+402,,,C0268988,Pruritus of penis,,,,,,
+402,,,C0751372,Nerve Pain,,,,,,
+402,,,C0564823,Pain in right leg,,,,,,
+402,,,C0234233,Sore to touch,,,,,,
+402,,,,,,,,,C0030851,penis
+402,,,,,,,,,C1280541,Entire nerve
+403,C0022104,Irritable Bowel Syndrome,,,,,,,,
+408,C0019340,herpes,,,,,,,,
+408,,,C0231218,Malaise,,,,,,
+408,,,C0085624,Burning sensation,,,,,,
+408,,,,,C0204774,Soaking Procedure,,,,
+408,,,,,,,,,C0042232,Vagina
+408,,,,,,,,,C0423866,Lanugo
+410,C0036916,Sexually Transmitted Diseases,,,,,,,,
+410,,,C0033774,Pruritus,,,,,,
+410,,,,,,,,,C0042232,Vagina
+410,,,,,,,,,C0041967,Urethra
+411,C0036916,Sexually Transmitted Diseases,,,,,,,,
+415,C0149721,Left Ventricular Hypertrophy,,,,,,,,
+415,,,C0008031,Chest Pain,,,,,,
+415,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+415,,,C2242996,Has tingling sensation,,,,,,
+415,,,C0027769,Nervousness,,,,,,
+415,,,,,C1293134,Enlargement procedure,,,,
+415,,,,,C0087111,Therapeutic procedure,,,,
+415,,,,,,,,,C0018787,Heart
+415,,,,,,,,,C0015385,Limb structure
+415,,,,,,,,,C1281591,Entire face
+415,,,,,,,,,C1186983,anatomic valve
+418,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+418,,,C0476289,Abdominal wind pain,,,,,,
+418,,,C0030193,Pain,,,,,,
+418,,,C0013404,Dyspnea,,,,,,
+418,,,,,C0152060,Transection (procedure),,,,
+418,,,,,C0152277,Incision and drainage,,,,
+418,,,,,,,,,C1278920,Entire stomach
+418,,,,,,,,,C1281590,Entire head
+418,,,,,,,,,C0011980,Respiratory Diaphragm
+418,,,,,,,,,C0018787,Heart
+418,,,,,,,,,C0007572,Celiac Plexus
+418,,,,,,,,,C1269612,Entire upper arm
+418,,,,,,,,,C0022742,Knee
+418,,,,,,,,,C0458827,Airway structure
+418,,,,,,,,,C0014876,Esophagus
+421,C0002871,Anemia,,,,,,,,
+421,,,C0333243,Pitting edema,,,,,,
+421,,,,,C0886384,5 minutes Office visit,,,,
+421,,,,,C1522704,Exercise Pain Management,,,,
+421,,,,,C0058928,ECHO protocol,,,,
+421,,,,,C3275122,Pacemaker Procedure,,,,
+421,,,,,,,,,C1279605,Entire right lower leg
+421,,,,,,,,,C0018787,Heart
+421,,,,,,,,,C0023884,Liver
+421,,,,,,,,,C0022646,Kidney
+423,C0036916,Sexually Transmitted Diseases,,,,,,,,
+423,,,,,C0152054,Therapeutic tactile stimulation,,,,
+423,,,,,,,,,C0030851,penis
+425,C0876973,Infectious disease of lung,,,,,,,,
+425,,,,,,,,,C0018787,Heart
+429,C0085615,Right bundle branch block,,,,,,,,
+429,,,,,C0188413,Operative procedure on foot,,,,
+429,,,,,,,,,C0018563,Hand
+429,,,,,,,,,C1288949,Entire left hand
+430,C0017168,Gastroesophageal reflux disease,,,,,,,,
+430,,,C0221512,Stomach ache,,,,,,
+430,,,C0231218,Malaise,,,,,,
+430,,,C1291077,Abdominal bloating,,,,,,
+430,,,C0030193,Pain,,,,,,
+430,,,,,C0017118,Gastrectomy,,,,
+430,,,,,C0439631,Primary operation,,,,
+430,,,,,C1456587,Bariatric Surgery,,,,
+430,,,,,,,,,C1278920,Entire stomach
+430,,,,,,,,,C0224086,Belly of skeletal muscle
+432,C0020538,Hypertensive disease,,,,,,,,
+432,,,C0036572,Seizures,,,,,,
+432,,,C0683369,Clouded consciousness,,,,,,
+433,C0039128,Syphilis,,,,,,,,
+433,,,C0683369,Clouded consciousness,,,,,,
+434,C0036916,Sexually Transmitted Diseases,,,,,,,,
+435,C0036916,Sexually Transmitted Diseases,,,,,,,,
+435,,,C0018681,Headache,,,,,,
+435,,,,,C0152277,Incision and drainage,,,,
+435,,,,,C1533685,Injection procedure,,,,
+435,,,,,C0749303,testosterone injection,,,,
+435,,,,,C0016999,Gamete Intrafallopian Transfer,,,,
+435,,,,,,,,,C1281590,Entire head
+435,,,,,,,,,C0030851,penis
+436,C0039128,Syphilis,,,,,,,,
+436,,,,,C0087111,Therapeutic procedure,,,,
+437,C0036916,Sexually Transmitted Diseases,,,,,,,,
+437,,,,,,,,,C0030851,penis
+437,,,,,,,,,C0003461,Anus
+438,C0019693,HIV Infections,,,,,,,,
+438,,,C0039591,Pain in testicle,,,,,,
+438,,,C0234233,Sore to touch,,,,,,
+438,,,,,C0886384,5 minutes Office visit,,,,
+439,C0036916,Sexually Transmitted Diseases,,,,,,,,
+439,,,,,,,,,C0003461,Anus
+440,C0036916,Sexually Transmitted Diseases,,,,,,,,
+440,,,C0033774,Pruritus,,,,,,
+440,,,C0234233,Sore to touch,,,,,,
+441,C0036916,Sexually Transmitted Diseases,,,,,,,,
+441,,,,,C0074125,bleomycin/doxorubicin/lomustine/streptozocin protocol,,,,
+441,,,,,,,,,C0017420,Genitalia
+441,,,,,,,,,C0040426,Tooth structure
+442,C0036916,Sexually Transmitted Diseases,,,,,,,,
+443,C0036916,Sexually Transmitted Diseases,,,,,,,,
+443,,,C2126231,light bleeding between periods (symptom),,,,,,
+443,,,C0030193,Pain,,,,,,
+444,C0036916,Sexually Transmitted Diseases,,,,,,,,
+444,,,C0231218,Malaise,,,,,,
+444,,,C0423571,Abnormal sensation,,,,,,
+444,,,C3714552,Weakness,,,,,,
+444,,,C0030193,Pain,,,,,,
+444,,,,,C0262718,Pelvic floor exercises,,,,
+444,,,,,C1522704,Exercise Pain Management,,,,
+444,,,,,,,,,C0042027,Urinary tract
+444,,,,,,,,,C0932441,Muscle of pelvic diaphragm
+444,,,,,,,,,C0030851,penis
+444,,,,,,,,,C0005682,Urinary Bladder
+444,,,,,,,,,C0000739,Abdominal Muscles
+444,,,,,,,,,C1995013,Set of muscles
+444,,,,,,,,,C0041967,Urethra
+445,C0036916,Sexually Transmitted Diseases,,,,,,,,
+446,C0036916,Sexually Transmitted Diseases,,,,,,,,
+446,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+447,C0036916,Sexually Transmitted Diseases,,,,,,,,
+447,,,,,,,,,C0030851,penis
+448,C0036916,Sexually Transmitted Diseases,,,,,,,,
+449,C0022104,Irritable Bowel Syndrome,,,,,,,,
+449,,,C0030193,Pain,,,,,,
+449,,,C0232495,Lower abdominal pain,,,,,,
+456,C0017168,Gastroesophageal reflux disease,,,,,,,,
+456,,,C1579931,Depressed - symptom,,,,,,
+456,,,,,C0087111,Therapeutic procedure,,,,
+456,,,,,,,,,C1278920,Entire stomach
+456,,,,,,,,,C1280698,Entire throat (surface region of neck)
+456,,,,,,,,,C0014876,Esophagus
+456,,,,,,,,,C1409894,Sphincter
+457,C0017168,Gastroesophageal reflux disease,,,,,,,,
+457,,,C0574068,Rib pain,,,,,,
+457,,,C0030193,Pain,,,,,,
+457,,,,,C0394664,Acupuncture procedure,,,,
+457,,,,,,,,,C0947182,ribs on right side
+457,,,,,,,,,C0222762,Thoracic cage structure
+458,C0022104,Irritable Bowel Syndrome,,,,,,,,
+458,,,,,,,,,C0699819,Gut
+458,,,,,,,,,C1281591,Entire face
+463,C0036916,Sexually Transmitted Diseases,,,,,,,,
+463,,,C0030193,Pain,,,,,,
+463,,,C0683369,Clouded consciousness,,,,,,
+463,,,,,,,,,C0036471,Scrotum
+463,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+463,,,,,,,,,C1184743,bony process
+463,,,,,,,,,C1280739,Entire penis
+465,C0036916,Sexually Transmitted Diseases,,,,,,,,
+465,,,C0013132,Drooling,,,,,,
+465,,,,,C1292856,Stimulation procedure,,,,
+465,,,,,,,,,C1281590,Entire head
+465,,,,,,,,,C0030851,penis
+466,C0027051,Myocardial Infarction,,,,,,,,
+467,C0036916,Sexually Transmitted Diseases,,,,,,,,
+467,,,C0033774,Pruritus,,,,,,
+467,,,C0027769,Nervousness,,,,,,
+467,,,C0683369,Clouded consciousness,,,,,,
+469,C0022104,Irritable Bowel Syndrome,,,,,,,,
+472,C0020538,Hypertensive disease,,,,,,,,
+474,C0401151,Chronic diarrhea,,,,,,,,
+474,,,C0596601,gastrointestinal gas,,,,,,
+474,,,C1291077,Abdominal bloating,,,,,,
+474,,,,,C1519433,Special Diet Therapy,,,,
+476,C0017168,Gastroesophageal reflux disease,,,,,,,,
+476,,,C0438716,Chest pressure,,,,,,
+479,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+480,C0018802,Congestive heart failure,,,,,,,,
+480,,,,,C1522704,Exercise Pain Management,,,,
+481,C0019196,Hepatitis C,,,,,,,,
+483,C0019196,Hepatitis C,,,,,,,,
+484,C0036916,Sexually Transmitted Diseases,,,,,,,,
+484,,,C0036572,Seizures,,,,,,
+484,,,C0849986,foreskin swelling,,,,,,
+484,,,C0231218,Malaise,,,,,,
+484,,,C0085624,Burning sensation,,,,,,
+484,,,C0033774,Pruritus,,,,,,
+484,,,C0234233,Sore to touch,,,,,,
+484,,,,,,,,,C1281590,Entire head
+484,,,,,,,,,C0227952,Foreskin of penis
+484,,,,,,,,,C1280739,Entire penis
+485,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+486,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+486,,,,,C0040423,Tonsillectomy,,,,
+486,,,,,,,,,C0040408,Tongue
+486,,,,,,,,,C0042173,Uvula of palate
+489,C0036916,Sexually Transmitted Diseases,,,,,,,,
+489,,,C0475858,Generalized pruritus,,,,,,
+489,,,C0278144,Dull pain,,,,,,
+489,,,C0242429,Sore Throat,,,,,,
+489,,,C0085624,Burning sensation,,,,,,
+489,,,C0241426,Burning tongue,,,,,,
+489,,,C3853138,Very mild pain,,,,,,
+489,,,C0039591,Pain in testicle,,,,,,
+489,,,,,C0301571,Liquid diet,,,,
+489,,,,,,,,,C0039597,Testis
+489,,,,,,,,,C1278920,Entire stomach
+489,,,,,,,,,C1281590,Entire head
+489,,,,,,,,,C0030851,penis
+489,,,,,,,,,C0018787,Heart
+489,,,,,,,,,C0042232,Vagina
+489,,,,,,,,,C0746922,Anatomic Node
+489,,,,,,,,,C0015392,Eye
+489,,,,,,,,,C0041967,Urethra
+489,,,,,,,,,C1281592,Entire neck
+490,C0009450,Communicable Diseases,,,,,,,,
+490,,,,,C0439631,Primary operation,,,,
+491,C0036916,Sexually Transmitted Diseases,,,,,,,,
+492,C0022104,Irritable Bowel Syndrome,,,,,,,,
+492,,,,,,,,,C1281591,Entire face
+494,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+494,,,C0231218,Malaise,,,,,,
+494,,,C0015672,Fatigue,,,,,,
+494,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+494,,,C0030193,Pain,,,,,,
+494,,,C0028084,Nightmares,,,,,,
+494,,,C0392674,Exhaustion,,,,,,
+494,,,,,C1522704,Exercise Pain Management,,,,
+494,,,,,,,,,C0006104,Brain
+494,,,,,,,,,C1281591,Entire face
+496,C0004763,Barrett Esophagus,,,,,,,,
+496,,,,,C0087111,Therapeutic procedure,,,,
+499,C0006277,Bronchitis,,,,,,,,
+499,,,,,,,,,C1280698,Entire throat (surface region of neck)
+499,,,,,,,,,C0836921,Tonsil
+505,C0016053,Fibromyalgia,,,,,,,,
+505,,,C0036572,Seizures,,,,,,
+505,,,C0234238,Ache,,,,,,
+505,,,C0030193,Pain,,,,,,
+505,,,,,,,,,C0030797,Pelvis
+506,C0016053,Fibromyalgia,,,,,,,,
+506,,,,,C0565867,delivery method,,,,
+517,C0041912,Upper Respiratory Infections,,,,,,,,
+517,,,C1260880,Rhinorrhea,,,,,,
+517,,,C0557875,Tired,,,,,,
+517,,,C0030193,Pain,,,,,,
+517,,,C0239886,Frontal headache,,,,,,
+517,,,,,C1522704,Exercise Pain Management,,,,
+518,C0149516,Chronic sinusitis,,,,,,,,
+518,,,,,,,,,C0028429,Nose
+520,C0041912,Upper Respiratory Infections,,,,,,,,
+520,,,C0027497,Nausea,,,,,,
+520,,,,,C0013103,Drainage procedure,,,,
+524,C0012634,Disease,,,,,,,,
+524,,,,,C0452240,Physical therapy exercises,,,,
+524,,,,,C0196998,Injection of eye proper,,,,
+524,,,,,C0038901,Ophthalmologic Surgical Procedures,,,,
+524,,,,,C0007389,Cataract Extraction,,,,
+524,,,,,C0087111,Therapeutic procedure,,,,
+524,,,,,,,,,C1280202,Entire eye
+524,,,,,,,,,C0229090,Left eye structure
+524,,,,,,,,,C1281591,Entire face
+525,C0019917,Hordeolum,,,,,,,,
+525,,,,,,,,,C1281590,Entire head
+525,,,,,,,,,C2706046,Eye lid
+525,,,,,,,,,C0015426,Eyelid structure
+528,C0152227,Excessive tearing,,,,,,,,
+528,,,C0085624,Burning sensation,,,,,,
+528,,,C0018681,Headache,,,,,,
+528,,,C0030193,Pain,,,,,,
+528,,,,,C3889650,Transarterial Radioembolization,,,,
+528,,,,,,,,,C1280202,Entire eye
+528,,,,,,,,,C0022742,Knee
+528,,,,,,,,,C0015392,Eye
+528,,,,,,,,,C2706046,Eye lid
+528,,,,,,,,,C0015426,Eyelid structure
+528,,,,,,,,,C1253959,Branch of
+529,C0011389,Dental Plaque,,,,,,,,
+529,,,C0314719,Dryness of eye,,,,,,
+529,,,,,C0752094,"Keratomileusis, Laser In Situ",,,,
+529,,,,,C0184661,Interventional procedure,,,,
+529,,,,,C0200149,Ophthalmic examination and evaluation,,,,
+529,,,,,C0152054,Therapeutic tactile stimulation,,,,
+529,,,,,C0007389,Cataract Extraction,,,,
+529,,,,,C0741419,back surgery,,,,
+529,,,,,C1298763,Implantation of posterior chamber intraocular lens,,,,
+529,,,,,C0087111,Therapeutic procedure,,,,
+529,,,,,,,,,C0015392,Eye
+529,,,,,,,,,C0229090,Left eye structure
+529,,,,,,,,,C0023317,"Lens, Crystalline"
+535,C0031350,Pharyngitis,,,,,,,,
+535,,,C0242429,Sore Throat,,,,,,
+535,,,C0849967,feeling run down,,,,,,
+535,,,C0010200,Coughing,,,,,,
+535,,,,,,,,,C4019107,Collar Bone
+535,,,,,,,,,C1281592,Entire neck
+536,C0234786,Laryngismus paralyticus,,,,,,,,
+536,,,C0849911,ear popping,,,,,,
+536,,,,,,,,,C1281590,Entire head
+536,,,,,,,,,C0521421,Entire ear
+537,C0730321,Punctate inner choroidopathy,,,,,,,,
+537,,,C0314719,Dryness of eye,,,,,,
+537,,,,,C2461575,Medical and Surgical @ Eye @ Drainage,,,,
+537,,,,,C0013103,Drainage procedure,,,,
+537,,,,,,,,,C0015422,Eyelash
+544,C0012634,Disease,,,,,,,,
+544,,,C0344232,Blurred vision,,,,,,
+544,,,,,C0743733,Eye laser surgery,,,,
+544,,,,,C0087111,Therapeutic procedure,,,,
+544,,,,,,,,,C0015392,Eye
+548,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+548,,,C0016204,Flatulence,,,,,,
+548,,,C0575090,Equilibration disorder,,,,,,
+548,,,C0030193,Pain,,,,,,
+548,,,,,C1959633,Spatial guidance for medical procedure,,,,
+548,,,,,,,,,C0229298,Right ear structure
+548,,,,,,,,,C0227192,Inferior esophageal sphincter structure
+548,,,,,,,,,C0521421,Entire ear
+552,C0043352,Xerostomia,,,,,,,,
+552,,,C1442877,Sore skin,,,,,,
+552,,,,,,,,,C0226951,Structure of gland of mucous membrane of tongue
+552,,,,,,,,,C0836921,Tonsil
+555,C0031350,Pharyngitis,,,,,,,,
+555,,,C0741585,BODY ACHE,,,,,,
+555,,,C0242429,Sore Throat,,,,,,
+555,,,C0043144,Wheezing,,,,,,
+555,,,C0010200,Coughing,,,,,,
+555,,,C0013404,Dyspnea,,,,,,
+556,C0031350,Pharyngitis,,,,,,,,
+556,,,C0242429,Sore Throat,,,,,,
+556,,,C0013456,Earache,,,,,,
+556,,,C0234233,Sore to touch,,,,,,
+556,,,,,,,,,C1280698,Entire throat (surface region of neck)
+556,,,,,,,,,C1281245,Entire right tonsil (palatine)
+556,,,,,,,,,C0022359,Jaw
+556,,,,,,,,,C1281592,Entire neck
+557,C0027051,Myocardial Infarction,,,,,,,,
+557,,,C0015468,Facial Pain,,,,,,
+557,,,C0008031,Chest Pain,,,,,,
+557,,,C0278141,Excruciating pain,,,,,,
+557,,,C0030193,Pain,,,,,,
+557,,,,,,,,,C1281590,Entire head
+557,,,,,,,,,C0229298,Right ear structure
+557,,,,,,,,,C0227817,fundus uteri
+557,,,,,,,,,C0015462,Facial nerve structure
+557,,,,,,,,,C0037303,Bone structure of cranium
+557,,,,,,,,,C0006104,Brain
+557,,,,,,,,,C0521421,Entire ear
+557,,,,,,,,,C0028429,Nose
+557,,,,,,,,,C0038293,Sternum
+567,C0035321,Retinal Perforations,,,,,,,,
+567,,,,,C0023311,intraocular lens implantation procedure,,,,
+567,,,,,C0021485,Injection of therapeutic agent,,,,
+567,,,,,C0184904,Slitting,,,,
+567,,,,,C0007389,Cataract Extraction,,,,
+567,,,,,C0021107,Implantation procedure,,,,
+567,,,,,,,,,C0015392,Eye
+567,,,,,,,,,C1278891,Entire iris
+567,,,,,,,,,C0229090,Left eye structure
+567,,,,,,,,,C0023317,"Lens, Crystalline"
+571,C0015397,Disorder of eye,,,,,,,,
+571,,,,,C0031765,Phototherapy,,,,
+571,,,,,C0087111,Therapeutic procedure,,,,
+579,C2362516,Sugar Diabetes,,,,,,,,
+579,,,C0857233,unable to focus,,,,,,
+579,,,,,,,,,C0015392,Eye
+581,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+581,,,,,C1322279,Dilate procedure,,,,
+581,,,,,C1828484,Instillation of dilating eye drops to eye,,,,
+581,,,,,,,,,C0015392,Eye
+582,C0037199,Sinusitis,,,,,,,,
+582,,,C0234238,Ache,,,,,,
+582,,,C0151827,Eye pain,,,,,,
+582,,,C0030193,Pain,,,,,,
+582,,,,,,,,,C0015392,Eye
+587,C0037199,Sinusitis,,,,,,,,
+587,,,C0015672,Fatigue,,,,,,
+587,,,C0013404,Dyspnea,,,,,,
+587,,,,,C0184661,Interventional procedure,,,,
+587,,,,,C0087111,Therapeutic procedure,,,,
+589,C0272388,Amygdalolith,,,,,,,,
+589,,,,,,,,,C1280736,Entire palatine tonsil
+589,,,,,,,,,C1880192,Crypt
+594,C0041912,Upper Respiratory Infections,,,,,,,,
+594,,,C0577573,Mass of body region,,,,,,
+594,,,C0848633,sinus pressure,,,,,,
+594,,,C0012833,Dizziness,,,,,,
+594,,,C0849911,ear popping,,,,,,
+594,,,C0220870,Lightheadedness,,,,,,
+594,,,,,C0013103,Drainage procedure,,,,
+594,,,,,,,,,C1281590,Entire head
+594,,,,,,,,,C0031354,Pharyngeal structure
+594,,,,,,,,,C0028429,Nose
+595,C0041834,Erythema,,,,,,,,
+595,,,C0033774,Pruritus,,,,,,
+595,,,C0235267,Redness of eye,,,,,,
+595,,,,,C0087111,Therapeutic procedure,,,,
+595,,,,,,,,,C0015420,Eyebrow structure
+595,,,,,,,,,C1280202,Entire eye
+595,,,,,,,,,C0028429,Nose
+600,C0009450,Communicable Diseases,,,,,,,,
+600,,,,,,,,,C0229299,Left ear structure
+600,,,,,,,,,C0521421,Entire ear
+602,C0175969,incurable diseases,,,,,,,,
+602,,,,,,,,,C0015392,Eye
+602,,,,,,,,,C1184743,bony process
+603,C0035305,Retinal Detachment,,,,,,,,
+603,,,C3665346,Unspecified visual loss,,,,,,
+603,,,,,,,,,C0229090,Left eye structure
+609,C0035305,Retinal Detachment,,,,,,,,
+609,,,C0344232,Blurred vision,,,,,,
+609,,,,,C0007389,Cataract Extraction,,,,
+609,,,,,C0197770,Operation on retina,,,,
+609,,,,,,,,,C1280202,Entire eye
+609,,,,,,,,,C0015392,Eye
+610,C0699744,Infection of ear,,,,,,,,
+610,,,,,,,,,C0013443,Ear structure
+610,,,,,,,,,C0041445,Tympanic membrane structure
+612,C0031350,Pharyngitis,,,,,,,,
+612,,,C0234238,Ache,,,,,,
+612,,,C0242429,Sore Throat,,,,,,
+612,,,C0030193,Pain,,,,,,
+612,,,C0677500,Stinging Sensation,,,,,,
+612,,,,,C0040423,Tonsillectomy,,,,
+612,,,,,,,,,C0027532,Skeletal muscle structure of neck
+612,,,,,,,,,C1281590,Entire head
+612,,,,,,,,,C1289055,Entire left ear
+620,C0004106,Astigmatism,,,,,,,,
+620,,,,,,,,,C0015392,Eye
+630,C0234786,Laryngismus paralyticus,,,,,,,,
+630,,,C0235282,Roaring in ear,,,,,,
+630,,,C0278144,Dull pain,,,,,,
+630,,,C2370950,Aural pressure,,,,,,
+630,,,C0013456,Earache,,,,,,
+630,,,,,C0017296,gene therapy,,,,
+630,,,,,,,,,C0041445,Tympanic membrane structure
+630,,,,,,,,,C1289055,Entire left ear
+631,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+631,,,C0015672,Fatigue,,,,,,
+631,,,C0033774,Pruritus,,,,,,
+631,,,C0012833,Dizziness,,,,,,
+631,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+631,,,C0220870,Lightheadedness,,,,,,
+631,,,,,,,,,C0229299,Left ear structure
+631,,,,,,,,,C0015392,Eye
+631,,,,,,,,,C0521421,Entire ear
+635,C0155503,Central Nervous System Origin Vertigo,,,,,,,,
+638,C3648852,Herpes Simplex Virus 1 encephalitis,,,,,,,,
+638,,,C0314719,Dryness of eye,,,,,,
+638,,,,,C0007389,Cataract Extraction,,,,
+644,C0085096,Peripheral Vascular Diseases,,,,,,,,
+644,,,C0085635,Photopsia,,,,,,
+644,,,,,,,,,C1269537,Entire brain
+644,,,,,,,,,C0035298,Retina
+644,,,,,,,,,C2986716,Quarter of the Udder
+645,C0743675,eye change,,,,,,,,
+645,,,C0314719,Dryness of eye,,,,,,
+645,,,,,C0338248,carmustine/cytarabine/etoposide/melphalan regimen,,,,
+645,,,,,C0185026,Plication,,,,
+645,,,,,C2461378,Medical and Surgical @ Eye @ Change,,,,
+645,,,,,,,,,C1281590,Entire head
+645,,,,,,,,,C0015392,Eye
+645,,,,,,,,,C0229090,Left eye structure
+649,C1704377,Bright Disease,,,,,,,,
+649,,,C0085635,Photopsia,,,,,,
+649,,,C0344232,Blurred vision,,,,,,
+649,,,,,C0029151,Oral contraception,,,,
+649,,,,,,,,,C1281590,Entire head
+649,,,,,,,,,C0015392,Eye
+655,C0030757,Pediculus capitis infestation,,,,,,,,
+655,,,,,,,,,C0015422,Eyelash
+655,,,,,,,,,C0229299,Left ear structure
+655,,,,,,,,,C0015420,Eyebrow structure
+655,,,,,,,,,C0015392,Eye
+655,,,,,,,,,C0521421,Entire ear
+658,C0004106,Astigmatism,,,,,,,,
+658,,,,,,,,,C0015392,Eye
+658,,,,,,,,,C0029130,Optic Nerve
+660,C0027092,Myopia,,,,,,,,
+660,,,C0557875,Tired,,,,,,
+660,,,C0314719,Dryness of eye,,,,,,
+660,,,,,C0301571,Liquid diet,,,,
+660,,,,,,,,,C0015392,Eye
+663,C2676739,Chromosome 2q32-Q33 Deletion Syndrome,,,,,,,,
+663,,,C0015230,Exanthema,,,,,,
+663,,,,,,,,,C0035298,Retina
+663,,,,,,,,,C0015392,Eye
+665,C0423086,Staring,,,,,,,,
+665,,,,,,,,,C0015392,Eye
+670,C0041912,Upper Respiratory Infections,,,,,,,,
+670,,,C0596601,gastrointestinal gas,,,,,,
+670,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+670,,,C0042571,Vertigo,,,,,,
+670,,,C0013456,Earache,,,,,,
+670,,,,,,,,,C0229298,Right ear structure
+670,,,,,,,,,C1281584,Entire finger
+670,,,,,,,,,C0521421,Entire ear
+673,C0038395,Streptococcal Infections,,,,,,,,
+673,,,,,,,,,C0836921,Tonsil
+676,C0041834,Erythema,,,,,,,,
+676,,,,,,,,,C0015392,Eye
+677,C3665488,Familial Osteochondritis Dissecans,,,,,,,,
+677,,,,,C0200149,Ophthalmic examination and evaluation,,,,
+677,,,,,,,,,C0230425,Structure of right thigh
+677,,,,,,,,,C0230426,Structure of left thigh
+677,,,,,,,,,C0015392,Eye
+677,,,,,,,,,C0229090,Left eye structure
+679,C0029134,Optic Neuritis,,,,,,,,
+679,,,C0018681,Headache,,,,,,
+679,,,C0344232,Blurred vision,,,,,,
+679,,,,,,,,,C0015392,Eye
+679,,,,,,,,,C0229090,Left eye structure
+682,C0021053,Immune System Diseases,,,,,,,,
+682,,,C0423006,Discharge from eye,,,,,,
+683,C0015397,Disorder of eye,,,,,,,,
+683,,,C0015230,Exanthema,,,,,,
+683,,,C0010200,Coughing,,,,,,
+683,,,,,C0079613,Adoptive Immunotherapy,,,,
+683,,,,,C0452415,Diet good,,,,
+683,,,,,C1522704,Exercise Pain Management,,,,
+683,,,,,,,,,C0035298,Retina
+683,,,,,,,,,C0015392,Eye
+683,,,,,,,,,C0042449,Veins
+686,C0038379,Strabismus,,,,,,,,
+686,,,,,C0279268,doxorubicin/semustine/streptozocin protocol,,,,
+686,,,,,C0152277,Incision and drainage,,,,
+686,,,,,,,,,C0015392,Eye
+686,,,,,,,,,C1281591,Entire face
+691,C0024117,Chronic Obstructive Airway Disease,,,,,,,,
+691,,,C0043144,Wheezing,,,,,,
+691,,,C0010200,Coughing,,,,,,
+691,,,,,,,C3236322,Prozac Pill,,
+691,,,,,,,,,C0040578,Trachea
+692,C0012634,Disease,,,,,,,,
+692,,,C1260880,Rhinorrhea,,,,,,
+692,,,C0239134,Productive cough,,,,,,
+692,,,C0012833,Dizziness,,,,,,
+692,,,C0039070,Syncope,,,,,,
+692,,,C0220870,Lightheadedness,,,,,,
+692,,,,,,,,,C0423866,Lanugo
+709,C0031315,Phantom Limb Syndrome,,,,,,,,
+709,,,C0030193,Pain,,,,,,
+709,,,,,,,,,C1281590,Entire head
+710,C0699744,Infection of ear,,,,,,,,
+714,C0043154,Dental White Spot,,,,,,,,
+714,,,,,,,,,C0022077,Iris (Eye)
+715,C0007933,Meibomian Cyst,,,,,,,,
+715,,,,,C0184898,Surgical incisions,,,,
+715,,,,,C0197114,Chalazion removal,,,,
+715,,,,,C0728940,Excision,,,,
+715,,,,,,,,,C1280202,Entire eye
+715,,,,,,,,,C0022907,Lacrimal gland structure
+722,C0038379,Strabismus,,,,,,,,
+722,,,,,,,,,C0229090,Left eye structure
+723,C0020498,"Hyperostosis, Diffuse Idiopathic Skeletal",,,,,,,,
+723,,,C0221423,Illness (finding),,,,,,
+723,,,C0557875,Tired,,,,,,
+723,,,C0012833,Dizziness,,,,,,
+723,,,C0042571,Vertigo,,,,,,
+723,,,C0220870,Lightheadedness,,,,,,
+723,,,,,,,,,C0018787,Heart
+723,,,,,,,,,C0018563,Hand
+723,,,,,,,,,C0015392,Eye
+725,C0740437,Infection of external ear,,,,,,,,
+725,,,C0549297,ear swelling,,,,,,
+725,,,C0030193,Pain,,,,,,
+725,,,,,,,,,C0521421,Entire ear
+727,C0155503,Central Nervous System Origin Vertigo,,,,,,,,
+727,,,C0557875,Tired,,,,,,
+727,,,C0042963,Vomiting,,,,,,
+727,,,C0012833,Dizziness,,,,,,
+727,,,C0042571,Vertigo,,,,,,
+727,,,,,C0949766,Physical therapy,,,,
+727,,,,,C0087111,Therapeutic procedure,,,,
+727,,,,,,,,,C1281590,Entire head
+730,C0152227,Excessive tearing,,,,,,,,
+730,,,C0037763,Spasm,,,,,,
+730,,,C0030193,Pain,,,,,,
+730,,,,,,,,,C1288305,Entire eyelash
+730,,,,,,,,,C0010031,Cornea
+730,,,,,,,,,C0015392,Eye
+733,C0149931,Migraine Disorders,,,,,,,,
+733,,,C0849911,ear popping,,,,,,
+733,,,,,,,,,C0521421,Entire ear
+733,,,,,,,,,C0022359,Jaw
+735,C0018889,Helminthiasis,,,,,,,,
+736,C2676739,Chromosome 2q32-Q33 Deletion Syndrome,,,,,,,,
+736,,,,,C0184661,Interventional procedure,,,,
+736,,,,,C0002903,Anesthesia procedures,,,,
+736,,,,,,,,,C0015392,Eye
+736,,,,,,,,,C0229090,Left eye structure
+736,,,,,,,,,C1281583,Entire hand
+736,,,,,,,,,C0023317,"Lens, Crystalline"
+741,C0009450,Communicable Diseases,,,,,,,,
+741,,,C0151827,Eye pain,,,,,,
+741,,,C0235162,Difficulty sleeping,,,,,,
+741,,,C0042571,Vertigo,,,,,,
+741,,,C0030193,Pain,,,,,,
+741,,,,,C0003571,Apicoectomy,,,,
+741,,,,,C0524861,Oral Surgical Procedures,,,,
+741,,,,,C0087111,Therapeutic procedure,,,,
+741,,,,,,,,,C1280202,Entire eye
+741,,,,,,,,,C1280541,Entire nerve
+741,,,,,,,,,C1281591,Entire face
+744,C0012634,Disease,,,,,,,,
+744,,,C0034642,Rales,,,,,,
+744,,,C0013456,Earache,,,,,,
+744,,,C0455270,Sharp pain,,,,,,
+744,,,C0014724,Eructation,,,,,,
+744,,,,,C1456647,Childhood Immunization,,,,
+744,,,,,C0087111,Therapeutic procedure,,,,
+744,,,,,,,,,C0229299,Left ear structure
+744,,,,,,,,,C0521421,Entire ear
+746,C0009450,Communicable Diseases,,,,,,,,
+746,,,C0085624,Burning sensation,,,,,,
+746,,,C0677500,Stinging Sensation,,,,,,
+746,,,C0030193,Pain,,,,,,
+746,,,C0314719,Dryness of eye,,,,,,
+746,,,,,,,,,C0015392,Eye
+746,,,,,,,,,C1281591,Entire face
+747,C0006277,Bronchitis,,,,,,,,
+747,,,C0221423,Illness (finding),,,,,,
+747,,,C0010200,Coughing,,,,,,
+747,,,,,C0751363,natural remedies,,,,
+749,C0026946,Mycoses,,,,,,,,
+749,,,,,C0184661,Interventional procedure,,,,
+749,,,,,C0748725,sinus surgery,,,,
+749,,,,,C0152277,Incision and drainage,,,,
+749,,,,,,,,,C1280541,Entire nerve
+749,,,,,,,,,C1266928,Nasal turbinate bone structure
+755,C0038379,Strabismus,,,,,,,,
+755,,,C0235108,Feeling tense,,,,,,
+755,,,C0234238,Ache,,,,,,
+755,,,,,,,,,C1280202,Entire eye
+755,,,,,,,,,C0015392,Eye
+755,,,,,,,,,C1281591,Entire face
+757,C0422955,Lazy Eye,,,,,,,,
+757,,,,,,,,,C0015392,Eye
+760,C0007787,Transient Ischemic Attack,,,,,,,,
+760,,,C0578687,Sore eye,,,,,,
+760,,,C0033774,Pruritus,,,,,,
+760,,,C0030193,Pain,,,,,,
+760,,,,,C0301571,Liquid diet,,,,
+760,,,,,,,,,C1280202,Entire eye
+760,,,,,,,,,C0036410,Sclera
+760,,,,,,,,,C0010031,Cornea
+760,,,,,,,,,C0015392,Eye
+760,,,,,,,,,C0023317,"Lens, Crystalline"
+767,C0149725,Lower respiratory tract infection,,,,,,,,
+767,,,C0033774,Pruritus,,,,,,
+769,C0005741,Blepharitis,,,,,,,,
+769,,,,,,,C0718788,"Baby Oil, topical oil",,
+769,,,,,,,,,C0015392,Eye
+769,,,,,,,,,C2706046,Eye lid
+769,,,,,,,,,C0229090,Left eye structure
+769,,,,,,,,,C0015426,Eyelid structure
+779,C0730321,Punctate inner choroidopathy,,,,,,,,
+779,,,C0392678,Swallowing problem,,,,,,
+779,,,C0242429,Sore Throat,,,,,,
+779,,,,,C0291011,VAPE protocol,,,,
+779,,,,,,,,,C1280698,Entire throat (surface region of neck)
+779,,,,,,,,,C0024204,lymph nodes
+780,C0012634,Disease,,,,,,,,
+780,,,C0039070,Syncope,,,,,,
+780,,,,,,,,,C0934691,Eyelash of upper eyelid
+781,C0041912,Upper Respiratory Infections,,,,,,,,
+781,,,,,C0242390,Home Remedies,,,,
+781,,,,,C1293134,Enlargement procedure,,,,
+781,,,,,,,,,C0034121,Pupil
+781,,,,,,,,,C0015392,Eye
+787,C0004623,Bacterial Infections,,,,,,,,
+787,,,,,,,,,C0015392,Eye
+788,C0795965,X-linked mental retardation Gustavson type,,,,,,,,
+788,,,C0016204,Flatulence,,,,,,
+788,,,,,,,,,C1280202,Entire eye
+793,C0035305,Retinal Detachment,,,,,,,,
+795,C0422955,Lazy Eye,,,,,,,,
+797,C0699744,Infection of ear,,,,,,,,
+797,,,,,,,,,C0227073,Mandibular right first molar
+797,,,,,,,,,C0521421,Entire ear
+798,C0004106,Astigmatism,,,,,,,,
+798,,,,,,,,,C0015392,Eye
+798,,,,,,,,,C0229090,Left eye structure
+798,,,,,,,,,C0023317,"Lens, Crystalline"
+800,C0699744,Infection of ear,,,,,,,,
+800,,,,,C0013103,Drainage procedure,,,,
+800,,,,,,,,,C0521421,Entire ear
+801,C0015397,Disorder of eye,,,,,,,,
+801,,,,,,,,,C1280202,Entire eye
+802,C0037199,Sinusitis,,,,,,,,
+802,,,C1260880,Rhinorrhea,,,,,,
+802,,,C0848464,clogged ear,,,,,,
+802,,,C1397014,Imbalance,,,,,,
+802,,,C0231218,Malaise,,,,,,
+802,,,C0033774,Pruritus,,,,,,
+802,,,C0012833,Dizziness,,,,,,
+802,,,C0018681,Headache,,,,,,
+802,,,C0030193,Pain,,,,,,
+802,,,C0314719,Dryness of eye,,,,,,
+802,,,,,C0700589,Contraceptive methods,,,,
+802,,,,,C0013103,Drainage procedure,,,,
+802,,,,,C0185051,Removal by grinding,,,,
+802,,,,,,,,,C0229299,Left ear structure
+802,,,,,,,,,C0229298,Right ear structure
+802,,,,,,,,,C1280698,Entire throat (surface region of neck)
+802,,,,,,,,,C0015392,Eye
+802,,,,,,,,,C0225414,Bridge of nose
+802,,,,,,,,,C0423866,Lanugo
+802,,,,,,,,,C0022359,Jaw
+802,,,,,,,,,C0521421,Entire ear
+802,,,,,,,,,C0028429,Nose
+803,C0043352,Xerostomia,,,,,,,,
+803,,,C0030193,Pain,,,,,,
+803,,,,,C0087111,Therapeutic procedure,,,,
+803,,,,,,,,,C0017562,Gingiva
+803,,,,,,,,,C1280698,Entire throat (surface region of neck)
+803,,,,,,,,,C0040426,Tooth structure
+803,,,,,,,,,C0022359,Jaw
+804,C0036689,Streptococcal sore throat,,,,,,,,
+804,,,C0015230,Exanthema,,,,,,
+804,,,C0027497,Nausea,,,,,,
+804,,,C0012833,Dizziness,,,,,,
+804,,,C0018681,Headache,,,,,,
+804,,,C0877491,bumps tongue,,,,,,
+804,,,C0030193,Pain,,,,,,
+804,,,C0234233,Sore to touch,,,,,,
+804,,,,,,,,,C1280698,Entire throat (surface region of neck)
+804,,,,,,,,,C0040408,Tongue
+804,,,,,,,,,C0700374,Palate
+804,,,,,,,,,C0042173,Uvula of palate
+804,,,,,,,,,C0836921,Tonsil
+804,,,,,,,,,C0521421,Entire ear
+805,C0016053,Fibromyalgia,,,,,,,,
+805,,,C0234238,Ache,,,,,,
+805,,,C0741585,BODY ACHE,,,,,,
+805,,,C0018681,Headache,,,,,,
+805,,,C0030193,Pain,,,,,,
+805,,,C0234233,Sore to touch,,,,,,
+805,,,,,C0949766,Physical therapy,,,,
+805,,,,,,,,,C1269612,Entire upper arm
+805,,,,,,,,,C4048756,Right arm
+805,,,,,,,,,C1268169,Nerve part
+805,,,,,,,,,C1184743,bony process
+805,,,,,,,,,C1281591,Entire face
+807,C0016053,Fibromyalgia,,,,,,,,
+807,,,,,C1519433,Special Diet Therapy,,,,
+808,C0016053,Fibromyalgia,,,,,,,,
+808,,,C1517205,Flare,,,,,,
+808,,,C0030193,Pain,,,,,,
+808,,,,,,,,,C1281590,Entire head
+808,,,,,,,,,C0016536,Forearm
+809,C0016053,Fibromyalgia,,,,,,,,
+809,,,C0234238,Ache,,,,,,
+809,,,C0015672,Fatigue,,,,,,
+810,C0016053,Fibromyalgia,,,,,,,,
+811,C0016053,Fibromyalgia,,,,,,,,
+812,C0016053,Fibromyalgia,,,,,,,,
+812,,,C0740418,Chronic back pain,,,,,,
+812,,,C0037763,Spasm,,,,,,
+812,,,C0150055,Chronic pain,,,,,,
+812,,,C0030193,Pain,,,,,,
+812,,,,,C0949766,Physical therapy,,,,
+813,C0016053,Fibromyalgia,,,,,,,,
+813,,,C0278146,Shooting pain,,,,,,
+813,,,C0036572,Seizures,,,,,,
+813,,,C0751407,"Pain, Migratory",,,,,,
+813,,,C0015672,Fatigue,,,,,,
+813,,,C0033774,Pruritus,,,,,,
+813,,,C0030193,Pain,,,,,,
+813,,,C0241136,Pain of skin,,,,,,
+813,,,,,,,,,C1281591,Entire face
+813,,,,,,,,,C1281592,Entire neck
+813,,,,,,,,,C0016504,Foot
+814,C0037199,Sinusitis,,,,,,,,
+814,,,,,,,,,C0015392,Eye
+814,,,,,,,,,C0028429,Nose
+816,C0016053,Fibromyalgia,,,,,,,,
+816,,,C0234238,Ache,,,,,,
+816,,,C0015672,Fatigue,,,,,,
+816,,,C0030193,Pain,,,,,,
+816,,,,,,,,,C0006104,Brain
+817,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+817,,,,,,,,,C0041445,Tympanic membrane structure
+817,,,,,,,,,C0521421,Entire ear
+819,C0017168,Gastroesophageal reflux disease,,,,,,,,
+819,,,,,,,,,C1280698,Entire throat (surface region of neck)
+819,,,,,,,,,C0024109,Lung
+821,C0016053,Fibromyalgia,,,,,,,,
+821,,,C0557875,Tired,,,,,,
+821,,,C0596601,gastrointestinal gas,,,,,,
+821,,,C3714552,Weakness,,,,,,
+821,,,,,C1511790,Detection,,,,
+821,,,,,,,,,C1285092,Gland
+821,,,,,,,,,C0016504,Foot
+823,C0019112,Hemorrhoids,,,,,,,,
+823,,,C0231218,Malaise,,,,,,
+823,,,,,,,,,C0521421,Entire ear
+824,C0016053,Fibromyalgia,,,,,,,,
+824,,,C0015672,Fatigue,,,,,,
+824,,,C0030193,Pain,,,,,,
+824,,,C0028081,Night sweats,,,,,,
+824,,,,,C0204774,Soaking Procedure,,,,
+824,,,,,,,,,C4048756,Right arm
+824,,,,,,,,,C0006104,Brain
+827,C0016053,Fibromyalgia,,,,,,,,
+827,,,C0019559,Hip pain,,,,,,
+827,,,C0015672,Fatigue,,,,,,
+827,,,C0231528,Myalgia,,,,,,
+827,,,C0018681,Headache,,,,,,
+828,C0016053,Fibromyalgia,,,,,,,,
+828,,,C0302539,spells (neurological symptom),,,,,,
+828,,,,,C0087111,Therapeutic procedure,,,,
+828,,,,,,,,,C0015392,Eye
+829,C0016053,Fibromyalgia,,,,,,,,
+829,,,C0557875,Tired,,,,,,
+829,,,C0015672,Fatigue,,,,,,
+829,,,C0040822,Tremor,,,,,,
+829,,,C0030193,Pain,,,,,,
+829,,,C0392674,Exhaustion,,,,,,
+830,C0016053,Fibromyalgia,,,,,,,,
+830,,,C0240094,Joint tenderness,,,,,,
+830,,,C0033774,Pruritus,,,,,,
+830,,,C0085624,Burning sensation,,,,,,
+830,,,,,,,,,C1281590,Entire head
+830,,,,,,,,,C1278997,Entire scalp
+830,,,,,,,,,C1281589,Entire toe
+830,,,,,,,,,C1281591,Entire face
+831,C0016053,Fibromyalgia,,,,,,,,
+831,,,C0016512,Foot pain,,,,,,
+831,,,C0239833,Hand pain,,,,,,
+831,,,C0018681,Headache,,,,,,
+831,,,C0030193,Pain,,,,,,
+831,,,,,,,,,C0230366,Structure of left wrist
+831,,,,,,,,,C0018534,Hallux structure
+831,,,,,,,,,C1305418,Entire calf of leg (body structure)
+831,,,,,,,,,C0016504,Foot
+832,C0016053,Fibromyalgia,,,,,,,,
+832,,,,,C0600080,Stretching exercises,,,,
+832,,,,,C1883583,Yoga,,,,
+832,,,,,C0024875,Massage,,,,
+832,,,,,,,,,C0006104,Brain
+834,C0016053,Fibromyalgia,,,,,,,,
+834,,,C1718341,Soft tissue pain,,,,,,
+834,,,C0030193,Pain,,,,,,
+834,,,,,C0086511,Knee Replacement Arthroplasty (procedure),,,,
+834,,,,,C0087111,Therapeutic procedure,,,,
+836,C0012634,Disease,,,,,,,,
+836,,,C0221423,Illness (finding),,,,,,
+836,,,C0741585,BODY ACHE,,,,,,
+836,,,C0015672,Fatigue,,,,,,
+845,C0019360,Herpes zoster disease,,,,,,,,
+845,,,C0015672,Fatigue,,,,,,
+845,,,,,,,,,C0006104,Brain
+846,C0949690,Spondylarthritis,,,,,,,,
+846,,,C0040822,Tremor,,,,,,
+846,,,C0030193,Pain,,,,,,
+846,,,,,C0684199,Homeopathy,,,,
+846,,,,,C3687832,DRUGS,,,,
+846,,,,,,,,,C0015392,Eye
+846,,,,,,,,,C1995013,Set of muscles
+846,,,,,,,,,C1556138,Disc - Body Part
+846,,,,,,,,,C0006104,Brain
+846,,,,,,,,,C0262950,Skeletal bone
+847,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+847,,,C0518214,Perceived quality of life,,,,,,
+847,,,C0150055,Chronic pain,,,,,,
+847,,,C0030193,Pain,,,,,,
+847,,,,,C3687832,DRUGS,,,,
+847,,,,,C0087111,Therapeutic procedure,,,,
+848,C0016053,Fibromyalgia,,,,,,,,
+849,C0016053,Fibromyalgia,,,,,,,,
+850,C0016053,Fibromyalgia,,,,,,,,
+850,,,C0030193,Pain,,,,,,
+850,,,,,C0949766,Physical therapy,,,,
+850,,,,,C0150141,Bathing,,,,
+851,C0016053,Fibromyalgia,,,,,,,,
+851,,,C0030193,Pain,,,,,,
+851,,,,,C0079613,Adoptive Immunotherapy,,,,
+851,,,,,C0152277,Incision and drainage,,,,
+852,C0016053,Fibromyalgia,,,,,,,,
+852,,,C0158369,Swelling of limb,,,,,,
+852,,,,,C2709207,Rx therapy,,,,
+853,C0016053,Fibromyalgia,,,,,,,,
+853,,,C0221423,Illness (finding),,,,,,
+853,,,,,C0032042,Placebos,,,,
+854,C0016053,Fibromyalgia,,,,,,,,
+854,,,C0278145,Stabbing pain,,,,,,
+854,,,C0008031,Chest Pain,,,,,,
+854,,,C0015230,Exanthema,,,,,,
+854,,,C0027497,Nausea,,,,,,
+854,,,C0238656,Ankle pain,,,,,,
+854,,,C0018681,Headache,,,,,,
+854,,,C0030193,Pain,,,,,,
+854,,,C0004604,Back Pain,,,,,,
+854,,,C0234233,Sore to touch,,,,,,
+854,,,,,,,,,C0230365,Structure of right wrist
+854,,,,,,,,,C0018787,Heart
+854,,,,,,,,,C1280698,Entire throat (surface region of neck)
+854,,,,,,,,,C0038351,Stomach
+854,,,,,,,,,C0030747,Pectoralis Muscles
+854,,,,,,,,,C0024109,Lung
+854,,,,,,,,,C0021853,Intestines
+854,,,,,,,,,C1281592,Entire neck
+856,C0016053,Fibromyalgia,,,,,,,,
+856,,,C0015230,Exanthema,,,,,,
+856,,,C0151908,Dry skin,,,,,,
+867,C0016053,Fibromyalgia,,,,,,,,
+867,,,C0030193,Pain,,,,,,
+868,C0016053,Fibromyalgia,,,,,,,,
+868,,,C0012833,Dizziness,,,,,,
+868,,,C0030193,Pain,,,,,,
+868,,,C0344232,Blurred vision,,,,,,
+868,,,,,,,,,C1995013,Set of muscles
+869,C0016053,Fibromyalgia,,,,,,,,
+869,,,C0234238,Ache,,,,,,
+869,,,C0221423,Illness (finding),,,,,,
+869,,,C0423684,Thoracic back pain,,,,,,
+869,,,C0030193,Pain,,,,,,
+869,,,,,C2709207,Rx therapy,,,,
+869,,,,,,,,,C0035561,Bone structure of rib
+870,C0016053,Fibromyalgia,,,,,,,,
+870,,,C0015672,Fatigue,,,,,,
+870,,,C0009269,Cold intolerance,,,,,,
+870,,,,,,,,,C0016504,Foot
+871,C0016053,Fibromyalgia,,,,,,,,
+872,C0016053,Fibromyalgia,,,,,,,,
+872,,,C0030193,Pain,,,,,,
+872,,,,,,,C0993472,Prednisone 10 MG,,
+872,,,,,,,,,C4048756,Right arm
+872,,,,,,,,,C0730183,Joint structure of ankle and/or foot
+873,C0016053,Fibromyalgia,,,,,,,,
+873,,,C0028643,Numbness,,,,,,
+873,,,,,,,,,C1269612,Entire upper arm
+873,,,,,,,,,C1280698,Entire throat (surface region of neck)
+874,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+875,C0016053,Fibromyalgia,,,,,,,,
+875,,,C0030193,Pain,,,,,,
+875,,,,,,,,,C0230102,Lower back structure
+875,,,,,,,,,C0230348,Both upper arms
+875,,,,,,,,,C0019552,Hip structure
+875,,,,,,,,,C1281592,Entire neck
+876,C0016053,Fibromyalgia,,,,,,,,
+876,,,C0234238,Ache,,,,,,
+876,,,C0033774,Pruritus,,,,,,
+876,,,,,C0600080,Stretching exercises,,,,
+876,,,,,C0024875,Massage,,,,
+876,,,,,,,,,C1278911,Entire lip
+876,,,,,,,,,C0684083,Structure of pelvic girdle
+876,,,,,,,,,C0037949,Vertebral column
+876,,,,,,,,,C0015813,Head of femur
+878,C0037199,Sinusitis,,,,,,,,
+878,,,C0234233,Sore to touch,,,,,,
+878,,,,,C0087111,Therapeutic procedure,,,,
+878,,,,,,,,,C0229298,Right ear structure
+878,,,,,,,,,C0031354,Pharyngeal structure
+878,,,,,,,,,C0028429,Nose
+881,C0271143,Open angle with borderline findings,,,,,,,,
+881,,,,,,,,,C0015392,Eye
+882,C0016053,Fibromyalgia,,,,,,,,
+882,,,C0030193,Pain,,,,,,
+883,C0009450,Communicable Diseases,,,,,,,,
+883,,,C0234238,Ache,,,,,,
+883,,,C0221423,Illness (finding),,,,,,
+883,,,C0557875,Tired,,,,,,
+883,,,C0018681,Headache,,,,,,
+883,,,C3714552,Weakness,,,,,,
+883,,,C0030193,Pain,,,,,,
+883,,,,,C3687832,DRUGS,,,,
+883,,,,,C1519433,Special Diet Therapy,,,,
+883,,,,,C0087111,Therapeutic procedure,,,,
+883,,,,,,,,,C0699819,Gut
+884,C0016053,Fibromyalgia,,,,,,,,
+884,,,C0231749,Knee pain,,,,,,
+884,,,,,,,,,C0016504,Foot
+885,C0016053,Fibromyalgia,,,,,,,,
+885,,,,,,,,,C1281592,Entire neck
+886,C0016053,Fibromyalgia,,,,,,,,
+886,,,,,C0087111,Therapeutic procedure,,,,
+887,C0016053,Fibromyalgia,,,,,,,,
+887,,,C0023380,Lethargy,,,,,,
+888,C0016053,Fibromyalgia,,,,,,,,
+888,,,C0030193,Pain,,,,,,
+889,C0016053,Fibromyalgia,,,,,,,,
+889,,,C0033774,Pruritus,,,,,,
+889,,,C0241136,Pain of skin,,,,,,
+889,,,,,,,,,C1305417,Entire elbow region
+890,C0016053,Fibromyalgia,,,,,,,,
+890,,,C0278141,Excruciating pain,,,,,,
+890,,,C0150055,Chronic pain,,,,,,
+890,,,C0030193,Pain,,,,,,
+891,C0016053,Fibromyalgia,,,,,,,,
+891,,,C0012833,Dizziness,,,,,,
+891,,,C0030193,Pain,,,,,,
+891,,,,,C0204558,Group reassurance,,,,
+891,,,,,C0185060,Crushing procedure,,,,
+891,,,,,,,,,C1281590,Entire head
+891,,,,,,,,,C0016976,Gallbladder
+891,,,,,,,,,C0521421,Entire ear
+891,,,,,,,,,C1269001,Entire gallbladder
+891,,,,,,,,,C0028429,Nose
+898,C0042798,Low Vision,,,,,,,,
+898,,,,,,,,,C0229201,Structure of retina of both eyes
+898,,,,,,,,,C0028429,Nose
+900,C0016053,Fibromyalgia,,,,,,,,
+900,,,C0557875,Tired,,,,,,
+900,,,C1704276,Spasmodic movement,,,,,,
+900,,,C0015672,Fatigue,,,,,,
+900,,,C0012833,Dizziness,,,,,,
+900,,,,,C0291011,VAPE protocol,,,,
+900,,,,,,,,,C0038351,Stomach
+900,,,,,,,,,C0262950,Skeletal bone
+901,C0016053,Fibromyalgia,,,,,,,,
+901,,,C0030193,Pain,,,,,,
+902,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+902,,,C0024031,Low Back Pain,,,,,,
+902,,,C0234238,Ache,,,,,,
+902,,,C0741585,BODY ACHE,,,,,,
+902,,,C0235283,Buzzing in ear,,,,,,
+902,,,C0015672,Fatigue,,,,,,
+902,,,C2242996,Has tingling sensation,,,,,,
+902,,,C0030193,Pain,,,,,,
+902,,,C0004604,Back Pain,,,,,,
+902,,,,,C1261311,Injection of steroid,,,,
+902,,,,,C1883583,Yoga,,,,
+902,,,,,C1522704,Exercise Pain Management,,,,
+902,,,,,,,,,C0040357,Toes
+902,,,,,,,,,C0019552,Hip structure
+902,,,,,,,,,C0006104,Brain
+902,,,,,,,,,C0016504,Foot
+902,,,,,,,,,C1268088,Lower body structure
+903,C0016053,Fibromyalgia,,,,,,,,
+903,,,,,,,,,C1556138,Disc - Body Part
+904,C0016053,Fibromyalgia,,,,,,,,
+904,,,C0036572,Seizures,,,,,,
+904,,,C0231218,Malaise,,,,,,
+905,C0016053,Fibromyalgia,,,,,,,,
+905,,,C0030193,Pain,,,,,,
+905,,,C0683369,Clouded consciousness,,,,,,
+905,,,,,,,,,C0022742,Knee
+905,,,,,,,,,C1289055,Entire left ear
+905,,,,,,,,,C1281592,Entire neck
+906,C0016053,Fibromyalgia,,,,,,,,
+906,,,C0234238,Ache,,,,,,
+906,,,C0037763,Spasm,,,,,,
+906,,,C0427008,Stiffness,,,,,,
+906,,,C1321587,Breathing abnormally deep,,,,,,
+907,C0011119,Decompression Sickness,,,,,,,,
+907,,,C0003862,Arthralgia,,,,,,
+907,,,C0221423,Illness (finding),,,,,,
+907,,,C0015672,Fatigue,,,,,,
+907,,,C0392171,Influenza-like symptoms,,,,,,
+907,,,C0497406,Overweight,,,,,,
+907,,,C0018681,Headache,,,,,,
+907,,,C0030193,Pain,,,,,,
+907,,,C0004604,Back Pain,,,,,,
+907,,,C0392674,Exhaustion,,,,,,
+907,,,,,,,,,C1279051,Entire fascia
+907,,,,,,,,,C0934770,Right middle finger
+907,,,,,,,,,C1268258,Entire left elbow region
+907,,,,,,,,,C1281584,Entire finger
+907,,,,,,,,,C0016504,Foot
+907,,,,,,,,,C0039508,Tendon structure
+908,C0016053,Fibromyalgia,,,,,,,,
+908,,,C0087169,Withdrawal Symptoms,,,,,,
+909,C0016053,Fibromyalgia,,,,,,,,
+909,,,C0019559,Hip pain,,,,,,
+909,,,C0024031,Low Back Pain,,,,,,
+909,,,C0239266,Pain in elbow,,,,,,
+909,,,C3714552,Weakness,,,,,,
+909,,,C0030193,Pain,,,,,,
+909,,,C0239377,Arm Pain,,,,,,
+909,,,,,,,,,C0947131,Hip.bilateral
+909,,,,,,,,,C0230426,Structure of left thigh
+909,,,,,,,,,C4048756,Right arm
+909,,,,,,,,,C1281586,Entire thigh
+909,,,,,,,,,C1995013,Set of muscles
+914,C0031350,Pharyngitis,,,,,,,,
+914,,,C0242429,Sore Throat,,,,,,
+914,,,C0043144,Wheezing,,,,,,
+916,C0031350,Pharyngitis,,,,,,,,
+916,,,C0242429,Sore Throat,,,,,,
+916,,,C0847554,lump in throat,,,,,,
+916,,,C0010200,Coughing,,,,,,
+916,,,,,,,,,C1280698,Entire throat (surface region of neck)
+916,,,,,,,,,C0227149,Pharyngeal wall
+918,C0009450,Communicable Diseases,,,,,,,,
+918,,,C0008031,Chest Pain,,,,,,
+918,,,C0012833,Dizziness,,,,,,
+918,,,C0019079,Hemoptysis,,,,,,
+918,,,C0018681,Headache,,,,,,
+918,,,,,,,,,C1281590,Entire head
+918,,,,,,,,,C1280698,Entire throat (surface region of neck)
+918,,,,,,,,,C0227149,Pharyngeal wall
+918,,,,,,,,,C1281591,Entire face
+918,,,,,,,,,C1281592,Entire neck
+921,C0016053,Fibromyalgia,,,,,,,,
+921,,,C0557875,Tired,,,,,,
+922,C0016053,Fibromyalgia,,,,,,,,
+922,,,C0239836,Paresthesia of hand,,,,,,
+922,,,C0030193,Pain,,,,,,
+922,,,C0023218,Leg cramps,,,,,,
+922,,,,,C1882194,Orthomolecular Medicine,,,,
+922,,,,,C1533658,vitamin therapy,,,,
+922,,,,,,,C0983814,Ascorbic Acid 25 MG,,
+922,,,,,,,,,C0016504,Foot
+923,C0016053,Fibromyalgia,,,,,,,,
+924,C0016053,Fibromyalgia,,,,,,,,
+925,C0016053,Fibromyalgia,,,,,,,,
+926,C0016053,Fibromyalgia,,,,,,,,
+927,C0016053,Fibromyalgia,,,,,,,,
+927,,,C0028643,Numbness,,,,,,
+927,,,C0221423,Illness (finding),,,,,,
+927,,,C0857160,leg numbness,,,,,,
+927,,,C0241050,sitting pain,,,,,,
+927,,,C0030193,Pain,,,,,,
+927,,,C0231772,Burning feet,,,,,,
+927,,,,,C0019008,"Hemodialysis, Home",,,,
+927,,,,,C3687832,DRUGS,,,,
+927,,,,,C0344217,Chiropractic procedure,,,,
+927,,,,,C0035139,Surgical Replantation,,,,
+927,,,,,C0282046,"Surgery, Day",,,,
+927,,,,,C0043308,X-Ray Therapy,,,,
+927,,,,,C0087111,Therapeutic procedure,,,,
+927,,,,,C0037935,Spinal fusion (procedure),,,,
+927,,,,,,,,,C0230102,Lower back structure
+927,,,,,,,,,C0230420,Both lower extremities
+927,,,,,,,,,C0040357,Toes
+927,,,,,,,,,C1556138,Disc - Body Part
+927,,,,,,,,,C0549207,Bone structure of spine
+927,,,,,,,,,C0037925,Spinal Cord
+927,,,,,,,,,C0423866,Lanugo
+927,,,,,,,,,C0016504,Foot
+932,C0016053,Fibromyalgia,,,,,,,,
+932,,,C0004604,Back Pain,,,,,,
+932,,,C0030193,Pain,,,,,,
+932,,,C0239377,Arm Pain,,,,,,
+932,,,,,C1519433,Special Diet Therapy,,,,
+932,,,,,,,,,C1269612,Entire upper arm
+932,,,,,,,,,C1281594,Entire abdomen
+932,,,,,,,,,C1281592,Entire neck
+934,C0043352,Xerostomia,,,,,,,,
+934,,,C0037384,Snoring,,,,,,
+934,,,C0030193,Pain,,,,,,
+934,,,,,C0185026,Plication,,,,
+934,,,,,C1293134,Enlargement procedure,,,,
+934,,,,,C0024875,Massage,,,,
+934,,,,,,,,,C0040421,Palatine Tonsil
+934,,,,,,,,,C1280698,Entire throat (surface region of neck)
+934,,,,,,,,,C1285092,Gland
+935,C0004096,Asthma,,,,,,,,
+935,,,C0010200,Coughing,,,,,,
+935,,,,,,,,,C1280698,Entire throat (surface region of neck)
+935,,,,,,,,,C0024109,Lung
+937,C1535939,Pneumocystis jiroveci pneumonia,,,,,,,,
+937,,,C0010200,Coughing,,,,,,
+937,,,,,C0332293,Treated with,,,,
+937,,,,,,,,,C0229299,Left ear structure
+937,,,,,,,,,C0521421,Entire ear
+938,C0021345,Infectious Mononucleosis,,,,,,,,
+939,C0014518,Toxic Epidermal Necrolysis,,,,,,,,
+939,,,C0221423,Illness (finding),,,,,,
+939,,,C0085624,Burning sensation,,,,,,
+939,,,C0010200,Coughing,,,,,,
+939,,,,,,,,,C1280698,Entire throat (surface region of neck)
+939,,,,,,,,,C0015392,Eye
+939,,,,,,,,,C0028429,Nose
+942,C0016053,Fibromyalgia,,,,,,,,
+943,C0016053,Fibromyalgia,,,,,,,,
+943,,,C0232292,Chest tightness,,,,,,
+943,,,C0037763,Spasm,,,,,,
+943,,,,,C0021485,Injection of therapeutic agent,,,,
+943,,,,,C0002766,Pain management,,,,
+943,,,,,,,,,C1269825,Skeletal muscle structure of chest wall
+944,C0016053,Fibromyalgia,,,,,,,,
+944,,,C0030193,Pain,,,,,,
+945,C0016053,Fibromyalgia,,,,,,,,
+945,,,C0003862,Arthralgia,,,,,,
+945,,,C0221423,Illness (finding),,,,,,
+945,,,C0281856,Generalized aches and pains,,,,,,
+945,,,C0558489,Renal pain,,,,,,
+945,,,C0015672,Fatigue,,,,,,
+945,,,C0033774,Pruritus,,,,,,
+945,,,C0857245,Redness of face,,,,,,
+945,,,C0030193,Pain,,,,,,
+945,,,,,C1522704,Exercise Pain Management,,,,
+945,,,,,,,,,C1281591,Entire face
+946,C0016053,Fibromyalgia,,,,,,,,
+946,,,C0683369,Clouded consciousness,,,,,,
+947,C0016053,Fibromyalgia,,,,,,,,
+947,,,C0030193,Pain,,,,,,
+947,,,,,C0344106,Sedation procedure,,,,
+948,C1456577,Mini-Stroke,,,,,,,,
+948,,,,,,,,,C0015392,Eye
+952,C0012634,Disease,,,,,,,,
+952,,,C0026961,Mydriasis,,,,,,
+952,,,C0151827,Eye pain,,,,,,
+952,,,C0312422,Blackout - symptom,,,,,,
+952,,,C0018681,Headache,,,,,,
+952,,,C0030193,Pain,,,,,,
+952,,,,,,,,,C0015392,Eye
+952,,,,,,,,,C0028429,Nose
+959,C0699744,Infection of ear,,,,,,,,
+959,,,C0030193,Pain,,,,,,
+959,,,,,C1511790,Detection,,,,
+959,,,,,,,,,C0521421,Entire ear
+961,C0037199,Sinusitis,,,,,,,,
+961,,,C0006625,Cachexia,,,,,,
+961,,,C0018681,Headache,,,,,,
+961,,,C0010200,Coughing,,,,,,
+961,,,,,,,,,C0031354,Pharyngeal structure
+961,,,,,,,,,C0028429,Nose
+962,C0016053,Fibromyalgia,,,,,,,,
+963,C0016053,Fibromyalgia,,,,,,,,
+963,,,C0557875,Tired,,,,,,
+964,C0016053,Fibromyalgia,,,,,,,,
+964,,,C0221423,Illness (finding),,,,,,
+964,,,C0015672,Fatigue,,,,,,
+964,,,C0231218,Malaise,,,,,,
+964,,,C0151908,Dry skin,,,,,,
+964,,,C0030193,Pain,,,,,,
+964,,,C0314719,Dryness of eye,,,,,,
+964,,,,,C0087111,Therapeutic procedure,,,,
+964,,,,,,,,,C0006104,Brain
+965,C0016053,Fibromyalgia,,,,,,,,
+965,,,C0150055,Chronic pain,,,,,,
+965,,,C0030193,Pain,,,,,,
+965,,,C0392674,Exhaustion,,,,,,
+966,C0016053,Fibromyalgia,,,,,,,,
+966,,,,,C0152277,Incision and drainage,,,,
+966,,,,,,,,,C0006104,Brain
+967,C0016053,Fibromyalgia,,,,,,,,
+967,,,C0027796,Neuralgia,,,,,,
+967,,,C0007859,Neck Pain,,,,,,
+967,,,C0015230,Exanthema,,,,,,
+967,,,C0030193,Pain,,,,,,
+967,,,C0683369,Clouded consciousness,,,,,,
+967,,,C0234233,Sore to touch,,,,,,
+967,,,,,C0185027,Imbrication (procedure),,,,
+967,,,,,,,,,C1281592,Entire neck
+968,C0016053,Fibromyalgia,,,,,,,,
+968,,,C0030193,Pain,,,,,,
+968,,,,,C0949766,Physical therapy,,,,
+968,,,,,C0024875,Massage,,,,
+968,,,,,C0004836,"Baths, Finnish",,,,
+968,,,,,,,,,C0035561,Bone structure of rib
+968,,,,,,,,,C1305417,Entire elbow region
+968,,,,,,,,,C0934502,anatomical layer
+971,C0016053,Fibromyalgia,,,,,,,,
+971,,,C0234238,Ache,,,,,,
+971,,,,,,,,,C1305417,Entire elbow region
+971,,,,,,,,,C1269612,Entire upper arm
+971,,,,,,,,,C0022742,Knee
+974,C0009450,Communicable Diseases,,,,,,,,
+974,,,,,C1533685,Injection procedure,,,,
+974,,,,,C0087111,Therapeutic procedure,,,,
+975,C0016053,Fibromyalgia,,,,,,,,
+975,,,C0015672,Fatigue,,,,,,
+975,,,C0150055,Chronic pain,,,,,,
+975,,,C0030193,Pain,,,,,,
+975,,,,,C0574032,Infusion procedures,,,,
+975,,,,,C0451615,Pain relief,,,,
+975,,,,,C3687832,DRUGS,,,,
+975,,,,,C0002766,Pain management,,,,
+976,C0016053,Fibromyalgia,,,,,,,,
+976,,,C0030193,Pain,,,,,,
+976,,,,,,,,,C0016504,Foot
+979,C0016053,Fibromyalgia,,,,,,,,
+979,,,C0231749,Knee pain,,,,,,
+979,,,C0030193,Pain,,,,,,
+979,,,,,C0187769,Operative procedure on knee,,,,
+979,,,,,C0949766,Physical therapy,,,,
+979,,,,,C0086511,Knee Replacement Arthroplasty (procedure),,,,
+980,C0016053,Fibromyalgia,,,,,,,,
+980,,,C1517205,Flare,,,,,,
+980,,,C0030193,Pain,,,,,,
+980,,,,,,,C0989251,Prednisone 50 MG,,
+980,,,,,,,,,C0018494,Hair
+980,,,,,,,,,C0040426,Tooth structure
+980,,,,,,,,,C0006104,Brain
+981,C0016053,Fibromyalgia,,,,,,,,
+981,,,C0030193,Pain,,,,,,
+981,,,,,,,,,C0015392,Eye
+981,,,,,,,,,C0699819,Gut
+982,C0016053,Fibromyalgia,,,,,,,,
+983,C0016053,Fibromyalgia,,,,,,,,
+983,,,C0030193,Pain,,,,,,
+984,C0016053,Fibromyalgia,,,,,,,,
+984,,,C0030193,Pain,,,,,,
+984,,,C0234233,Sore to touch,,,,,,
+984,,,,,C3814046,PAD Regimen,,,,
+984,,,,,C0152277,Incision and drainage,,,,
+984,,,,,,,,,C0230388,Index finger
+984,,,,,,,,,C0230393,Middle finger structure
+987,C0016053,Fibromyalgia,,,,,,,,
+987,,,C0030193,Pain,,,,,,
+987,,,,,C0935563,Piercing procedure,,,,
+987,,,,,,,,,C1281592,Entire neck
+988,C0016053,Fibromyalgia,,,,,,,,
+988,,,C0851121,digestive problem,,,,,,
+988,,,C0857160,leg numbness,,,,,,
+988,,,C0741585,BODY ACHE,,,,,,
+988,,,C0278144,Dull pain,,,,,,
+988,,,C0012833,Dizziness,,,,,,
+988,,,C0151908,Dry skin,,,,,,
+988,,,C0033774,Pruritus,,,,,,
+988,,,C0242030,pain with eating,,,,,,
+988,,,C0039070,Syncope,,,,,,
+988,,,C0030193,Pain,,,,,,
+988,,,C0028081,Night sweats,,,,,,
+988,,,C0028084,Nightmares,,,,,,
+988,,,,,,,,,C1278920,Entire stomach
+988,,,,,,,,,C1269612,Entire upper arm
+988,,,,,,,,,C0021853,Intestines
+988,,,,,,,,,C0016504,Foot
+988,,,,,,,,,C0262950,Skeletal bone
+995,C0016053,Fibromyalgia,,,,,,,,
+995,,,C0231749,Knee pain,,,,,,
+995,,,C0030193,Pain,,,,,,
+997,C0016053,Fibromyalgia,,,,,,,,
+997,,,,,C0278286,Dressing of skin or wound,,,,
+997,,,,,,,,,C0018494,Hair
+998,C0016053,Fibromyalgia,,,,,,,,
+998,,,C0231528,Myalgia,,,,,,
+999,C0016053,Fibromyalgia,,,,,,,,
+999,,,C0036572,Seizures,,,,,,
+999,,,C0028643,Numbness,,,,,,
+999,,,C0239836,Paresthesia of hand,,,,,,
+999,,,C0015672,Fatigue,,,,,,
+999,,,C0018681,Headache,,,,,,
+999,,,C0030193,Pain,,,,,,
+999,,,,,,,,,C1269612,Entire upper arm
+999,,,,,,,,,C0016504,Foot
+1000,C0016053,Fibromyalgia,,,,,,,,
+1000,,,C0085631,Agitation,,,,,,
+1000,,,C0030193,Pain,,,,,,
+1000,,,C0683369,Clouded consciousness,,,,,,
+1000,,,C0392674,Exhaustion,,,,,,
+1001,C0016053,Fibromyalgia,,,,,,,,
+1001,,,C0033774,Pruritus,,,,,,
+1002,C0016053,Fibromyalgia,,,,,,,,
+1002,,,C0221423,Illness (finding),,,,,,
+1005,C0016053,Fibromyalgia,,,,,,,,
+1005,,,C0392674,Exhaustion,,,,,,
+1007,C0000833,Abscess,,,,,,,,
+1007,,,C3640015,Hurting Pain,,,,,,
+1007,,,C0030193,Pain,,,,,,
+1007,,,,,,,,,C0026367,Molar tooth
+1007,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1007,,,,,,,,,C0700374,Palate
+1007,,,,,,,,,C0022359,Jaw
+1009,C0041912,Upper Respiratory Infections,,,,,,,,
+1009,,,C0221423,Illness (finding),,,,,,
+1009,,,C0010200,Coughing,,,,,,
+1009,,,,,,,,,C1278920,Entire stomach
+1009,,,,,,,,,C0282335,Respiratory tract structure
+1012,C0016053,Fibromyalgia,,,,,,,,
+1012,,,C0030193,Pain,,,,,,
+1012,,,,,,,,,C1281590,Entire head
+1012,,,,,,,,,C1552134,20s
+1013,C0016053,Fibromyalgia,,,,,,,,
+1013,,,C0030193,Pain,,,,,,
+1014,C0016053,Fibromyalgia,,,,,,,,
+1014,,,C0015672,Fatigue,,,,,,
+1014,,,C0039070,Syncope,,,,,,
+1014,,,C0030193,Pain,,,,,,
+1014,,,,,,,,,C0018494,Hair
+1015,C0016053,Fibromyalgia,,,,,,,,
+1015,,,,,C0079613,Adoptive Immunotherapy,,,,
+1015,,,,,C0002766,Pain management,,,,
+1015,,,,,C1522704,Exercise Pain Management,,,,
+1016,C0016053,Fibromyalgia,,,,,,,,
+1016,,,C1397014,Imbalance,,,,,,
+1016,,,C0150055,Chronic pain,,,,,,
+1016,,,C0030193,Pain,,,,,,
+1016,,,,,C0574032,Infusion procedures,,,,
+1016,,,,,C0451615,Pain relief,,,,
+1016,,,,,C0949766,Physical therapy,,,,
+1016,,,,,C0021440,Intravenous infusion procedures,,,,
+1016,,,,,C0344217,Chiropractic procedure,,,,
+1016,,,,,C0009244,Cognitive Therapy,,,,
+1016,,,,,C0002766,Pain management,,,,
+1016,,,,,C0087111,Therapeutic procedure,,,,
+1016,,,,,C0394664,Acupuncture procedure,,,,
+1017,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1017,,,,,,,,,C0230446,Both lower legs
+1018,C0016053,Fibromyalgia,,,,,,,,
+1018,,,C0030193,Pain,,,,,,
+1018,,,C0392674,Exhaustion,,,,,,
+1019,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1019,,,C0012833,Dizziness,,,,,,
+1019,,,C0849911,ear popping,,,,,,
+1019,,,C0013456,Earache,,,,,,
+1019,,,,,,,,,C0229299,Left ear structure
+1019,,,,,,,,,C1281590,Entire head
+1019,,,,,,,,,C0521421,Entire ear
+1019,,,,,,,,,C1186763,Stem of Organ
+1020,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1020,,,C0036572,Seizures,,,,,,
+1020,,,C0741585,BODY ACHE,,,,,,
+1020,,,C0085624,Burning sensation,,,,,,
+1020,,,C0234230,"Pain, Burning",,,,,,
+1020,,,C0030193,Pain,,,,,,
+1020,,,C0004604,Back Pain,,,,,,
+1020,,,,,C0087111,Therapeutic procedure,,,,
+1023,C0004096,Asthma,,,,,,,,
+1023,,,C0036572,Seizures,,,,,,
+1023,,,C0425449,Gasping for breath,,,,,,
+1023,,,C0010200,Coughing,,,,,,
+1023,,,C0013404,Dyspnea,,,,,,
+1023,,,,,C1504473,Herbal Supplement,,,,
+1024,C0016053,Fibromyalgia,,,,,,,,
+1028,C0021400,Influenza,,,,,,,,
+1028,,,C0221423,Illness (finding),,,,,,
+1028,,,,,,,,,C0028429,Nose
+1031,C0041912,Upper Respiratory Infections,,,,,,,,
+1031,,,C0027497,Nausea,,,,,,
+1031,,,C0040822,Tremor,,,,,,
+1034,C0016053,Fibromyalgia,,,,,,,,
+1034,,,C0030193,Pain,,,,,,
+1035,C0016053,Fibromyalgia,,,,,,,,
+1035,,,C0016512,Foot pain,,,,,,
+1035,,,C0028643,Numbness,,,,,,
+1035,,,C0234238,Ache,,,,,,
+1035,,,C0741585,BODY ACHE,,,,,,
+1035,,,C0557875,Tired,,,,,,
+1035,,,C0221170,Muscular stiffness,,,,,,
+1035,,,C0030193,Pain,,,,,,
+1035,,,C0392674,Exhaustion,,,,,,
+1035,,,,,,,,,C1269612,Entire upper arm
+1035,,,,,,,,,C0018494,Hair
+1035,,,,,,,,,C1995013,Set of muscles
+1036,C0016053,Fibromyalgia,,,,,,,,
+1036,,,C0033774,Pruritus,,,,,,
+1037,C0016053,Fibromyalgia,,,,,,,,
+1037,,,C0016382,Flushing,,,,,,
+1037,,,C0030193,Pain,,,,,,
+1037,,,,,C3687832,DRUGS,,,,
+1037,,,,,C2709207,Rx therapy,,,,
+1037,,,,,C0557033,Reminding,,,,
+1037,,,,,C0002766,Pain management,,,,
+1037,,,,,C0087111,Therapeutic procedure,,,,
+1037,,,,,,,,,C0018563,Hand
+1037,,,,,,,,,C0149561,Structure of anterior cerebral artery
+1038,C0016053,Fibromyalgia,,,,,,,,
+1038,,,C0015672,Fatigue,,,,,,
+1038,,,C0030193,Pain,,,,,,
+1038,,,C0028084,Nightmares,,,,,,
+1039,C0016053,Fibromyalgia,,,,,,,,
+1039,,,C0030193,Pain,,,,,,
+1039,,,C0239377,Arm Pain,,,,,,
+1039,,,C0392674,Exhaustion,,,,,,
+1039,,,,,,,,,C1269612,Entire upper arm
+1039,,,,,,,,,C1281583,Entire hand
+1039,,,,,,,,,C0016504,Foot
+1040,C0016053,Fibromyalgia,,,,,,,,
+1040,,,C0030193,Pain,,,,,,
+1042,C0016053,Fibromyalgia,,,,,,,,
+1042,,,C0015672,Fatigue,,,,,,
+1042,,,C0231528,Myalgia,,,,,,
+1042,,,,,C0291011,VAPE protocol,,,,
+1043,C0016053,Fibromyalgia,,,,,,,,
+1043,,,C0518214,Perceived quality of life,,,,,,
+1043,,,C0234238,Ache,,,,,,
+1043,,,C0557875,Tired,,,,,,
+1043,,,C0278141,Excruciating pain,,,,,,
+1043,,,C0015672,Fatigue,,,,,,
+1043,,,C0030193,Pain,,,,,,
+1043,,,C0917801,Sleeplessness,,,,,,
+1043,,,,,C0557033,Reminding,,,,
+1043,,,,,,,,,C0040426,Tooth structure
+1044,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1044,,,C0221423,Illness (finding),,,,,,
+1044,,,C0018681,Headache,,,,,,
+1044,,,C0030193,Pain,,,,,,
+1044,,,,,C0814263,Meditation Therapy,,,,
+1044,,,,,,,,,C1281590,Entire head
+1047,C0032285,Pneumonia,,,,,,,,
+1049,C0041912,Upper Respiratory Infections,,,,,,,,
+1049,,,,,,,,,C1281590,Entire head
+1049,,,,,,,,,C0229299,Left ear structure
+1049,,,,,,,,,C0521421,Entire ear
+1050,C0041912,Upper Respiratory Infections,,,,,,,,
+1050,,,,,,,,,C0013443,Ear structure
+1050,,,,,,,,,C0013444,External auditory canal structure
+1050,,,,,,,,,C0041445,Tympanic membrane structure
+1053,C0149931,Migraine Disorders,,,,,,,,
+1053,,,C0016512,Foot pain,,,,,,
+1053,,,C0019559,Hip pain,,,,,,
+1053,,,C0085624,Burning sensation,,,,,,
+1053,,,,,,,,,C0230102,Lower back structure
+1053,,,,,,,,,C1269537,Entire brain
+1053,,,,,,,,,C1281592,Entire neck
+1054,C0016053,Fibromyalgia,,,,,,,,
+1054,,,C0008031,Chest Pain,,,,,,
+1054,,,C0234238,Ache,,,,,,
+1054,,,C0030193,Pain,,,,,,
+1054,,,,,C0439631,Primary operation,,,,
+1054,,,,,C0087111,Therapeutic procedure,,,,
+1054,,,,,,,,,C0018787,Heart
+1055,C0016053,Fibromyalgia,,,,,,,,
+1055,,,C0557875,Tired,,,,,,
+1055,,,C0015672,Fatigue,,,,,,
+1055,,,C0030193,Pain,,,,,,
+1055,,,C0917801,Sleeplessness,,,,,,
+1056,C0016053,Fibromyalgia,,,,,,,,
+1057,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+1058,C0016053,Fibromyalgia,,,,,,,,
+1058,,,C0019559,Hip pain,,,,,,
+1058,,,C0030193,Pain,,,,,,
+1058,,,,,,,,,C0022742,Knee
+1059,C0016053,Fibromyalgia,,,,,,,,
+1059,,,C0007859,Neck Pain,,,,,,
+1059,,,C0231655,Scapulalgia,,,,,,
+1059,,,C0281856,Generalized aches and pains,,,,,,
+1059,,,C0037011,Shoulder Pain,,,,,,
+1059,,,C0030193,Pain,,,,,,
+1059,,,,,C0949766,Physical therapy,,,,
+1059,,,,,C0394648,Dry needle acupuncture,,,,
+1059,,,,,C1293131,Fusion procedure,,,,
+1059,,,,,C0087111,Therapeutic procedure,,,,
+1059,,,,,,,,,C1281575,Entire scapula
+1059,,,,,,,,,C0223741,Trapezoid bone structure
+1059,,,,,,,,,C1281592,Entire neck
+1060,C0016053,Fibromyalgia,,,,,,,,
+1060,,,C0557875,Tired,,,,,,
+1060,,,C0030193,Pain,,,,,,
+1060,,,C0427008,Stiffness,,,,,,
+1061,C0031350,Pharyngitis,,,,,,,,
+1061,,,C1260880,Rhinorrhea,,,,,,
+1061,,,C0242429,Sore Throat,,,,,,
+1061,,,C0010200,Coughing,,,,,,
+1061,,,,,,,,,C0040421,Palatine Tonsil
+1061,,,,,,,,,C0031354,Pharyngeal structure
+1062,C0021400,Influenza,,,,,,,,
+1064,C0016053,Fibromyalgia,,,,,,,,
+1064,,,C0557875,Tired,,,,,,
+1064,,,C0030193,Pain,,,,,,
+1064,,,,,,,,,C0015392,Eye
+1067,C0034152,Henoch-Schoenlein Purpura,,,,,,,,
+1067,,,C0596601,gastrointestinal gas,,,,,,
+1068,C0041912,Upper Respiratory Infections,,,,,,,,
+1068,,,C0221423,Illness (finding),,,,,,
+1068,,,C0557875,Tired,,,,,,
+1068,,,,,C0152277,Incision and drainage,,,,
+1068,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1070,C0016053,Fibromyalgia,,,,,,,,
+1071,C0016053,Fibromyalgia,,,,,,,,
+1071,,,C0016512,Foot pain,,,,,,
+1071,,,C0019559,Hip pain,,,,,,
+1071,,,C0241374,Thigh pain,,,,,,
+1071,,,C0009806,Constipation,,,,,,
+1071,,,C0231528,Myalgia,,,,,,
+1071,,,C0004604,Back Pain,,,,,,
+1071,,,,,,,C1298476,Potassium chloride 10%,,
+1071,,,,,,,C1602712,Carbon Dioxide 20 %,,
+1072,C0016053,Fibromyalgia,,,,,,,,
+1072,,,C0025587,Metatarsalgia,,,,,,
+1072,,,C0030193,Pain,,,,,,
+1072,,,,,,,,,C0034518,Structure of radial nerve
+1072,,,,,,,,,C0016504,Foot
+1073,C0016053,Fibromyalgia,,,,,,,,
+1073,,,C0344232,Blurred vision,,,,,,
+1073,,,,,C0023087,Laser Surgery,,,,
+1073,,,,,C0150305,Positioning - therapy,,,,
+1073,,,,,C0197497,Anterior segment of eye incision,,,,
+1073,,,,,C0007389,Cataract Extraction,,,,
+1073,,,,,C0395459,Laser iridotomy,,,,
+1073,,,,,,,,,C0227192,Inferior esophageal sphincter structure
+1073,,,,,,,,,C0015392,Eye
+1073,,,,,,,,,C0023317,"Lens, Crystalline"
+1074,C0016053,Fibromyalgia,,,,,,,,
+1074,,,C0015672,Fatigue,,,,,,
+1075,C0016053,Fibromyalgia,,,,,,,,
+1075,,,C0030193,Pain,,,,,,
+1075,,,C0392674,Exhaustion,,,,,,
+1075,,,,,C1522704,Exercise Pain Management,,,,
+1076,C3887938,"COLORBLINDNESS, PARTIAL, DEUTAN SERIES",,,,,,,,
+1078,C0016053,Fibromyalgia,,,,,,,,
+1078,,,C0037763,Spasm,,,,,,
+1079,C0016053,Fibromyalgia,,,,,,,,
+1079,,,C0241032,shin pain,,,,,,
+1079,,,C0557875,Tired,,,,,,
+1079,,,C0030193,Pain,,,,,,
+1079,,,,,C0374503,"Therapeutic procedure, one or more areas, each 15 minutes; massage, including effleurage, petrissage and/or tapotement (stroking, compression, percussion)",,,,
+1079,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1079,,,,,,,,,C0262950,Skeletal bone
+1081,C0009450,Communicable Diseases,,,,,,,,
+1081,,,C0033774,Pruritus,,,,,,
+1081,,,,,,,,,C1280202,Entire eye
+1081,,,,,,,,,C0229258,Lower eyelid
+1082,C0016053,Fibromyalgia,,,,,,,,
+1082,,,C0016512,Foot pain,,,,,,
+1082,,,C0278141,Excruciating pain,,,,,,
+1082,,,C2242996,Has tingling sensation,,,,,,
+1082,,,C0030193,Pain,,,,,,
+1082,,,,,,,,,C0040357,Toes
+1082,,,,,,,,,C1281587,Entire foot
+1085,C0271217,Impairment level: total impairment of both eyes (disorder),,,,,,,,
+1085,,,C0030193,Pain,,,,,,
+1085,,,,,C0087111,Therapeutic procedure,,,,
+1085,,,,,,,,,C1280202,Entire eye
+1087,C0016053,Fibromyalgia,,,,,,,,
+1087,,,C0005874,Blushing,,,,,,
+1087,,,C0241042,Shoulder stiff,,,,,,
+1087,,,C0863105,sore back,,,,,,
+1087,,,C0004604,Back Pain,,,,,,
+1087,,,C0600142,Hot flushes,,,,,,
+1087,,,C0151315,Neck stiffness,,,,,,
+1087,,,,,C0949766,Physical therapy,,,,
+1087,,,,,C0600080,Stretching exercises,,,,
+1087,,,,,,,,,C0013443,Ear structure
+1087,,,,,,,,,C0687023,Structure of skeletal muscle of shoulder
+1087,,,,,,,,,C0224334,Skeletal muscle structure of back
+1087,,,,,,,,,C1995013,Set of muscles
+1087,,,,,,,,,C1281592,Entire neck
+1088,C0016053,Fibromyalgia,,,,,,,,
+1088,,,C0221423,Illness (finding),,,,,,
+1088,,,C0231218,Malaise,,,,,,
+1088,,,,,C1522704,Exercise Pain Management,,,,
+1089,C0016053,Fibromyalgia,,,,,,,,
+1089,,,,,,,,,C1186763,Stem of Organ
+1090,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1090,,,C0016512,Foot pain,,,,,,
+1090,,,C0030193,Pain,,,,,,
+1090,,,,,C0150141,Bathing,,,,
+1090,,,,,C0152277,Incision and drainage,,,,
+1090,,,,,C0020311,Hydrotherapy,,,,
+1090,,,,,C0002766,Pain management,,,,
+1090,,,,,C0741419,back surgery,,,,
+1090,,,,,C0185051,Removal by grinding,,,,
+1090,,,,,C0087111,Therapeutic procedure,,,,
+1090,,,,,,,,,C1281590,Entire head
+1090,,,,,,,,,C1278920,Entire stomach
+1090,,,,,,,,,C0040357,Toes
+1090,,,,,,,,,C1281589,Entire toe
+1090,,,,,,,,,C0229962,Body part
+1091,C0175697,Van der Woude syndrome,,,,,,,,
+1091,,,C2242996,Has tingling sensation,,,,,,
+1091,,,C0040822,Tremor,,,,,,
+1091,,,C0030193,Pain,,,,,,
+1091,,,,,C0152277,Incision and drainage,,,,
+1091,,,,,,,,,C1305417,Entire elbow region
+1091,,,,,,,,,C0018563,Hand
+1091,,,,,,,,,C0230393,Middle finger structure
+1091,,,,,,,,,C1281583,Entire hand
+1092,C0016053,Fibromyalgia,,,,,,,,
+1092,,,C0150055,Chronic pain,,,,,,
+1093,C0016053,Fibromyalgia,,,,,,,,
+1094,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1094,,,C1517205,Flare,,,,,,
+1094,,,C0030193,Pain,,,,,,
+1095,C0016053,Fibromyalgia,,,,,,,,
+1095,,,C0024902,Mastodynia,,,,,,
+1095,,,,,,,,,C0028109,Nipples
+1098,C0031350,Pharyngitis,,,,,,,,
+1098,,,C0242429,Sore Throat,,,,,,
+1098,,,C0030193,Pain,,,,,,
+1098,,,C0234233,Sore to touch,,,,,,
+1098,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1098,,,,,,,,,C0458532,Laryngeal prominence
+1098,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1099,C0242383,Age related macular degeneration,,,,,,,,
+1099,,,,,C1138412,"Diet, Mediterranean",,,,
+1101,C0042798,Low Vision,,,,,,,,
+1106,C0027092,Myopia,,,,,,,,
+1106,,,,,C2709207,Rx therapy,,,,
+1106,,,,,,,,,C0015392,Eye
+1106,,,,,,,,,C0229090,Left eye structure
+1106,,,,,,,,,C0023317,"Lens, Crystalline"
+1107,C0016053,Fibromyalgia,,,,,,,,
+1107,,,,,C0700589,Contraceptive methods,,,,
+1109,C0016053,Fibromyalgia,,,,,,,,
+1110,C0016053,Fibromyalgia,,,,,,,,
+1110,,,C0085631,Agitation,,,,,,
+1110,,,C0241426,Burning tongue,,,,,,
+1110,,,,,C0424980,Not on a special diet,,,,
+1110,,,,,,,,,C0015385,Limb structure
+1110,,,,,,,,,C0423866,Lanugo
+1110,,,,,,,,,C1269078,Entire upper limb
+1111,C0016053,Fibromyalgia,,,,,,,,
+1111,,,C0233401,Psychiatric symptom,,,,,,
+1111,,,C3714552,Weakness,,,,,,
+1111,,,C0040822,Tremor,,,,,,
+1111,,,C3853138,Very mild pain,,,,,,
+1111,,,,,,,,,C0229962,Body part
+1113,C1384353,Parasite infestation,,,,,,,,
+1113,,,C0033774,Pruritus,,,,,,
+1113,,,,,C0152277,Incision and drainage,,,,
+1113,,,,,,,,,C0229298,Right ear structure
+1113,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1113,,,,,,,,,C1268973,Entire inner ear
+1113,,,,,,,,,C0521421,Entire ear
+1113,,,,,,,,,C0028429,Nose
+1114,C0016053,Fibromyalgia,,,,,,,,
+1114,,,C0234238,Ache,,,,,,
+1114,,,C0231655,Scapulalgia,,,,,,
+1114,,,C0557875,Tired,,,,,,
+1114,,,C0239836,Paresthesia of hand,,,,,,
+1114,,,C0015230,Exanthema,,,,,,
+1114,,,C0015672,Fatigue,,,,,,
+1114,,,C2242996,Has tingling sensation,,,,,,
+1114,,,C0030193,Pain,,,,,,
+1114,,,,,,,,,C0230348,Both upper arms
+1114,,,,,,,,,C0230446,Both lower legs
+1114,,,,,,,,,C0036277,Bone structure of scapula
+1114,,,,,,,,,C0018563,Hand
+1114,,,,,,,,,C0015392,Eye
+1114,,,,,,,,,C0016504,Foot
+1116,C0017601,Glaucoma,,,,,,,,
+1116,,,,,,,,,C0015392,Eye
+1118,C0041834,Erythema,,,,,,,,
+1118,,,C3257803,Watery eyes,,,,,,
+1118,,,C0033774,Pruritus,,,,,,
+1118,,,C0085636,Photophobia,,,,,,
+1118,,,C0344232,Blurred vision,,,,,,
+1118,,,C0314719,Dryness of eye,,,,,,
+1121,C0042798,Low Vision,,,,,,,,
+1121,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+1121,,,,,C0200149,Ophthalmic examination and evaluation,,,,
+1121,,,,,C0199176,Prophylactic treatment,,,,
+1121,,,,,,,,,C0015392,Eye
+1123,C0019917,Hordeolum,,,,,,,,
+1123,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1123,,,,,,,,,C0015392,Eye
+1123,,,,,,,,,C1281591,Entire face
+1127,C0699744,Infection of ear,,,,,,,,
+1127,,,C0849911,ear popping,,,,,,
+1127,,,,,,,,,C0521421,Entire ear
+1128,C0011168,Deglutition Disorders,,,,,,,,
+1128,,,C0030193,Pain,,,,,,
+1128,,,,,C0040461,Toothbrushing,,,,
+1128,,,,,,,,,C0017562,Gingiva
+1128,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1128,,,,,,,,,C0040408,Tongue
+1128,,,,,,,,,C0700374,Palate
+1130,C0011168,Deglutition Disorders,,,,,,,,
+1130,,,C0030193,Pain,,,,,,
+1130,,,,,C0040461,Toothbrushing,,,,
+1130,,,,,,,,,C0017562,Gingiva
+1130,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1130,,,,,,,,,C0040408,Tongue
+1130,,,,,,,,,C0700374,Palate
+1131,C0041912,Upper Respiratory Infections,,,,,,,,
+1133,C0016053,Fibromyalgia,,,,,,,,
+1133,,,C0003862,Arthralgia,,,,,,
+1133,,,C0033774,Pruritus,,,,,,
+1133,,,C0231528,Myalgia,,,,,,
+1133,,,C0030193,Pain,,,,,,
+1133,,,,,,,,,C0036277,Bone structure of scapula
+1135,C0038454,Cerebrovascular accident,,,,,,,,
+1135,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+1135,,,C0850149,Dry cough,,,,,,
+1135,,,C0004604,Back Pain,,,,,,
+1135,,,C1321587,Breathing abnormally deep,,,,,,
+1135,,,,,C0474166,Medical counseling,,,,
+1135,,,,,,,,,C1281583,Entire hand
+1135,,,,,,,,,C0521421,Entire ear
+1138,C0221262,Poliosis,,,,,,,,
+1138,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1142,C0016053,Fibromyalgia,,,,,,,,
+1143,C0016053,Fibromyalgia,,,,,,,,
+1143,,,C0234238,Ache,,,,,,
+1143,,,,,,,,,C1269612,Entire upper arm
+1143,,,,,,,,,C1995013,Set of muscles
+1144,C0001327,Acute laryngitis,,,,,,,,
+1145,C0016053,Fibromyalgia,,,,,,,,
+1145,,,C0003862,Arthralgia,,,,,,
+1145,,,C0028643,Numbness,,,,,,
+1145,,,C0037088,Signs and Symptoms,,,,,,
+1145,,,C0015672,Fatigue,,,,,,
+1145,,,C2242996,Has tingling sensation,,,,,,
+1145,,,C3714552,Weakness,,,,,,
+1145,,,C0018681,Headache,,,,,,
+1145,,,C0030193,Pain,,,,,,
+1146,C0016053,Fibromyalgia,,,,,,,,
+1146,,,C0036396,Sciatica,,,,,,
+1146,,,C0027497,Nausea,,,,,,
+1146,,,C0004604,Back Pain,,,,,,
+1146,,,,,,,,,C0230102,Lower back structure
+1146,,,,,,,,,C1278920,Entire stomach
+1146,,,,,,,,,C4048756,Right arm
+1147,C0016053,Fibromyalgia,,,,,,,,
+1147,,,C0234238,Ache,,,,,,
+1147,,,C0033774,Pruritus,,,,,,
+1147,,,C0240941,Pruritus of scalp,,,,,,
+1147,,,C0030193,Pain,,,,,,
+1147,,,,,,,,,C1278997,Entire scalp
+1147,,,,,,,,,C0699772,Skin structure of scalp
+1148,C0016053,Fibromyalgia,,,,,,,,
+1148,,,C0557875,Tired,,,,,,
+1148,,,C0030193,Pain,,,,,,
+1148,,,,,C0013103,Drainage procedure,,,,
+1148,,,,,C0152277,Incision and drainage,,,,
+1148,,,,,C0185051,Removal by grinding,,,,
+1148,,,,,,,,,C0018563,Hand
+1148,,,,,,,,,C1281592,Entire neck
+1149,C0016053,Fibromyalgia,,,,,,,,
+1149,,,,,C1519433,Special Diet Therapy,,,,
+1149,,,,,,,,,C1269032,Entire uterus
+1150,C0016053,Fibromyalgia,,,,,,,,
+1150,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+1150,,,,,C2709207,Rx therapy,,,,
+1150,,,,,C0152277,Incision and drainage,,,,
+1150,,,,,,,,,C0230425,Structure of right thigh
+1150,,,,,,,,,C4048756,Right arm
+1151,C0016053,Fibromyalgia,,,,,,,,
+1151,,,C1517205,Flare,,,,,,
+1151,,,C2242996,Has tingling sensation,,,,,,
+1151,,,C0030193,Pain,,,,,,
+1151,,,C0455270,Sharp pain,,,,,,
+1151,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1151,,,,,,,,,C0040357,Toes
+1151,,,,,,,,,C0018534,Hallux structure
+1151,,,,,,,,,C1281587,Entire foot
+1151,,,,,,,,,C0016504,Foot
+1152,C0016053,Fibromyalgia,,,,,,,,
+1152,,,C0030193,Pain,,,,,,
+1152,,,,,C0886384,5 minutes Office visit,,,,
+1152,,,,,,,,,C1279606,Entire left lower leg
+1152,,,,,,,,,C0040357,Toes
+1153,C0016053,Fibromyalgia,,,,,,,,
+1154,C0016053,Fibromyalgia,,,,,,,,
+1154,,,C0150055,Chronic pain,,,,,,
+1155,C0016053,Fibromyalgia,,,,,,,,
+1155,,,C0221423,Illness (finding),,,,,,
+1155,,,C0015672,Fatigue,,,,,,
+1155,,,C0231528,Myalgia,,,,,,
+1155,,,,,,,,,C0021853,Intestines
+1157,C0016053,Fibromyalgia,,,,,,,,
+1157,,,C0239836,Paresthesia of hand,,,,,,
+1157,,,C0278141,Excruciating pain,,,,,,
+1157,,,C0015230,Exanthema,,,,,,
+1157,,,C0015672,Fatigue,,,,,,
+1157,,,C0231218,Malaise,,,,,,
+1157,,,C0085624,Burning sensation,,,,,,
+1157,,,C0018681,Headache,,,,,,
+1157,,,C0016382,Flushing,,,,,,
+1157,,,C0030193,Pain,,,,,,
+1157,,,C0392674,Exhaustion,,,,,,
+1157,,,C0030552,Paresis,,,,,,
+1157,,,C0744648,headache persistent,,,,,,
+1157,,,C0877716,Burning sensation of leg,,,,,,
+1157,,,C0233844,Clumsiness,,,,,,
+1157,,,C0234238,Ache,,,,,,
+1157,,,C0557875,Tired,,,,,,
+1157,,,C0741585,BODY ACHE,,,,,,
+1157,,,C2957106,headache severe,,,,,,
+1157,,,C0085631,Agitation,,,,,,
+1157,,,C0423575,Altered sensation of skin,,,,,,
+1157,,,C0231528,Myalgia,,,,,,
+1157,,,C0040822,Tremor,,,,,,
+1157,,,C0004604,Back Pain,,,,,,
+1157,,,C0023222,Pain in lower limb,,,,,,
+1157,,,C3714552,Weakness,,,,,,
+1157,,,,,C0455941,Vibration - treatment,,,,
+1157,,,,,C0152277,Incision and drainage,,,,
+1157,,,,,C1522704,Exercise Pain Management,,,,
+1157,,,,,,,C0985346,Dexamethasone 4 MG,,
+1157,,,,,,,,,C0230102,Lower back structure
+1157,,,,,,,,,C0040357,Toes
+1157,,,,,,,,,C0015385,Limb structure
+1157,,,,,,,,,C0018563,Hand
+1157,,,,,,,,,C4048756,Right arm
+1157,,,,,,,,,C0015392,Eye
+1157,,,,,,,,,C0019552,Hip structure
+1157,,,,,,,,,C0022742,Knee
+1157,,,,,,,,,C1289033,Entire right ear
+1157,,,,,,,,,C1268255,Entire right upper arm
+1157,,,,,,,,,C0006104,Brain
+1157,,,,,,,,,C1281591,Entire face
+1157,,,,,,,,,C0521421,Entire ear
+1157,,,,,,,,,C0022359,Jaw
+1157,,,,,,,,,C1281592,Entire neck
+1157,,,,,,,,,C1281590,Entire head
+1157,,,,,,,,,C1269612,Entire upper arm
+1157,,,,,,,,,C1288948,Entire right hand
+1157,,,,,,,,,C1760774,Structure of muscle of forearm
+1157,,,,,,,,,C0016504,Foot
+1159,C0009443,Common Cold,,,,,,,,
+1159,,,C0010200,Coughing,,,,,,
+1159,,,C1579931,Depressed - symptom,,,,,,
+1159,,,C0019825,Hoarseness,,,,,,
+1159,,,C0392674,Exhaustion,,,,,,
+1159,,,,,,,,,C0024109,Lung
+1162,C0016053,Fibromyalgia,,,,,,,,
+1162,,,C0085624,Burning sensation,,,,,,
+1162,,,C3714552,Weakness,,,,,,
+1166,C0016053,Fibromyalgia,,,,,,,,
+1167,C0016053,Fibromyalgia,,,,,,,,
+1167,,,,,C0087111,Therapeutic procedure,,,,
+1167,,,,,,,,,C0018787,Heart
+1168,C0016053,Fibromyalgia,,,,,,,,
+1168,,,C0235108,Feeling tense,,,,,,
+1168,,,C2242996,Has tingling sensation,,,,,,
+1168,,,C0030193,Pain,,,,,,
+1168,,,,,C0087111,Therapeutic procedure,,,,
+1168,,,,,,,,,C0581753,Muscle structure of foot
+1168,,,,,,,,,C0016504,Foot
+1169,C0016053,Fibromyalgia,,,,,,,,
+1169,,,C0004604,Back Pain,,,,,,
+1169,,,C0030193,Pain,,,,,,
+1169,,,,,C0152060,Transection (procedure),,,,
+1169,,,,,,,,,C0030797,Pelvis
+1169,,,,,,,,,C0042149,Uterus
+1169,,,,,,,,,C4048756,Right arm
+1169,,,,,,,,,C0029939,Ovary
+1169,,,,,,,,,C0021853,Intestines
+1170,C0016053,Fibromyalgia,,,,,,,,
+1170,,,C0015672,Fatigue,,,,,,
+1170,,,C0030193,Pain,,,,,,
+1170,,,,,C0034991,Rehabilitation therapy,,,,
+1170,,,,,,,,,C0006104,Brain
+1171,C0016053,Fibromyalgia,,,,,,,,
+1171,,,C0024031,Low Back Pain,,,,,,
+1171,,,C0234238,Ache,,,,,,
+1171,,,C0007859,Neck Pain,,,,,,
+1171,,,C0221423,Illness (finding),,,,,,
+1171,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+1171,,,,,C0392806,Hip Replacement Arthroplasty (procedure),,,,
+1171,,,,,,,,,C0040357,Toes
+1171,,,,,,,,,C1281592,Entire neck
+1171,,,,,,,,,C1269078,Entire upper limb
+1172,C0016053,Fibromyalgia,,,,,,,,
+1172,,,C0020175,Hunger,,,,,,
+1173,C0016053,Fibromyalgia,,,,,,,,
+1174,C0016053,Fibromyalgia,,,,,,,,
+1174,,,C0030193,Pain,,,,,,
+1174,,,,,C1522704,Exercise Pain Management,,,,
+1174,,,,,,,,,C1281590,Entire head
+1176,C0041912,Upper Respiratory Infections,,,,,,,,
+1176,,,C1260880,Rhinorrhea,,,,,,
+1176,,,C0557875,Tired,,,,,,
+1176,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+1176,,,C0018681,Headache,,,,,,
+1176,,,C0010200,Coughing,,,,,,
+1176,,,C0232431,Cold sweat,,,,,,
+1176,,,C0013404,Dyspnea,,,,,,
+1176,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1177,C0272388,Amygdalolith,,,,,,,,
+1177,,,,,C2825047,mouthwashes (treatment),,,,
+1177,,,,,,,,,C0040421,Palatine Tonsil
+1177,,,,,,,,,C0040408,Tongue
+1177,,,,,,,,,C0229867,Right faucial tonsil structure
+1178,C0699744,Infection of ear,,,,,,,,
+1178,,,,,,,,,C0521421,Entire ear
+1182,C0016053,Fibromyalgia,,,,,,,,
+1182,,,C0018681,Headache,,,,,,
+1182,,,C0026821,Muscle Cramp,,,,,,
+1182,,,C0030193,Pain,,,,,,
+1182,,,,,C0152277,Incision and drainage,,,,
+1182,,,,,,,,,C0008913,Bone structure of clavicle
+1182,,,,,,,,,C1261077,Structure of left lower lobe of lung
+1182,,,,,,,,,C0022742,Knee
+1182,,,,,,,,,C0019552,Hip structure
+1182,,,,,,,,,C4019107,Collar Bone
+1182,,,,,,,,,C1279572,Entire left knee
+1183,C0016053,Fibromyalgia,,,,,,,,
+1183,,,C0221423,Illness (finding),,,,,,
+1183,,,C0027497,Nausea,,,,,,
+1183,,,C0030193,Pain,,,,,,
+1183,,,,,C0332293,Treated with,,,,
+1183,,,,,C3687832,DRUGS,,,,
+1184,C0016053,Fibromyalgia,,,,,,,,
+1184,,,C0741585,BODY ACHE,,,,,,
+1184,,,C0030193,Pain,,,,,,
+1185,C0016053,Fibromyalgia,,,,,,,,
+1185,,,,,C0087111,Therapeutic procedure,,,,
+1185,,,,,C3275067,Cardiac Lead Procedure,,,,
+1186,C0016053,Fibromyalgia,,,,,,,,
+1186,,,C0007859,Neck Pain,,,,,,
+1186,,,C0750248,Chronic vertigo,,,,,,
+1186,,,C0018681,Headache,,,,,,
+1186,,,C0030193,Pain,,,,,,
+1186,,,,,,,,,C0001428,Adenoidal structure
+1186,,,,,,,,,C1281592,Entire neck
+1187,C0016053,Fibromyalgia,,,,,,,,
+1187,,,C0392674,Exhaustion,,,,,,
+1188,C0016053,Fibromyalgia,,,,,,,,
+1188,,,C0015672,Fatigue,,,,,,
+1188,,,C0030193,Pain,,,,,,
+1188,,,,,C2709207,Rx therapy,,,,
+1191,C0149931,Migraine Disorders,,,,,,,,
+1191,,,C0018681,Headache,,,,,,
+1191,,,C0030193,Pain,,,,,,
+1191,,,C0013456,Earache,,,,,,
+1191,,,,,C0748725,sinus surgery,,,,
+1191,,,,,,,,,C1281562,Entire tooth
+1191,,,,,,,,,C0022359,Jaw
+1193,C1836672,"Total Hypotrichosis, Mari type",,,,,,,,
+1193,,,C0036572,Seizures,,,,,,
+1193,,,C0018681,Headache,,,,,,
+1195,C0016053,Fibromyalgia,,,,,,,,
+1195,,,,,C0242390,Home Remedies,,,,
+1195,,,,,C0087111,Therapeutic procedure,,,,
+1197,C0016053,Fibromyalgia,,,,,,,,
+1197,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+1197,,,,,C1522704,Exercise Pain Management,,,,
+1198,C0016053,Fibromyalgia,,,,,,,,
+1198,,,C0221423,Illness (finding),,,,,,
+1198,,,C0557875,Tired,,,,,,
+1198,,,C0150055,Chronic pain,,,,,,
+1198,,,C0030193,Pain,,,,,,
+1198,,,C0234233,Sore to touch,,,,,,
+1198,,,,,C1883583,Yoga,,,,
+1198,,,,,C0242390,Home Remedies,,,,
+1198,,,,,,,,,C0016504,Foot
+1198,,,,,,,,,C1269078,Entire upper limb
+1199,C0016053,Fibromyalgia,,,,,,,,
+1199,,,C0234238,Ache,,,,,,
+1199,,,C0241727,walking pain,,,,,,
+1199,,,C0030193,Pain,,,,,,
+1199,,,,,,,,,C0022122,Bone structure of ischium
+1199,,,,,,,,,C1269612,Entire upper arm
+1199,,,,,,,,,C0230461,Structure of left foot
+1199,,,,,,,,,C0016504,Foot
+1200,C0016053,Fibromyalgia,,,,,,,,
+1200,,,C0030193,Pain,,,,,,
+1200,,,,,C1522704,Exercise Pain Management,,,,
+1200,,,,,C0087111,Therapeutic procedure,,,,
+1200,,,,,,,,,C1281590,Entire head
+1201,C0016053,Fibromyalgia,,,,,,,,
+1201,,,,,,,,,C0016504,Foot
+1202,C0016053,Fibromyalgia,,,,,,,,
+1202,,,C0016512,Foot pain,,,,,,
+1202,,,C0023222,Pain in lower limb,,,,,,
+1202,,,C0423693,Growing pains,,,,,,
+1202,,,C0030193,Pain,,,,,,
+1202,,,C0239377,Arm Pain,,,,,,
+1202,,,,,C0024875,Massage,,,,
+1202,,,,,,,C1243075,Acetaminophen Oral Tablet [Tylenol],,
+1202,,,,,,,,,C0040357,Toes
+1202,,,,,,,,,C0018563,Hand
+1202,,,,,,,,,C0022742,Knee
+1202,,,,,,,,,C1281583,Entire hand
+1202,,,,,,,,,C0016536,Forearm
+1202,,,,,,,,,C0016504,Foot
+1202,,,,,,,,,C0262950,Skeletal bone
+1203,C0016053,Fibromyalgia,,,,,,,,
+1203,,,C0027497,Nausea,,,,,,
+1203,,,C0018681,Headache,,,,,,
+1203,,,C0030193,Pain,,,,,,
+1203,,,C0023380,Lethargy,,,,,,
+1205,C0031350,Pharyngitis,,,,,,,,
+1205,,,C0242429,Sore Throat,,,,,,
+1205,,,C0010200,Coughing,,,,,,
+1205,,,C0030193,Pain,,,,,,
+1211,C0037199,Sinusitis,,,,,,,,
+1211,,,,,C0679614,cold turkey,,,,
+1213,C0021400,Influenza,,,,,,,,
+1213,,,C0557875,Tired,,,,,,
+1213,,,C0741585,BODY ACHE,,,,,,
+1215,C0016053,Fibromyalgia,,,,,,,,
+1216,C0016053,Fibromyalgia,,,,,,,,
+1216,,,C0221423,Illness (finding),,,,,,
+1216,,,C0741585,BODY ACHE,,,,,,
+1216,,,C0030193,Pain,,,,,,
+1216,,,C0392674,Exhaustion,,,,,,
+1216,,,,,C1536570,Symptom Management,,,,
+1216,,,,,,,,,C0018563,Hand
+1220,C0024131,Lupus Vulgaris,,,,,,,,
+1220,,,C0557875,Tired,,,,,,
+1220,,,C0018681,Headache,,,,,,
+1220,,,C0030193,Pain,,,,,,
+1220,,,,,,,,,C1281592,Entire neck
+1225,C0031350,Pharyngitis,,,,,,,,
+1225,,,C0242429,Sore Throat,,,,,,
+1225,,,,,,,,,C1281590,Entire head
+1225,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1225,,,,,,,,,C1289055,Entire left ear
+1225,,,,,,,,,C0022359,Jaw
+1226,C0699744,Infection of ear,,,,,,,,
+1226,,,C0010200,Coughing,,,,,,
+1229,C0272388,Amygdalolith,,,,,,,,
+1229,,,C2199592,earache of right ear,,,,,,
+1229,,,,,,,,,C0040421,Palatine Tonsil
+1229,,,,,,,,,C0229867,Right faucial tonsil structure
+1230,C0016053,Fibromyalgia,,,,,,,,
+1230,,,C0839476,Pain in upper arm,,,,,,
+1230,,,C0234238,Ache,,,,,,
+1230,,,C0557875,Tired,,,,,,
+1230,,,C0030193,Pain,,,,,,
+1230,,,,,C0600080,Stretching exercises,,,,
+1230,,,,,,,,,C1269612,Entire upper arm
+1230,,,,,,,,,C1281583,Entire hand
+1230,,,,,,,,,C0042449,Veins
+1231,C0016053,Fibromyalgia,,,,,,,,
+1231,,,C1260880,Rhinorrhea,,,,,,
+1232,C0021400,Influenza,,,,,,,,
+1232,,,C0557875,Tired,,,,,,
+1232,,,C0423684,Thoracic back pain,,,,,,
+1232,,,C0012833,Dizziness,,,,,,
+1232,,,C3714552,Weakness,,,,,,
+1232,,,C0030193,Pain,,,,,,
+1232,,,,,,,,,C0222762,Thoracic cage structure
+1233,C0016053,Fibromyalgia,,,,,,,,
+1233,,,C0234238,Ache,,,,,,
+1233,,,C0557875,Tired,,,,,,
+1233,,,C0015672,Fatigue,,,,,,
+1233,,,C0030193,Pain,,,,,,
+1233,,,C0392674,Exhaustion,,,,,,
+1233,,,,,C0439631,Primary operation,,,,
+1233,,,,,C0152277,Incision and drainage,,,,
+1233,,,,,C1522704,Exercise Pain Management,,,,
+1233,,,,,,,,,C0262950,Skeletal bone
+1234,C0016053,Fibromyalgia,,,,,,,,
+1234,,,C0557875,Tired,,,,,,
+1234,,,C0235162,Difficulty sleeping,,,,,,
+1234,,,C1291077,Abdominal bloating,,,,,,
+1234,,,C0030193,Pain,,,,,,
+1234,,,,,C0079613,Adoptive Immunotherapy,,,,
+1234,,,,,C1519433,Special Diet Therapy,,,,
+1235,C0016053,Fibromyalgia,,,,,,,,
+1235,,,,,,,,,C1269612,Entire upper arm
+1236,C0016053,Fibromyalgia,,,,,,,,
+1236,,,C0221423,Illness (finding),,,,,,
+1236,,,C1517205,Flare,,,,,,
+1236,,,C0015672,Fatigue,,,,,,
+1236,,,C0009269,Cold intolerance,,,,,,
+1236,,,C0030193,Pain,,,,,,
+1236,,,C0026821,Muscle Cramp,,,,,,
+1236,,,C0238740,severe back pain,,,,,,
+1236,,,C0683369,Clouded consciousness,,,,,,
+1236,,,,,C3687832,DRUGS,,,,
+1236,,,,,C0015252,removal technique,,,,
+1236,,,,,C0022671,Kidney Transplantation,,,,
+1236,,,,,C1533685,Injection procedure,,,,
+1236,,,,,,,,,C0230102,Lower back structure
+1236,,,,,,,,,C1550235,Cord - Body Parts
+1236,,,,,,,,,C1278836,Entire spinal cord
+1236,,,,,,,,,C0018563,Hand
+1236,,,,,,,,,C0019552,Hip structure
+1236,,,,,,,,,C0018494,Hair
+1236,,,,,,,,,C0006104,Brain
+1236,,,,,,,,,C0016504,Foot
+1236,,,,,,,,,C1281592,Entire neck
+1238,C0238469,Abscess of tonsil,,,,,,,,
+1238,,,,,C0021485,Injection of therapeutic agent,,,,
+1241,C0009450,Communicable Diseases,,,,,,,,
+1241,,,,,,,,,C0229298,Right ear structure
+1242,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1242,,,,,,,,,C0521421,Entire ear
+1245,C0016053,Fibromyalgia,,,,,,,,
+1245,,,C0278146,Shooting pain,,,,,,
+1245,,,C0150055,Chronic pain,,,,,,
+1245,,,C0030193,Pain,,,,,,
+1245,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1245,,,,,,,,,C0022742,Knee
+1245,,,,,,,,,C0040184,Bone structure of tibia
+1247,C3670023,Ossification of collateral cartilage of distal phalanx of equine limb,,,,,,,,
+1247,,,C0278146,Shooting pain,,,,,,
+1247,,,C0241374,Thigh pain,,,,,,
+1247,,,C0030193,Pain,,,,,,
+1247,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1247,,,,,,,,,C1281586,Entire thigh
+1247,,,,,,,,,C0040184,Bone structure of tibia
+1248,C0016053,Fibromyalgia,,,,,,,,
+1248,,,,,C0600080,Stretching exercises,,,,
+1248,,,,,C1522704,Exercise Pain Management,,,,
+1249,C3670023,Ossification of collateral cartilage of distal phalanx of equine limb,,,,,,,,
+1249,,,C0278146,Shooting pain,,,,,,
+1249,,,C0241374,Thigh pain,,,,,,
+1249,,,C0030193,Pain,,,,,,
+1249,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1249,,,,,,,,,C0230446,Both lower legs
+1249,,,,,,,,,C1281586,Entire thigh
+1249,,,,,,,,,C0040184,Bone structure of tibia
+1250,C0016053,Fibromyalgia,,,,,,,,
+1250,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+1250,,,C0030193,Pain,,,,,,
+1250,,,,,C0185773,Operation on neck,,,,
+1250,,,,,C0413354,Injection of carpal tunnel,,,,
+1250,,,,,C1533685,Injection procedure,,,,
+1250,,,,,C0002766,Pain management,,,,
+1250,,,,,,,,,C0018563,Hand
+1250,,,,,,,,,C0019552,Hip structure
+1250,,,,,,,,,C0022742,Knee
+1250,,,,,,,,,C0085515,Rotator Cuff
+1250,,,,,,,,,C1995013,Set of muscles
+1250,,,,,,,,,C1269078,Entire upper limb
+1250,,,,,,,,,C1281592,Entire neck
+1251,C0016053,Fibromyalgia,,,,,,,,
+1251,,,,,C0813207,Creation of shunt,,,,
+1252,C0016053,Fibromyalgia,,,,,,,,
+1252,,,C0039070,Syncope,,,,,,
+1252,,,,,C0420176,Vitamin D supplement therapy,,,,
+1252,,,,,C0557061,Discussion (procedure),,,,
+1253,C0016053,Fibromyalgia,,,,,,,,
+1254,C0016053,Fibromyalgia,,,,,,,,
+1255,C0016053,Fibromyalgia,,,,,,,,
+1255,,,,,C0185060,Crushing procedure,,,,
+1256,C0016053,Fibromyalgia,,,,,,,,
+1256,,,C0150055,Chronic pain,,,,,,
+1256,,,C0030193,Pain,,,,,,
+1256,,,,,C0332293,Treated with,,,,
+1256,,,,,C0002766,Pain management,,,,
+1256,,,,,,,,,C0040132,Thyroid Gland
+1256,,,,,,,,,C0018826,Heart Valves
+1257,C0016053,Fibromyalgia,,,,,,,,
+1257,,,C0231528,Myalgia,,,,,,
+1257,,,,,C1299802,Excision of neoplasm,,,,
+1258,C0016053,Fibromyalgia,,,,,,,,
+1264,C0577887,Nasal sinus problem,,,,,,,,
+1264,,,,,,,,,C0521421,Entire ear
+1266,C0016053,Fibromyalgia,,,,,,,,
+1266,,,C0030193,Pain,,,,,,
+1268,C0016053,Fibromyalgia,,,,,,,,
+1268,,,C0221423,Illness (finding),,,,,,
+1268,,,C0557875,Tired,,,,,,
+1268,,,C0015672,Fatigue,,,,,,
+1268,,,C0030193,Pain,,,,,,
+1269,C0016053,Fibromyalgia,,,,,,,,
+1269,,,C0015672,Fatigue,,,,,,
+1269,,,C0030193,Pain,,,,,,
+1271,C0016053,Fibromyalgia,,,,,,,,
+1271,,,C0030193,Pain,,,,,,
+1271,,,,,C0600080,Stretching exercises,,,,
+1271,,,,,C0597811,Humor therapy,,,,
+1271,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1271,,,,,C1261381,Destructive procedure (surgical),,,,
+1271,,,,,,,,,C0006104,Brain
+1272,C0016053,Fibromyalgia,,,,,,,,
+1272,,,C1517205,Flare,,,,,,
+1272,,,C0085593,Chills,,,,,,
+1273,C0016053,Fibromyalgia,,,,,,,,
+1273,,,C0231218,Malaise,,,,,,
+1273,,,C0015672,Fatigue,,,,,,
+1273,,,C0028084,Nightmares,,,,,,
+1273,,,C0947967,coma states,,,,,,
+1273,,,,,C0087111,Therapeutic procedure,,,,
+1273,,,,,C0521300,Life support procedure,,,,
+1273,,,,,,,,,C1268989,Entire adrenal gland
+1274,C0016053,Fibromyalgia,,,,,,,,
+1274,,,C0003862,Arthralgia,,,,,,
+1274,,,C0231749,Knee pain,,,,,,
+1274,,,C0030193,Pain,,,,,,
+1274,,,,,,,,,C0040357,Toes
+1274,,,,,,,,,C0022742,Knee
+1274,,,,,,,,,C0016504,Foot
+1274,,,,,,,,,C0448064,Bone structure of hand
+1275,C0009443,Common Cold,,,,,,,,
+1275,,,C0037088,Signs and Symptoms,,,,,,
+1275,,,C3714552,Weakness,,,,,,
+1275,,,,,C3814046,PAD Regimen,,,,
+1275,,,,,C1533685,Injection procedure,,,,
+1279,C0423086,Staring,,,,,,,,
+1279,,,C0849907,Itching of ear,,,,,,
+1279,,,C0033774,Pruritus,,,,,,
+1279,,,C1096717,pain during injection,,,,,,
+1279,,,C0030193,Pain,,,,,,
+1279,,,C0013456,Earache,,,,,,
+1279,,,,,C0451615,Pain relief,,,,
+1279,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1279,,,,,C0282046,"Surgery, Day",,,,
+1279,,,,,C1533685,Injection procedure,,,,
+1279,,,,,,,,,C0041445,Tympanic membrane structure
+1279,,,,,,,,,C0015392,Eye
+1279,,,,,,,,,C1268203,Mouth region part
+1279,,,,,,,,,C0521421,Entire ear
+1280,C0041912,Upper Respiratory Infections,,,,,,,,
+1280,,,C0011991,Diarrhea,,,,,,
+1280,,,C0557875,Tired,,,,,,
+1280,,,C0278141,Excruciating pain,,,,,,
+1280,,,C0231749,Knee pain,,,,,,
+1280,,,C0010200,Coughing,,,,,,
+1280,,,C0013456,Earache,,,,,,
+1280,,,,,C0695657,Upper extremities taping or strapping,,,,
+1280,,,,,,,,,C1281590,Entire head
+1280,,,,,,,,,C0028429,Nose
+1283,C0016053,Fibromyalgia,,,,,,,,
+1283,,,C0030193,Pain,,,,,,
+1283,,,C0040822,Tremor,,,,,,
+1283,,,,,C1369039,Distraction - pain management method,,,,
+1283,,,,,C0280592,doxorubicin/fluorouracil/mitomycin/vincristine protocol,,,,
+1283,,,,,,,,,C1281590,Entire head
+1283,,,,,,,,,C1995013,Set of muscles
+1284,C0016053,Fibromyalgia,,,,,,,,
+1284,,,C0234238,Ache,,,,,,
+1284,,,C0231218,Malaise,,,,,,
+1284,,,C0030193,Pain,,,,,,
+1284,,,,,C0392920,Chemotherapy Regimen,,,,
+1284,,,,,,,,,C1269078,Entire upper limb
+1284,,,,,,,,,C0262950,Skeletal bone
+1285,C0016053,Fibromyalgia,,,,,,,,
+1285,,,C0030193,Pain,,,,,,
+1285,,,,,C1519433,Special Diet Therapy,,,,
+1285,,,,,C0087111,Therapeutic procedure,,,,
+1286,C0016053,Fibromyalgia,,,,,,,,
+1286,,,C0023222,Pain in lower limb,,,,,,
+1286,,,C0030193,Pain,,,,,,
+1286,,,,,C1456647,Childhood Immunization,,,,
+1286,,,,,C3687832,DRUGS,,,,
+1286,,,,,C0454366,Step ups,,,,
+1286,,,,,,,,,C1281813,Central nervous tissue
+1286,,,,,,,,,C0015385,Limb structure
+1286,,,,,,,,,C1269612,Entire upper arm
+1286,,,,,,,,,C0018563,Hand
+1286,,,,,,,,,C1995013,Set of muscles
+1286,,,,,,,,,C0006104,Brain
+1286,,,,,,,,,C0022359,Jaw
+1286,,,,,,,,,C1281592,Entire neck
+1287,C0016053,Fibromyalgia,,,,,,,,
+1287,,,C0030193,Pain,,,,,,
+1287,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+1288,C0016053,Fibromyalgia,,,,,,,,
+1288,,,C0234254,Radiating pain,,,,,,
+1288,,,C0085624,Burning sensation,,,,,,
+1288,,,C0150055,Chronic pain,,,,,,
+1288,,,C0030193,Pain,,,,,,
+1288,,,,,C0079613,Adoptive Immunotherapy,,,,
+1288,,,,,C1883583,Yoga,,,,
+1288,,,,,C0186010,Cervical arthrodesis,,,,
+1288,,,,,C1522704,Exercise Pain Management,,,,
+1288,,,,,C0920467,disorder control (procedure),,,,
+1288,,,,,C0087111,Therapeutic procedure,,,,
+1288,,,,,C0394664,Acupuncture procedure,,,,
+1288,,,,,,,,,C1269612,Entire upper arm
+1288,,,,,,,,,C0018563,Hand
+1288,,,,,,,,,C1281592,Entire neck
+1289,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1289,,,C0557875,Tired,,,,,,
+1289,,,,,,,,,C0230347,Left upper arm structure
+1290,C0016053,Fibromyalgia,,,,,,,,
+1290,,,C0037317,Sleep disturbances,,,,,,
+1290,,,C0030193,Pain,,,,,,
+1290,,,,,,,,,C0015392,Eye
+1291,C0016053,Fibromyalgia,,,,,,,,
+1291,,,C0030193,Pain,,,,,,
+1291,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+1295,C0016053,Fibromyalgia,,,,,,,,
+1295,,,C0015672,Fatigue,,,,,,
+1295,,,C1517205,Flare,,,,,,
+1295,,,C0030193,Pain,,,,,,
+1295,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+1296,C0009450,Communicable Diseases,,,,,,,,
+1296,,,C0018681,Headache,,,,,,
+1296,,,C0030193,Pain,,,,,,
+1296,,,C0848051,lumps behind ears,,,,,,
+1296,,,,,,,,,C0024204,lymph nodes
+1299,C0272203,Indolent Systemic Mastocytosis,,,,,,,,
+1299,,,,,C0021107,Implantation procedure,,,,
+1299,,,,,C0058928,ECHO protocol,,,,
+1299,,,,,,,,,C0229299,Left ear structure
+1299,,,,,,,,,C0521421,Entire ear
+1300,C3714506,Meckel syndrome type 1,,,,,,,,
+1300,,,C0030193,Pain,,,,,,
+1300,,,,,,,,,C1281562,Entire tooth
+1300,,,,,,,,,C0022359,Jaw
+1300,,,,,,,,,C0024109,Lung
+1305,C0016053,Fibromyalgia,,,,,,,,
+1305,,,C1517205,Flare,,,,,,
+1305,,,C0030193,Pain,,,,,,
+1305,,,,,C0086511,Knee Replacement Arthroplasty (procedure),,,,
+1305,,,,,C2945673,Clinical adjustment,,,,
+1305,,,,,C0150141,Bathing,,,,
+1305,,,,,C0024875,Massage,,,,
+1306,C3887505,DYSFUNCTION - SKIN DISORDERS,,,,,,,,
+1306,,,C1517205,Flare,,,,,,
+1306,,,,,C0086511,Knee Replacement Arthroplasty (procedure),,,,
+1306,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1306,,,,,,,,,C1280202,Entire eye
+1307,C0016053,Fibromyalgia,,,,,,,,
+1307,,,C0037088,Signs and Symptoms,,,,,,
+1308,C0016053,Fibromyalgia,,,,,,,,
+1308,,,C0521668,Primary Thunderclap Headache,,,,,,
+1308,,,C3640014,Unbearable Pain,,,,,,
+1308,,,C1517205,Flare,,,,,,
+1308,,,C0018681,Headache,,,,,,
+1308,,,C0030193,Pain,,,,,,
+1308,,,,,C0035189,Residential Treatment,,,,
+1308,,,,,C1303150,Disease management program (regime/therapy),,,,
+1308,,,,,C0087111,Therapeutic procedure,,,,
+1308,,,,,,,,,C1278920,Entire stomach
+1309,C0016053,Fibromyalgia,,,,,,,,
+1309,,,C0037011,Shoulder Pain,,,,,,
+1309,,,C0015672,Fatigue,,,,,,
+1309,,,C0040822,Tremor,,,,,,
+1309,,,C0030193,Pain,,,,,,
+1309,,,,,C0451615,Pain relief,,,,
+1309,,,,,,,,,C0022122,Bone structure of ischium
+1309,,,,,,,,,C1281586,Entire thigh
+1310,C0016053,Fibromyalgia,,,,,,,,
+1310,,,C0015672,Fatigue,,,,,,
+1310,,,C0030193,Pain,,,,,,
+1310,,,C0917801,Sleeplessness,,,,,,
+1310,,,,,C0376547,Aromatherapy,,,,
+1310,,,,,C0394664,Acupuncture procedure,,,,
+1311,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1312,C0016053,Fibromyalgia,,,,,,,,
+1312,,,C0427008,Stiffness,,,,,,
+1312,,,C0030193,Pain,,,,,,
+1312,,,,,C1369039,Distraction - pain management method,,,,
+1312,,,,,C0600080,Stretching exercises,,,,
+1312,,,,,C0597811,Humor therapy,,,,
+1312,,,,,C0280592,doxorubicin/fluorouracil/mitomycin/vincristine protocol,,,,
+1312,,,,,,,,,C0015385,Limb structure
+1312,,,,,,,,,C1995013,Set of muscles
+1312,,,,,,,,,C0224456,Skeletal muscle structure of lower leg
+1313,C0016053,Fibromyalgia,,,,,,,,
+1313,,,C0221423,Illness (finding),,,,,,
+1313,,,C0234238,Ache,,,,,,
+1313,,,C0751535,"Syncope, Cardiogenic",,,,,,
+1313,,,C0030193,Pain,,,,,,
+1313,,,C0085593,Chills,,,,,,
+1313,,,,,C1533685,Injection procedure,,,,
+1314,C0016053,Fibromyalgia,,,,,,,,
+1317,C0036689,Streptococcal sore throat,,,,,,,,
+1317,,,C0557875,Tired,,,,,,
+1317,,,C0015230,Exanthema,,,,,,
+1318,C0016053,Fibromyalgia,,,,,,,,
+1318,,,C0741585,BODY ACHE,,,,,,
+1318,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1318,,,,,,,,,C0028429,Nose
+1320,C1849409,Knobloch syndrome,,,,,,,,
+1320,,,C0546947,Choking sensation,,,,,,
+1320,,,C0857126,impending doom,,,,,,
+1320,,,C0020175,Hunger,,,,,,
+1320,,,C0019825,Hoarseness,,,,,,
+1320,,,C0013404,Dyspnea,,,,,,
+1320,,,,,C0886384,5 minutes Office visit,,,,
+1320,,,,,,,,,C0040578,Trachea
+1320,,,,,,,,,C0042930,Vocal cord structure
+1320,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1320,,,,,,,,,C1269870,Entire thoracic spine
+1326,C0016053,Fibromyalgia,,,,,,,,
+1326,,,,,C0947647,Manipulation procedure,,,,
+1326,,,,,,,,,C0018787,Heart
+1327,C0016053,Fibromyalgia,,,,,,,,
+1327,,,C0497406,Overweight,,,,,,
+1327,,,,,C1522704,Exercise Pain Management,,,,
+1327,,,,,,,,,C0085515,Rotator Cuff
+1327,,,,,,,,,C0078960,Anterior Cruciate Ligament
+1328,C0016053,Fibromyalgia,,,,,,,,
+1330,C0016053,Fibromyalgia,,,,,,,,
+1330,,,C0036572,Seizures,,,,,,
+1330,,,C0557875,Tired,,,,,,
+1330,,,C0231218,Malaise,,,,,,
+1330,,,,,,,,,C0022742,Knee
+1331,C0016053,Fibromyalgia,,,,,,,,
+1331,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1331,,,,,C0152277,Incision and drainage,,,,
+1331,,,,,,,,,C1280202,Entire eye
+1332,C0016053,Fibromyalgia,,,,,,,,
+1334,C0016053,Fibromyalgia,,,,,,,,
+1335,C0016053,Fibromyalgia,,,,,,,,
+1337,C0016053,Fibromyalgia,,,,,,,,
+1337,,,C0221423,Illness (finding),,,,,,
+1341,C0012634,Disease,,,,,,,,
+1341,,,,,,,,,C0039337,Taste Buds
+1342,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1342,,,C0231218,Malaise,,,,,,
+1342,,,C0039070,Syncope,,,,,,
+1342,,,C0030193,Pain,,,,,,
+1342,,,,,C0184933,Scraping,,,,
+1342,,,,,,,,,C0015420,Eyebrow structure
+1342,,,,,,,,,C0225414,Bridge of nose
+1342,,,,,,,,,C1281591,Entire face
+1342,,,,,,,,,C0028429,Nose
+1343,C0242383,Age related macular degeneration,,,,,,,,
+1343,,,,,C1456647,Childhood Immunization,,,,
+1343,,,,,C0087111,Therapeutic procedure,,,,
+1343,,,,,,,,,C0015392,Eye
+1344,C0016053,Fibromyalgia,,,,,,,,
+1345,C0016053,Fibromyalgia,,,,,,,,
+1345,,,,,C0557061,Discussion (procedure),,,,
+1346,C0016053,Fibromyalgia,,,,,,,,
+1346,,,C0036572,Seizures,,,,,,
+1346,,,C0003862,Arthralgia,,,,,,
+1346,,,C0234238,Ache,,,,,,
+1346,,,C0557875,Tired,,,,,,
+1346,,,C0221170,Muscular stiffness,,,,,,
+1346,,,C1517205,Flare,,,,,,
+1346,,,C0030193,Pain,,,,,,
+1346,,,C0427008,Stiffness,,,,,,
+1346,,,C1321587,Breathing abnormally deep,,,,,,
+1346,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+1346,,,,,C0451615,Pain relief,,,,
+1346,,,,,C0204774,Soaking Procedure,,,,
+1346,,,,,C0600080,Stretching exercises,,,,
+1346,,,,,C0024875,Massage,,,,
+1346,,,,,C0020311,Hydrotherapy,,,,
+1346,,,,,C0002766,Pain management,,,,
+1346,,,,,C0152060,Transection (procedure),,,,
+1346,,,,,C1513003,Massage and Body Therapeutic Techniques,,,,
+1346,,,,,C0033968,Psychotherapy,,,,
+1346,,,,,C0452240,Physical therapy exercises,,,,
+1346,,,,,C0150141,Bathing,,,,
+1346,,,,,C0279848,cisplatin/etoposide/mitoxantrone/tamoxifen protocol,,,,
+1346,,,,,C0204727,Isolation procedure,,,,
+1346,,,,,C1522704,Exercise Pain Management,,,,
+1346,,,,,C0087111,Therapeutic procedure,,,,
+1346,,,,,,,C2961685,Magnesium Sulfate 1000 MG Oral Granules,,
+1346,,,,,,,,,C0006104,Brain
+1347,C0016053,Fibromyalgia,,,,,,,,
+1348,C0017168,Gastroesophageal reflux disease,,,,,,,,
+1352,C0031350,Pharyngitis,,,,,,,,
+1352,,,C1260880,Rhinorrhea,,,,,,
+1352,,,C0221423,Illness (finding),,,,,,
+1352,,,C0242429,Sore Throat,,,,,,
+1352,,,C0744648,headache persistent,,,,,,
+1352,,,C0010200,Coughing,,,,,,
+1352,,,C1704205,Pharyngeal swelling,,,,,,
+1352,,,C0085593,Chills,,,,,,
+1352,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1352,,,,,,,,,C0024204,lymph nodes
+1352,,,,,,,,,C0022359,Jaw
+1353,C0016053,Fibromyalgia,,,,,,,,
+1353,,,,,C0374711,Surgical repair,,,,
+1354,C0016053,Fibromyalgia,,,,,,,,
+1354,,,C0518214,Perceived quality of life,,,,,,
+1354,,,C0030193,Pain,,,,,,
+1355,C0016053,Fibromyalgia,,,,,,,,
+1357,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1357,,,C0030193,Pain,,,,,,
+1357,,,,,C0087111,Therapeutic procedure,,,,
+1358,C0031350,Pharyngitis,,,,,,,,
+1358,,,C0008031,Chest Pain,,,,,,
+1358,,,C0242429,Sore Throat,,,,,,
+1358,,,C0030193,Pain,,,,,,
+1358,,,,,,,,,C0836921,Tonsil
+1373,C0020302,Hydrophthalmos,,,,,,,,
+1374,C0011175,Dehydration,,,,,,,,
+1374,,,C0011991,Diarrhea,,,,,,
+1374,,,,,C0374711,Surgical repair,,,,
+1374,,,,,C0419174,Nasal tube feeding,,,,
+1374,,,,,,,,,C0014876,Esophagus
+1376,C0038395,Streptococcal Infections,,,,,,,,
+1376,,,,,,,,,C0040421,Palatine Tonsil
+1376,,,,,,,,,C0031354,Pharyngeal structure
+1379,C0015397,Disorder of eye,,,,,,,,
+1379,,,,,,,,,C0015392,Eye
+1380,C0011849,Diabetes Mellitus,,,,,,,,
+1380,,,C1442877,Sore skin,,,,,,
+1380,,,,,,,,,C1280202,Entire eye
+1380,,,,,,,,,C0229090,Left eye structure
+1380,,,,,,,,,C1279153,Entire cheek
+1380,,,,,,,,,C1281591,Entire face
+1385,C0031350,Pharyngitis,,,,,,,,
+1385,,,C0042963,Vomiting,,,,,,
+1385,,,C0242429,Sore Throat,,,,,,
+1385,,,C0013456,Earache,,,,,,
+1385,,,C0030193,Pain,,,,,,
+1385,,,,,,,,,C1281590,Entire head
+1385,,,,,,,,,C0041445,Tympanic membrane structure
+1385,,,,,,,,,C0927939,Right tympanic membrane
+1385,,,,,,,,,C0521421,Entire ear
+1389,C0016053,Fibromyalgia,,,,,,,,
+1389,,,,,,,,,C4048756,Right arm
+1391,C0020557,Hypertriglyceridemia,,,,,,,,
+1391,,,C0700184,Throat irritation,,,,,,
+1391,,,,,C2973270,Health Checkup,,,,
+1391,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1391,,,,,,,,,C0028429,Nose
+1398,C0016053,Fibromyalgia,,,,,,,,
+1406,C0041834,Erythema,,,,,,,,
+1406,,,C0033774,Pruritus,,,,,,
+1406,,,,,C0242390,Home Remedies,,,,
+1406,,,,,,,,,C1280202,Entire eye
+1406,,,,,,,,,C0018563,Hand
+1406,,,,,,,,,C2706046,Eye lid
+1406,,,,,,,,,C0229090,Left eye structure
+1406,,,,,,,,,C0015426,Eyelid structure
+1406,,,,,,,,,C1184743,bony process
+1408,C0038395,Streptococcal Infections,,,,,,,,
+1408,,,C0085624,Burning sensation,,,,,,
+1408,,,,,C0087111,Therapeutic procedure,,,,
+1408,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1408,,,,,,,,,C0024204,lymph nodes
+1410,C0011334,Dental caries,,,,,,,,
+1410,,,C0231918,Nose symptoms,,,,,,
+1410,,,,,C0279232,fluorouracil/melphalan/tamoxifen,,,,
+1410,,,,,,,,,C0018787,Heart
+1412,C0699744,Infection of ear,,,,,,,,
+1412,,,C0013456,Earache,,,,,,
+1412,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1412,,,,,,,,,C0927939,Right tympanic membrane
+1412,,,,,,,,,C0521421,Entire ear
+1415,C0009443,Common Cold,,,,,,,,
+1415,,,C1260880,Rhinorrhea,,,,,,
+1415,,,,,C0301571,Liquid diet,,,,
+1422,C0016053,Fibromyalgia,,,,,,,,
+1422,,,C0221423,Illness (finding),,,,,,
+1422,,,C0030193,Pain,,,,,,
+1422,,,C0013404,Dyspnea,,,,,,
+1422,,,,,C0949766,Physical therapy,,,,
+1422,,,,,C1261311,Injection of steroid,,,,
+1422,,,,,C0279848,cisplatin/etoposide/mitoxantrone/tamoxifen protocol,,,,
+1422,,,,,C0020699,Hysterectomy,,,,
+1422,,,,,C0002766,Pain management,,,,
+1422,,,,,C0178391,breast implant procedure,,,,
+1422,,,,,,,,,C0040421,Palatine Tonsil
+1422,,,,,,,,,C1267072,Entire vertebral column
+1422,,,,,,,,,C0178784,Organ
+1422,,,,,,,,,C0007874,Cervix Uteri
+1422,,,,,,,,,C0006104,Brain
+1422,,,,,,,,,C1269000,Entire appendix
+1422,,,,,,,,,C0016976,Gallbladder
+1422,,,,,,,,,C1269001,Entire gallbladder
+1423,C0016053,Fibromyalgia,,,,,,,,
+1432,C0699744,Infection of ear,,,,,,,,
+1432,,,C0042571,Vertigo,,,,,,
+1432,,,C0030193,Pain,,,,,,
+1432,,,C0013456,Earache,,,,,,
+1432,,,,,C0021485,Injection of therapeutic agent,,,,
+1432,,,,,,,,,C0229299,Left ear structure
+1432,,,,,,,,,C0229447,Left inner ear structure
+1432,,,,,,,,,C0521421,Entire ear
+1432,,,,,,,,,C1281592,Entire neck
+1433,C0030360,Papillon-Lefevre Disease,,,,,,,,
+1433,,,,,,,,,C0521421,Entire ear
+1438,C0016053,Fibromyalgia,,,,,,,,
+1438,,,C0150055,Chronic pain,,,,,,
+1438,,,C0030193,Pain,,,,,,
+1438,,,,,C0001701,"Exercise, Aerobic",,,,
+1439,C0272388,Amygdalolith,,,,,,,,
+1439,,,C0010200,Coughing,,,,,,
+1439,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1439,,,,,,,,,C0521421,Entire ear
+1439,,,,,,,,,C0028429,Nose
+1441,C0012634,Disease,,,,,,,,
+1442,C0016053,Fibromyalgia,,,,,,,,
+1443,C0016053,Fibromyalgia,,,,,,,,
+1443,,,,,,,,,C1281590,Entire head
+1446,C0009450,Communicable Diseases,,,,,,,,
+1446,,,C0423006,Discharge from eye,,,,,,
+1446,,,,,,,,,C0015422,Eyelash
+1446,,,,,,,,,C0015392,Eye
+1446,,,,,,,,,C0229090,Left eye structure
+1446,,,,,,,,,C0028429,Nose
+1448,C0016053,Fibromyalgia,,,,,,,,
+1448,,,C0030193,Pain,,,,,,
+1448,,,,,C0185773,Operation on neck,,,,
+1451,C0027092,Myopia,,,,,,,,
+1451,,,C0039070,Syncope,,,,,,
+1451,,,,,,,,,C1288305,Entire eyelash
+1451,,,,,,,,,C0036410,Sclera
+1451,,,,,,,,,C0015392,Eye
+1452,C0730321,Punctate inner choroidopathy,,,,,,,,
+1455,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1455,,,C0221423,Illness (finding),,,,,,
+1455,,,C0030193,Pain,,,,,,
+1456,C0019917,Hordeolum,,,,,,,,
+1456,,,C0392171,Influenza-like symptoms,,,,,,
+1456,,,C0027498,Nausea and vomiting,,,,,,
+1456,,,C0018681,Headache,,,,,,
+1456,,,,,,,,,C1280205,Entire upper eyelid
+1456,,,,,,,,,C0459592,Eyelid gland
+1456,,,,,,,,,C0585636,Upper eyelid structure
+1456,,,,,,,,,C0229258,Lower eyelid
+1458,C0149931,Migraine Disorders,,,,,,,,
+1458,,,,,,,,,C0015392,Eye
+1458,,,,,,,,,C0015426,Eyelid structure
+1460,C0041912,Upper Respiratory Infections,,,,,,,,
+1460,,,,,,,,,C0028429,Nose
+1463,C0011334,Dental caries,,,,,,,,
+1463,,,C0015468,Facial Pain,,,,,,
+1463,,,C0013456,Earache,,,,,,
+1463,,,,,C0204147,Extraction of wisdom tooth,,,,
+1463,,,,,,,,,C0026369,Structure of wisdom tooth
+1463,,,,,,,,,C1278917,Entire salivary gland
+1463,,,,,,,,,C0040426,Tooth structure
+1463,,,,,,,,,C0423866,Lanugo
+1463,,,,,,,,,C1281591,Entire face
+1463,,,,,,,,,C0022359,Jaw
+1463,,,,,,,,,C0521421,Entire ear
+1464,C0021345,Infectious Mononucleosis,,,,,,,,
+1464,,,C0741585,BODY ACHE,,,,,,
+1464,,,C0557875,Tired,,,,,,
+1464,,,C2957106,headache severe,,,,,,
+1464,,,C0015672,Fatigue,,,,,,
+1464,,,C0012833,Dizziness,,,,,,
+1464,,,C3714552,Weakness,,,,,,
+1464,,,C0004604,Back Pain,,,,,,
+1464,,,C0030193,Pain,,,,,,
+1464,,,,,,,,,C0024204,lymph nodes
+1472,C0422955,Lazy Eye,,,,,,,,
+1473,C3714506,Meckel syndrome type 1,,,,,,,,
+1473,,,C0027769,Nervousness,,,,,,
+1473,,,,,C0007471,Cauterization - action,,,,
+1473,,,,,,,,,C0028429,Nose
+1474,C0041912,Upper Respiratory Infections,,,,,,,,
+1474,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+1474,,,,,,,,,C0229298,Right ear structure
+1474,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1474,,,,,,,,,C0521421,Entire ear
+1476,C0035258,Restless Legs Syndrome,,,,,,,,
+1476,,,C0221423,Illness (finding),,,,,,
+1476,,,C0030193,Pain,,,,,,
+1476,,,C1579931,Depressed - symptom,,,,,,
+1476,,,C0751372,Nerve Pain,,,,,,
+1477,C0423086,Staring,,,,,,,,
+1477,,,,,C0441615,Patch repair,,,,
+1477,,,,,,,,,C0015392,Eye
+1477,,,,,,,,,C0229090,Left eye structure
+1477,,,,,,,,,C0006104,Brain
+1480,C0024473,Magnesium Deficiency,,,,,,,,
+1483,C0009450,Communicable Diseases,,,,,,,,
+1483,,,C0677500,Stinging Sensation,,,,,,
+1483,,,C0030193,Pain,,,,,,
+1483,,,,,,,,,C0027342,Nail plate
+1483,,,,,,,,,C0036410,Sclera
+1483,,,,,,,,,C0015392,Eye
+1496,C0040247,Tinea,,,,,,,,
+1496,,,,,,,,,C1280734,Entire eyelid
+1496,,,,,,,,,C1280733,Entire eyebrow
+1496,,,,,,,,,C2706046,Eye lid
+1498,C0010043,Corneal Ulcer,,,,,,,,
+1498,,,C0234233,Sore to touch,,,,,,
+1498,,,,,C0332293,Treated with,,,,
+1498,,,,,,,,,C1280205,Entire upper eyelid
+1498,,,,,,,,,C0035298,Retina
+1498,,,,,,,,,C0015392,Eye
+1498,,,,,,,,,C2706046,Eye lid
+1498,,,,,,,,,C0015426,Eyelid structure
+1498,,,,,,,,,C0585636,Upper eyelid structure
+1500,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1502,C0036916,Sexually Transmitted Diseases,,,,,,,,
+1505,C0016053,Fibromyalgia,,,,,,,,
+1505,,,C0015672,Fatigue,,,,,,
+1505,,,C0030193,Pain,,,,,,
+1505,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1505,,,,,,,,,C0230102,Lower back structure
+1505,,,,,,,,,C0019552,Hip structure
+1505,,,,,,,,,C1281592,Entire neck
+1506,C1956346,Coronary Artery Disease,,,,,,,,
+1506,,,C0521668,Primary Thunderclap Headache,,,,,,
+1506,,,C0018681,Headache,,,,,,
+1508,C0016053,Fibromyalgia,,,,,,,,
+1508,,,C0085624,Burning sensation,,,,,,
+1508,,,C0877716,Burning sensation of leg,,,,,,
+1508,,,C0030193,Pain,,,,,,
+1508,,,,,,,,,C1269612,Entire upper arm
+1514,C0031350,Pharyngitis,,,,,,,,
+1514,,,C0027424,Nasal congestion (finding),,,,,,
+1514,,,C0242429,Sore Throat,,,,,,
+1514,,,,,,,,,C1281590,Entire head
+1514,,,,,,,,,C0229298,Right ear structure
+1514,,,,,,,,,C1278896,Entire nose
+1514,,,,,,,,,C0018494,Hair
+1514,,,,,,,,,C1281584,Entire finger
+1514,,,,,,,,,C0521421,Entire ear
+1515,C0730321,Punctate inner choroidopathy,,,,,,,,
+1515,,,,,,,,,C0229298,Right ear structure
+1515,,,,,,,,,C0927939,Right tympanic membrane
+1515,,,,,,,,,C0521421,Entire ear
+1515,,,,,,,,,C1281592,Entire neck
+1515,,,,,,,,,C0229433,Right Eustachian canal structure
+1515,,,,,,,,,C0028429,Nose
+1516,C0041912,Upper Respiratory Infections,,,,,,,,
+1516,,,C0234238,Ache,,,,,,
+1516,,,C0030193,Pain,,,,,,
+1516,,,,,C0013103,Drainage procedure,,,,
+1516,,,,,,,,,C1269613,Entire thumb
+1519,C0017601,Glaucoma,,,,,,,,
+1519,,,C0030193,Pain,,,,,,
+1519,,,C0751372,Nerve Pain,,,,,,
+1519,,,,,,,,,C0015392,Eye
+1519,,,,,,,,,C0029130,Optic Nerve
+1520,C0013238,Dry Eye Syndromes,,,,,,,,
+1520,,,C0314719,Dryness of eye,,,,,,
+1520,,,,,C2709207,Rx therapy,,,,
+1520,,,,,C0087111,Therapeutic procedure,,,,
+1522,C0016053,Fibromyalgia,,,,,,,,
+1522,,,C0518214,Perceived quality of life,,,,,,
+1522,,,C0009806,Constipation,,,,,,
+1522,,,,,C2709207,Rx therapy,,,,
+1522,,,,,C0087111,Therapeutic procedure,,,,
+1523,C0016053,Fibromyalgia,,,,,,,,
+1523,,,C0221423,Illness (finding),,,,,,
+1523,,,C0231218,Malaise,,,,,,
+1525,C0016053,Fibromyalgia,,,,,,,,
+1525,,,C0231218,Malaise,,,,,,
+1525,,,C0683369,Clouded consciousness,,,,,,
+1525,,,,,C0002766,Pain management,,,,
+1526,C0040425,Tonsillitis,,,,,,,,
+1526,,,,,C0301571,Liquid diet,,,,
+1526,,,,,,,,,C0229298,Right ear structure
+1526,,,,,,,,,C0013444,External auditory canal structure
+1526,,,,,,,,,C1550227,Body Parts - Canal
+1531,C3539909,Allergic disposition,,,,,,,,
+1531,,,C0042963,Vomiting,,,,,,
+1531,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+1531,,,,,C0291011,VAPE protocol,,,,
+1531,,,,,,,,,C0031354,Pharyngeal structure
+1531,,,,,,,,,C0018494,Hair
+1532,C0031350,Pharyngitis,,,,,,,,
+1532,,,C1260880,Rhinorrhea,,,,,,
+1532,,,C0242429,Sore Throat,,,,,,
+1536,C0019163,Hepatitis B,,,,,,,,
+1537,C0019196,Hepatitis C,,,,,,,,
+1537,,,C0748706,side pain,,,,,,
+1537,,,C0150055,Chronic pain,,,,,,
+1537,,,C0030193,Pain,,,,,,
+1537,,,,,C0683525,treatment options,,,,
+1537,,,,,,,,,C0023884,Liver
+1537,,,,,,,,,C0022646,Kidney
+1538,C0019196,Hepatitis C,,,,,,,,
+1538,,,C0018681,Headache,,,,,,
+1539,C0019196,Hepatitis C,,,,,,,,
+1539,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1539,,,,,,,,,C0018563,Hand
+1539,,,,,,,,,C1281584,Entire finger
+1540,C0016053,Fibromyalgia,,,,,,,,
+1540,,,C0015672,Fatigue,,,,,,
+1540,,,C0030193,Pain,,,,,,
+1541,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1541,,,C0039070,Syncope,,,,,,
+1541,,,,,C0087111,Therapeutic procedure,,,,
+1541,,,,,,,,,C0018494,Hair
+1541,,,,,,,,,C0222041,Shell - Animal skin appendage
+1542,C0016053,Fibromyalgia,,,,,,,,
+1542,,,C0234238,Ache,,,,,,
+1542,,,C0857160,leg numbness,,,,,,
+1542,,,C0231217,Multiple symptoms,,,,,,
+1542,,,C0221170,Muscular stiffness,,,,,,
+1542,,,C0023222,Pain in lower limb,,,,,,
+1542,,,C0012833,Dizziness,,,,,,
+1542,,,C0231528,Myalgia,,,,,,
+1542,,,C2242996,Has tingling sensation,,,,,,
+1542,,,C0575090,Equilibration disorder,,,,,,
+1542,,,C0427008,Stiffness,,,,,,
+1542,,,,,C0152277,Incision and drainage,,,,
+1542,,,,,,,,,C1269612,Entire upper arm
+1542,,,,,,,,,C0015392,Eye
+1542,,,,,,,,,C1995013,Set of muscles
+1542,,,,,,,,,C0006104,Brain
+1554,C0024117,Chronic Obstructive Airway Disease,,,,,,,,
+1554,,,C0030193,Pain,,,,,,
+1554,,,,,C0188970,Operation on nose,,,,
+1554,,,,,,,,,C1278896,Entire nose
+1554,,,,,,,,,C0222084,Skin structure of face
+1558,C0699744,Infection of ear,,,,,,,,
+1558,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1561,C0036689,Streptococcal sore throat,,,,,,,,
+1561,,,,,,,,,C0836921,Tonsil
+1566,C0006277,Bronchitis,,,,,,,,
+1566,,,C1260880,Rhinorrhea,,,,,,
+1566,,,C0032781,Posterior rhinorrhea,,,,,,
+1566,,,C0033774,Pruritus,,,,,,
+1566,,,C0850149,Dry cough,,,,,,
+1566,,,C0010200,Coughing,,,,,,
+1566,,,C0392674,Exhaustion,,,,,,
+1570,C0006277,Bronchitis,,,,,,,,
+1570,,,C0036572,Seizures,,,,,,
+1570,,,C0010200,Coughing,,,,,,
+1572,C0043154,Dental White Spot,,,,,,,,
+1572,,,C0234233,Sore to touch,,,,,,
+1572,,,,,C0040461,Toothbrushing,,,,
+1572,,,,,,,,,C0040421,Palatine Tonsil
+1572,,,,,,,,,C0031354,Pharyngeal structure
+1572,,,,,,,,,C0018494,Hair
+1576,C0031350,Pharyngitis,,,,,,,,
+1576,,,C0234238,Ache,,,,,,
+1576,,,C0242429,Sore Throat,,,,,,
+1576,,,C0013456,Earache,,,,,,
+1576,,,,,,,,,C0031354,Pharyngeal structure
+1576,,,,,,,,,C0521421,Entire ear
+1581,C0020676,Hypothyroidism,,,,,,,,
+1581,,,,,C1522704,Exercise Pain Management,,,,
+1581,,,,,,,,,C0040132,Thyroid Gland
+1584,C0009443,Common Cold,,,,,,,,
+1584,,,C0010200,Coughing,,,,,,
+1584,,,,,,,,,C0031354,Pharyngeal structure
+1589,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+1589,,,C0016382,Flushing,,,,,,
+1589,,,,,,,,,C0041445,Tympanic membrane structure
+1589,,,,,,,,,C0521421,Entire ear
+1590,C0011119,Decompression Sickness,,,,,,,,
+1590,,,C0030193,Pain,,,,,,
+1590,,,,,C0087111,Therapeutic procedure,,,,
+1590,,,,,,,,,C1281592,Entire neck
+1592,C0699744,Infection of ear,,,,,,,,
+1592,,,,,,,,,C0229299,Left ear structure
+1592,,,,,,,,,C0521421,Entire ear
+1593,C0017168,Gastroesophageal reflux disease,,,,,,,,
+1593,,,C0541828,Left sided chest pain,,,,,,
+1593,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1593,,,,,,,,,C0014876,Esophagus
+1594,C0038395,Streptococcal Infections,,,,,,,,
+1594,,,C0278144,Dull pain,,,,,,
+1594,,,C0018681,Headache,,,,,,
+1594,,,C1579931,Depressed - symptom,,,,,,
+1594,,,C0220870,Lightheadedness,,,,,,
+1594,,,,,,,,,C1281590,Entire head
+1594,,,,,,,,,C0015392,Eye
+1594,,,,,,,,,C1281591,Entire face
+1594,,,,,,,,,C0521421,Entire ear
+1596,C0011168,Deglutition Disorders,,,,,,,,
+1596,,,C0221423,Illness (finding),,,,,,
+1596,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1597,C0037199,Sinusitis,,,,,,,,
+1597,,,C0522251,Sinus pain,,,,,,
+1597,,,C0032781,Posterior rhinorrhea,,,,,,
+1597,,,,,C0204558,Group reassurance,,,,
+1597,,,,,,,,,C1278896,Entire nose
+1597,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1597,,,,,,,,,C0023078,Larynx
+1600,C0018775,"Hearing Loss, Bilateral",,,,,,,,
+1600,,,,,,,,,C0006104,Brain
+1602,C0272388,Amygdalolith,,,,,,,,
+1602,,,C0018520,Halitosis,,,,,,
+1602,,,,,C0040423,Tonsillectomy,,,,
+1602,,,,,,,,,C1281584,Entire finger
+1604,C0018889,Helminthiasis,,,,,,,,
+1607,C0010709,Cyst,,,,,,,,
+1607,,,C0018681,Headache,,,,,,
+1607,,,C0030193,Pain,,,,,,
+1607,,,C0013404,Dyspnea,,,,,,
+1607,,,C0234233,Sore to touch,,,,,,
+1607,,,,,C0013103,Drainage procedure,,,,
+1607,,,,,C0087111,Therapeutic procedure,,,,
+1607,,,,,,,,,C0008913,Bone structure of clavicle
+1607,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1607,,,,,,,,,C4019107,Collar Bone
+1607,,,,,,,,,C1281592,Entire neck
+1610,C0009443,Common Cold,,,,,,,,
+1610,,,C0027424,Nasal congestion (finding),,,,,,
+1610,,,C0037088,Signs and Symptoms,,,,,,
+1610,,,,,,,,,C1278896,Entire nose
+1611,C0149931,Migraine Disorders,,,,,,,,
+1611,,,C0010200,Coughing,,,,,,
+1611,,,C0030193,Pain,,,,,,
+1611,,,,,,,,,C0458532,Laryngeal prominence
+1611,,,,,,,,,C0023078,Larynx
+1611,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1611,,,,,,,,,C0222760,Structure of greater horn of hyoid bone
+1611,,,,,,,,,C1285092,Gland
+1611,,,,,,,,,C0521421,Entire ear
+1611,,,,,,,,,C0022359,Jaw
+1611,,,,,,,,,C0028429,Nose
+1616,C0031350,Pharyngitis,,,,,,,,
+1616,,,C0242429,Sore Throat,,,,,,
+1616,,,C0847554,lump in throat,,,,,,
+1616,,,,,,,,,C0040421,Palatine Tonsil
+1618,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+1618,,,C0849796,ear congestion,,,,,,
+1618,,,C0683369,Clouded consciousness,,,,,,
+1618,,,,,,,,,C0031354,Pharyngeal structure
+1618,,,,,,,,,C0521421,Entire ear
+1618,,,,,,,,,C0028429,Nose
+1626,C0011119,Decompression Sickness,,,,,,,,
+1626,,,C0850149,Dry cough,,,,,,
+1626,,,C0010200,Coughing,,,,,,
+1626,,,C0438716,Chest pressure,,,,,,
+1626,,,,,C0152277,Incision and drainage,,,,
+1627,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+1627,,,C0030193,Pain,,,,,,
+1627,,,,,C0204558,Group reassurance,,,,
+1627,,,,,,,,,C0521421,Entire ear
+1627,,,,,,,,,C0028429,Nose
+1631,C0339759,Acute infective otitis externa,,,,,,,,
+1631,,,C0030193,Pain,,,,,,
+1631,,,,,C0280592,doxorubicin/fluorouracil/mitomycin/vincristine protocol,,,,
+1631,,,,,,,,,C0013443,Ear structure
+1631,,,,,,,,,C0013444,External auditory canal structure
+1632,C0004135,Ataxia Telangiectasia,,,,,,,,
+1632,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1632,,,,,,,,,C0521421,Entire ear
+1632,,,,,,,,,C0028429,Nose
+1638,C0730321,Punctate inner choroidopathy,,,,,,,,
+1638,,,,,,,,,C0042173,Uvula of palate
+1638,,,,,,,,,C0836921,Tonsil
+1638,,,,,,,,,C0040426,Tooth structure
+1644,C0021400,Influenza,,,,,,,,
+1644,,,C0221423,Illness (finding),,,,,,
+1644,,,C0497406,Overweight,,,,,,
+1648,C0339759,Acute infective otitis externa,,,,,,,,
+1648,,,,,,,,,C0521421,Entire ear
+1651,C0009450,Communicable Diseases,,,,,,,,
+1651,,,C0030193,Pain,,,,,,
+1651,,,,,,,,,C0521421,Entire ear
+1656,C0017168,Gastroesophageal reflux disease,,,,,,,,
+1656,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1656,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1659,C0699744,Infection of ear,,,,,,,,
+1659,,,C0455770,Feeling of loss of feeling,,,,,,
+1659,,,C0231218,Malaise,,,,,,
+1659,,,C0030193,Pain,,,,,,
+1659,,,C0234233,Sore to touch,,,,,,
+1659,,,,,C0851200,clean ear,,,,
+1659,,,,,C0079613,Adoptive Immunotherapy,,,,
+1659,,,,,C1963578,Release (procedure),,,,
+1659,,,,,,,,,C0229298,Right ear structure
+1659,,,,,,,,,C0041445,Tympanic membrane structure
+1659,,,,,,,,,C0521421,Entire ear
+1663,C0012634,Disease,,,,,,,,
+1663,,,C0856864,Headache fullness,,,,,,
+1663,,,C0023380,Lethargy,,,,,,
+1663,,,C0027769,Nervousness,,,,,,
+1663,,,,,C0376547,Aromatherapy,,,,
+1663,,,,,C0022100,Irrigation,,,,
+1663,,,,,C0024875,Massage,,,,
+1663,,,,,,,,,C1278896,Entire nose
+1663,,,,,,,,,C0521421,Entire ear
+1667,C0038395,Streptococcal Infections,,,,,,,,
+1667,,,C0010200,Coughing,,,,,,
+1667,,,C0455270,Sharp pain,,,,,,
+1667,,,,,,,,,C0040421,Palatine Tonsil
+1667,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1667,,,,,,,,,C0015392,Eye
+1667,,,,,,,,,C0521421,Entire ear
+1670,C0043154,Dental White Spot,,,,,,,,
+1670,,,,,C0040461,Toothbrushing,,,,
+1670,,,,,,,,,C0040426,Tooth structure
+1678,C0009443,Common Cold,,,,,,,,
+1678,,,C1260880,Rhinorrhea,,,,,,
+1678,,,C0848464,clogged ear,,,,,,
+1678,,,C0013456,Earache,,,,,,
+1678,,,C0027769,Nervousness,,,,,,
+1678,,,,,C0150192,Ear care,,,,
+1678,,,,,,,,,C1281590,Entire head
+1678,,,,,,,,,C0229299,Left ear structure
+1678,,,,,,,,,C0229298,Right ear structure
+1678,,,,,,,,,C0521421,Entire ear
+1680,C0041912,Upper Respiratory Infections,,,,,,,,
+1680,,,,,C0087111,Therapeutic procedure,,,,
+1680,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1682,C0031350,Pharyngitis,,,,,,,,
+1682,,,C0242429,Sore Throat,,,,,,
+1682,,,C0030193,Pain,,,,,,
+1682,,,C0234233,Sore to touch,,,,,,
+1682,,,,,C0600080,Stretching exercises,,,,
+1682,,,,,,,,,C0003842,Arteries
+1682,,,,,,,,,C0521421,Entire ear
+1683,C0011175,Dehydration,,,,,,,,
+1683,,,C0849911,ear popping,,,,,,
+1683,,,C0030193,Pain,,,,,,
+1683,,,,,,,,,C0229299,Left ear structure
+1683,,,,,,,,,C0521421,Entire ear
+1683,,,,,,,,,C0028429,Nose
+1685,C0006277,Bronchitis,,,,,,,,
+1685,,,C0221423,Illness (finding),,,,,,
+1685,,,C0040822,Tremor,,,,,,
+1687,C0040247,Tinea,,,,,,,,
+1687,,,C0033774,Pruritus,,,,,,
+1687,,,C0030193,Pain,,,,,,
+1687,,,,,,,,,C1281590,Entire head
+1687,,,,,,,,,C0229090,Left eye structure
+1688,C0031350,Pharyngitis,,,,,,,,
+1688,,,C0242429,Sore Throat,,,,,,
+1688,,,C0018681,Headache,,,,,,
+1688,,,,,,,,,C0031354,Pharyngeal structure
+1690,C3539909,Allergic disposition,,,,,,,,
+1690,,,C0007859,Neck Pain,,,,,,
+1690,,,C0518179,Change in voice (finding),,,,,,
+1690,,,C0010200,Coughing,,,,,,
+1690,,,C0030193,Pain,,,,,,
+1690,,,,,C0279848,cisplatin/etoposide/mitoxantrone/tamoxifen protocol,,,,
+1690,,,,,,,,,C0229298,Right ear structure
+1690,,,,,,,,,C0023078,Larynx
+1690,,,,,,,,,C1281592,Entire neck
+1701,C0037199,Sinusitis,,,,,,,,
+1701,,,C1260880,Rhinorrhea,,,,,,
+1701,,,C0151908,Dry skin,,,,,,
+1701,,,,,,,,,C0028429,Nose
+1703,C1848392,Zunich neuroectodermal syndrome,,,,,,,,
+1703,,,C0016382,Flushing,,,,,,
+1703,,,C0030193,Pain,,,,,,
+1703,,,,,C0184958,Toilet procedure,,,,
+1703,,,,,,,,,C1269537,Entire brain
+1703,,,,,,,,,C1269048,Entire temporomandibular joint
+1703,,,,,,,,,C1289055,Entire left ear
+1703,,,,,,,,,C0521421,Entire ear
+1703,,,,,,,,,C0022359,Jaw
+1705,C0857150,neck rash,,,,,,,,
+1705,,,C0278145,Stabbing pain,,,,,,
+1705,,,,,,,,,C0746922,Anatomic Node
+1705,,,,,,,,,C1289055,Entire left ear
+1705,,,,,,,,,C0229090,Left eye structure
+1706,C0029899,Otosclerosis,,,,,,,,
+1706,,,,,C0038150,Stapedectomy,,,,
+1708,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1708,,,,,,,,,C1278896,Entire nose
+1708,,,,,,,,,C1281591,Entire face
+1709,C0001327,Acute laryngitis,,,,,,,,
+1709,,,,,,,,,C0836921,Tonsil
+1716,C0041912,Upper Respiratory Infections,,,,,,,,
+1721,C0041912,Upper Respiratory Infections,,,,,,,,
+1721,,,C0557875,Tired,,,,,,
+1721,,,C0848464,clogged ear,,,,,,
+1721,,,,,,,,,C0229298,Right ear structure
+1721,,,,,,,,,C0521421,Entire ear
+1723,C0271468,Eustachian tube disorder,,,,,,,,
+1723,,,C0042571,Vertigo,,,,,,
+1723,,,,,C0087123,Tympanostomy,,,,
+1723,,,,,C0184661,Interventional procedure,,,,
+1723,,,,,C0058928,ECHO protocol,,,,
+1723,,,,,,,,,C1281590,Entire head
+1723,,,,,,,,,C0229298,Right ear structure
+1723,,,,,,,,,C0041445,Tympanic membrane structure
+1726,C0031350,Pharyngitis,,,,,,,,
+1726,,,C0231218,Malaise,,,,,,
+1726,,,C0242429,Sore Throat,,,,,,
+1726,,,C0030193,Pain,,,,,,
+1726,,,C0234233,Sore to touch,,,,,,
+1726,,,,,,,,,C0229298,Right ear structure
+1726,,,,,,,,,C1278896,Entire nose
+1726,,,,,,,,,C0521421,Entire ear
+1726,,,,,,,,,C0016504,Foot
+1727,C0009450,Communicable Diseases,,,,,,,,
+1727,,,,,,,,,C0031354,Pharyngeal structure
+1728,C0017168,Gastroesophageal reflux disease,,,,,,,,
+1728,,,C0234238,Ache,,,,,,
+1728,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1734,C0037199,Sinusitis,,,,,,,,
+1734,,,C0018681,Headache,,,,,,
+1734,,,C0238741,Upper back pain,,,,,,
+1734,,,C0849791,sinus drainage,,,,,,
+1734,,,,,C3540512,Circumferential Supracrestal Fiberotomy,,,,
+1734,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1734,,,,,,,,,C0423866,Lanugo
+1734,,,,,,,,,C1281592,Entire neck
+1735,C1850568,Nakajo syndrome,,,,,,,,
+1735,,,C0030193,Pain,,,,,,
+1735,,,,,,,,,C0013444,External auditory canal structure
+1735,,,,,,,,,C0521421,Entire ear
+1738,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1738,,,,,,,,,C0028429,Nose
+1743,C0521785,"Hearing Loss, Unilateral",,,,,,,,
+1743,,,,,,,,,C0031354,Pharyngeal structure
+1743,,,,,,,,,C0521421,Entire ear
+1743,,,,,,,,,C0028429,Nose
+1745,C0041912,Upper Respiratory Infections,,,,,,,,
+1745,,,,,C0002903,Anesthesia procedures,,,,
+1745,,,,,,,,,C1281590,Entire head
+1745,,,,,,,,,C0521421,Entire ear
+1748,C0012634,Disease,,,,,,,,
+1748,,,C0030193,Pain,,,,,,
+1748,,,,,C0152277,Incision and drainage,,,,
+1752,C0699744,Infection of ear,,,,,,,,
+1752,,,C0013456,Earache,,,,,,
+1752,,,C0030193,Pain,,,,,,
+1752,,,,,C0332293,Treated with,,,,
+1752,,,,,,,,,C0521421,Entire ear
+1753,C0004135,Ataxia Telangiectasia,,,,,,,,
+1753,,,C0037384,Snoring,,,,,,
+1753,,,,,,,,,C0031354,Pharyngeal structure
+1753,,,,,,,,,C0042173,Uvula of palate
+1753,,,,,,,,,C0836921,Tonsil
+1753,,,,,,,,,C0521421,Entire ear
+1753,,,,,,,,,C0028429,Nose
+1758,C0009450,Communicable Diseases,,,,,,,,
+1758,,,,,,,,,C0028429,Nose
+1759,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1759,,,C0042571,Vertigo,,,,,,
+1759,,,,,,,,,C1281590,Entire head
+1759,,,,,,,,,C1280541,Entire nerve
+1759,,,,,,,,,C1281592,Entire neck
+1766,C0242301,furuncle,,,,,,,,
+1766,,,C0030193,Pain,,,,,,
+1766,,,C0013456,Earache,,,,,,
+1766,,,C0019825,Hoarseness,,,,,,
+1766,,,,,,,,,C0229299,Left ear structure
+1766,,,,,,,,,C0229298,Right ear structure
+1766,,,,,,,,,C4068922,Earlobe
+1766,,,,,,,,,C1285092,Gland
+1766,,,,,,,,,C0229315,Ear lobe
+1766,,,,,,,,,C0521421,Entire ear
+1766,,,,,,,,,C1278919,Entire esophagus
+1773,C0751908,Vestibular Neuronitis,,,,,,,,
+1773,,,C0027497,Nausea,,,,,,
+1773,,,C0522365,Severe vertigo,,,,,,
+1773,,,,,,,,,C1281590,Entire head
+1775,C0699744,Infection of ear,,,,,,,,
+1775,,,,,C0041447,Tympanoplasty,,,,
+1775,,,,,,,,,C0041445,Tympanic membrane structure
+1775,,,,,,,,,C0521421,Entire ear
+1776,C0009443,Common Cold,,,,,,,,
+1776,,,C0032781,Posterior rhinorrhea,,,,,,
+1776,,,C0278144,Dull pain,,,,,,
+1776,,,C0010200,Coughing,,,,,,
+1776,,,C0013456,Earache,,,,,,
+1776,,,C0030193,Pain,,,,,,
+1776,,,C0455270,Sharp pain,,,,,,
+1776,,,,,C0204750,Special back care,,,,
+1776,,,,,C3272275,Urgent Procedure,,,,
+1776,,,,,,,,,C1278896,Entire nose
+1776,,,,,,,,,C0521421,Entire ear
+1778,C0036689,Streptococcal sore throat,,,,,,,,
+1778,,,C0030193,Pain,,,,,,
+1779,C0577887,Nasal sinus problem,,,,,,,,
+1779,,,C0221423,Illness (finding),,,,,,
+1779,,,,,,,,,C1720438,Entire left anterior naris
+1780,C0021400,Influenza,,,,,,,,
+1780,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+1782,C0009443,Common Cold,,,,,,,,
+1782,,,,,C0087111,Therapeutic procedure,,,,
+1794,C0699744,Infection of ear,,,,,,,,
+1794,,,C0012833,Dizziness,,,,,,
+1794,,,C0235004,head pressure,,,,,,
+1794,,,,,,,,,C0521421,Entire ear
+1795,C0020676,Hypothyroidism,,,,,,,,
+1795,,,C0027497,Nausea,,,,,,
+1795,,,C0012833,Dizziness,,,,,,
+1795,,,C0013456,Earache,,,,,,
+1795,,,C0030193,Pain,,,,,,
+1795,,,C0302539,spells (neurological symptom),,,,,,
+1795,,,,,,,,,C0521421,Entire ear
+1796,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+1796,,,,,,,,,C0018563,Hand
+1796,,,,,,,,,C0028429,Nose
+1796,,,,,,,,,C0262950,Skeletal bone
+1807,C0595921,Intraocular pressure disorder,,,,,,,,
+1807,,,C0151827,Eye pain,,,,,,
+1807,,,C0030193,Pain,,,,,,
+1807,,,,,C2584562,Endoscopic balloon dilatation of ostium of paranasal sinus,,,,
+1807,,,,,,,,,C1281590,Entire head
+1807,,,,,,,,,C0229090,Left eye structure
+1808,C0271468,Eustachian tube disorder,,,,,,,,
+1808,,,,,C0013103,Drainage procedure,,,,
+1808,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1809,C0038363,Aphthous Stomatitis,,,,,,,,
+1809,,,C0242429,Sore Throat,,,,,,
+1809,,,,,,,,,C0521421,Entire ear
+1810,C0012634,Disease,,,,,,,,
+1810,,,C0006625,Cachexia,,,,,,
+1810,,,C0741585,BODY ACHE,,,,,,
+1810,,,C0948094,laziness,,,,,,
+1811,C0699744,Infection of ear,,,,,,,,
+1811,,,,,C0087111,Therapeutic procedure,,,,
+1811,,,,,,,,,C0521421,Entire ear
+1812,C0021400,Influenza,,,,,,,,
+1812,,,C0234238,Ache,,,,,,
+1812,,,C0015672,Fatigue,,,,,,
+1812,,,C0010200,Coughing,,,,,,
+1812,,,,,C0021485,Injection of therapeutic agent,,,,
+1813,C0149516,Chronic sinusitis,,,,,,,,
+1813,,,,,C0683174,topical application,,,,
+1816,C0042769,Virus Diseases,,,,,,,,
+1816,,,C0242429,Sore Throat,,,,,,
+1816,,,C0559687,Congestion of throat,,,,,,
+1816,,,C0013456,Earache,,,,,,
+1816,,,C0234233,Sore to touch,,,,,,
+1816,,,,,C0013103,Drainage procedure,,,,
+1816,,,,,,,,,C0024204,lymph nodes
+1816,,,,,,,,,C0024687,Mandible
+1816,,,,,,,,,C1281591,Entire face
+1819,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+1819,,,C0010200,Coughing,,,,,,
+1819,,,C2370950,Aural pressure,,,,,,
+1820,C0043154,Dental White Spot,,,,,,,,
+1820,,,,,,,,,C0040421,Palatine Tonsil
+1824,C0699744,Infection of ear,,,,,,,,
+1824,,,,,,,,,C0521421,Entire ear
+1824,,,,,,,,,C1281591,Entire face
+1827,C0031350,Pharyngitis,,,,,,,,
+1827,,,C0240273,Tender lymph node,,,,,,
+1827,,,C0242429,Sore Throat,,,,,,
+1827,,,,,C0279848,cisplatin/etoposide/mitoxantrone/tamoxifen protocol,,,,
+1827,,,,,,,,,C0040421,Palatine Tonsil
+1828,C0699744,Infection of ear,,,,,,,,
+1828,,,C0015230,Exanthema,,,,,,
+1828,,,C0030193,Pain,,,,,,
+1830,C0577887,Nasal sinus problem,,,,,,,,
+1830,,,,,C0748725,sinus surgery,,,,
+1830,,,,,,,,,C0003483,Aorta
+1838,C0037199,Sinusitis,,,,,,,,
+1838,,,C0027424,Nasal congestion (finding),,,,,,
+1838,,,C0010200,Coughing,,,,,,
+1838,,,,,C2003844,Shampooing (action),,,,
+1840,C0699744,Infection of ear,,,,,,,,
+1840,,,C0013456,Earache,,,,,,
+1840,,,C0677500,Stinging Sensation,,,,,,
+1840,,,,,,,,,C0521421,Entire ear
+1843,C0024633,Mallory-Weiss Syndrome,,,,,,,,
+1843,,,C0042963,Vomiting,,,,,,
+1843,,,C0027497,Nausea,,,,,,
+1843,,,,,,,,,C1280698,Entire throat (surface region of neck)
+1843,,,,,,,,,C0222001,Structure of nail of finger
+1847,C0857111,neck gland,,,,,,,,
+1847,,,,,,,,,C0022359,Jaw
+1849,C1112711,Sinus discharge,,,,,,,,
+1849,,,C0221423,Illness (finding),,,,,,
+1849,,,C3714552,Weakness,,,,,,
+1849,,,C0010200,Coughing,,,,,,
+1849,,,,,,,,,C0031354,Pharyngeal structure
+1854,C0699744,Infection of ear,,,,,,,,
+1854,,,C0034642,Rales,,,,,,
+1854,,,,,C0152054,Therapeutic tactile stimulation,,,,
+1854,,,,,C0087111,Therapeutic procedure,,,,
+1854,,,,,,,,,C0229299,Left ear structure
+1854,,,,,,,,,C0041445,Tympanic membrane structure
+1859,C0037199,Sinusitis,,,,,,,,
+1859,,,C0557875,Tired,,,,,,
+1859,,,C0018681,Headache,,,,,,
+1859,,,C0030193,Pain,,,,,,
+1859,,,C0013456,Earache,,,,,,
+1859,,,,,,,,,C0925962,Right cheek
+1859,,,,,,,,,C1278920,Entire stomach
+1859,,,,,,,,,C1279153,Entire cheek
+1859,,,,,,,,,C0521421,Entire ear
+1860,C2827407,Infectious Otitis Media,,,,,,,,
+1861,C0031350,Pharyngitis,,,,,,,,
+1861,,,C0242429,Sore Throat,,,,,,
+1861,,,C0234233,Sore to touch,,,,,,
+1861,,,,,,,,,C0040421,Palatine Tonsil
+1861,,,,,,,,,C1289055,Entire left ear
+1861,,,,,,,,,C0521421,Entire ear
