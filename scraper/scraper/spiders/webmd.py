@@ -21,6 +21,7 @@ class WebMDSpider(scrapy.Spider):
 
     def parse_topics(self, response):
         disease = response.xpath('//*[@id="fragment-36"]/div[1]/h1/a/text()').get()
+
         content = response.css("ul.content-list.content")
         content_items = content.css("li.content-item.forum-thread")
 
