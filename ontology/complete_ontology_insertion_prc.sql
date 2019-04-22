@@ -87,4 +87,6 @@ BEGIN
   
 SELECT concat('Successfully inserted ', my_rec_cnt, ' records in ontology') as Message;
   CLOSE cur1;
-END
+
+END$$
+DELIMITER ;
