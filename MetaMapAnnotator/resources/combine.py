@@ -29,4 +29,4 @@ with open('combinedData.csv', 'w') as writeFile:
     writer.writerows(allRows)
     writeFile.close()
 
-print("Comnined CSV file successfully created")
+print("Combined CSV file successfully created")
