@@ -1,0 +1,2355 @@
+PostNumber,DiseaseId,DiseaseName,SymptomId,SymptomName,TreatmentId,TreatmentName,DrugId,DrugName,BodypartId,BodypartName
+2,C1535939,Pneumocystis jiroveci pneumonia,,,,,,,,
+2,,,C0278145,Stabbing pain,,,,,,
+2,,,C0234238,Ache,,,,,,
+2,,,C0008031,Chest Pain,,,,,,
+2,,,C0184567,Acute onset pain,,,,,,
+2,,,C0027497,Nausea,,,,,,
+2,,,C0278144,Dull pain,,,,,,
+2,,,C0015672,Fatigue,,,,,,
+2,,,C0012833,Dizziness,,,,,,
+2,,,C0232285,Dull chest pain,,,,,,
+2,,,C0030193,Pain,,,,,,
+2,,,C0455270,Sharp pain,,,,,,
+2,,,C0013404,Dyspnea,,,,,,
+2,,,,,C2348535,Stenting,,,,
+2,,,,,C0741847,Bypass,,,,
+2,,,,,C1522704,Exercise Pain Management,,,,
+2,,,,,,,,,C0018787,Heart
+2,,,,,,,,,C3640698,Mid-Left Anterior Descending Artery
+4,C0023211,Left Bundle-Branch Block,,,,,,,,
+5,C0149514,Acute bronchitis,,,,,,,,
+9,C0017168,Gastroesophageal reflux disease,,,,,,,,
+9,,,C0596601,gastrointestinal gas,,,,,,
+9,,,C0014724,Eructation,,,,,,
+9,,,C0027769,Nervousness,,,,,,
+9,,,,,C2973270,Health Checkup,,,,
+9,,,,,,,,,C0018787,Heart
+9,,,,,,,,,C0042276,Vagus nerve structure
+9,,,,,,,,,C0014876,Esophagus
+10,C0040253,Tinea of perianal region,,,,,,,,
+10,,,C0015230,Exanthema,,,,,,
+10,,,C0033774,Pruritus,,,,,,
+11,C0036916,Sexually Transmitted Diseases,,,,,,,,
+11,,,,,,,,,C0030851,penis
+11,,,,,,,,,C0042449,Veins
+12,C0036916,Sexually Transmitted Diseases,,,,,,,,
+12,,,,,C0024875,Massage,,,,
+13,C0036916,Sexually Transmitted Diseases,,,,,,,,
+13,,,C0231218,Malaise,,,,,,
+13,,,C0677500,Stinging Sensation,,,,,,
+13,,,C0040822,Tremor,,,,,,
+13,,,C0683369,Clouded consciousness,,,,,,
+13,,,,,C0040461,Toothbrushing,,,,
+13,,,,,C2003844,Shampooing (action),,,,
+13,,,,,,,,,C0036471,Scrotum
+13,,,,,,,,,C0030851,penis
+13,,,,,,,,,C0018787,Heart
+13,,,,,,,,,C1550227,Body Parts - Canal
+13,,,,,,,,,C0041967,Urethra
+14,C0036916,Sexually Transmitted Diseases,,,,,,,,
+14,,,C0015230,Exanthema,,,,,,
+14,,,C0033774,Pruritus,,,,,,
+14,,,,,,,,,C0042993,Vulva
+14,,,,,,,,,C0019552,Hip structure
+14,,,,,,,,,C0018494,Hair
+15,C0036916,Sexually Transmitted Diseases,,,,,,,,
+15,,,,,,,,,C1280739,Entire penis
+16,C0036916,Sexually Transmitted Diseases,,,,,,,,
+16,,,C0557875,Tired,,,,,,
+16,,,,,C0021485,Injection of therapeutic agent,,,,
+17,C0036916,Sexually Transmitted Diseases,,,,,,,,
+17,,,,,,,,,C0221982,Structure of beard
+18,C0036916,Sexually Transmitted Diseases,,,,,,,,
+20,C0036916,Sexually Transmitted Diseases,,,,,,,,
+21,C0018799,Heart Diseases,,,,,,,,
+21,,,C0027497,Nausea,,,,,,
+21,,,C0015672,Fatigue,,,,,,
+21,,,C0012833,Dizziness,,,,,,
+21,,,C0030193,Pain,,,,,,
+21,,,C0239377,Arm Pain,,,,,,
+21,,,,,,,,,C1269078,Entire upper limb
+22,C0036916,Sexually Transmitted Diseases,,,,,,,,
+28,C0036916,Sexually Transmitted Diseases,,,,,,,,
+28,,,,,C0029151,Oral contraception,,,,
+28,,,,,,,,,C1184743,bony process
+30,C0699744,Infection of ear,,,,,,,,
+30,,,,,C0040461,Toothbrushing,,,,
+30,,,,,,,,,C0018787,Heart
+30,,,,,,,,,C0001428,Adenoidal structure
+30,,,,,,,,,C0521421,Entire ear
+33,C0036916,Sexually Transmitted Diseases,,,,,,,,
+33,,,C0015230,Exanthema,,,,,,
+33,,,C0268988,Pruritus of penis,,,,,,
+33,,,,,,,,,C0039597,Testis
+33,,,,,,,,,C0030851,penis
+34,C0036916,Sexually Transmitted Diseases,,,,,,,,
+34,,,C0085594,Fever with chills,,,,,,
+34,,,C0233973,Painful penile erection,,,,,,
+34,,,C0024031,Low Back Pain,,,,,,
+34,,,C0085624,Burning sensation,,,,,,
+34,,,C0013428,Dysuria,,,,,,
+34,,,C0497481,Pain in penis,,,,,,
+34,,,,,,,,,C0005682,Urinary Bladder
+34,,,,,,,,,C0022646,Kidney
+35,C1969653,MUNGAN SYNDROME,,,,,,,,
+35,,,C0030193,Pain,,,,,,
+35,,,,,C1293134,Enlargement procedure,,,,
+35,,,,,,,,,C0039597,Testis
+35,,,,,,,,,C0003461,Anus
+35,,,,,,,,,C0227997,Structure of right testis
+35,,,,,,,,,C1278980,Entire prostate
+36,C0036916,Sexually Transmitted Diseases,,,,,,,,
+36,,,C0036572,Seizures,,,,,,
+36,,,,,,,,,C0042232,Vagina
+36,,,,,,,,,C0016504,Foot
+37,C1969653,MUNGAN SYNDROME,,,,,,,,
+37,,,C0030193,Pain,,,,,,
+37,,,,,C1293134,Enlargement procedure,,,,
+37,,,,,,,,,C0039597,Testis
+37,,,,,,,,,C0003461,Anus
+37,,,,,,,,,C0227997,Structure of right testis
+37,,,,,,,,,C1278980,Entire prostate
+38,C0036916,Sexually Transmitted Diseases,,,,,,,,
+39,C0036916,Sexually Transmitted Diseases,,,,,,,,
+39,,,C0015230,Exanthema,,,,,,
+39,,,,,,,,,C0030851,penis
+39,,,,,,,,,C0018494,Hair
+39,,,,,,,,,C1305636,Entire hair of pubis
+40,C0036916,Sexually Transmitted Diseases,,,,,,,,
+40,,,,,,,,,C0034014,Bone structure of pubis
+40,,,,,,,,,C1305636,Entire hair of pubis
+40,,,,,,,,,C1280739,Entire penis
+41,C0036916,Sexually Transmitted Diseases,,,,,,,,
+41,,,C0028643,Numbness,,,,,,
+41,,,C0015230,Exanthema,,,,,,
+41,,,C0085624,Burning sensation,,,,,,
+41,,,C0033774,Pruritus,,,,,,
+41,,,C2242996,Has tingling sensation,,,,,,
+41,,,C0497481,Pain in penis,,,,,,
+41,,,C0030193,Pain,,,,,,
+41,,,,,C0556844,Body massage,,,,
+41,,,,,C0152054,Therapeutic tactile stimulation,,,,
+41,,,,,C0024875,Massage,,,,
+41,,,,,,,,,C0030851,penis
+43,C0036916,Sexually Transmitted Diseases,,,,,,,,
+43,,,C0015230,Exanthema,,,,,,
+43,,,C1517205,Flare,,,,,,
+43,,,C0242429,Sore Throat,,,,,,
+43,,,C0018681,Headache,,,,,,
+43,,,C0030193,Pain,,,,,,
+43,,,,,C0184933,Scraping,,,,
+43,,,,,,,,,C0040408,Tongue
+43,,,,,,,,,C0226952,Dorsum of tongue
+46,C0027051,Myocardial Infarction,,,,,,,,
+46,,,C0235108,Feeling tense,,,,,,
+46,,,C0239377,Arm Pain,,,,,,
+46,,,,,,,,,C0018787,Heart
+46,,,,,,,,,C1305417,Entire elbow region
+46,,,,,,,,,C1281592,Entire neck
+53,C0036916,Sexually Transmitted Diseases,,,,,,,,
+53,,,C0557875,Tired,,,,,,
+53,,,C0018681,Headache,,,,,,
+53,,,C0312414,Menstrual spotting,,,,,,
+53,,,C0026821,Muscle Cramp,,,,,,
+53,,,C0683369,Clouded consciousness,,,,,,
+53,,,,,,,,,C0006141,Breast
+54,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+54,,,,,C0152054,Therapeutic tactile stimulation,,,,
+54,,,,,C1959633,Spatial guidance for medical procedure,,,,
+54,,,,,,,,,C0030851,penis
+54,,,,,,,,,C0018563,Hand
+55,C0036916,Sexually Transmitted Diseases,,,,,,,,
+55,,,C0037088,Signs and Symptoms,,,,,,
+55,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+55,,,,,C1318469,Lubrication procedure,,,,
+55,,,,,,,,,C0042232,Vagina
+56,C0036916,Sexually Transmitted Diseases,,,,,,,,
+56,,,C0221423,Illness (finding),,,,,,
+56,,,C0577573,Mass of body region,,,,,,
+57,C0036916,Sexually Transmitted Diseases,,,,,,,,
+58,C0036916,Sexually Transmitted Diseases,,,,,,,,
+58,,,C0151830,Pain in urethra,,,,,,
+58,,,C0030193,Pain,,,,,,
+59,C0036916,Sexually Transmitted Diseases,,,,,,,,
+59,,,,,,,,,C0018494,Hair
+59,,,,,,,,,C1280739,Entire penis
+68,C0020538,Hypertensive disease,,,,,,,,
+68,,,,,C0452415,Diet good,,,,
+68,,,,,C0004933,Behavior Therapy,,,,
+68,,,,,C0058928,ECHO protocol,,,,
+68,,,,,C0087111,Therapeutic procedure,,,,
+68,,,,,C0849164,blood medications,,,,
+68,,,,,,,,,C0018787,Heart
+68,,,,,,,,,C1269891,Entire right ventricle
+68,,,,,,,,,C0016504,Foot
+69,C0041582,Ulcer,,,,,,,,
+69,,,C0042963,Vomiting,,,,,,
+69,,,,,,,,,C0040426,Tooth structure
+70,C0036916,Sexually Transmitted Diseases,,,,,,,,
+70,,,C0085624,Burning sensation,,,,,,
+70,,,C0234233,Sore to touch,,,,,,
+71,C0036916,Sexually Transmitted Diseases,,,,,,,,
+71,,,C0497406,Overweight,,,,,,
+71,,,,,C3687832,DRUGS,,,,
+71,,,,,C1519433,Special Diet Therapy,,,,
+71,,,,,C1522704,Exercise Pain Management,,,,
+71,,,,,,,,,C1281590,Entire head
+71,,,,,,,,,C0227952,Foreskin of penis
+71,,,,,,,,,C1280739,Entire penis
+72,C0036916,Sexually Transmitted Diseases,,,,,,,,
+72,,,,,C0008819,Male Circumcision,,,,
+72,,,,,C1318456,Cosmetic surgery,,,,
+72,,,,,C0150468,Application of bandage (procedure),,,,
+72,,,,,,,,,C0030851,penis
+72,,,,,,,,,C0227952,Foreskin of penis
+73,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+75,C0020538,Hypertensive disease,,,,,,,,
+77,C0036916,Sexually Transmitted Diseases,,,,,,,,
+78,C0036916,Sexually Transmitted Diseases,,,,,,,,
+78,,,C0240805,Prodrome,,,,,,
+78,,,C0392171,Influenza-like symptoms,,,,,,
+78,,,C0030193,Pain,,,,,,
+78,,,C0234233,Sore to touch,,,,,,
+79,C0036916,Sexually Transmitted Diseases,,,,,,,,
+79,,,C0233973,Painful penile erection,,,,,,
+79,,,C0030193,Pain,,,,,,
+79,,,,,C0442965,Cosmetic procedure,,,,
+79,,,,,,,,,C1281590,Entire head
+79,,,,,,,,,C0222193,Skin of penis
+79,,,,,,,,,C1280739,Entire penis
+80,C0042029,Urinary tract infection,,,,,,,,
+80,,,C1446787,Cramping sensation quality,,,,,,
+80,,,C0234233,Sore to touch,,,,,,
+82,C0036916,Sexually Transmitted Diseases,,,,,,,,
+82,,,,,,,,,C0227936,Body of penis
+92,C0036916,Sexually Transmitted Diseases,,,,,,,,
+92,,,,,C0152060,Transection (procedure),,,,
+92,,,,,C0152054,Therapeutic tactile stimulation,,,,
+92,,,,,,,,,C1281590,Entire head
+92,,,,,,,,,C1280739,Entire penis
+93,C0036916,Sexually Transmitted Diseases,,,,,,,,
+93,,,C0015230,Exanthema,,,,,,
+93,,,C0033774,Pruritus,,,,,,
+93,,,C0234233,Sore to touch,,,,,,
+93,,,,,C0152277,Incision and drainage,,,,
+93,,,,,,,,,C1285092,Gland
+93,,,,,,,,,C0227952,Foreskin of penis
+94,C0009663,Condylomata Acuminata,,,,,,,,
+94,,,C1442877,Sore skin,,,,,,
+94,,,C0234233,Sore to touch,,,,,,
+94,,,,,,,,,C0003461,Anus
+95,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+95,,,,,C0204774,Soaking Procedure,,,,
+95,,,,,,,,,C1281590,Entire head
+95,,,,,,,,,C0033572,Prostate
+95,,,,,,,,,C1550227,Body Parts - Canal
+95,,,,,,,,,C1281573,Entire bladder
+96,C0036916,Sexually Transmitted Diseases,,,,,,,,
+96,,,,,,,,,C0036471,Scrotum
+96,,,,,,,,,C0227997,Structure of right testis
+97,C0036916,Sexually Transmitted Diseases,,,,,,,,
+97,,,,,,,,,C1280739,Entire penis
+98,C0036916,Sexually Transmitted Diseases,,,,,,,,
+98,,,C2242996,Has tingling sensation,,,,,,
+98,,,C0030193,Pain,,,,,,
+98,,,,,C0021485,Injection of therapeutic agent,,,,
+99,C0036916,Sexually Transmitted Diseases,,,,,,,,
+99,,,C0849852,skin bump,,,,,,
+99,,,C0033774,Pruritus,,,,,,
+100,C0036916,Sexually Transmitted Diseases,,,,,,,,
+100,,,C0312414,Menstrual spotting,,,,,,
+100,,,C0030193,Pain,,,,,,
+101,C0019345,Herpes Labialis,,,,,,,,
+102,C0036916,Sexually Transmitted Diseases,,,,,,,,
+102,,,C0013428,Dysuria,,,,,,
+102,,,,,,,,,C1281590,Entire head
+102,,,,,,,,,C0545924,penis and vagina
+103,C0036916,Sexually Transmitted Diseases,,,,,,,,
+103,,,C0000737,Abdominal Pain,,,,,,
+103,,,C0015230,Exanthema,,,,,,
+103,,,C0030193,Pain,,,,,,
+103,,,C0423736,Scalding pain on urination,,,,,,
+103,,,C0232861,Discharge from penis,,,,,,
+103,,,C0234233,Sore to touch,,,,,,
+103,,,,,C1519433,Special Diet Therapy,,,,
+103,,,,,C1522704,Exercise Pain Management,,,,
+103,,,,,,,,,C0030851,penis
+103,,,,,,,,,C0042232,Vagina
+103,,,,,,,,,C0227952,Foreskin of penis
+104,C0034341,Pyruvate Carboxylase Deficiency Disease,,,,,,,,
+107,C0004096,Asthma,,,,,,,,
+107,,,C0795691,HEART PROBLEM,,,,,,
+109,C1135196,"Heart Failure, Diastolic",,,,,,,,
+112,C0036916,Sexually Transmitted Diseases,,,,,,,,
+113,C0878544,Cardiomyopathies,,,,,,,,
+115,C0036916,Sexually Transmitted Diseases,,,,,,,,
+115,,,C0242429,Sore Throat,,,,,,
+116,C0269017,Pearly penile papules,,,,,,,,
+116,,,C0030193,Pain,,,,,,
+116,,,,,,,,,C1285092,Gland
+117,C0038454,Cerebrovascular accident,,,,,,,,
+117,,,C0235108,Feeling tense,,,,,,
+117,,,,,C1963578,Release (procedure),,,,
+117,,,,,,,,,C0030851,penis
+118,C0036916,Sexually Transmitted Diseases,,,,,,,,
+118,,,C0085624,Burning sensation,,,,,,
+118,,,C2032151,Pain in bilateral legs,,,,,,
+118,,,,,,,,,C0014533,Epididymis
+118,,,,,,,,,C1281586,Entire thigh
+118,,,,,,,,,C0227952,Foreskin of penis
+118,,,,,,,,,C1281594,Entire abdomen
+118,,,,,,,,,C1278981,Entire testis
+118,,,,,,,,,C1280739,Entire penis
+119,C0036916,Sexually Transmitted Diseases,,,,,,,,
+119,,,C0278144,Dull pain,,,,,,
+119,,,C2242996,Has tingling sensation,,,,,,
+119,,,,,,,,,C1281590,Entire head
+119,,,,,,,,,C0030851,penis
+119,,,,,,,,,C0423866,Lanugo
+120,C0036916,Sexually Transmitted Diseases,,,,,,,,
+120,,,,,C0700589,Contraceptive methods,,,,
+120,,,,,,,,,C0030851,penis
+120,,,,,,,,,C0042232,Vagina
+120,,,,,,,,,C0227759,Labium
+120,,,,,,,,,C0007874,Cervix Uteri
+121,C0014534,Epididymitis,,,,,,,,
+121,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+121,,,C0085624,Burning sensation,,,,,,
+121,,,C0234233,Sore to touch,,,,,,
+121,,,,,C0021485,Injection of therapeutic agent,,,,
+121,,,,,,,,,C0039597,Testis
+122,C0036916,Sexually Transmitted Diseases,,,,,,,,
+122,,,C0030193,Pain,,,,,,
+122,,,,,,,,,C0030851,penis
+122,,,,,,,,,C0041967,Urethra
+123,C0027051,Myocardial Infarction,,,,,,,,
+123,,,,,C1706711,Additional Surgical Procedure,,,,
+123,,,,,C0741847,Bypass,,,,
+123,,,,,C1536078,Bypass Surgery,,,,
+123,,,,,,,,,C0042449,Veins
+127,C0027051,Myocardial Infarction,,,,,,,,
+127,,,,,,,,,C0018787,Heart
+131,C0036916,Sexually Transmitted Diseases,,,,,,,,
+131,,,,,C0152054,Therapeutic tactile stimulation,,,,
+131,,,,,C0184933,Scraping,,,,
+131,,,,,,,,,C0018563,Hand
+131,,,,,,,,,C0041638,Umbilicus (Anatomy)
+132,C0019340,herpes,,,,,,,,
+132,,,C0033774,Pruritus,,,,,,
+132,,,C0030193,Pain,,,,,,
+132,,,,,,,,,C1281590,Entire head
+132,,,,,,,,,C0030851,penis
+132,,,,,,,,,C1280739,Entire penis
+133,C0036916,Sexually Transmitted Diseases,,,,,,,,
+133,,,C0242429,Sore Throat,,,,,,
+133,,,C0018681,Headache,,,,,,
+133,,,C0234233,Sore to touch,,,,,,
+133,,,,,,,,,C1280698,Entire throat (surface region of neck)
+134,C0036916,Sexually Transmitted Diseases,,,,,,,,
+134,,,,,,,,,C1269612,Entire upper arm
+135,C0019345,Herpes Labialis,,,,,,,,
+135,,,C0848290,sick to stomach,,,,,,
+136,C0036916,Sexually Transmitted Diseases,,,,,,,,
+136,,,,,,,,,C0039597,Testis
+136,,,,,,,,,C1280740,Entire scrotum
+137,C0036916,Sexually Transmitted Diseases,,,,,,,,
+137,,,C0033774,Pruritus,,,,,,
+137,,,C0234233,Sore to touch,,,,,,
+137,,,,,,,,,C0030851,penis
+142,C0012634,Disease,,,,,,,,
+144,C0581360,Bleeding diverticulosis,,,,,,,,
+144,,,C0011991,Diarrhea,,,,,,
+144,,,C0008031,Chest Pain,,,,,,
+144,,,C0009806,Constipation,,,,,,
+144,,,C0030193,Pain,,,,,,
+144,,,,,C0184661,Interventional procedure,,,,
+146,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+148,C0404521,Infective vaginitis,,,,,,,,
+148,,,C0683369,Clouded consciousness,,,,,,
+148,,,,,C0021485,Injection of therapeutic agent,,,,
+148,,,,,C0087111,Therapeutic procedure,,,,
+149,C0036916,Sexually Transmitted Diseases,,,,,,,,
+149,,,C0026821,Muscle Cramp,,,,,,
+149,,,,,,,,,C0006141,Breast
+150,C0019340,herpes,,,,,,,,
+150,,,,,C0184958,Toilet procedure,,,,
+151,C0036916,Sexually Transmitted Diseases,,,,,,,,
+151,,,C0033774,Pruritus,,,,,,
+151,,,C0085624,Burning sensation,,,,,,
+151,,,,,,,,,C0227766,labium minus
+152,C0036916,Sexually Transmitted Diseases,,,,,,,,
+152,,,C0010200,Coughing,,,,,,
+152,,,C0030193,Pain,,,,,,
+152,,,,,,,,,C0030797,Pelvis
+152,,,,,,,,,C0262201,Area X
+152,,,,,,,,,C0021853,Intestines
+153,C0036916,Sexually Transmitted Diseases,,,,,,,,
+154,C0036916,Sexually Transmitted Diseases,,,,,,,,
+155,C0036916,Sexually Transmitted Diseases,,,,,,,,
+155,,,C0278148,Throbbing pain,,,,,,
+156,C0036916,Sexually Transmitted Diseases,,,,,,,,
+156,,,C0232861,Discharge from penis,,,,,,
+157,C0036916,Sexually Transmitted Diseases,,,,,,,,
+157,,,C0016204,Flatulence,,,,,,
+157,,,C0278145,Stabbing pain,,,,,,
+157,,,C0015230,Exanthema,,,,,,
+157,,,C0455270,Sharp pain,,,,,,
+157,,,C0234233,Sore to touch,,,,,,
+157,,,,,C0152277,Incision and drainage,,,,
+157,,,,,C0184933,Scraping,,,,
+157,,,,,,,,,C0039597,Testis
+157,,,,,,,,,C1281590,Entire head
+157,,,,,,,,,C0030851,penis
+157,,,,,,,,,C1281584,Entire finger
+157,,,,,,,,,C1995013,Set of muscles
+157,,,,,,,,,C0037949,Vertebral column
+157,,,,,,,,,C0934502,anatomical layer
+159,C0041912,Upper Respiratory Infections,,,,,,,,
+159,,,C0040822,Tremor,,,,,,
+159,,,C0024902,Mastodynia,,,,,,
+159,,,C0085593,Chills,,,,,,
+159,,,,,,,,,C0229967,Structure of left half of body
+165,C0020538,Hypertensive disease,,,,,,,,
+165,,,C0008031,Chest Pain,,,,,,
+165,,,,,,,,,C0015392,Eye
+168,C0018081,Gonorrhea,,,,,,,,
+168,,,,,,,,,C0030851,penis
+169,C0036916,Sexually Transmitted Diseases,,,,,,,,
+170,C0036916,Sexually Transmitted Diseases,,,,,,,,
+170,,,C0557875,Tired,,,,,,
+170,,,,,C3687832,DRUGS,,,,
+170,,,,,,,,,C0030851,penis
+171,C0026848,Myopathy,,,,,,,,
+171,,,,,C0189745,Open heart surgery,,,,
+171,,,,,,,,,C0018787,Heart
+171,,,,,,,,,C0022646,Kidney
+171,,,,,,,,,C0040746,Structure of transplanted liver
+172,C0036916,Sexually Transmitted Diseases,,,,,,,,
+172,,,C0849850,blotch,,,,,,
+172,,,,,,,,,C0227936,Body of penis
+172,,,,,,,,,C0227952,Foreskin of penis
+174,C0263492,Pili incarnati (disorder),,,,,,,,
+174,,,,,,,,,C0018494,Hair
+175,C0036916,Sexually Transmitted Diseases,,,,,,,,
+175,,,C0497481,Pain in penis,,,,,,
+175,,,C0030193,Pain,,,,,,
+176,C0036916,Sexually Transmitted Diseases,,,,,,,,
+176,,,C0948396,Frequent headache,,,,,,
+176,,,C0030193,Pain,,,,,,
+176,,,,,C0700589,Contraceptive methods,,,,
+176,,,,,,,,,C0042232,Vagina
+176,,,,,,,,,C0041967,Urethra
+177,C0004623,Bacterial Infections,,,,,,,,
+177,,,,,,,,,C1281583,Entire hand
+179,C0036916,Sexually Transmitted Diseases,,,,,,,,
+179,,,,,,,,,C0030851,penis
+183,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+183,,,C0018834,Heartburn,,,,,,
+183,,,C0008031,Chest Pain,,,,,,
+183,,,C0030193,Pain,,,,,,
+183,,,,,,,,,C1269612,Entire upper arm
+187,C0023211,Left Bundle-Branch Block,,,,,,,,
+189,C0025322,Premature Menopause,,,,,,,,
+189,,,C0231218,Malaise,,,,,,
+189,,,,,,,,,C1278985,Entire vagina
+190,C0019340,herpes,,,,,,,,
+190,,,C0033774,Pruritus,,,,,,
+190,,,,,C0150141,Bathing,,,,
+190,,,,,,,,,C1305636,Entire hair of pubis
+191,C0036916,Sexually Transmitted Diseases,,,,,,,,
+191,,,,,C0886384,5 minutes Office visit,,,,
+192,C0036916,Sexually Transmitted Diseases,,,,,,,,
+192,,,,,,,,,C0030851,penis
+193,C0036916,Sexually Transmitted Diseases,,,,,,,,
+193,,,C0234233,Sore to touch,,,,,,
+193,,,,,,,,,C1280739,Entire penis
+194,C0041834,Erythema,,,,,,,,
+194,,,C0234233,Sore to touch,,,,,,
+194,,,,,,,,,C1281590,Entire head
+194,,,,,,,,,C0030851,penis
+195,C0036916,Sexually Transmitted Diseases,,,,,,,,
+196,C0036916,Sexually Transmitted Diseases,,,,,,,,
+197,C0036916,Sexually Transmitted Diseases,,,,,,,,
+197,,,C0518179,Change in voice (finding),,,,,,
+197,,,C0497406,Overweight,,,,,,
+197,,,,,C0522772,Shaving - surgical procedure,,,,
+197,,,,,C0185051,Removal by grinding,,,,
+197,,,,,,,,,C0030851,penis
+197,,,,,,,,,C0034014,Bone structure of pubis
+197,,,,,,,,,C0221980,Structure of hair of face
+198,C0036916,Sexually Transmitted Diseases,,,,,,,,
+199,C0036916,Sexually Transmitted Diseases,,,,,,,,
+199,,,,,C0152054,Therapeutic tactile stimulation,,,,
+199,,,,,,,,,C1280739,Entire penis
+202,C0039240,Supraventricular tachycardia,,,,,,,,
+204,C0684275,"Hemophilia, NOS",,,,,,,,
+204,,,C0039070,Syncope,,,,,,
+204,,,,,C3687832,DRUGS,,,,
+204,,,,,,,,,C0033572,Prostate
+205,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+210,C0036916,Sexually Transmitted Diseases,,,,,,,,
+210,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+210,,,,,C0024875,Massage,,,,
+210,,,,,,,,,C0030851,penis
+211,C0036916,Sexually Transmitted Diseases,,,,,,,,
+211,,,C0015230,Exanthema,,,,,,
+211,,,C0033774,Pruritus,,,,,,
+211,,,C0030193,Pain,,,,,,
+211,,,C0683369,Clouded consciousness,,,,,,
+211,,,,,C0152054,Therapeutic tactile stimulation,,,,
+211,,,,,C0010412,Cold Therapy,,,,
+211,,,,,C0087111,Therapeutic procedure,,,,
+211,,,,,,,,,C0039597,Testis
+211,,,,,,,,,C0227998,Structure of left testis
+211,,,,,,,,,C0018494,Hair
+211,,,,,,,,,C0227997,Structure of right testis
+211,,,,,,,,,C1305636,Entire hair of pubis
+212,C0036916,Sexually Transmitted Diseases,,,,,,,,
+212,,,C0231218,Malaise,,,,,,
+212,,,C0497481,Pain in penis,,,,,,
+212,,,,,,,,,C0030851,penis
+213,C0036916,Sexually Transmitted Diseases,,,,,,,,
+213,,,C0312414,Menstrual spotting,,,,,,
+214,C0036916,Sexually Transmitted Diseases,,,,,,,,
+214,,,C1579838,Sore mouth,,,,,,
+215,C0036916,Sexually Transmitted Diseases,,,,,,,,
+215,,,,,,,,,C0684110,sex organs
+216,C0036916,Sexually Transmitted Diseases,,,,,,,,
+216,,,C0009806,Constipation,,,,,,
+216,,,,,,,,,C0042232,Vagina
+216,,,,,,,,,C0003461,Anus
+217,C0036916,Sexually Transmitted Diseases,,,,,,,,
+217,,,C0234238,Ache,,,,,,
+217,,,,,C0152054,Therapeutic tactile stimulation,,,,
+217,,,,,,,,,C1269612,Entire upper arm
+218,C0018081,Gonorrhea,,,,,,,,
+218,,,C0037088,Signs and Symptoms,,,,,,
+223,C0021400,Influenza,,,,,,,,
+223,,,C0036572,Seizures,,,,,,
+223,,,C0028643,Numbness,,,,,,
+223,,,C0497406,Overweight,,,,,,
+223,,,C0012833,Dizziness,,,,,,
+223,,,C0039070,Syncope,,,,,,
+223,,,C0683369,Clouded consciousness,,,,,,
+223,,,C0013404,Dyspnea,,,,,,
+223,,,,,C1522704,Exercise Pain Management,,,,
+227,C0036916,Sexually Transmitted Diseases,,,,,,,,
+227,,,C0033774,Pruritus,,,,,,
+227,,,C0030193,Pain,,,,,,
+227,,,,,C0522772,Shaving - surgical procedure,,,,
+227,,,,,,,,,C0017420,Genitalia
+228,C1868649,PANIC DISORDER 1,,,,,,,,
+228,,,C1321587,Breathing abnormally deep,,,,,,
+228,,,C0302539,spells (neurological symptom),,,,,,
+228,,,,,,,,,C1281590,Entire head
+228,,,,,,,,,C0018787,Heart
+229,C0036916,Sexually Transmitted Diseases,,,,,,,,
+229,,,C1579931,Depressed - symptom,,,,,,
+229,,,,,,,,,C0005682,Urinary Bladder
+230,C0036916,Sexually Transmitted Diseases,,,,,,,,
+230,,,C0557875,Tired,,,,,,
+230,,,,,,,,,C0030851,penis
+230,,,,,,,,,C0042232,Vagina
+230,,,,,,,,,C0227997,Structure of right testis
+231,C0018802,Congestive heart failure,,,,,,,,
+231,,,C0015672,Fatigue,,,,,,
+231,,,,,,,,,C0018787,Heart
+231,,,,,,,,,C0947619,Finger.right
+232,C0036916,Sexually Transmitted Diseases,,,,,,,,
+232,,,C0030193,Pain,,,,,,
+232,,,,,,,,,C0036471,Scrotum
+232,,,,,,,,,C0227936,Body of penis
+233,C0036916,Sexually Transmitted Diseases,,,,,,,,
+233,,,C0239783,Inguinal pain,,,,,,
+234,C0036916,Sexually Transmitted Diseases,,,,,,,,
+234,,,C0030193,Pain,,,,,,
+234,,,C0026821,Muscle Cramp,,,,,,
+234,,,,,,,,,C0030851,penis
+235,C0036916,Sexually Transmitted Diseases,,,,,,,,
+236,C0036916,Sexually Transmitted Diseases,,,,,,,,
+237,C0019340,herpes,,,,,,,,
+237,,,,,C1456587,Bariatric Surgery,,,,
+237,,,,,C0087111,Therapeutic procedure,,,,
+238,C0242350,Erectile dysfunction,,,,,,,,
+239,C0036916,Sexually Transmitted Diseases,,,,,,,,
+239,,,,,,,,,C0030851,penis
+239,,,,,,,,,C0458708,Frenulum of penis
+242,C0042029,Urinary tract infection,,,,,,,,
+242,,,C0231218,Malaise,,,,,,
+242,,,C0278139,Moderate pain,,,,,,
+242,,,C0030193,Pain,,,,,,
+242,,,C0235710,Chest discomfort,,,,,,
+242,,,C0232495,Lower abdominal pain,,,,,,
+242,,,,,C0152277,Incision and drainage,,,,
+242,,,,,,,,,C0008913,Bone structure of clavicle
+242,,,,,,,,,C4019107,Collar Bone
+242,,,,,,,,,C1268990,Entire breast
+243,C0034735,Raynaud Phenomenon,,,,,,,,
+243,,,C0563278,Upper chest pain,,,,,,
+243,,,C0042571,Vertigo,,,,,,
+243,,,C0040822,Tremor,,,,,,
+243,,,C0220870,Lightheadedness,,,,,,
+243,,,C0238995,sharp chest pain,,,,,,
+243,,,,,,,,,C0041951,Ureter
+243,,,,,,,,,C0040357,Toes
+243,,,,,,,,,C0015385,Limb structure
+243,,,,,,,,,C0022646,Kidney
+245,C0020443,Hypercholesterolemia,,,,,,,,
+245,,,,,C0005841,Blood Transfusion,,,,
+245,,,,,,,,,C0016976,Gallbladder
+245,,,,,,,,,C1269001,Entire gallbladder
+246,C0020538,Hypertensive disease,,,,,,,,
+246,,,,,,,,,C0018787,Heart
+248,C0036916,Sexually Transmitted Diseases,,,,,,,,
+249,C0036916,Sexually Transmitted Diseases,,,,,,,,
+249,,,,,C0042196,Vaccination,,,,
+250,C0036916,Sexually Transmitted Diseases,,,,,,,,
+251,C0020624,Hypomenorrhea,,,,,,,,
+251,,,C0039070,Syncope,,,,,,
+251,,,C0030193,Pain,,,,,,
+251,,,,,C0700589,Contraceptive methods,,,,
+251,,,,,C0600080,Stretching exercises,,,,
+252,C0036916,Sexually Transmitted Diseases,,,,,,,,
+252,,,C0231218,Malaise,,,,,,
+252,,,C0085624,Burning sensation,,,,,,
+252,,,,,,,,,C0042027,Urinary tract
+253,C0036916,Sexually Transmitted Diseases,,,,,,,,
+253,,,C0085624,Burning sensation,,,,,,
+253,,,,,,,,,C0030851,penis
+254,C0036916,Sexually Transmitted Diseases,,,,,,,,
+254,,,C0030193,Pain,,,,,,
+254,,,C0751372,Nerve Pain,,,,,,
+254,,,C0039591,Pain in testicle,,,,,,
+254,,,,,C0600080,Stretching exercises,,,,
+254,,,,,,,,,C0030851,penis
+254,,,,,,,,,C0042232,Vagina
+256,C0017168,Gastroesophageal reflux disease,,,,,,,,
+256,,,C0020175,Hunger,,,,,,
+256,,,C0030193,Pain,,,,,,
+256,,,,,C1519433,Special Diet Therapy,,,,
+256,,,,,,,,,C0034196,Pylorus
+256,,,,,,,,,C0014876,Esophagus
+259,C0010346,Crohn Disease,,,,,,,,
+259,,,,,C0574032,Infusion procedures,,,,
+259,,,,,C0087111,Therapeutic procedure,,,,
+264,C0036916,Sexually Transmitted Diseases,,,,,,,,
+264,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+267,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+267,,,C0028643,Numbness,,,,,,
+267,,,C0008035,Chest wall pain,,,,,,
+267,,,C0232285,Dull chest pain,,,,,,
+267,,,C0030193,Pain,,,,,,
+267,,,,,,,,,C0018787,Heart
+267,,,,,,,,,C1269612,Entire upper arm
+268,C0019342,Genital Herpes,,,,,,,,
+269,C0036916,Sexually Transmitted Diseases,,,,,,,,
+269,,,C0085624,Burning sensation,,,,,,
+269,,,C0039591,Pain in testicle,,,,,,
+269,,,,,C0508431,answer questions,,,,
+271,C0036916,Sexually Transmitted Diseases,,,,,,,,
+271,,,C0231218,Malaise,,,,,,
+271,,,C0085624,Burning sensation,,,,,,
+271,,,C0033774,Pruritus,,,,,,
+271,,,C0232861,Discharge from penis,,,,,,
+271,,,,,C0332293,Treated with,,,,
+271,,,,,C0301571,Liquid diet,,,,
+271,,,,,C0024875,Massage,,,,
+271,,,,,,,,,C0015392,Eye
+271,,,,,,,,,C1278980,Entire prostate
+272,C0746848,nerve problem nos,,,,,,,,
+273,C0019340,herpes,,,,,,,,
+273,,,C2242996,Has tingling sensation,,,,,,
+273,,,C0040822,Tremor,,,,,,
+273,,,C0234233,Sore to touch,,,,,,
+273,,,,,,,,,C0023759,Lip structure
+274,C0036916,Sexually Transmitted Diseases,,,,,,,,
+274,,,C0240805,Prodrome,,,,,,
+274,,,C2242996,Has tingling sensation,,,,,,
+274,,,C0677500,Stinging Sensation,,,,,,
+274,,,C0030193,Pain,,,,,,
+274,,,,,,,,,C0227759,Labium
+275,C0036916,Sexually Transmitted Diseases,,,,,,,,
+275,,,,,,,,,C0042232,Vagina
+276,C0036916,Sexually Transmitted Diseases,,,,,,,,
+277,C0036916,Sexually Transmitted Diseases,,,,,,,,
+277,,,,,,,,,C0010352,Avian crop
+277,,,,,,,,,C0042232,Vagina
+282,C0018799,Heart Diseases,,,,,,,,
+282,,,C0476270,Cardiovascular symptoms,,,,,,
+287,C0020538,Hypertensive disease,,,,,,,,
+287,,,C0220870,Lightheadedness,,,,,,
+287,,,,,,,,,C0022742,Knee
+290,C0041912,Upper Respiratory Infections,,,,,,,,
+290,,,C0008031,Chest Pain,,,,,,
+290,,,C0541828,Left sided chest pain,,,,,,
+290,,,C0030193,Pain,,,,,,
+290,,,,,,,,,C0018563,Hand
+292,C0036916,Sexually Transmitted Diseases,,,,,,,,
+292,,,C0030193,Pain,,,,,,
+292,,,,,,,,,C0227936,Body of penis
+292,,,,,,,,,C1285092,Gland
+293,C0036916,Sexually Transmitted Diseases,,,,,,,,
+293,,,C0234233,Sore to touch,,,,,,
+293,,,,,,,,,C0030851,penis
+293,,,,,,,,,C1280739,Entire penis
+294,C0009450,Communicable Diseases,,,,,,,,
+294,,,,,,,,,C0017420,Genitalia
+295,C0036916,Sexually Transmitted Diseases,,,,,,,,
+295,,,,,C3275067,Cardiac Lead Procedure,,,,
+296,C0036916,Sexually Transmitted Diseases,,,,,,,,
+297,C0036916,Sexually Transmitted Diseases,,,,,,,,
+298,C0036916,Sexually Transmitted Diseases,,,,,,,,
+298,,,C0750731,"Body, Physical Appearance",,,,,,
+298,,,,,C0087111,Therapeutic procedure,,,,
+299,C0036916,Sexually Transmitted Diseases,,,,,,,,
+299,,,C0268988,Pruritus of penis,,,,,,
+300,C0010692,Cystitis,,,,,,,,
+300,,,C0028643,Numbness,,,,,,
+300,,,C0239667,Pain in forearm,,,,,,
+300,,,C0497481,Pain in penis,,,,,,
+300,,,C0030193,Pain,,,,,,
+300,,,,,C0021485,Injection of therapeutic agent,,,,
+301,C0036916,Sexually Transmitted Diseases,,,,,,,,
+301,,,C0151908,Dry skin,,,,,,
+301,,,C0085624,Burning sensation,,,,,,
+301,,,C0683369,Clouded consciousness,,,,,,
+301,,,,,C0392148,Providing presence (regime/therapy),,,,
+301,,,,,C3275067,Cardiac Lead Procedure,,,,
+301,,,,,,,,,C1281590,Entire head
+301,,,,,,,,,C0227936,Body of penis
+301,,,,,,,,,C0947210,Vein.right
+301,,,,,,,,,C0227952,Foreskin of penis
+301,,,,,,,,,C0042449,Veins
+301,,,,,,,,,C1280739,Entire penis
+302,C0036916,Sexually Transmitted Diseases,,,,,,,,
+302,,,,,,,,,C0021853,Intestines
+302,,,,,,,,,C1280739,Entire penis
+303,C0003615,Appendicitis,,,,,,,,
+303,,,C2242996,Has tingling sensation,,,,,,
+303,,,C0030193,Pain,,,,,,
+303,,,,,,,,,C0041638,Umbilicus (Anatomy)
+305,C0018889,Helminthiasis,,,,,,,,
+307,C0749263,temporal pain,,,,,,,,
+307,,,C0030794,Pelvic Pain,,,,,,
+307,,,C0000737,Abdominal Pain,,,,,,
+307,,,C1446787,Cramping sensation quality,,,,,,
+307,,,C0030193,Pain,,,,,,
+307,,,,,,,,,C0022742,Knee
+313,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+313,,,C0008031,Chest Pain,,,,,,
+313,,,C0221423,Illness (finding),,,,,,
+313,,,C0231218,Malaise,,,,,,
+313,,,C0012833,Dizziness,,,,,,
+313,,,C3714552,Weakness,,,,,,
+313,,,C0018681,Headache,,,,,,
+313,,,C0039070,Syncope,,,,,,
+313,,,C0013404,Dyspnea,,,,,,
+313,,,,,C0058928,ECHO protocol,,,,
+313,,,,,,,,,C1281590,Entire head
+313,,,,,,,,,C0018787,Heart
+313,,,,,,,,,C1281592,Entire neck
+314,C0037315,Sleep Apnea Syndromes,,,,,,,,
+314,,,,,,,,,C0018787,Heart
+317,C0036916,Sexually Transmitted Diseases,,,,,,,,
+317,,,C0030193,Pain,,,,,,
+318,C0021313,Infection of kidney,,,,,,,,
+318,,,C0000737,Abdominal Pain,,,,,,
+318,,,C0235162,Difficulty sleeping,,,,,,
+318,,,C0231218,Malaise,,,,,,
+318,,,C0030193,Pain,,,,,,
+318,,,C0232487,Abdominal discomfort,,,,,,
+318,,,,,C0079613,Adoptive Immunotherapy,,,,
+318,,,,,,,,,C0005682,Urinary Bladder
+318,,,,,,,,,C0040408,Tongue
+319,C0036916,Sexually Transmitted Diseases,,,,,,,,
+319,,,,,,,,,C0030851,penis
+320,C0036916,Sexually Transmitted Diseases,,,,,,,,
+320,,,C0015230,Exanthema,,,,,,
+320,,,C0392171,Influenza-like symptoms,,,,,,
+320,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+320,,,C0522067,Liver pain,,,,,,
+320,,,,,,,,,C0042232,Vagina
+320,,,,,,,,,C1281584,Entire finger
+321,C0149745,Oral Ulcer,,,,,,,,
+321,,,C0221512,Stomach ache,,,,,,
+321,,,C0011991,Diarrhea,,,,,,
+321,,,C0000737,Abdominal Pain,,,,,,
+321,,,C0015672,Fatigue,,,,,,
+321,,,C0028081,Night sweats,,,,,,
+321,,,,,C0392920,Chemotherapy Regimen,,,,
+321,,,,,C1519433,Special Diet Therapy,,,,
+324,C0152020,Gastroparesis,,,,,,,,
+324,,,,,C3687832,DRUGS,,,,
+330,C0004135,Ataxia Telangiectasia,,,,,,,,
+330,,,,,C0452415,Diet good,,,,
+334,C0277525,Infectious gastroenteritis,,,,,,,,
+334,,,C0008031,Chest Pain,,,,,,
+334,,,C0012833,Dizziness,,,,,,
+334,,,C0013404,Dyspnea,,,,,,
+335,C0022104,Irritable Bowel Syndrome,,,,,,,,
+335,,,C0221512,Stomach ache,,,,,,
+335,,,C0011991,Diarrhea,,,,,,
+335,,,C0009806,Constipation,,,,,,
+335,,,C0030193,Pain,,,,,,
+336,C0017168,Gastroesophageal reflux disease,,,,,,,,
+336,,,C0030193,Pain,,,,,,
+336,,,C0740396,chest burning,,,,,,
+336,,,C0014724,Eructation,,,,,,
+338,C0423086,Staring,,,,,,,,
+338,,,,,C3275067,Cardiac Lead Procedure,,,,
+338,,,,,,,,,C1268087,Upper body structure
+338,,,,,,,,,C1281591,Entire face
+339,C0036916,Sexually Transmitted Diseases,,,,,,,,
+339,,,C0027497,Nausea,,,,,,
+339,,,C0015672,Fatigue,,,,,,
+339,,,C1291077,Abdominal bloating,,,,,,
+339,,,C0024902,Mastodynia,,,,,,
+339,,,,,C0015252,removal technique,,,,
+340,C0036916,Sexually Transmitted Diseases,,,,,,,,
+340,,,C0085624,Burning sensation,,,,,,
+340,,,C0033774,Pruritus,,,,,,
+340,,,C0151830,Pain in urethra,,,,,,
+340,,,C0030193,Pain,,,,,,
+340,,,,,C0021485,Injection of therapeutic agent,,,,
+341,C0036916,Sexually Transmitted Diseases,,,,,,,,
+341,,,C0085624,Burning sensation,,,,,,
+341,,,C0030193,Pain,,,,,,
+341,,,,,C0152054,Therapeutic tactile stimulation,,,,
+341,,,,,,,,,C0458708,Frenulum of penis
+342,C0036916,Sexually Transmitted Diseases,,,,,,,,
+343,C0036916,Sexually Transmitted Diseases,,,,,,,,
+343,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+343,,,C0234233,Sore to touch,,,,,,
+343,,,,,,,,,C0030851,penis
+350,C0017168,Gastroesophageal reflux disease,,,,,,,,
+350,,,C0027497,Nausea,,,,,,
+351,C0017168,Gastroesophageal reflux disease,,,,,,,,
+351,,,,,C0600080,Stretching exercises,,,,
+351,,,,,,,,,C0224086,Belly of skeletal muscle
+351,,,,,,,,,C0011980,Respiratory Diaphragm
+351,,,,,,,,,C0018787,Heart
+351,,,,,,,,,C1280698,Entire throat (surface region of neck)
+351,,,,,,,,,C0014876,Esophagus
+351,,,,,,,,,C1281592,Entire neck
+354,C0702166,Acne,,,,,,,,
+355,C0036916,Sexually Transmitted Diseases,,,,,,,,
+355,,,C0033774,Pruritus,,,,,,
+355,,,C0030193,Pain,,,,,,
+355,,,,,,,,,C0227766,labium minus
+356,C0036916,Sexually Transmitted Diseases,,,,,,,,
+356,,,C0221170,Muscular stiffness,,,,,,
+356,,,C0239725,genital pain,,,,,,
+356,,,C0278139,Moderate pain,,,,,,
+356,,,,,C0872145,Directly Observed Therapy,,,,
+356,,,,,,,,,C1281590,Entire head
+356,,,,,,,,,C0222193,Skin of penis
+356,,,,,,,,,C0030851,penis
+356,,,,,,,,,C0205029,Skin structure of head
+356,,,,,,,,,C0042232,Vagina
+356,,,,,,,,,C0017420,Genitalia
+356,,,,,,,,,C0227952,Foreskin of penis
+357,C0010709,Cyst,,,,,,,,
+362,C0043352,Xerostomia,,,,,,,,
+362,,,C0018834,Heartburn,,,,,,
+362,,,C0221512,Stomach ache,,,,,,
+362,,,C0011991,Diarrhea,,,,,,
+362,,,C0027497,Nausea,,,,,,
+362,,,C0018681,Headache,,,,,,
+362,,,C0030193,Pain,,,,,,
+362,,,C0085593,Chills,,,,,,
+362,,,,,C0152277,Incision and drainage,,,,
+363,C0152020,Gastroparesis,,,,,,,,
+363,,,C0018834,Heartburn,,,,,,
+363,,,C0221512,Stomach ache,,,,,,
+363,,,C0232517,Gurgling,,,,,,
+363,,,C0596601,gastrointestinal gas,,,,,,
+363,,,C0242030,pain with eating,,,,,,
+363,,,C0030193,Pain,,,,,,
+363,,,,,,,,,C1278920,Entire stomach
+363,,,,,,,,,C0030274,Pancreas
+363,,,,,,,,,C0016976,Gallbladder
+363,,,,,,,,,C1269001,Entire gallbladder
+367,C0004135,Ataxia Telangiectasia,,,,,,,,
+367,,,C0018834,Heartburn,,,,,,
+367,,,C0221512,Stomach ache,,,,,,
+367,,,C0011991,Diarrhea,,,,,,
+367,,,C0557875,Tired,,,,,,
+367,,,C0027497,Nausea,,,,,,
+367,,,C0231218,Malaise,,,,,,
+367,,,C2242996,Has tingling sensation,,,,,,
+367,,,C0026821,Muscle Cramp,,,,,,
+367,,,C0220870,Lightheadedness,,,,,,
+367,,,C0344375,Stomach cramps (finding),,,,,,
+367,,,,,,,,,C0018563,Hand
+368,C0036689,Streptococcal sore throat,,,,,,,,
+368,,,C0036572,Seizures,,,,,,
+368,,,C0042963,Vomiting,,,,,,
+368,,,C0027497,Nausea,,,,,,
+368,,,C0012833,Dizziness,,,,,,
+368,,,C0312414,Menstrual spotting,,,,,,
+368,,,,,,,,,C1278920,Entire stomach
+368,,,,,,,,,C0224086,Belly of skeletal muscle
+368,,,,,,,,,C0040132,Thyroid Gland
+370,C0019340,herpes,,,,,,,,
+371,C0036916,Sexually Transmitted Diseases,,,,,,,,
+371,,,,,,,,,C1280698,Entire throat (surface region of neck)
+372,C0036916,Sexually Transmitted Diseases,,,,,,,,
+372,,,C0013428,Dysuria,,,,,,
+372,,,,,C0021485,Injection of therapeutic agent,,,,
+372,,,,,,,C3209472,Azithromycin Pill,,
+373,C0019693,HIV Infections,,,,,,,,
+373,,,C0085624,Burning sensation,,,,,,
+373,,,,,,,,,C0041967,Urethra
+374,C0036916,Sexually Transmitted Diseases,,,,,,,,
+374,,,,,,,,,C0042232,Vagina
+374,,,,,,,,,C1281584,Entire finger
+375,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+375,,,C0231218,Malaise,,,,,,
+376,C0036916,Sexually Transmitted Diseases,,,,,,,,
+379,C0036916,Sexually Transmitted Diseases,,,,,,,,
+379,,,C0011124,Decreased Libido,,,,,,
+379,,,,,C0700589,Contraceptive methods,,,,
+379,,,,,C0152277,Incision and drainage,,,,
+379,,,,,C0751363,natural remedies,,,,
+379,,,,,,,,,C0040132,Thyroid Gland
+381,C0036916,Sexually Transmitted Diseases,,,,,,,,
+381,,,,,,,,,C0030851,penis
+382,C0043154,Dental White Spot,,,,,,,,
+382,,,C0234238,Ache,,,,,,
+382,,,C0278144,Dull pain,,,,,,
+382,,,C0241745,Wound pain,,,,,,
+382,,,C0231218,Malaise,,,,,,
+382,,,,,C1292856,Stimulation procedure,,,,
+382,,,,,C0184661,Interventional procedure,,,,
+382,,,,,C0679614,cold turkey,,,,
+382,,,,,,,,,C1278920,Entire stomach
+382,,,,,,,,,C0206248,Pelvic Diaphragm
+382,,,,,,,,,C0224086,Belly of skeletal muscle
+382,,,,,,,,,C0030851,penis
+382,,,,,,,,,C1285092,Gland
+382,,,,,,,,,C0227952,Foreskin of penis
+382,,,,,,,,,C1281584,Entire finger
+382,,,,,,,,,C0005847,Blood Vessel
+383,C0022104,Irritable Bowel Syndrome,,,,,,,,
+383,,,C0221512,Stomach ache,,,,,,
+383,,,C0009806,Constipation,,,,,,
+383,,,C1291077,Abdominal bloating,,,,,,
+383,,,C0030193,Pain,,,,,,
+383,,,C0014724,Eructation,,,,,,
+383,,,,,C0087111,Therapeutic procedure,,,,
+383,,,,,,,,,C1278920,Entire stomach
+384,C0017168,Gastroesophageal reflux disease,,,,,,,,
+384,,,C0030193,Pain,,,,,,
+384,,,,,,,,,C1278920,Entire stomach
+384,,,,,,,,,C0038351,Stomach
+388,C0017168,Gastroesophageal reflux disease,,,,,,,,
+388,,,C0018834,Heartburn,,,,,,
+388,,,C0596601,gastrointestinal gas,,,,,,
+388,,,C0030193,Pain,,,,,,
+388,,,,,C3887679,Nissen Operation,,,,
+390,C0036916,Sexually Transmitted Diseases,,,,,,,,
+390,,,C0231218,Malaise,,,,,,
+390,,,C0030193,Pain,,,,,,
+390,,,,,,,,,C0039597,Testis
+390,,,,,,,,,C0036471,Scrotum
+390,,,,,,,,,C0227998,Structure of left testis
+390,,,,,,,,,C0227997,Structure of right testis
+391,C0036916,Sexually Transmitted Diseases,,,,,,,,
+391,,,,,,,,,C0227936,Body of penis
+392,C0036916,Sexually Transmitted Diseases,,,,,,,,
+392,,,,,C0176524,puncture of lung,,,,
+392,,,,,,,,,C0035561,Bone structure of rib
+393,C0036916,Sexually Transmitted Diseases,,,,,,,,
+393,,,C1096300,genital burning,,,,,,
+393,,,C0221423,Illness (finding),,,,,,
+393,,,C0231218,Malaise,,,,,,
+393,,,C0085624,Burning sensation,,,,,,
+393,,,C2242996,Has tingling sensation,,,,,,
+393,,,C0877605,burning anal,,,,,,
+393,,,C0027769,Nervousness,,,,,,
+393,,,,,C0700589,Contraceptive methods,,,,
+393,,,,,,,,,C0036471,Scrotum
+393,,,,,,,,,C0003461,Anus
+393,,,,,,,,,C1280739,Entire penis
+394,C0036916,Sexually Transmitted Diseases,,,,,,,,
+394,,,C0013428,Dysuria,,,,,,
+395,C0036916,Sexually Transmitted Diseases,,,,,,,,
+395,,,,,,,,,C1278927,Entire anus
+396,C0036916,Sexually Transmitted Diseases,,,,,,,,
+396,,,C0033774,Pruritus,,,,,,
+396,,,C0234233,Sore to touch,,,,,,
+396,,,,,,,,,C0042993,Vulva
+399,C0018799,Heart Diseases,,,,,,,,
+399,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+399,,,,,C0751363,natural remedies,,,,
+399,,,,,C0087111,Therapeutic procedure,,,,
+399,,,,,,,,,C0018563,Hand
+399,,,,,,,,,C0015392,Eye
+400,C0004626,"Pneumonia, Bacterial",,,,,,,,
+400,,,C0011991,Diarrhea,,,,,,
+400,,,C0235309,Upset stomach,,,,,,
+400,,,C0042571,Vertigo,,,,,,
+400,,,C0039070,Syncope,,,,,,
+400,,,C0392674,Exhaustion,,,,,,
+400,,,,,,,,,C0018787,Heart
+400,,,,,,,,,C0225730,Left lung
+401,C1868649,PANIC DISORDER 1,,,,,,,,
+401,,,C0008031,Chest Pain,,,,,,
+401,,,,,,,,,C0018787,Heart
+408,C0010346,Crohn Disease,,,,,,,,
+411,C0036916,Sexually Transmitted Diseases,,,,,,,,
+411,,,C0033774,Pruritus,,,,,,
+411,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+411,,,C2242996,Has tingling sensation,,,,,,
+411,,,C0030193,Pain,,,,,,
+411,,,C0009193,Pain in the coccyx,,,,,,
+411,,,,,C0087111,Therapeutic procedure,,,,
+411,,,,,,,,,C0039597,Testis
+411,,,,,,,,,C0009194,Bone structure of coccyx
+411,,,,,,,,,C0030851,penis
+411,,,,,,,,,C0016504,Foot
+412,C0036916,Sexually Transmitted Diseases,,,,,,,,
+413,C0003123,Anorexia,,,,,,,,
+413,,,C0231218,Malaise,,,,,,
+413,,,C0392171,Influenza-like symptoms,,,,,,
+413,,,C0033774,Pruritus,,,,,,
+413,,,C0423736,Scalding pain on urination,,,,,,
+413,,,C0683369,Clouded consciousness,,,,,,
+413,,,C0152447,Urethral discharge,,,,,,
+413,,,,,C0021485,Injection of therapeutic agent,,,,
+413,,,,,,,,,C0019552,Hip structure
+413,,,,,,,,,C0041967,Urethra
+414,C0036916,Sexually Transmitted Diseases,,,,,,,,
+416,C0019340,herpes,,,,,,,,
+416,,,C1442877,Sore skin,,,,,,
+416,,,C0151908,Dry skin,,,,,,
+416,,,C0033774,Pruritus,,,,,,
+417,C0009450,Communicable Diseases,,,,,,,,
+417,,,C0033774,Pruritus,,,,,,
+418,C0036916,Sexually Transmitted Diseases,,,,,,,,
+419,C0020443,Hypercholesterolemia,,,,,,,,
+419,,,,,C3275067,Cardiac Lead Procedure,,,,
+420,C0004238,Atrial Fibrillation,,,,,,,,
+420,,,C3665346,Unspecified visual loss,,,,,,
+420,,,,,,,,,C0018792,Heart Atrium
+424,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+426,C0022104,Irritable Bowel Syndrome,,,,,,,,
+426,,,C0009806,Constipation,,,,,,
+426,,,C0042963,Vomiting,,,,,,
+426,,,C1291077,Abdominal bloating,,,,,,
+426,,,C0242030,pain with eating,,,,,,
+426,,,C0030193,Pain,,,,,,
+427,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+429,C0019112,Hemorrhoids,,,,,,,,
+429,,,,,,,,,C0003461,Anus
+431,C0022104,Irritable Bowel Syndrome,,,,,,,,
+431,,,C0011991,Diarrhea,,,,,,
+431,,,C0000737,Abdominal Pain,,,,,,
+431,,,C0030193,Pain,,,,,,
+431,,,,,,,,,C1278920,Entire stomach
+432,C0009443,Common Cold,,,,,,,,
+432,,,C0221512,Stomach ache,,,,,,
+432,,,C0235129,Feeling strange,,,,,,
+432,,,C0011991,Diarrhea,,,,,,
+432,,,C0849970,Feeling tired,,,,,,
+432,,,C0221423,Illness (finding),,,,,,
+432,,,C0033774,Pruritus,,,,,,
+432,,,C0221100,Hangover from any Alcohol or Other Drugs substance,,,,,,
+432,,,,,C1456647,Childhood Immunization,,,,
+432,,,,,,,,,C0023884,Liver
+432,,,,,,,,,C1281594,Entire abdomen
+432,,,,,,,,,C0016536,Forearm
+436,C0019342,Genital Herpes,,,,,,,,
+436,,,,,,,,,C0042232,Vagina
+436,,,,,,,,,C1281584,Entire finger
+436,,,,,,,,,C0230370,Structure of right hand
+439,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+439,,,C0008031,Chest Pain,,,,,,
+439,,,C0042571,Vertigo,,,,,,
+439,,,C0683369,Clouded consciousness,,,,,,
+439,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+439,,,,,,,,,C0521421,Entire ear
+442,C0027051,Myocardial Infarction,,,,,,,,
+442,,,,,,,,,C0018787,Heart
+443,C0036916,Sexually Transmitted Diseases,,,,,,,,
+443,,,C0234233,Sore to touch,,,,,,
+443,,,,,,,,,C0023759,Lip structure
+444,C0036916,Sexually Transmitted Diseases,,,,,,,,
+444,,,C0030193,Pain,,,,,,
+444,,,,,,,,,C0006104,Brain
+445,C0036916,Sexually Transmitted Diseases,,,,,,,,
+445,,,C0015230,Exanthema,,,,,,
+445,,,C0033774,Pruritus,,,,,,
+445,,,C0151908,Dry skin,,,,,,
+445,,,,,C0152277,Incision and drainage,,,,
+445,,,,,,,,,C0042232,Vagina
+445,,,,,,,,,C0017562,Gingiva
+450,C0242301,furuncle,,,,,,,,
+450,,,C0278007,Normal bowel habits,,,,,,
+450,,,,,,,,,C0227391,Sigmoid colon
+450,,,,,,,,,C0222041,Shell - Animal skin appendage
+454,C1395831,pressure area,,,,,,,,
+454,,,C0009806,Constipation,,,,,,
+454,,,C0042963,Vomiting,,,,,,
+454,,,C0000729,Abdominal Cramps,,,,,,
+454,,,C0027497,Nausea,,,,,,
+454,,,C0026821,Muscle Cramp,,,,,,
+454,,,,,C0014268,Administration of enema,,,,
+454,,,,,C0152277,Incision and drainage,,,,
+454,,,,,C1522704,Exercise Pain Management,,,,
+454,,,,,,,,,C0030797,Pelvis
+454,,,,,,,,,C0038351,Stomach
+454,,,,,,,,,C0021853,Intestines
+465,C0021400,Influenza,,,,,,,,
+465,,,C0221423,Illness (finding),,,,,,
+465,,,,,,,,,C0018787,Heart
+466,C0036916,Sexually Transmitted Diseases,,,,,,,,
+467,C0036916,Sexually Transmitted Diseases,,,,,,,,
+467,,,C0030193,Pain,,,,,,
+467,,,,,C0301571,Liquid diet,,,,
+468,C0036916,Sexually Transmitted Diseases,,,,,,,,
+468,,,C0003862,Arthralgia,,,,,,
+468,,,C0231749,Knee pain,,,,,,
+468,,,,,,,,,C0022742,Knee
+469,C0036916,Sexually Transmitted Diseases,,,,,,,,
+469,,,C0011991,Diarrhea,,,,,,
+469,,,C3714552,Weakness,,,,,,
+469,,,C0026821,Muscle Cramp,,,,,,
+469,,,C0030193,Pain,,,,,,
+469,,,C0427008,Stiffness,,,,,,
+469,,,,,C3272275,Urgent Procedure,,,,
+469,,,,,,,,,C0030797,Pelvis
+469,,,,,,,,,C0030851,penis
+469,,,,,,,,,C0005682,Urinary Bladder
+469,,,,,,,,,C0017420,Genitalia
+469,,,,,,,,,C1995013,Set of muscles
+469,,,,,,,,,C0041967,Urethra
+470,C0041912,Upper Respiratory Infections,,,,,,,,
+470,,,C0235129,Feeling strange,,,,,,
+470,,,C0030193,Pain,,,,,,
+470,,,C0425481,Sighing respiration,,,,,,
+470,,,C0039591,Pain in testicle,,,,,,
+470,,,,,C1292856,Stimulation procedure,,,,
+470,,,,,C1456647,Childhood Immunization,,,,
+470,,,,,C0150141,Bathing,,,,
+470,,,,,C0079613,Adoptive Immunotherapy,,,,
+470,,,,,C0150189,Distraction training,,,,
+470,,,,,C0282402,Hormone replacement therapy,,,,
+470,,,,,,,,,C0039597,Testis
+470,,,,,,,,,C1281590,Entire head
+470,,,,,,,,,C0030851,penis
+471,C0009450,Communicable Diseases,,,,,,,,
+471,,,C0085624,Burning sensation,,,,,,
+471,,,C0030193,Pain,,,,,,
+471,,,,,C1318469,Lubrication procedure,,,,
+471,,,,,,,,,C1278985,Entire vagina
+471,,,,,,,,,C0034014,Bone structure of pubis
+471,,,,,,,,,C0042232,Vagina
+471,,,,,,,,,C0262950,Skeletal bone
+472,C0009443,Common Cold,,,,,,,,
+472,,,C0030193,Pain,,,,,,
+472,,,C0039591,Pain in testicle,,,,,,
+472,,,,,,,,,C0039597,Testis
+473,C0036916,Sexually Transmitted Diseases,,,,,,,,
+473,,,C0557875,Tired,,,,,,
+473,,,C0027497,Nausea,,,,,,
+473,,,C0231218,Malaise,,,,,,
+473,,,C0012833,Dizziness,,,,,,
+473,,,C2242996,Has tingling sensation,,,,,,
+473,,,C0013428,Dysuria,,,,,,
+473,,,C0030193,Pain,,,,,,
+473,,,C0234233,Sore to touch,,,,,,
+473,,,,,,,,,C1281590,Entire head
+473,,,,,,,,,C3686743,Pharyngeal area structure
+473,,,,,,,,,C0222084,Skin structure of face
+473,,,,,,,,,C0030851,penis
+473,,,,,,,,,C0040408,Tongue
+473,,,,,,,,,C0024204,lymph nodes
+473,,,,,,,,,C0041967,Urethra
+473,,,,,,,,,C0016504,Foot
+474,C0036916,Sexually Transmitted Diseases,,,,,,,,
+474,,,C0015230,Exanthema,,,,,,
+474,,,C0033774,Pruritus,,,,,,
+474,,,C0085624,Burning sensation,,,,,,
+474,,,C0234233,Sore to touch,,,,,,
+474,,,,,,,,,C0022122,Bone structure of ischium
+474,,,,,,,,,C0003461,Anus
+474,,,,,,,,,C1281584,Entire finger
+476,C0152227,Excessive tearing,,,,,,,,
+476,,,C0011991,Diarrhea,,,,,,
+476,,,C0009806,Constipation,,,,,,
+476,,,C0027497,Nausea,,,,,,
+476,,,C0030193,Pain,,,,,,
+476,,,C0455270,Sharp pain,,,,,,
+476,,,C0683369,Clouded consciousness,,,,,,
+476,,,,,C3272275,Urgent Procedure,,,,
+476,,,,,,,,,C1278920,Entire stomach
+478,C0241266,Subcutaneous Abscess,,,,,,,,
+478,,,C0596601,gastrointestinal gas,,,,,,
+478,,,,,C1706711,Additional Surgical Procedure,,,,
+478,,,,,,,,,C1280744,Entire umbilicus
+481,C0003615,Appendicitis,,,,,,,,
+481,,,C0850045,intestinal pain,,,,,,
+481,,,C0009806,Constipation,,,,,,
+481,,,C0596601,gastrointestinal gas,,,,,,
+481,,,C0563277,Right sided abdominal pain,,,,,,
+481,,,C0027497,Nausea,,,,,,
+481,,,C1291077,Abdominal bloating,,,,,,
+481,,,C0030193,Pain,,,,,,
+481,,,,,,,,,C0035561,Bone structure of rib
+481,,,,,,,,,C0030274,Pancreas
+481,,,,,,,,,C0041638,Umbilicus (Anatomy)
+481,,,,,,,,,C0021853,Intestines
+481,,,,,,,,,C0016976,Gallbladder
+481,,,,,,,,,C1269001,Entire gallbladder
+482,C0042029,Urinary tract infection,,,,,,,,
+482,,,C0231218,Malaise,,,,,,
+482,,,,,,,,,C1280739,Entire penis
+483,C0012634,Disease,,,,,,,,
+483,,,,,,,,,C0022646,Kidney
+484,C0036916,Sexually Transmitted Diseases,,,,,,,,
+484,,,C0037088,Signs and Symptoms,,,,,,
+484,,,,,C0199451,Continuous Positive Airway Pressure,,,,
+484,,,,,,,,,C0030851,penis
+485,C0027051,Myocardial Infarction,,,,,,,,
+485,,,,,C0849164,blood medications,,,,
+487,C0036916,Sexually Transmitted Diseases,,,,,,,,
+487,,,C0013428,Dysuria,,,,,,
+487,,,C0521632,Irritation of penis,,,,,,
+487,,,,,C0184933,Scraping,,,,
+487,,,,,,,,,C1281590,Entire head
+487,,,,,,,,,C0746922,Anatomic Node
+489,C0036916,Sexually Transmitted Diseases,,,,,,,,
+490,C0036916,Sexually Transmitted Diseases,,,,,,,,
+491,C0242350,Erectile dysfunction,,,,,,,,
+491,,,C3714552,Weakness,,,,,,
+492,C0036916,Sexually Transmitted Diseases,,,,,,,,
+493,C0032285,Pneumonia,,,,,,,,
+494,C0036916,Sexually Transmitted Diseases,,,,,,,,
+494,,,,,C0011209,Obstetric Delivery,,,,
+494,,,,,C0087111,Therapeutic procedure,,,,
+494,,,,,,,C3241828,Viagra Pill,,
+501,C0004135,Ataxia Telangiectasia,,,,,,,,
+501,,,C0011991,Diarrhea,,,,,,
+501,,,C0221423,Illness (finding),,,,,,
+501,,,C0027497,Nausea,,,,,,
+501,,,C0235309,Upset stomach,,,,,,
+502,C0012242,Digestive System Disorders,,,,,,,,
+502,,,C0231218,Malaise,,,,,,
+502,,,C1291077,Abdominal bloating,,,,,,
+502,,,C2242996,Has tingling sensation,,,,,,
+502,,,C0030193,Pain,,,,,,
+502,,,,,,,,,C0035561,Bone structure of rib
+502,,,,,,,,,C0222762,Thoracic cage structure
+505,C0036916,Sexually Transmitted Diseases,,,,,,,,
+505,,,C0424489,Chapping of lips,,,,,,
+505,,,C0033774,Pruritus,,,,,,
+505,,,C0030193,Pain,,,,,,
+505,,,,,,,,,C0227760,labium majus
+505,,,,,,,,,C0042232,Vagina
+505,,,,,,,,,C0738572,Left labium majus
+507,C0036916,Sexually Transmitted Diseases,,,,,,,,
+507,,,,,,,,,C1281590,Entire head
+507,,,,,,,,,C0030851,penis
+509,C0012634,Disease,,,,,,,,
+509,,,C0234238,Ache,,,,,,
+509,,,C0235710,Chest discomfort,,,,,,
+509,,,C0030193,Pain,,,,,,
+509,,,,,C1522704,Exercise Pain Management,,,,
+509,,,,,C3275067,Cardiac Lead Procedure,,,,
+509,,,,,,,,,C1281590,Entire head
+509,,,,,,,,,C0018787,Heart
+509,,,,,,,,,C0230347,Left upper arm structure
+512,C0036916,Sexually Transmitted Diseases,,,,,,,,
+512,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+512,,,C0085624,Burning sensation,,,,,,
+512,,,C0030193,Pain,,,,,,
+512,,,C0232861,Discharge from penis,,,,,,
+512,,,C0039591,Pain in testicle,,,,,,
+512,,,C0152447,Urethral discharge,,,,,,
+512,,,,,,,,,C0039597,Testis
+512,,,,,,,,,C0227998,Structure of left testis
+512,,,,,,,,,C1278980,Entire prostate
+513,C0085166,Bacterial Vaginosis,,,,,,,,
+513,,,C0036572,Seizures,,,,,,
+513,,,C0312414,Menstrual spotting,,,,,,
+513,,,,,C0600080,Stretching exercises,,,,
+513,,,,,,,,,C0020412,Structure of hymen
+514,C0036916,Sexually Transmitted Diseases,,,,,,,,
+515,C0036916,Sexually Transmitted Diseases,,,,,,,,
+515,,,,,,,,,C0030851,penis
+516,C0036916,Sexually Transmitted Diseases,,,,,,,,
+516,,,C0036572,Seizures,,,,,,
+516,,,C0007859,Neck Pain,,,,,,
+516,,,C0557875,Tired,,,,,,
+516,,,C0221170,Muscular stiffness,,,,,,
+516,,,C0312422,Blackout - symptom,,,,,,
+516,,,C0427008,Stiffness,,,,,,
+516,,,C0026821,Muscle Cramp,,,,,,
+516,,,C0030193,Pain,,,,,,
+516,,,C0027769,Nervousness,,,,,,
+516,,,,,,,,,C0039597,Testis
+516,,,,,,,,,C0006104,Brain
+516,,,,,,,,,C0229962,Body part
+518,C0004135,Ataxia Telangiectasia,,,,,,,,
+518,,,,,,,,,C1278920,Entire stomach
+522,C3539909,Allergic disposition,,,,,,,,
+522,,,C0015230,Exanthema,,,,,,
+522,,,C0030193,Pain,,,,,,
+522,,,,,C0074125,bleomycin/doxorubicin/lomustine/streptozocin protocol,,,,
+522,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+522,,,,,,,,,C1269612,Entire upper arm
+524,C3554576,"FACIAL DYSMORPHISM, IMMUNODEFICIENCY, LIVEDO, AND SHORT STATURE",,,,,,,,
+524,,,C0085624,Burning sensation,,,,,,
+524,,,C0221100,Hangover from any Alcohol or Other Drugs substance,,,,,,
+524,,,,,C0052889,bleomycin/doxorubicin/lomustine/mechlorethamine/vincristine protocol,,,,
+524,,,,,,,,,C1278920,Entire stomach
+524,,,,,,,,,C1280698,Entire throat (surface region of neck)
+524,,,,,,,,,C1281573,Entire bladder
+525,C0004238,Atrial Fibrillation,,,,,,,,
+525,,,,,,,C0982958,Acetaminophen 500 MG,,
+526,C0020538,Hypertensive disease,,,,,,,,
+526,,,,,,,,,C1269612,Entire upper arm
+527,C0036916,Sexually Transmitted Diseases,,,,,,,,
+527,,,,,,,,,C0030851,penis
+531,C0036916,Sexually Transmitted Diseases,,,,,,,,
+531,,,,,C0008819,Male Circumcision,,,,
+531,,,,,,,,,C1550277,Meatus
+531,,,,,,,,,C0227952,Foreskin of penis
+531,,,,,,,,,C1280739,Entire penis
+532,C0011847,Diabetes,,,,,,,,
+532,,,,,C0020699,Hysterectomy,,,,
+532,,,,,,,,,C1281591,Entire face
+533,C0032231,Pleurisy,,,,,,,,
+533,,,C0748706,side pain,,,,,,
+533,,,C0010200,Coughing,,,,,,
+533,,,C0030193,Pain,,,,,,
+533,,,,,C1963578,Release (procedure),,,,
+533,,,,,,,,,C0507205,Right scapula
+533,,,,,,,,,C0035561,Bone structure of rib
+533,,,,,,,,,C1709950,Rib 3
+533,,,,,,,,,C1278908,Entire lung
+536,C0022104,Irritable Bowel Syndrome,,,,,,,,
+536,,,C0024031,Low Back Pain,,,,,,
+536,,,C0011991,Diarrhea,,,,,,
+536,,,C0009806,Constipation,,,,,,
+536,,,C0015672,Fatigue,,,,,,
+536,,,C1291077,Abdominal bloating,,,,,,
+536,,,C1446787,Cramping sensation quality,,,,,,
+536,,,C0030193,Pain,,,,,,
+536,,,,,C1519433,Special Diet Therapy,,,,
+536,,,,,,,,,C1278920,Entire stomach
+536,,,,,,,,,C0042149,Uterus
+536,,,,,,,,,C1281594,Entire abdomen
+536,,,,,,,,,C0021853,Intestines
+538,C0263940,Curb,,,,,,,,
+538,,,,,C0079613,Adoptive Immunotherapy,,,,
+538,,,,,,,,,C0004895,Beak
+538,,,,,,,,,C0149561,Structure of anterior cerebral artery
+538,,,,,,,,,C1281591,Entire face
+538,,,,,,,,,C0016504,Foot
+540,C0009450,Communicable Diseases,,,,,,,,
+540,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+540,,,,,C0184958,Toilet procedure,,,,
+540,,,,,C1519433,Special Diet Therapy,,,,
+540,,,,,C0452415,Diet good,,,,
+540,,,,,,,,,C1281569,Entire colon
+540,,,,,,,,,C1281573,Entire bladder
+540,,,,,,,,,C0021853,Intestines
+540,,,,,,,,,C0028429,Nose
+542,C0007570,Celiac Disease,,,,,,,,
+542,,,,,,,,,C1269000,Entire appendix
+543,C0036916,Sexually Transmitted Diseases,,,,,,,,
+543,,,C0030193,Pain,,,,,,
+543,,,,,,,,,C0735427,Right hip bone
+544,C0858958,shock symptoms,,,,,,,,
+544,,,C0027497,Nausea,,,,,,
+544,,,C0026821,Muscle Cramp,,,,,,
+544,,,C0040822,Tremor,,,,,,
+544,,,C0849959,feeling dizzy,,,,,,
+544,,,C0013404,Dyspnea,,,,,,
+546,C0009450,Communicable Diseases,,,,,,,,
+546,,,C0027769,Nervousness,,,,,,
+546,,,C0234233,Sore to touch,,,,,,
+546,,,,,,,,,C0023759,Lip structure
+547,C0036916,Sexually Transmitted Diseases,,,,,,,,
+547,,,C0241164,Skin tenderness,,,,,,
+547,,,C0015672,Fatigue,,,,,,
+547,,,C0033774,Pruritus,,,,,,
+547,,,C0085624,Burning sensation,,,,,,
+547,,,C0030193,Pain,,,,,,
+547,,,C0234233,Sore to touch,,,,,,
+547,,,C0241057,Burning sensation of skin,,,,,,
+547,,,,,C0522772,Shaving - surgical procedure,,,,
+547,,,,,C0152277,Incision and drainage,,,,
+547,,,,,C3275067,Cardiac Lead Procedure,,,,
+547,,,,,,,,,C0042993,Vulva
+547,,,,,,,,,C0042232,Vagina
+547,,,,,,,,,C0230426,Structure of left thigh
+547,,,,,,,,,C0003461,Anus
+547,,,,,,,,,C1281586,Entire thigh
+547,,,,,,,,,C0221971,Hair follicle structure
+548,C0007868,Cervical dysplasia,,,,,,,,
+548,,,C0030193,Pain,,,,,,
+548,,,C0026821,Muscle Cramp,,,,,,
+549,C0036916,Sexually Transmitted Diseases,,,,,,,,
+550,C0036916,Sexually Transmitted Diseases,,,,,,,,
+550,,,C0234233,Sore to touch,,,,,,
+550,,,,,,,,,C0042232,Vagina
+551,C0036916,Sexually Transmitted Diseases,,,,,,,,
+551,,,,,,,,,C0227936,Body of penis
+551,,,,,,,,,C1280739,Entire penis
+552,C0036916,Sexually Transmitted Diseases,,,,,,,,
+552,,,,,,,,,C0227952,Foreskin of penis
+554,C0036916,Sexually Transmitted Diseases,,,,,,,,
+554,,,C0033774,Pruritus,,,,,,
+554,,,C0085624,Burning sensation,,,,,,
+554,,,C0234233,Sore to touch,,,,,,
+554,,,,,C0152054,Therapeutic tactile stimulation,,,,
+554,,,,,,,,,C1278911,Entire lip
+554,,,,,,,,,C0023759,Lip structure
+554,,,,,,,,,C0458582,Upper lip structure
+557,C0004135,Ataxia Telangiectasia,,,,,,,,
+557,,,C0020175,Hunger,,,,,,
+557,,,C1291077,Abdominal bloating,,,,,,
+557,,,,,,,,,C1278920,Entire stomach
+558,C0016167,Anal Fissure,,,,,,,,
+558,,,C0278007,Normal bowel habits,,,,,,
+558,,,C0344375,Stomach cramps (finding),,,,,,
+558,,,,,,,,,C0018787,Heart
+558,,,,,,,,,C0021853,Intestines
+563,C0022104,Irritable Bowel Syndrome,,,,,,,,
+563,,,C0221423,Illness (finding),,,,,,
+563,,,C2129214,Loose stool,,,,,,
+563,,,C0235309,Upset stomach,,,,,,
+563,,,C0027497,Nausea,,,,,,
+563,,,C0030193,Pain,,,,,,
+563,,,,,C0184958,Toilet procedure,,,,
+563,,,,,,,,,C0031354,Pharyngeal structure
+564,C0036916,Sexually Transmitted Diseases,,,,,,,,
+564,,,,,,,,,C0030851,penis
+565,C0036916,Sexually Transmitted Diseases,,,,,,,,
+565,,,C0235678,Vaginal odor,,,,,,
+565,,,C0033774,Pruritus,,,,,,
+565,,,C0039070,Syncope,,,,,,
+565,,,,,C0087111,Therapeutic procedure,,,,
+565,,,,,,,C0986074,Fluconazole 150 MG,,
+566,C0001144,Acne Vulgaris,,,,,,,,
+566,,,,,C0374711,Surgical repair,,,,
+566,,,,,C3272275,Urgent Procedure,,,,
+574,C0020443,Hypercholesterolemia,,,,,,,,
+575,C0036916,Sexually Transmitted Diseases,,,,,,,,
+577,C0036916,Sexually Transmitted Diseases,,,,,,,,
+577,,,C0238637,Anal pain,,,,,,
+577,,,C0455270,Sharp pain,,,,,,
+577,,,,,C0301571,Liquid diet,,,,
+577,,,,,,,,,C1278985,Entire vagina
+577,,,,,,,,,C0042232,Vagina
+577,,,,,,,,,C0003461,Anus
+577,,,,,,,,,C1278927,Entire anus
+578,C0009421,Comatose,,,,,,,,
+578,,,C0221423,Illness (finding),,,,,,
+578,,,C0231218,Malaise,,,,,,
+578,,,,,C0184958,Toilet procedure,,,,
+578,,,,,C1959633,Spatial guidance for medical procedure,,,,
+579,C0036916,Sexually Transmitted Diseases,,,,,,,,
+579,,,C0475858,Generalized pruritus,,,,,,
+580,C0008350,Cholelithiasis,,,,,,,,
+580,,,C0000737,Abdominal Pain,,,,,,
+580,,,C0232292,Chest tightness,,,,,,
+580,,,C0278144,Dull pain,,,,,,
+580,,,C0027497,Nausea,,,,,,
+580,,,,,C0152060,Transection (procedure),,,,
+580,,,,,,,,,C0222762,Thoracic cage structure
+580,,,,,,,,,C1281594,Entire abdomen
+581,C0003123,Anorexia,,,,,,,,
+581,,,C0857257,bloated feeling,,,,,,
+581,,,,,,,,,C0035561,Bone structure of rib
+581,,,,,,,,,C0038351,Stomach
+581,,,,,,,,,C0947181,Ribs.left
+583,C0750466,Yeast infection,,,,,,,,
+583,,,,,C0600080,Stretching exercises,,,,
+583,,,,,,,,,C0030797,Pelvis
+583,,,,,,,,,C0029939,Ovary
+584,C0036916,Sexually Transmitted Diseases,,,,,,,,
+584,,,,,,,,,C0013443,Ear structure
+584,,,,,,,,,C0003461,Anus
+584,,,,,,,,,C0018494,Hair
+584,,,,,,,,,C0028429,Nose
+586,C0036916,Sexually Transmitted Diseases,,,,,,,,
+586,,,,,C0014268,Administration of enema,,,,
+586,,,,,,,,,C1278985,Entire vagina
+586,,,,,,,,,C1278927,Entire anus
+587,C0041834,Erythema,,,,,,,,
+587,,,C0018681,Headache,,,,,,
+587,,,,,,,,,C0521421,Entire ear
+588,C0036916,Sexually Transmitted Diseases,,,,,,,,
+588,,,C0011991,Diarrhea,,,,,,
+590,C0036916,Sexually Transmitted Diseases,,,,,,,,
+590,,,,,,,,,C0042232,Vagina
+590,,,,,,,,,C1281584,Entire finger
+591,C0036916,Sexually Transmitted Diseases,,,,,,,,
+591,,,,,,,,,C0030851,penis
+594,C0262534,White Coat Hypertension,,,,,,,,
+594,,,C0039070,Syncope,,,,,,
+595,C0010068,Coronary heart disease,,,,,,,,
+595,,,C0036572,Seizures,,,,,,
+595,,,C0008031,Chest Pain,,,,,,
+595,,,C0241039,pain in (l) shoulder,,,,,,
+595,,,,,C0452240,Physical therapy exercises,,,,
+595,,,,,C0441513,Surgical construction,,,,
+595,,,,,C0452415,Diet good,,,,
+595,,,,,,,,,C0018787,Heart
+596,C0020538,Hypertensive disease,,,,,,,,
+596,,,,,C4053458,Dietary Approaches to Stop Hypertension diet,,,,
+596,,,,,,,,,C0423866,Lanugo
+597,C0003615,Appendicitis,,,,,,,,
+597,,,C0234238,Ache,,,,,,
+597,,,C0011991,Diarrhea,,,,,,
+597,,,C0009806,Constipation,,,,,,
+597,,,C0000737,Abdominal Pain,,,,,,
+597,,,C0030193,Pain,,,,,,
+597,,,C0234233,Sore to touch,,,,,,
+597,,,,,,,,,C1279605,Entire right lower leg
+597,,,,,,,,,C0038351,Stomach
+597,,,,,,,,,C1281594,Entire abdomen
+597,,,,,,,,,C0423866,Lanugo
+598,C0855227,purging,,,,,,,,
+598,,,C0278145,Stabbing pain,,,,,,
+598,,,C0042963,Vomiting,,,,,,
+598,,,C0030193,Pain,,,,,,
+598,,,C0392674,Exhaustion,,,,,,
+598,,,,,C0150141,Bathing,,,,
+598,,,,,,,,,C1278920,Entire stomach
+598,,,,,,,,,C0016504,Foot
+601,C0017160,Gastroenteritis,,,,,,,,
+603,C0036916,Sexually Transmitted Diseases,,,,,,,,
+603,,,,,C0452410,Balanced diet,,,,
+603,,,,,,,,,C0042027,Urinary tract
+603,,,,,,,,,C0015665,Fat Body
+608,C0030567,Parkinson Disease,,,,,,,,
+608,,,C0008031,Chest Pain,,,,,,
+608,,,C0231218,Malaise,,,,,,
+608,,,C0497406,Overweight,,,,,,
+608,,,C0795691,HEART PROBLEM,,,,,,
+608,,,C0030193,Pain,,,,,,
+608,,,C0013404,Dyspnea,,,,,,
+608,,,,,C1519433,Special Diet Therapy,,,,
+608,,,,,C1522704,Exercise Pain Management,,,,
+608,,,,,,,,,C0018787,Heart
+614,C0036916,Sexually Transmitted Diseases,,,,,,,,
+614,,,C1442877,Sore skin,,,,,,
+614,,,C0033774,Pruritus,,,,,,
+614,,,,,C0411659,Opening of skin,,,,
+614,,,,,,,,,C1278985,Entire vagina
+614,,,,,,,,,C0042232,Vagina
+615,C0010674,Cystic Fibrosis,,,,,,,,
+615,,,,,C1519433,Special Diet Therapy,,,,
+617,C0004238,Atrial Fibrillation,,,,,,,,
+617,,,,,C0184661,Interventional procedure,,,,
+617,,,,,C2350239,Ablation Techniques,,,,
+617,,,,,C0547070,Ablation,,,,
+618,C0036916,Sexually Transmitted Diseases,,,,,,,,
+618,,,C0030193,Pain,,,,,,
+618,,,,,C0150141,Bathing,,,,
+618,,,,,,,,,C0030851,penis
+618,,,,,,,,,C0003461,Anus
+618,,,,,,,,,C0018563,Hand
+618,,,,,,,,,C0034896,Rectum
+622,C0022104,Irritable Bowel Syndrome,,,,,,,,
+622,,,C0221512,Stomach ache,,,,,,
+622,,,C0011991,Diarrhea,,,,,,
+622,,,C0009806,Constipation,,,,,,
+622,,,C0581358,Gastric spasm (disorder),,,,,,
+622,,,C0150055,Chronic pain,,,,,,
+622,,,,,,,,,C1278920,Entire stomach
+623,C0022104,Irritable Bowel Syndrome,,,,,,,,
+623,,,C0497406,Overweight,,,,,,
+623,,,,,,,,,C0229653,Lymphoid aggregate
+624,C0007787,Transient Ischemic Attack,,,,,,,,
+624,,,C0042571,Vertigo,,,,,,
+624,,,C0012833,Dizziness,,,,,,
+624,,,,,,,,,C0226157,Structure of left internal carotid artery
+624,,,,,,,,,C0006104,Brain
+624,,,,,,,,,C0003842,Arteries
+630,C0018802,Congestive heart failure,,,,,,,,
+630,,,,,C0204558,Group reassurance,,,,
+633,C0012634,Disease,,,,,,,,
+633,,,C0018681,Headache,,,,,,
+633,,,,,C3687832,DRUGS,,,,
+633,,,,,C0301585,Fat diet,,,,
+633,,,,,C0001701,"Exercise, Aerobic",,,,
+633,,,,,C0301568,High residue diet,,,,
+633,,,,,C0452415,Diet good,,,,
+633,,,,,C1522704,Exercise Pain Management,,,,
+633,,,,,C0242970,Fat-Restricted Diet,,,,
+637,C0012634,Disease,,,,,,,,
+640,C0152020,Gastroparesis,,,,,,,,
+641,C0041582,Ulcer,,,,,,,,
+641,,,C0221423,Illness (finding),,,,,,
+641,,,,,C0079613,Adoptive Immunotherapy,,,,
+641,,,,,C0087111,Therapeutic procedure,,,,
+641,,,,,,,,,C0038351,Stomach
+644,C0022104,Irritable Bowel Syndrome,,,,,,,,
+644,,,C0030193,Pain,,,,,,
+646,C0027051,Myocardial Infarction,,,,,,,,
+646,,,C0036572,Seizures,,,,,,
+648,C0018802,Congestive heart failure,,,,,,,,
+650,C0004238,Atrial Fibrillation,,,,,,,,
+650,,,C0848168,out (of) breath,,,,,,
+650,,,,,C0021485,Injection of therapeutic agent,,,,
+650,,,,,C0278286,Dressing of skin or wound,,,,
+650,,,,,C0397414,Maze procedure for atrial fibrillation,,,,
+650,,,,,C0547070,Ablation,,,,
+650,,,,,,,,,C0018787,Heart
+656,C0036916,Sexually Transmitted Diseases,,,,,,,,
+656,,,,,,,,,C0030851,penis
+656,,,,,,,,,C0041967,Urethra
+657,C0036916,Sexually Transmitted Diseases,,,,,,,,
+657,,,C0033774,Pruritus,,,,,,
+657,,,C0030193,Pain,,,,,,
+657,,,,,,,,,C0227760,labium majus
+657,,,,,,,,,C0008984,Clitoris
+658,C0036916,Sexually Transmitted Diseases,,,,,,,,
+658,,,C2242996,Has tingling sensation,,,,,,
+658,,,,,,,,,C0018787,Heart
+665,C0010346,Crohn Disease,,,,,,,,
+665,,,,,C1519433,Special Diet Therapy,,,,
+666,C0014518,Toxic Epidermal Necrolysis,,,,,,,,
+666,,,C0011991,Diarrhea,,,,,,
+666,,,C0344375,Stomach cramps (finding),,,,,,
+666,,,,,C1306232,Severing,,,,
+667,C1535939,Pneumocystis jiroveci pneumonia,,,,,,,,
+671,C0020443,Hypercholesterolemia,,,,,,,,
+671,,,,,,,C1124795,Amlodipine 2.5 MG,,
+671,,,,,,,C0989916,Simvastatin 40 MG,,
+672,C0017152,Gastritis,,,,,,,,
+672,,,C0425449,Gasping for breath,,,,,,
+672,,,,,,,,,C0018787,Heart
+679,C1510475,Diverticulosis,,,,,,,,
+679,,,C0009806,Constipation,,,,,,
+679,,,C0596601,gastrointestinal gas,,,,,,
+679,,,C0232517,Gurgling,,,,,,
+679,,,C0497406,Overweight,,,,,,
+679,,,C1291077,Abdominal bloating,,,,,,
+679,,,,,,,,,C0021853,Intestines
+680,C0022104,Irritable Bowel Syndrome,,,,,,,,
+681,C0019112,Hemorrhoids,,,,,,,,
+681,,,C0011991,Diarrhea,,,,,,
+681,,,C0231218,Malaise,,,,,,
+681,,,,,C1519433,Special Diet Therapy,,,,
+685,C0036916,Sexually Transmitted Diseases,,,,,,,,
+685,,,C0033774,Pruritus,,,,,,
+685,,,,,C1511790,Detection,,,,
+685,,,,,,,,,C0230102,Lower back structure
+685,,,,,,,,,C0018563,Hand
+685,,,,,,,,,C1281591,Entire face
+685,,,,,,,,,C0016504,Foot
+685,,,,,,,,,C1281592,Entire neck
+686,C0036916,Sexually Transmitted Diseases,,,,,,,,
+686,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+686,,,,,,,,,C0042232,Vagina
+687,C0036916,Sexually Transmitted Diseases,,,,,,,,
+687,,,C0026821,Muscle Cramp,,,,,,
+687,,,,,,,,,C0030851,penis
+687,,,,,,,,,C0042232,Vagina
+692,C0027051,Myocardial Infarction,,,,,,,,
+692,,,,,C3687832,DRUGS,,,,
+693,C0042029,Urinary tract infection,,,,,,,,
+693,,,,,,,,,C0018787,Heart
+699,C0036916,Sexually Transmitted Diseases,,,,,,,,
+699,,,C0026821,Muscle Cramp,,,,,,
+699,,,,,,,,,C0926321,Hair of forearm
+699,,,,,,,,,C1281591,Entire face
+700,C0008350,Cholelithiasis,,,,,,,,
+700,,,C0231218,Malaise,,,,,,
+700,,,C0232492,Upper abdominal pain,,,,,,
+700,,,C0030193,Pain,,,,,,
+700,,,,,,,,,C0035561,Bone structure of rib
+704,C0041912,Upper Respiratory Infections,,,,,,,,
+704,,,C0027497,Nausea,,,,,,
+704,,,C0020175,Hunger,,,,,,
+706,C0036916,Sexually Transmitted Diseases,,,,,,,,
+706,,,C0497481,Pain in penis,,,,,,
+706,,,C0455270,Sharp pain,,,,,,
+706,,,,,,,,,C0222193,Skin of penis
+706,,,,,,,,,C1281591,Entire face
+706,,,,,,,,,C1280739,Entire penis
+709,C0009450,Communicable Diseases,,,,,,,,
+709,,,C0231218,Malaise,,,,,,
+709,,,C0030193,Pain,,,,,,
+709,,,C0235710,Chest discomfort,,,,,,
+709,,,,,C0034991,Rehabilitation therapy,,,,
+709,,,,,C0452415,Diet good,,,,
+709,,,,,C1522704,Exercise Pain Management,,,,
+709,,,,,,,,,C0018787,Heart
+709,,,,,,,,,C0003483,Aorta
+714,C0036916,Sexually Transmitted Diseases,,,,,,,,
+714,,,C0085624,Burning sensation,,,,,,
+715,C0036916,Sexually Transmitted Diseases,,,,,,,,
+715,,,C0030193,Pain,,,,,,
+715,,,C0234233,Sore to touch,,,,,,
+717,C0027051,Myocardial Infarction,,,,,,,,
+717,,,,,,,,,C0022646,Kidney
+718,C0019112,Hemorrhoids,,,,,,,,
+718,,,C0033774,Pruritus,,,,,,
+718,,,C0030193,Pain,,,,,,
+718,,,,,,,,,C0003461,Anus
+719,C0036916,Sexually Transmitted Diseases,,,,,,,,
+719,,,,,,,,,C0042232,Vagina
+719,,,,,,,,,C0007874,Cervix Uteri
+720,C0036916,Sexually Transmitted Diseases,,,,,,,,
+720,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+720,,,C0028084,Nightmares,,,,,,
+720,,,,,,,,,C1281590,Entire head
+720,,,,,,,,,C0030851,penis
+720,,,,,,,,,C0027342,Nail plate
+720,,,,,,,,,C1281584,Entire finger
+720,,,,,,,,,C0227952,Foreskin of penis
+722,C0036916,Sexually Transmitted Diseases,,,,,,,,
+724,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+726,C0018995,Hemochromatosis,,,,,,,,
+726,,,C0018834,Heartburn,,,,,,
+726,,,C0235239,Palpitations - fluttering,,,,,,
+726,,,C0221423,Illness (finding),,,,,,
+726,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+726,,,C0795691,HEART PROBLEM,,,,,,
+726,,,C0030193,Pain,,,,,,
+726,,,C0455270,Sharp pain,,,,,,
+726,,,C0013404,Dyspnea,,,,,,
+726,,,,,C0021485,Injection of therapeutic agent,,,,
+726,,,,,,,,,C0035561,Bone structure of rib
+726,,,,,,,,,C0018787,Heart
+726,,,,,,,,,C0178784,Organ
+726,,,,,,,,,C0947181,Ribs.left
+727,C0011849,Diabetes Mellitus,,,,,,,,
+727,,,C0518214,Perceived quality of life,,,,,,
+727,,,,,,,,,C0001625,Adrenal Glands
+727,,,,,,,,,C0736268,Liver parenchyma
+734,C0036916,Sexually Transmitted Diseases,,,,,,,,
+734,,,C0231218,Malaise,,,,,,
+734,,,C0030193,Pain,,,,,,
+734,,,,,,,,,C1281590,Entire head
+734,,,,,,,,,C0030851,penis
+734,,,,,,,,,C0017420,Genitalia
+734,,,,,,,,,C0227952,Foreskin of penis
+734,,,,,,,,,C0227951,Corona of glans
+735,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+735,,,C0497481,Pain in penis,,,,,,
+735,,,C0677500,Stinging Sensation,,,,,,
+735,,,C0030193,Pain,,,,,,
+735,,,,,C0152054,Therapeutic tactile stimulation,,,,
+735,,,,,,,,,C0030851,penis
+735,,,,,,,,,C1280541,Entire nerve
+735,,,,,,,,,C0227952,Foreskin of penis
+736,C0036916,Sexually Transmitted Diseases,,,,,,,,
+736,,,C1397014,Imbalance,,,,,,
+737,C0036916,Sexually Transmitted Diseases,,,,,,,,
+737,,,C1442877,Sore skin,,,,,,
+737,,,,,C0152054,Therapeutic tactile stimulation,,,,
+737,,,,,,,,,C0042232,Vagina
+737,,,,,,,,,C1281584,Entire finger
+737,,,,,,,,,C1184743,bony process
+737,,,,,,,,,C1281583,Entire hand
+738,C0036916,Sexually Transmitted Diseases,,,,,,,,
+738,,,C0426623,Excessive upper gastrointestinal gas,,,,,,
+738,,,,,,,,,C1278926,Entire rectum
+739,C0341012,Oral herpes simplex infection,,,,,,,,
+739,,,C0451633,Sore lip,,,,,,
+739,,,,,,,,,C0023759,Lip structure
+740,C0036916,Sexually Transmitted Diseases,,,,,,,,
+740,,,C0007939,Syphilitic chancre,,,,,,
+740,,,C0234233,Sore to touch,,,,,,
+740,,,,,,,,,C0227936,Body of penis
+740,,,,,,,,,C0010352,Avian crop
+740,,,,,,,,,C0042232,Vagina
+744,C0020676,Hypothyroidism,,,,,,,,
+744,,,C0011991,Diarrhea,,,,,,
+744,,,C0027497,Nausea,,,,,,
+744,,,C0020175,Hunger,,,,,,
+744,,,C1291077,Abdominal bloating,,,,,,
+744,,,,,C0079613,Adoptive Immunotherapy,,,,
+744,,,,,,,,,C0229966,Structure of right half of body
+745,C0018799,Heart Diseases,,,,,,,,
+745,,,,,C0087111,Therapeutic procedure,,,,
+746,C0027051,Myocardial Infarction,,,,,,,,
+749,C0017168,Gastroesophageal reflux disease,,,,,,,,
+749,,,C0037088,Signs and Symptoms,,,,,,
+749,,,C0596601,gastrointestinal gas,,,,,,
+749,,,C0027497,Nausea,,,,,,
+749,,,C0231218,Malaise,,,,,,
+749,,,C0020175,Hunger,,,,,,
+749,,,C0234230,"Pain, Burning",,,,,,
+749,,,C0030193,Pain,,,,,,
+749,,,C1446787,Cramping sensation quality,,,,,,
+749,,,,,,,,,C1278920,Entire stomach
+749,,,,,,,,,C0038293,Sternum
+750,C0022104,Irritable Bowel Syndrome,,,,,,,,
+750,,,C0221423,Illness (finding),,,,,,
+750,,,C0857027,Feeling Sick,,,,,,
+750,,,C0027497,Nausea,,,,,,
+750,,,C0030193,Pain,,,,,,
+750,,,,,,,,,C1278920,Entire stomach
+750,,,,,,,,,C1281569,Entire colon
+754,C0040961,Tricuspid Valve Insufficiency,,,,,,,,
+754,,,,,C0949626,Second Look Surgery,,,,
+754,,,,,C0058928,ECHO protocol,,,,
+754,,,,,,,,,C0225836,Interatrial septum
+754,,,,,,,,,C0935616,Chamber (anatomical)
+754,,,,,,,,,C0018792,Heart Atrium
+754,,,,,,,,,C0225883,Right ventricular structure
+754,,,,,,,,,C1269024,Entire inferior vena cava
+754,,,,,,,,,C0225860,Left atrial structure
+755,C0036916,Sexually Transmitted Diseases,,,,,,,,
+755,,,C0015230,Exanthema,,,,,,
+755,,,C0392171,Influenza-like symptoms,,,,,,
+755,,,,,,,,,C0700374,Palate
+756,C0011849,Diabetes Mellitus,,,,,,,,
+756,,,C0032617,Polyuria,,,,,,
+757,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+757,,,C0677500,Stinging Sensation,,,,,,
+757,,,,,,,,,C0030851,penis
+757,,,,,,,,,C1280541,Entire nerve
+757,,,,,,,,,C0227952,Foreskin of penis
+758,C0018802,Congestive heart failure,,,,,,,,
+758,,,C0314719,Dryness of eye,,,,,,
+760,C0027051,Myocardial Infarction,,,,,,,,
+760,,,C0848168,out (of) breath,,,,,,
+760,,,C0030193,Pain,,,,,,
+760,,,,,,,,,C0018787,Heart
+765,C0022104,Irritable Bowel Syndrome,,,,,,,,
+765,,,C0558921,Rectal symptoms,,,,,,
+765,,,C0231218,Malaise,,,,,,
+765,,,C0034886,Rectal pain,,,,,,
+765,,,C0030193,Pain,,,,,,
+765,,,C0541887,discomfort rectal,,,,,,
+770,C0036916,Sexually Transmitted Diseases,,,,,,,,
+770,,,C0030193,Pain,,,,,,
+770,,,,,C0152060,Transection (procedure),,,,
+770,,,,,C0374711,Surgical repair,,,,
+770,,,,,C0008819,Male Circumcision,,,,
+770,,,,,C0152277,Incision and drainage,,,,
+770,,,,,C1519433,Special Diet Therapy,,,,
+770,,,,,,,,,C0227936,Body of penis
+770,,,,,,,,,C0009368,Colon structure (body structure)
+770,,,,,,,,,C0222045,Integumentary scale
+770,,,,,,,,,C1288948,Entire right hand
+770,,,,,,,,,C1281573,Entire bladder
+770,,,,,,,,,C1184743,bony process
+770,,,,,,,,,C1281583,Entire hand
+771,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+772,C0036916,Sexually Transmitted Diseases,,,,,,,,
+772,,,C0231218,Malaise,,,,,,
+772,,,C0030193,Pain,,,,,,
+772,,,C0234233,Sore to touch,,,,,,
+772,,,,,C0152054,Therapeutic tactile stimulation,,,,
+772,,,,,,,,,C0039597,Testis
+772,,,,,,,,,C0227997,Structure of right testis
+773,C0036916,Sexually Transmitted Diseases,,,,,,,,
+773,,,C0232861,Discharge from penis,,,,,,
+774,C0036916,Sexually Transmitted Diseases,,,,,,,,
+774,,,C0741548,bladder symptoms,,,,,,
+775,C0019348,Herpes Simplex Infections,,,,,,,,
+776,C0036916,Sexually Transmitted Diseases,,,,,,,,
+776,,,,,C0557061,Discussion (procedure),,,,
+776,,,,,C1959633,Spatial guidance for medical procedure,,,,
+776,,,,,,,C3239388,Truvada Pill,,
+781,C0018802,Congestive heart failure,,,,,,,,
+785,C0019112,Hemorrhoids,,,,,,,,
+785,,,C0033774,Pruritus,,,,,,
+785,,,C0030193,Pain,,,,,,
+785,,,,,,,,,C0003461,Anus
+795,C0020538,Hypertensive disease,,,,,,,,
+795,,,C0221423,Illness (finding),,,,,,
+795,,,C0557875,Tired,,,,,,
+796,C0036916,Sexually Transmitted Diseases,,,,,,,,
+796,,,,,,,,,C1280739,Entire penis
+797,C0023976,Long QT Syndrome,,,,,,,,
+797,,,,,C0204558,Group reassurance,,,,
+797,,,,,C0242970,Fat-Restricted Diet,,,,
+797,,,,,C3275067,Cardiac Lead Procedure,,,,
+797,,,,,,,,,C0015665,Fat Body
+799,C0027051,Myocardial Infarction,,,,,,,,
+799,,,C0018681,Headache,,,,,,
+799,,,,,C3687832,DRUGS,,,,
+799,,,,,C0087111,Therapeutic procedure,,,,
+800,C0020538,Hypertensive disease,,,,,,,,
+800,,,C0235710,Chest discomfort,,,,,,
+800,,,C1321587,Breathing abnormally deep,,,,,,
+814,C0022104,Irritable Bowel Syndrome,,,,,,,,
+814,,,C0042963,Vomiting,,,,,,
+814,,,C0030193,Pain,,,,,,
+815,C0022104,Irritable Bowel Syndrome,,,,,,,,
+817,C0020624,Hypomenorrhea,,,,,,,,
+817,,,,,C0700589,Contraceptive methods,,,,
+817,,,,,C0021485,Injection of therapeutic agent,,,,
+817,,,,,C1533685,Injection procedure,,,,
+822,C0018799,Heart Diseases,,,,,,,,
+822,,,,,C0301585,Fat diet,,,,
+822,,,,,C1519433,Special Diet Therapy,,,,
+823,C0027051,Myocardial Infarction,,,,,,,,
+823,,,C0795691,HEART PROBLEM,,,,,,
+823,,,,,,,,,C0018787,Heart
+824,C0018790,Cardiac Arrest,,,,,,,,
+824,,,C0036572,Seizures,,,,,,
+824,,,C0008031,Chest Pain,,,,,,
+824,,,C0027497,Nausea,,,,,,
+824,,,C0150055,Chronic pain,,,,,,
+824,,,C0030193,Pain,,,,,,
+824,,,,,C0192817,Operation on colon,,,,
+824,,,,,C0344106,Sedation procedure,,,,
+824,,,,,C0920424,cancer surgery,,,,
+824,,,,,C0728940,Excision,,,,
+824,,,,,C0007203,Cardiopulmonary Resuscitation,,,,
+824,,,,,C0206156,Rewarming,,,,
+824,,,,,C0521300,Life support procedure,,,,
+824,,,,,,,,,C0018787,Heart
+824,,,,,,,,,C1281569,Entire colon
+825,C0036916,Sexually Transmitted Diseases,,,,,,,,
+825,,,,,C0184661,Interventional procedure,,,,
+826,C0028754,Obesity,,,,,,,,
+827,C0036916,Sexually Transmitted Diseases,,,,,,,,
+827,,,C0015230,Exanthema,,,,,,
+827,,,C0033774,Pruritus,,,,,,
+827,,,C0030193,Pain,,,,,,
+827,,,,,,,,,C1305636,Entire hair of pubis
+827,,,,,,,,,C1280739,Entire penis
+828,C0036916,Sexually Transmitted Diseases,,,,,,,,
+829,C0036916,Sexually Transmitted Diseases,,,,,,,,
+829,,,C1579838,Sore mouth,,,,,,
+829,,,C0151908,Dry skin,,,,,,
+829,,,C0033774,Pruritus,,,,,,
+829,,,C0030193,Pain,,,,,,
+829,,,C0232861,Discharge from penis,,,,,,
+829,,,C0683369,Clouded consciousness,,,,,,
+829,,,,,C0013806,Electroconvulsive Therapy,,,,
+829,,,,,C0185026,Plication,,,,
+829,,,,,,,,,C0039597,Testis
+829,,,,,,,,,C0036471,Scrotum
+829,,,,,,,,,C0017420,Genitalia
+829,,,,,,,,,C1280740,Entire scrotum
+829,,,,,,,,,C1280739,Entire penis
+829,,,,,,,,,C0222198,Skin of scrotum
+831,C0036916,Sexually Transmitted Diseases,,,,,,,,
+832,C0039240,Supraventricular tachycardia,,,,,,,,
+832,,,C0008031,Chest Pain,,,,,,
+832,,,C0235240,Pounding heart,,,,,,
+832,,,C0232292,Chest tightness,,,,,,
+832,,,C0030193,Pain,,,,,,
+832,,,C0013404,Dyspnea,,,,,,
+832,,,,,C0162563,Cardiac ablation,,,,
+832,,,,,C1261381,Destructive procedure (surgical),,,,
+832,,,,,,,,,C0035561,Bone structure of rib
+832,,,,,,,,,C0018787,Heart
+833,C0036916,Sexually Transmitted Diseases,,,,,,,,
+842,C2676739,Chromosome 2q32-Q33 Deletion Syndrome,,,,,,,,
+842,,,,,C3687832,DRUGS,,,,
+843,C0036916,Sexually Transmitted Diseases,,,,,,,,
+844,C0010495,Cutis Laxa,,,,,,,,
+844,,,C0234238,Ache,,,,,,
+844,,,C1442877,Sore skin,,,,,,
+844,,,C0030193,Pain,,,,,,
+844,,,C0039591,Pain in testicle,,,,,,
+844,,,,,,,,,C0227998,Structure of left testis
+844,,,,,,,,,C1280740,Entire scrotum
+845,C0036916,Sexually Transmitted Diseases,,,,,,,,
+845,,,C0234238,Ache,,,,,,
+845,,,C0030193,Pain,,,,,,
+845,,,C0039591,Pain in testicle,,,,,,
+845,,,,,,,,,C0036471,Scrotum
+845,,,,,,,,,C0227998,Structure of left testis
+846,C0036916,Sexually Transmitted Diseases,,,,,,,,
+846,,,C0549299,uti symptoms,,,,,,
+846,,,C0085624,Burning sensation,,,,,,
+846,,,C0234233,Sore to touch,,,,,,
+846,,,,,,,,,C0003461,Anus
+847,C0036916,Sexually Transmitted Diseases,,,,,,,,
+847,,,C0030193,Pain,,,,,,
+847,,,,,C1292856,Stimulation procedure,,,,
+847,,,,,,,,,C0008984,Clitoris
+848,C0036916,Sexually Transmitted Diseases,,,,,,,,
+849,C0018802,Congestive heart failure,,,,,,,,
+849,,,,,C0087111,Therapeutic procedure,,,,
+850,C0036916,Sexually Transmitted Diseases,,,,,,,,
+852,C0017168,Gastroesophageal reflux disease,,,,,,,,
+852,,,C0037763,Spasm,,,,,,
+852,,,C0232431,Cold sweat,,,,,,
+852,,,C0030193,Pain,,,,,,
+852,,,C0024902,Mastodynia,,,,,,
+852,,,C0239377,Arm Pain,,,,,,
+852,,,,,C1522704,Exercise Pain Management,,,,
+852,,,,,,,,,C0018787,Heart
+852,,,,,,,,,C0014876,Esophagus
+854,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+854,,,,,C0185060,Crushing procedure,,,,
+856,C0026691,Mucocutaneous Lymph Node Syndrome,,,,,,,,
+858,C0018081,Gonorrhea,,,,,,,,
+858,,,,,C0242390,Home Remedies,,,,
+859,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+859,,,,,C0008819,Male Circumcision,,,,
+859,,,,,,,,,C0030851,penis
+860,C0036916,Sexually Transmitted Diseases,,,,,,,,
+861,C0036916,Sexually Transmitted Diseases,,,,,,,,
+861,,,C0018681,Headache,,,,,,
+861,,,,,C0008819,Male Circumcision,,,,
+861,,,,,,,,,C0030851,penis
+861,,,,,,,,,C0006104,Brain
+862,C0036916,Sexually Transmitted Diseases,,,,,,,,
+862,,,C0039591,Pain in testicle,,,,,,
+862,,,,,,,,,C1281590,Entire head
+862,,,,,,,,,C0030851,penis
+863,C0036916,Sexually Transmitted Diseases,,,,,,,,
+864,C0036916,Sexually Transmitted Diseases,,,,,,,,
+865,C0036916,Sexually Transmitted Diseases,,,,,,,,
+865,,,,,C0522772,Shaving - surgical procedure,,,,
+865,,,,,,,,,C1281590,Entire head
+866,C0036916,Sexually Transmitted Diseases,,,,,,,,
+866,,,,,,,,,C0036471,Scrotum
+866,,,,,,,,,C0227936,Body of penis
+867,C0036916,Sexually Transmitted Diseases,,,,,,,,
+867,,,C0850630,tingling in fingers,,,,,,
+867,,,C0242429,Sore Throat,,,,,,
+867,,,C0018681,Headache,,,,,,
+867,,,C0010200,Coughing,,,,,,
+867,,,,,C0522772,Shaving - surgical procedure,,,,
+867,,,,,,,,,C0040357,Toes
+867,,,,,,,,,C0042232,Vagina
+867,,,,,,,,,C0003461,Anus
+869,C0018799,Heart Diseases,,,,,,,,
+869,,,C0008031,Chest Pain,,,,,,
+869,,,C0010200,Coughing,,,,,,
+869,,,C0564820,Pain in left arm,,,,,,
+870,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+871,C0020538,Hypertensive disease,,,,,,,,
+871,,,,,,,,,C0730183,Joint structure of ankle and/or foot
+871,,,,,,,,,C0016504,Foot
+872,C0027051,Myocardial Infarction,,,,,,,,
+872,,,,,C1522704,Exercise Pain Management,,,,
+872,,,,,,,,,C0018787,Heart
+877,C0036916,Sexually Transmitted Diseases,,,,,,,,
+878,C0149745,Oral Ulcer,,,,,,,,
+878,,,C1442877,Sore skin,,,,,,
+879,C0036916,Sexually Transmitted Diseases,,,,,,,,
+879,,,,,C0700589,Contraceptive methods,,,,
+880,C0036916,Sexually Transmitted Diseases,,,,,,,,
+880,,,C0231218,Malaise,,,,,,
+880,,,,,,,,,C1550261,Glans
+880,,,,,,,,,C1280739,Entire penis
+881,C0036916,Sexually Transmitted Diseases,,,,,,,,
+881,,,C0278141,Excruciating pain,,,,,,
+881,,,C0030193,Pain,,,,,,
+881,,,,,C3814046,PAD Regimen,,,,
+881,,,,,C0184958,Toilet procedure,,,,
+882,C0036916,Sexually Transmitted Diseases,,,,,,,,
+882,,,,,C0152054,Therapeutic tactile stimulation,,,,
+882,,,,,C0278286,Dressing of skin or wound,,,,
+882,,,,,,,,,C0030851,penis
+882,,,,,,,,,C0042232,Vagina
+882,,,,,,,,,C0018563,Hand
+882,,,,,,,,,C0028109,Nipples
+883,C0019693,HIV Infections,,,,,,,,
+883,,,,,,,,,C0018563,Hand
+884,C0036916,Sexually Transmitted Diseases,,,,,,,,
+884,,,,,,,,,C1280388,Entire upper lip
+884,,,,,,,,,C1280739,Entire penis
+885,C0036916,Sexually Transmitted Diseases,,,,,,,,
+886,C0036916,Sexually Transmitted Diseases,,,,,,,,
+886,,,C1291077,Abdominal bloating,,,,,,
+886,,,C0747927,pregnancy signs,,,,,,
+886,,,,,C0700589,Contraceptive methods,,,,
+888,C0004135,Ataxia Telangiectasia,,,,,,,,
+888,,,C0027497,Nausea,,,,,,
+888,,,C0010200,Coughing,,,,,,
+893,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+893,,,C2129214,Loose stool,,,,,,
+894,C0028754,Obesity,,,,,,,,
+894,,,C0748706,side pain,,,,,,
+894,,,C0030193,Pain,,,,,,
+894,,,,,C0332293,Treated with,,,,
+894,,,,,C1522704,Exercise Pain Management,,,,
+894,,,,,,,,,C1281590,Entire head
+894,,,,,,,,,C0229090,Left eye structure
+894,,,,,,,,,C1281592,Entire neck
+896,C0036916,Sexually Transmitted Diseases,,,,,,,,
+896,,,,,C0021485,Injection of therapeutic agent,,,,
+898,C0036916,Sexually Transmitted Diseases,,,,,,,,
+898,,,C0234229,Deep pain,,,,,,
+898,,,C0278144,Dull pain,,,,,,
+898,,,C0013428,Dysuria,,,,,,
+898,,,C0030193,Pain,,,,,,
+898,,,C0278107,Painful ejaculation,,,,,,
+898,,,,,,,,,C1550261,Glans
+898,,,,,,,,,C1281574,Entire urethra
+898,,,,,,,,,C1280739,Entire penis
+899,C0036916,Sexually Transmitted Diseases,,,,,,,,
+899,,,C0030193,Pain,,,,,,
+899,,,C0026821,Muscle Cramp,,,,,,
+899,,,,,C0700589,Contraceptive methods,,,,
+899,,,,,C3275067,Cardiac Lead Procedure,,,,
+900,C0036916,Sexually Transmitted Diseases,,,,,,,,
+900,,,,,C0695365,steam room,,,,
+901,C0036916,Sexually Transmitted Diseases,,,,,,,,
+901,,,,,C0079613,Adoptive Immunotherapy,,,,
+901,,,,,,,,,C0222041,Shell - Animal skin appendage
+902,C0019340,herpes,,,,,,,,
+902,,,C0033774,Pruritus,,,,,,
+903,C0018081,Gonorrhea,,,,,,,,
+903,,,C0423736,Scalding pain on urination,,,,,,
+903,,,C0030193,Pain,,,,,,
+903,,,C0232861,Discharge from penis,,,,,,
+903,,,,,,,,,C1184743,bony process
+903,,,,,,,,,C1280739,Entire penis
+904,C0036916,Sexually Transmitted Diseases,,,,,,,,
+905,C0036916,Sexually Transmitted Diseases,,,,,,,,
+905,,,C0240805,Prodrome,,,,,,
+905,,,C2242996,Has tingling sensation,,,,,,
+905,,,C0234233,Sore to touch,,,,,,
+905,,,,,C0152054,Therapeutic tactile stimulation,,,,
+905,,,,,,,,,C0018563,Hand
+905,,,,,,,,,C0023759,Lip structure
+906,C0019340,herpes,,,,,,,,
+906,,,C0033774,Pruritus,,,,,,
+906,,,,,,,,,C1279153,Entire cheek
+907,C0027051,Myocardial Infarction,,,,,,,,
+907,,,,,C3814046,PAD Regimen,,,,
+907,,,,,,,,,C0018787,Heart
+909,C0018889,Helminthiasis,,,,,,,,
+911,C0017160,Gastroenteritis,,,,,,,,
+911,,,C0011991,Diarrhea,,,,,,
+914,C0004135,Ataxia Telangiectasia,,,,,,,,
+914,,,C0027497,Nausea,,,,,,
+914,,,,,,,,,C1281594,Entire abdomen
+915,C0036916,Sexually Transmitted Diseases,,,,,,,,
+915,,,C0033774,Pruritus,,,,,,
+915,,,,,C0087111,Therapeutic procedure,,,,
+916,C0036916,Sexually Transmitted Diseases,,,,,,,,
+916,,,,,C0522772,Shaving - surgical procedure,,,,
+916,,,,,,,,,C0227759,Labium
+917,C0036916,Sexually Transmitted Diseases,,,,,,,,
+917,,,C0312414,Menstrual spotting,,,,,,
+918,C0036916,Sexually Transmitted Diseases,,,,,,,,
+919,C0036916,Sexually Transmitted Diseases,,,,,,,,
+919,,,C0859371,Burning lips (sensation),,,,,,
+919,,,C0015230,Exanthema,,,,,,
+919,,,C0392171,Influenza-like symptoms,,,,,,
+919,,,C0242429,Sore Throat,,,,,,
+919,,,C0033774,Pruritus,,,,,,
+919,,,C0085624,Burning sensation,,,,,,
+919,,,C2242996,Has tingling sensation,,,,,,
+919,,,C0234233,Sore to touch,,,,,,
+919,,,,,C0152054,Therapeutic tactile stimulation,,,,
+919,,,,,,,,,C0545924,penis and vagina
+919,,,,,,,,,C0034014,Bone structure of pubis
+919,,,,,,,,,C0017562,Gingiva
+919,,,,,,,,,C0018563,Hand
+919,,,,,,,,,C0003461,Anus
+919,,,,,,,,,C0031354,Pharyngeal structure
+919,,,,,,,,,C1305636,Entire hair of pubis
+920,C0014534,Epididymitis,,,,,,,,
+920,,,C0239783,Inguinal pain,,,,,,
+920,,,C0030193,Pain,,,,,,
+920,,,,,C0021485,Injection of therapeutic agent,,,,
+920,,,,,,,,,C0039597,Testis
+920,,,,,,,,,C0036471,Scrotum
+921,C0036916,Sexually Transmitted Diseases,,,,,,,,
+921,,,C0085624,Burning sensation,,,,,,
+921,,,C0033774,Pruritus,,,,,,
+921,,,,,C0204774,Soaking Procedure,,,,
+922,C0036916,Sexually Transmitted Diseases,,,,,,,,
+922,,,C0677500,Stinging Sensation,,,,,,
+922,,,,,,,,,C0015392,Eye
+923,C0036916,Sexually Transmitted Diseases,,,,,,,,
+923,,,C0451633,Sore lip,,,,,,
+923,,,C0033774,Pruritus,,,,,,
+923,,,C0030193,Pain,,,,,,
+923,,,C0234233,Sore to touch,,,,,,
+923,,,,,,,,,C1278985,Entire vagina
+923,,,,,,,,,C0030851,penis
+924,C0042029,Urinary tract infection,,,,,,,,
+924,,,C0221423,Illness (finding),,,,,,
+925,C0021831,Intestinal Diseases,,,,,,,,
+925,,,,,C0087111,Therapeutic procedure,,,,
+925,,,,,,,,,C0021853,Intestines
+929,C0017168,Gastroesophageal reflux disease,,,,,,,,
+929,,,C0221512,Stomach ache,,,,,,
+929,,,C0027497,Nausea,,,,,,
+929,,,C0039070,Syncope,,,,,,
+929,,,C0030193,Pain,,,,,,
+929,,,C0232495,Lower abdominal pain,,,,,,
+929,,,C0234255,Night pain,,,,,,
+931,C0036916,Sexually Transmitted Diseases,,,,,,,,
+932,C0019340,herpes,,,,,,,,
+933,C0019340,herpes,,,,,,,,
+934,C0036916,Sexually Transmitted Diseases,,,,,,,,
+935,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+935,,,,,,,,,C1281590,Entire head
+936,C0036916,Sexually Transmitted Diseases,,,,,,,,
+936,,,,,C1963578,Release (procedure),,,,
+937,C0036916,Sexually Transmitted Diseases,,,,,,,,
+937,,,C0015230,Exanthema,,,,,,
+937,,,C0033774,Pruritus,,,,,,
+937,,,C0242429,Sore Throat,,,,,,
+937,,,C0018681,Headache,,,,,,
+937,,,,,,,,,C0227936,Body of penis
+937,,,,,,,,,C0746922,Anatomic Node
+938,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+939,C0007787,Transient Ischemic Attack,,,,,,,,
+939,,,C0015230,Exanthema,,,,,,
+939,,,C0030193,Pain,,,,,,
+939,,,,,C0152054,Therapeutic tactile stimulation,,,,
+939,,,,,,,,,C0226926,External Lip
+940,C0039240,Supraventricular tachycardia,,,,,,,,
+940,,,C0012833,Dizziness,,,,,,
+940,,,,,,,,,C0018787,Heart
+943,C0036916,Sexually Transmitted Diseases,,,,,,,,
+943,,,,,C0087111,Therapeutic procedure,,,,
+944,C0002940,Aneurysm,,,,,,,,
+944,,,C1291077,Abdominal bloating,,,,,,
+944,,,C3714552,Weakness,,,,,,
+944,,,,,,,,,C0018827,Heart Ventricle
+944,,,,,,,,,C0003842,Arteries
+944,,,,,,,,,C1281591,Entire face
+944,,,,,,,,,C0043539,Zygomatic bone
+944,,,,,,,,,C0024109,Lung
+944,,,,,,,,,C0042449,Veins
+944,,,,,,,,,C1278908,Entire lung
+944,,,,,,,,,C1281570,Entire heart
+945,C0014518,Toxic Epidermal Necrolysis,,,,,,,,
+945,,,C0007859,Neck Pain,,,,,,
+945,,,C0423729,Chest pain on breathing,,,,,,
+945,,,C0018681,Headache,,,,,,
+945,,,C1579931,Depressed - symptom,,,,,,
+945,,,C0030193,Pain,,,,,,
+945,,,C0438716,Chest pressure,,,,,,
+945,,,C0013404,Dyspnea,,,,,,
+945,,,,,C0024875,Massage,,,,
+945,,,,,C0058928,ECHO protocol,,,,
+945,,,,,C0679614,cold turkey,,,,
+945,,,,,,,,,C0018787,Heart
+945,,,,,,,,,C0230347,Left upper arm structure
+945,,,,,,,,,C0015392,Eye
+945,,,,,,,,,C1184743,bony process
+945,,,,,,,,,C0006104,Brain
+948,C0345996,Milium Cyst,,,,,,,,
+948,,,C0849852,skin bump,,,,,,
+948,,,C0027498,Nausea and vomiting,,,,,,
+948,,,C0030193,Pain,,,,,,
+948,,,,,C0184958,Toilet procedure,,,,
+950,C0010674,Cystic Fibrosis,,,,,,,,
+950,,,C0518214,Perceived quality of life,,,,,,
+950,,,C0015672,Fatigue,,,,,,
+950,,,,,C0439631,Primary operation,,,,
+950,,,,,C0279755,cytarabine/melphalan,,,,
+950,,,,,,,,,C0042027,Urinary tract
+950,,,,,,,,,C1280541,Entire nerve
+950,,,,,,,,,C1409894,Sphincter
+954,C0043154,Dental White Spot,,,,,,,,
+954,,,C0033774,Pruritus,,,,,,
+954,,,C0030193,Pain,,,,,,
+954,,,,,,,,,C1281590,Entire head
+954,,,,,,,,,C0227936,Body of penis
+955,C0036916,Sexually Transmitted Diseases,,,,,,,,
+956,C0730321,Punctate inner choroidopathy,,,,,,,,
+956,,,C0231218,Malaise,,,,,,
+956,,,C0030193,Pain,,,,,,
+956,,,,,,,,,C1278927,Entire anus
+957,C0036916,Sexually Transmitted Diseases,,,,,,,,
+957,,,C0231218,Malaise,,,,,,
+957,,,C0030193,Pain,,,,,,
+957,,,,,C0152054,Therapeutic tactile stimulation,,,,
+957,,,,,,,,,C0018563,Hand
+957,,,,,,,,,C0227952,Foreskin of penis
+957,,,,,,,,,C1280739,Entire penis
+958,C0036916,Sexually Transmitted Diseases,,,,,,,,
+958,,,C0085624,Burning sensation,,,,,,
+958,,,C0033774,Pruritus,,,,,,
+958,,,C2242996,Has tingling sensation,,,,,,
+958,,,C0030193,Pain,,,,,,
+958,,,,,C0074125,bleomycin/doxorubicin/lomustine/streptozocin protocol,,,,
+958,,,,,,,,,C1278911,Entire lip
+959,C0036916,Sexually Transmitted Diseases,,,,,,,,
+959,,,,,,,,,C0227952,Foreskin of penis
+960,C0036916,Sexually Transmitted Diseases,,,,,,,,
+960,,,,,C0152054,Therapeutic tactile stimulation,,,,
+960,,,,,,,,,C1278985,Entire vagina
+960,,,,,,,,,C0041967,Urethra
+960,,,,,,,,,C0023759,Lip structure
+960,,,,,,,,,C1280739,Entire penis
+961,C0036916,Sexually Transmitted Diseases,,,,,,,,
+961,,,C0232602,Retching,,,,,,
+961,,,C0026821,Muscle Cramp,,,,,,
+961,,,,,,,,,C1280739,Entire penis
+962,C0016167,Anal Fissure,,,,,,,,
+962,,,C0011991,Diarrhea,,,,,,
+962,,,,,C0242390,Home Remedies,,,,
+962,,,,,,,,,C1278927,Entire anus
+963,C0003864,Arthritis,,,,,,,,
+963,,,,,,,,,C0030851,penis
+965,C0018799,Heart Diseases,,,,,,,,
+965,,,C0027497,Nausea,,,,,,
+965,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+965,,,C0238995,sharp chest pain,,,,,,
+965,,,,,C1522704,Exercise Pain Management,,,,
+969,C0036916,Sexually Transmitted Diseases,,,,,,,,
+969,,,C0007939,Syphilitic chancre,,,,,,
+969,,,C0015230,Exanthema,,,,,,
+969,,,C0234233,Sore to touch,,,,,,
+969,,,,,C1511790,Detection,,,,
+969,,,,,,,,,C0030851,penis
+969,,,,,,,,,C0016504,Foot
+970,C0004238,Atrial Fibrillation,,,,,,,,
+970,,,C0036572,Seizures,,,,,,
+970,,,,,C1522704,Exercise Pain Management,,,,
+971,C0042029,Urinary tract infection,,,,,,,,
+971,,,C0312414,Menstrual spotting,,,,,,
+971,,,,,C3272275,Urgent Procedure,,,,
+971,,,,,C0087111,Therapeutic procedure,,,,
+972,C0027051,Myocardial Infarction,,,,,,,,
+972,,,C0008031,Chest Pain,,,,,,
+972,,,C0042963,Vomiting,,,,,,
+972,,,C0027497,Nausea,,,,,,
+972,,,C0012833,Dizziness,,,,,,
+972,,,C1321587,Breathing abnormally deep,,,,,,
+972,,,,,,,,,C0018787,Heart
+973,C0019348,Herpes Simplex Infections,,,,,,,,
+973,,,,,,,,,C0017420,Genitalia
+974,C0036916,Sexually Transmitted Diseases,,,,,,,,
+974,,,C0030193,Pain,,,,,,
+974,,,C0232495,Lower abdominal pain,,,,,,
+975,C0036916,Sexually Transmitted Diseases,,,,,,,,
+975,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+975,,,C0232861,Discharge from penis,,,,,,
+975,,,,,C0087111,Therapeutic procedure,,,,
+975,,,,,,,C1126024,Metronidazole 750 MG,,
+976,C0036916,Sexually Transmitted Diseases,,,,,,,,
+977,C0036916,Sexually Transmitted Diseases,,,,,,,,
+977,,,C0030193,Pain,,,,,,
+977,,,,,,,,,C0030851,penis
+978,C0036916,Sexually Transmitted Diseases,,,,,,,,
+979,C0036916,Sexually Transmitted Diseases,,,,,,,,
+979,,,,,C0079613,Adoptive Immunotherapy,,,,
+979,,,,,,,,,C0030851,penis
+979,,,,,,,,,C0042232,Vagina
+979,,,,,,,,,C0028109,Nipples
+979,,,,,,,,,C1281591,Entire face
+979,,,,,,,,,C0042449,Veins
+987,C0036916,Sexually Transmitted Diseases,,,,,,,,
+987,,,C2126231,light bleeding between periods (symptom),,,,,,
+987,,,C0312414,Menstrual spotting,,,,,,
+987,,,,,,,,,C0042149,Uterus
+988,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+989,C0036916,Sexually Transmitted Diseases,,,,,,,,
+989,,,,,,,,,C0042232,Vagina
+990,C0036916,Sexually Transmitted Diseases,,,,,,,,
+990,,,C0016382,Flushing,,,,,,
+990,,,,,C3687832,DRUGS,,,,
+991,C0036916,Sexually Transmitted Diseases,,,,,,,,
+991,,,C1442877,Sore skin,,,,,,
+991,,,,,,,,,C1285092,Gland
+991,,,,,,,,,C0227766,labium minus
+992,C3542022,"SHORT STATURE, ONYCHODYSPLASIA, FACIAL DYSMORPHISM, AND HYPOTRICHOSIS SYNDROME",,,,,,,,
+992,,,C0009806,Constipation,,,,,,
+993,C0036916,Sexually Transmitted Diseases,,,,,,,,
+993,,,,,,,,,C0018563,Hand
+994,C0036916,Sexually Transmitted Diseases,,,,,,,,
