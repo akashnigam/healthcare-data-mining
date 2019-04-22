@@ -1,0 +1,3613 @@
+PostNumber,DiseaseId,DiseaseName,SymptomId,SymptomName,TreatmentId,TreatmentName,DrugId,DrugName,BodypartId,BodypartName
+1,C0043352,Xerostomia,,,,,,,,
+1,,,C0557875,Tired,,,,,,
+1,,,C0020175,Hunger,,,,,,
+1,,,C0232471,Thirsty,,,,,,
+2,C0085119,Foot Ulcer,,,,,,,,
+2,,,,,C0152060,Transection (procedure),,,,
+2,,,,,,,,,C0016504,Foot
+3,C0011847,Diabetes,,,,,,,,
+3,,,C0024031,Low Back Pain,,,,,,
+3,,,C0848724,circulation problem,,,,,,
+4,C0011847,Diabetes,,,,,,,,
+4,,,,,C0920418,cancer radiation therapy,,,,
+4,,,,,,,,,C0030274,Pancreas
+5,C0011847,Diabetes,,,,,,,,
+6,C0003864,Arthritis,,,,,,,,
+6,,,,,C0392806,Hip Replacement Arthroplasty (procedure),,,,
+7,C0149725,Lower respiratory tract infection,,,,,,,,
+7,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+7,,,C0010200,Coughing,,,,,,
+7,,,C1321587,Breathing abnormally deep,,,,,,
+7,,,C0085593,Chills,,,,,,
+7,,,,,C0087111,Therapeutic procedure,,,,
+7,,,,,,,,,C0031354,Pharyngeal structure
+8,C0036916,Sexually Transmitted Diseases,,,,,,,,
+8,,,C0406671,Burning scrotum,,,,,,
+8,,,C1442877,Sore skin,,,,,,
+8,,,C0015230,Exanthema,,,,,,
+8,,,C0549386,Sensation of warmth,,,,,,
+8,,,C0848720,prostate problem,,,,,,
+8,,,C0231218,Malaise,,,,,,
+8,,,C0085624,Burning sensation,,,,,,
+8,,,C0033774,Pruritus,,,,,,
+8,,,,,C0152054,Therapeutic tactile stimulation,,,,
+8,,,,,C0184958,Toilet procedure,,,,
+8,,,,,,,,,C1281590,Entire head
+8,,,,,,,,,C1266878,Cutaneous gland
+8,,,,,,,,,C0042232,Vagina
+8,,,,,,,,,C0003461,Anus
+8,,,,,,,,,C0040408,Tongue
+8,,,,,,,,,C1550261,Glans
+8,,,,,,,,,C1280740,Entire scrotum
+8,,,,,,,,,C0227952,Foreskin of penis
+8,,,,,,,,,C0005847,Blood Vessel
+8,,,,,,,,,C1280739,Entire penis
+9,C0004096,Asthma,,,,,,,,
+9,,,C0010200,Coughing,,,,,,
+10,C0004096,Asthma,,,,,,,,
+10,,,,,C2064693,Humid air,,,,
+10,,,,,C0949884,Sweat Lodge,,,,
+10,,,,,,,,,C1280698,Entire throat (surface region of neck)
+11,C0004096,Asthma,,,,,,,,
+11,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+11,,,C0010200,Coughing,,,,,,
+12,C0004096,Asthma,,,,,,,,
+12,,,,,,,,,C1281590,Entire head
+13,C0004096,Asthma,,,,,,,,
+13,,,C0010200,Coughing,,,,,,
+14,C0029456,Osteoporosis,,,,,,,,
+15,C0004096,Asthma,,,,,,,,
+15,,,C0027424,Nasal congestion (finding),,,,,,
+15,,,C0232292,Chest tightness,,,,,,
+15,,,C0043144,Wheezing,,,,,,
+15,,,C0010200,Coughing,,,,,,
+15,,,C0683369,Clouded consciousness,,,,,,
+15,,,C0013404,Dyspnea,,,,,,
+15,,,,,C0087111,Therapeutic procedure,,,,
+15,,,,,,,,,C0018787,Heart
+16,C0029456,Osteoporosis,,,,,,,,
+16,,,,,C1522704,Exercise Pain Management,,,,
+16,,,,,C3275067,Cardiac Lead Procedure,,,,
+16,,,,,,,,,C0037949,Vertebral column
+17,C0024138,"Lupus Erythematosus, Discoid",,,,,,,,
+17,,,C0030193,Pain,,,,,,
+17,,,,,,,,,C1305417,Entire elbow region
+17,,,,,,,,,C0022742,Knee
+18,C0024138,"Lupus Erythematosus, Discoid",,,,,,,,
+18,,,,,,,C2912166,Hydroxychloroquine Sulfate 200 MG,,
+19,C0497169,hiv-infection/aids,,,,,,,,
+20,C0024138,"Lupus Erythematosus, Discoid",,,,,,,,
+20,,,C0003862,Arthralgia,,,,,,
+20,,,C0234238,Ache,,,,,,
+20,,,C0231528,Myalgia,,,,,,
+20,,,,,,,,,C0018563,Hand
+20,,,,,,,,,C1995013,Set of muscles
+21,C0497169,hiv-infection/aids,,,,,,,,
+21,,,C0015230,Exanthema,,,,,,
+21,,,,,C0152054,Therapeutic tactile stimulation,,,,
+21,,,,,,,,,C0018563,Hand
+22,C0024138,"Lupus Erythematosus, Discoid",,,,,,,,
+22,,,C0030193,Pain,,,,,,
+22,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+22,,,,,,,,,C1278911,Entire lip
+22,,,,,,,,,C0023759,Lip structure
+23,C0497169,hiv-infection/aids,,,,,,,,
+24,C0011847,Diabetes,,,,,,,,
+25,C0011847,Diabetes,,,,,,,,
+26,C0011847,Diabetes,,,,,,,,
+27,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+28,C0011847,Diabetes,,,,,,,,
+29,C0011847,Diabetes,,,,,,,,
+30,C0011847,Diabetes,,,,,,,,
+30,,,C0557875,Tired,,,,,,
+30,,,,,,,,,C0222017,Abdominal skin pouch
+31,C0011847,Diabetes,,,,,,,,
+32,C0004096,Asthma,,,,,,,,
+32,,,,,,,,,C1281590,Entire head
+33,C0004096,Asthma,,,,,,,,
+33,,,C1659989,Respiratory problems,,,,,,
+33,,,,,C0374711,Surgical repair,,,,
+34,C0004096,Asthma,,,,,,,,
+35,C0004096,Asthma,,,,,,,,
+35,,,C0302539,spells (neurological symptom),,,,,,
+35,,,,,C0087111,Therapeutic procedure,,,,
+35,,,,,,,,,C0015392,Eye
+36,C0004096,Asthma,,,,,,,,
+36,,,C0013404,Dyspnea,,,,,,
+37,C0004096,Asthma,,,,,,,,
+37,,,C0425449,Gasping for breath,,,,,,
+37,,,C0037384,Snoring,,,,,,
+37,,,,,C0199451,Continuous Positive Airway Pressure,,,,
+38,C0004096,Asthma,,,,,,,,
+38,,,C0033774,Pruritus,,,,,,
+38,,,C0043144,Wheezing,,,,,,
+38,,,C0016382,Flushing,,,,,,
+38,,,C0010200,Coughing,,,,,,
+38,,,C0683369,Clouded consciousness,,,,,,
+38,,,,,C1522704,Exercise Pain Management,,,,
+39,C0041912,Upper Respiratory Infections,,,,,,,,
+39,,,C0085593,Chills,,,,,,
+40,C0011847,Diabetes,,,,,,,,
+40,,,,,C1519433,Special Diet Therapy,,,,
+40,,,,,,,,,C0040426,Tooth structure
+41,C0011847,Diabetes,,,,,,,,
+42,C0011847,Diabetes,,,,,,,,
+43,C0004096,Asthma,,,,,,,,
+43,,,,,C0021485,Injection of therapeutic agent,,,,
+44,C0011847,Diabetes,,,,,,,,
+45,C0011847,Diabetes,,,,,,,,
+46,C0442874,Neuropathy,,,,,,,,
+46,,,C0278146,Shooting pain,,,,,,
+46,,,C0028643,Numbness,,,,,,
+46,,,C2242996,Has tingling sensation,,,,,,
+46,,,C0030193,Pain,,,,,,
+46,,,C0455270,Sharp pain,,,,,,
+46,,,,,C0949766,Physical therapy,,,,
+47,C0011847,Diabetes,,,,,,,,
+47,,,C0152165,Persistent vomiting,,,,,,
+47,,,,,C1519433,Special Diet Therapy,,,,
+48,C0018621,Hay fever,,,,,,,,
+48,,,C0010200,Coughing,,,,,,
+49,C0011847,Diabetes,,,,,,,,
+50,C0004096,Asthma,,,,,,,,
+51,C0004096,Asthma,,,,,,,,
+51,,,,,C0087111,Therapeutic procedure,,,,
+52,C0004096,Asthma,,,,,,,,
+52,,,C1321587,Breathing abnormally deep,,,,,,
+53,C0004096,Asthma,,,,,,,,
+54,C0004096,Asthma,,,,,,,,
+54,,,C0557875,Tired,,,,,,
+54,,,C0000737,Abdominal Pain,,,,,,
+54,,,C0012833,Dizziness,,,,,,
+54,,,C0030193,Pain,,,,,,
+54,,,,,C1522704,Exercise Pain Management,,,,
+54,,,,,C0087111,Therapeutic procedure,,,,
+54,,,,,,,C0992488,lamotrigine 150 MG,,
+54,,,,,,,C1145938,quetiapine 200 MG,,
+54,,,,,,,,,C0040578,Trachea
+54,,,,,,,,,C1995013,Set of muscles
+54,,,,,,,,,C0006104,Brain
+55,C0004096,Asthma,,,,,,,,
+55,,,C0010200,Coughing,,,,,,
+55,,,C1579931,Depressed - symptom,,,,,,
+55,,,C0013404,Dyspnea,,,,,,
+55,,,C0423636,Cardiac pain,,,,,,
+55,,,,,,,,,C0018787,Heart
+56,C0004096,Asthma,,,,,,,,
+56,,,C0043144,Wheezing,,,,,,
+56,,,C0010200,Coughing,,,,,,
+57,C0004096,Asthma,,,,,,,,
+58,C0004096,Asthma,,,,,,,,
+58,,,C0013404,Dyspnea,,,,,,
+58,,,,,,,,,C0018787,Heart
+58,,,,,,,,,C0024109,Lung
+59,C0011854,"Diabetes Mellitus, Insulin-Dependent",,,,,,,,
+60,C0011847,Diabetes,,,,,,,,
+61,C0004096,Asthma,,,,,,,,
+61,,,C0018681,Headache,,,,,,
+61,,,C0030193,Pain,,,,,,
+61,,,,,,,,,C0018787,Heart
+61,,,,,,,,,C0521421,Entire ear
+62,C0011847,Diabetes,,,,,,,,
+63,C0011847,Diabetes,,,,,,,,
+63,,,C0040822,Tremor,,,,,,
+63,,,,,C0035139,Surgical Replantation,,,,
+64,C0011847,Diabetes,,,,,,,,
+65,C0011847,Diabetes,,,,,,,,
+66,C0011847,Diabetes,,,,,,,,
+67,C0011847,Diabetes,,,,,,,,
+68,C0011847,Diabetes,,,,,,,,
+68,,,,,C0021485,Injection of therapeutic agent,,,,
+69,C0011847,Diabetes,,,,,,,,
+69,,,,,C0022671,Kidney Transplantation,,,,
+69,,,,,C1519433,Special Diet Therapy,,,,
+69,,,,,C1522704,Exercise Pain Management,,,,
+70,C0011847,Diabetes,,,,,,,,
+70,,,,,C0332293,Treated with,,,,
+70,,,,,C0185003,Reparative closure,,,,
+70,,,,,,,,,C0018787,Heart
+70,,,,,,,,,C0699819,Gut
+71,C0011847,Diabetes,,,,,,,,
+71,,,,,C1519433,Special Diet Therapy,,,,
+72,C0011847,Diabetes,,,,,,,,
+72,,,C0231772,Burning feet,,,,,,
+73,C0011847,Diabetes,,,,,,,,
+74,C0004096,Asthma,,,,,,,,
+74,,,C0221423,Illness (finding),,,,,,
+74,,,C0497406,Overweight,,,,,,
+74,,,C0043144,Wheezing,,,,,,
+74,,,C0012833,Dizziness,,,,,,
+74,,,,,,,,,C0230347,Left upper arm structure
+74,,,,,,,,,C0024109,Lung
+74,,,,,,,,,C1278919,Entire esophagus
+75,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+75,,,C0026821,Muscle Cramp,,,,,,
+75,,,C0023218,Leg cramps,,,,,,
+75,,,,,,,,,C1279605,Entire right lower leg
+76,C0004096,Asthma,,,,,,,,
+76,,,C0026821,Muscle Cramp,,,,,,
+76,,,C0030193,Pain,,,,,,
+76,,,C0023218,Leg cramps,,,,,,
+77,C0004096,Asthma,,,,,,,,
+77,,,,,C0087111,Therapeutic procedure,,,,
+77,,,,,,,,,C0024109,Lung
+78,C0004096,Asthma,,,,,,,,
+78,,,C0003862,Arthralgia,,,,,,
+78,,,C0011991,Diarrhea,,,,,,
+78,,,C0221423,Illness (finding),,,,,,
+78,,,,,,,,,C0024109,Lung
+79,C0004096,Asthma,,,,,,,,
+79,,,C0010200,Coughing,,,,,,
+79,,,,,C0279232,fluorouracil/melphalan/tamoxifen,,,,
+79,,,,,,,,,C1281590,Entire head
+79,,,,,,,,,C0024109,Lung
+80,C0004096,Asthma,,,,,,,,
+81,C0004096,Asthma,,,,,,,,
+81,,,C0043144,Wheezing,,,,,,
+81,,,,,C1522704,Exercise Pain Management,,,,
+81,,,,,,,,,C1280698,Entire throat (surface region of neck)
+82,C0241266,Subcutaneous Abscess,,,,,,,,
+82,,,C0596601,gastrointestinal gas,,,,,,
+82,,,,,,,,,C1280744,Entire umbilicus
+83,C0011847,Diabetes,,,,,,,,
+83,,,,,,,,,C1279606,Entire left lower leg
+84,C0011847,Diabetes,,,,,,,,
+84,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+85,C0011847,Diabetes,,,,,,,,
+86,C0011847,Diabetes,,,,,,,,
+86,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+86,,,,,C0452415,Diet good,,,,
+86,,,,,C1522704,Exercise Pain Management,,,,
+87,C0011847,Diabetes,,,,,,,,
+88,C0011847,Diabetes,,,,,,,,
+89,C0011847,Diabetes,,,,,,,,
+89,,,C0030193,Pain,,,,,,
+89,,,C0026821,Muscle Cramp,,,,,,
+89,,,C0023218,Leg cramps,,,,,,
+89,,,,,,,,,C0031119,Peripheral Nerves
+89,,,,,,,,,C0036394,Structure of sciatic nerve
+89,,,,,,,,,C1280541,Entire nerve
+90,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+91,C0011847,Diabetes,,,,,,,,
+92,C0041912,Upper Respiratory Infections,,,,,,,,
+93,C0004096,Asthma,,,,,,,,
+93,,,C0008031,Chest Pain,,,,,,
+93,,,C0795691,HEART PROBLEM,,,,,,
+93,,,,,C0017296,gene therapy,,,,
+94,C0497169,hiv-infection/aids,,,,,,,,
+94,,,,,C0152054,Therapeutic tactile stimulation,,,,
+94,,,,,,,,,C0018563,Hand
+95,C0497169,hiv-infection/aids,,,,,,,,
+95,,,C0027424,Nasal congestion (finding),,,,,,
+95,,,C0242429,Sore Throat,,,,,,
+95,,,C0010200,Coughing,,,,,,
+95,,,,,C3687832,DRUGS,,,,
+96,C0004096,Asthma,,,,,,,,
+96,,,,,C1306232,Severing,,,,
+97,C0004096,Asthma,,,,,,,,
+97,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+97,,,,,C0021459,Inhalation Therapy,,,,
+97,,,,,,,,,C0694662,Left vastus lateralis
+98,C0004096,Asthma,,,,,,,,
+98,,,C0857172,persistent dry cough,,,,,,
+98,,,C0027769,Nervousness,,,,,,
+98,,,C0013404,Dyspnea,,,,,,
+98,,,,,,,,,C0018787,Heart
+99,C0497169,hiv-infection/aids,,,,,,,,
+99,,,C0030193,Pain,,,,,,
+99,,,,,C0087111,Therapeutic procedure,,,,
+99,,,,,,,,,C1281590,Entire head
+100,C0004096,Asthma,,,,,,,,
+101,C0497169,hiv-infection/aids,,,,,,,,
+101,,,C0003862,Arthralgia,,,,,,
+101,,,C0221423,Illness (finding),,,,,,
+101,,,C2129214,Loose stool,,,,,,
+101,,,C0015230,Exanthema,,,,,,
+101,,,C0235309,Upset stomach,,,,,,
+101,,,C0015672,Fatigue,,,,,,
+101,,,C0149651,Clubbing,,,,,,
+101,,,C0012833,Dizziness,,,,,,
+101,,,,,,,,,C1278985,Entire vagina
+101,,,,,,,,,C0030851,penis
+101,,,,,,,,,C0027342,Nail plate
+101,,,,,,,,,C0042232,Vagina
+101,,,,,,,,,C1269612,Entire upper arm
+101,,,,,,,,,C1268131,Vaginal part
+101,,,,,,,,,C0022359,Jaw
+101,,,,,,,,,C1281592,Entire neck
+102,C0011847,Diabetes,,,,,,,,
+103,C0011847,Diabetes,,,,,,,,
+104,C0011847,Diabetes,,,,,,,,
+104,,,C0085624,Burning sensation,,,,,,
+104,,,,,C0001701,"Exercise, Aerobic",,,,
+104,,,,,,,,,C0222045,Integumentary scale
+105,C0011847,Diabetes,,,,,,,,
+105,,,C0012833,Dizziness,,,,,,
+105,,,C0040822,Tremor,,,,,,
+106,C0017086,Gangrene,,,,,,,,
+106,,,,,C0087111,Therapeutic procedure,,,,
+106,,,,,,,,,C0040357,Toes
+107,C0497169,hiv-infection/aids,,,,,,,,
+107,,,C0578454,Neck swelling,,,,,,
+107,,,C0007859,Neck Pain,,,,,,
+107,,,C2242996,Has tingling sensation,,,,,,
+107,,,,,C0184933,Scraping,,,,
+107,,,,,,,,,C0036270,Scalp structure
+108,C0011847,Diabetes,,,,,,,,
+109,C0442874,Neuropathy,,,,,,,,
+109,,,,,,,,,C0016504,Foot
+110,C0011847,Diabetes,,,,,,,,
+110,,,,,C0392148,Providing presence (regime/therapy),,,,
+111,C0497169,hiv-infection/aids,,,,,,,,
+112,C0497169,hiv-infection/aids,,,,,,,,
+112,,,C0027424,Nasal congestion (finding),,,,,,
+112,,,C0242429,Sore Throat,,,,,,
+112,,,C0010200,Coughing,,,,,,
+112,,,,,C3687832,DRUGS,,,,
+113,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+113,,,C0028084,Nightmares,,,,,,
+113,,,C0234233,Sore to touch,,,,,,
+113,,,,,C0024875,Massage,,,,
+113,,,,,C3275067,Cardiac Lead Procedure,,,,
+113,,,,,,,,,C1281583,Entire hand
+114,C0497169,hiv-infection/aids,,,,,,,,
+114,,,,,C0024875,Massage,,,,
+115,C0497169,hiv-infection/aids,,,,,,,,
+115,,,,,C0005841,Blood Transfusion,,,,
+116,C0497169,hiv-infection/aids,,,,,,,,
+116,,,,,C0185026,Plication,,,,
+116,,,,,C0024875,Massage,,,,
+117,C0011847,Diabetes,,,,,,,,
+118,C0004096,Asthma,,,,,,,,
+118,,,C0013404,Dyspnea,,,,,,
+118,,,,,C0301571,Liquid diet,,,,
+118,,,,,C0152277,Incision and drainage,,,,
+118,,,,,,,,,C0024109,Lung
+118,,,,,,,,,C1186763,Stem of Organ
+119,C0702135,Primary atypical pneumonia,,,,,,,,
+119,,,C0036572,Seizures,,,,,,
+119,,,C0221423,Illness (finding),,,,,,
+119,,,C0015672,Fatigue,,,,,,
+119,,,C0043144,Wheezing,,,,,,
+119,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+119,,,C0018681,Headache,,,,,,
+119,,,C0010200,Coughing,,,,,,
+120,C0004096,Asthma,,,,,,,,
+121,C0004096,Asthma,,,,,,,,
+122,C0012634,Disease,,,,,,,,
+122,,,C0010201,Chronic cough,,,,,,
+122,,,C0010200,Coughing,,,,,,
+122,,,C0013404,Dyspnea,,,,,,
+123,C0009443,Common Cold,,,,,,,,
+123,,,C0232292,Chest tightness,,,,,,
+124,C0004096,Asthma,,,,,,,,
+124,,,C0231655,Scapulalgia,,,,,,
+124,,,C0008031,Chest Pain,,,,,,
+124,,,C0010200,Coughing,,,,,,
+124,,,,,,,,,C0036277,Bone structure of scapula
+125,C0011847,Diabetes,,,,,,,,
+126,C0004099,"Asthma, Exercise-Induced",,,,,,,,
+127,C0011847,Diabetes,,,,,,,,
+127,,,,,C0175795,oral medication,,,,
+127,,,,,C1522704,Exercise Pain Management,,,,
+128,C0011847,Diabetes,,,,,,,,
+128,,,,,,,,,C0222017,Abdominal skin pouch
+129,C0011847,Diabetes,,,,,,,,
+130,C0011847,Diabetes,,,,,,,,
+130,,,C0042571,Vertigo,,,,,,
+131,C0011847,Diabetes,,,,,,,,
+131,,,,,,,C3221986,Janumet Pill,,
+132,C0011847,Diabetes,,,,,,,,
+133,C0004096,Asthma,,,,,,,,
+133,,,C0037090,"Signs and Symptoms, Respiratory",,,,,,
+133,,,C0010200,Coughing,,,,,,
+133,,,,,,,,,C0015422,Eyelash
+133,,,,,,,,,C0006255,Bronchi
+133,,,,,,,,,C0024109,Lung
+134,C0004096,Asthma,,,,,,,,
+134,,,C0016204,Flatulence,,,,,,
+134,,,C0010200,Coughing,,,,,,
+135,C0011847,Diabetes,,,,,,,,
+136,C0004096,Asthma,,,,,,,,
+136,,,C0231811,Suffocated,,,,,,
+136,,,C0742339,chest heaviness,,,,,,
+136,,,C0013404,Dyspnea,,,,,,
+137,C0004096,Asthma,,,,,,,,
+138,C0004096,Asthma,,,,,,,,
+139,C0004096,Asthma,,,,,,,,
+140,C0004096,Asthma,,,,,,,,
+140,,,C0232292,Chest tightness,,,,,,
+140,,,C0744318,Acid reflux SYMPTOMS,,,,,,
+140,,,C0010200,Coughing,,,,,,
+140,,,,,,,,,C0031354,Pharyngeal structure
+141,C0004096,Asthma,,,,,,,,
+142,C0004096,Asthma,,,,,,,,
+142,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+142,,,,,,,,,C0018787,Heart
+142,,,,,,,,,C0423866,Lanugo
+143,C0011847,Diabetes,,,,,,,,
+144,C0011847,Diabetes,,,,,,,,
+144,,,,,C3541460,Potassium supplement therapy,,,,
+144,,,,,C0087111,Therapeutic procedure,,,,
+144,,,,,,,,,C0030274,Pancreas
+145,C0011847,Diabetes,,,,,,,,
+146,C0004096,Asthma,,,,,,,,
+147,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+147,,,,,C1522704,Exercise Pain Management,,,,
+148,C0011847,Diabetes,,,,,,,,
+148,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+148,,,,,C1522704,Exercise Pain Management,,,,
+149,C0011847,Diabetes,,,,,,,,
+150,C0004096,Asthma,,,,,,,,
+150,,,C0221423,Illness (finding),,,,,,
+150,,,C0557875,Tired,,,,,,
+151,C0004096,Asthma,,,,,,,,
+151,,,,,C3826866,Bortezomib/Cyclophosphamide/Dexamethasone Regimen,,,,
+152,C0004096,Asthma,,,,,,,,
+153,C0004096,Asthma,,,,,,,,
+153,,,C0043144,Wheezing,,,,,,
+153,,,C0010200,Coughing,,,,,,
+153,,,,,C1274136,Symptom control (regime/therapy),,,,
+154,C0004096,Asthma,,,,,,,,
+154,,,,,,,,,C0028429,Nose
+155,C0004096,Asthma,,,,,,,,
+155,,,C0221423,Illness (finding),,,,,,
+155,,,C0010200,Coughing,,,,,,
+156,C0004096,Asthma,,,,,,,,
+156,,,C0857027,Feeling Sick,,,,,,
+156,,,C0085624,Burning sensation,,,,,,
+156,,,,,C3272275,Urgent Procedure,,,,
+156,,,,,,,,,C0018787,Heart
+156,,,,,,,,,C0015392,Eye
+157,C0004096,Asthma,,,,,,,,
+157,,,C0008031,Chest Pain,,,,,,
+157,,,C0010200,Coughing,,,,,,
+157,,,C0264345,Smokers' cough,,,,,,
+157,,,,,C0455941,Vibration - treatment,,,,
+157,,,,,,,,,C0040578,Trachea
+157,,,,,,,,,C1278914,Entire palate
+157,,,,,,,,,C1280698,Entire throat (surface region of neck)
+157,,,,,,,,,C0024109,Lung
+158,C0004096,Asthma,,,,,,,,
+158,,,C0010200,Coughing,,,,,,
+158,,,,,C0393040,cisplatin/ifosfamide/mesna/mitomycin protocol,,,,
+158,,,,,C0021485,Injection of therapeutic agent,,,,
+158,,,,,,,,,C0024109,Lung
+159,C0011847,Diabetes,,,,,,,,
+160,C0011847,Diabetes,,,,,,,,
+160,,,C0003862,Arthralgia,,,,,,
+160,,,C3714552,Weakness,,,,,,
+160,,,C0010200,Coughing,,,,,,
+160,,,C0030193,Pain,,,,,,
+160,,,,,C0242390,Home Remedies,,,,
+160,,,,,,,,,C0446987,Cardiac wall structure
+160,,,,,,,,,C0018787,Heart
+160,,,,,,,,,C0016504,Foot
+161,C0011847,Diabetes,,,,,,,,
+161,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+161,,,,,,,,,C0040132,Thyroid Gland
+161,,,,,,,,,C1269537,Entire brain
+162,C0011847,Diabetes,,,,,,,,
+163,C0011849,Diabetes Mellitus,,,,,,,,
+163,,,C0026821,Muscle Cramp,,,,,,
+163,,,,,C0087111,Therapeutic procedure,,,,
+164,C0011847,Diabetes,,,,,,,,
+164,,,,,C1519433,Special Diet Therapy,,,,
+164,,,,,C0087111,Therapeutic procedure,,,,
+164,,,,,,,,,C0018787,Heart
+164,,,,,,,,,C0023884,Liver
+165,C0011847,Diabetes,,,,,,,,
+165,,,C0221170,Muscular stiffness,,,,,,
+165,,,C0018681,Headache,,,,,,
+165,,,,,,,,,C0229200,Structure of retina of left eye
+165,,,,,,,,,C0227662,Macula densa
+165,,,,,,,,,C0016504,Foot
+166,C0011847,Diabetes,,,,,,,,
+167,C0011847,Diabetes,,,,,,,,
+167,,,C0683369,Clouded consciousness,,,,,,
+168,C0362046,Prediabetes syndrome,,,,,,,,
+169,C0011847,Diabetes,,,,,,,,
+170,C0011847,Diabetes,,,,,,,,
+170,,,,,C0411659,Opening of skin,,,,
+170,,,,,,,,,C0699819,Gut
+171,C0004096,Asthma,,,,,,,,
+172,C0004096,Asthma,,,,,,,,
+172,,,,,C0011209,Obstetric Delivery,,,,
+172,,,,,,,,,C0016504,Foot
+173,C0004096,Asthma,,,,,,,,
+173,,,C0221423,Illness (finding),,,,,,
+173,,,C1517205,Flare,,,,,,
+173,,,C0043144,Wheezing,,,,,,
+173,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+173,,,C0010200,Coughing,,,,,,
+173,,,C0013404,Dyspnea,,,,,,
+173,,,,,C0563322,Intravenous steroid injection,,,,
+173,,,,,C0087111,Therapeutic procedure,,,,
+173,,,,,,,,,C0458827,Airway structure
+174,C0004096,Asthma,,,,,,,,
+174,,,C0438716,Chest pressure,,,,,,
+174,,,C0013404,Dyspnea,,,,,,
+174,,,,,C0002903,Anesthesia procedures,,,,
+174,,,,,,,,,C1279606,Entire left lower leg
+174,,,,,,,,,C0817320,Left femur
+174,,,,,,,,,C0448194,Entire distal femur
+175,C0041912,Upper Respiratory Infections,,,,,,,,
+175,,,C0043144,Wheezing,,,,,,
+175,,,,,C0006155,Breathing Exercises,,,,
+175,,,,,,,,,C0018563,Hand
+175,,,,,,,,,C0222001,Structure of nail of finger
+176,C0011847,Diabetes,,,,,,,,
+177,C0032827,Potassium Deficiency,,,,,,,,
+178,C0011847,Diabetes,,,,,,,,
+179,C0011847,Diabetes,,,,,,,,
+179,,,,,,,,,C0699819,Gut
+180,C0011847,Diabetes,,,,,,,,
+181,C0004096,Asthma,,,,,,,,
+182,C0011847,Diabetes,,,,,,,,
+183,C0011847,Diabetes,,,,,,,,
+184,C0011847,Diabetes,,,,,,,,
+185,C0011847,Diabetes,,,,,,,,
+186,C0004096,Asthma,,,,,,,,
+186,,,,,C0683525,treatment options,,,,
+186,,,,,C0087111,Therapeutic procedure,,,,
+187,C0004096,Asthma,,,,,,,,
+188,C0004096,Asthma,,,,,,,,
+189,C0009443,Common Cold,,,,,,,,
+189,,,C0013404,Dyspnea,,,,,,
+189,,,,,,,,,C0018787,Heart
+189,,,,,,,,,C0423866,Lanugo
+189,,,,,,,,,C1278908,Entire lung
+190,C0011847,Diabetes,,,,,,,,
+190,,,C3714552,Weakness,,,,,,
+190,,,C0030193,Pain,,,,,,
+190,,,,,C0013103,Drainage procedure,,,,
+190,,,,,C0557033,Reminding,,,,
+190,,,,,C0580209,Surgical abrasion,,,,
+191,C0004096,Asthma,,,,,,,,
+191,,,C0037088,Signs and Symptoms,,,,,,
+191,,,,,C0087111,Therapeutic procedure,,,,
+192,C0004096,Asthma,,,,,,,,
+192,,,C0557875,Tired,,,,,,
+192,,,C0497406,Overweight,,,,,,
+192,,,C0220870,Lightheadedness,,,,,,
+192,,,,,,,,,C0018787,Heart
+193,C0004096,Asthma,,,,,,,,
+194,C0004096,Asthma,,,,,,,,
+194,,,C0242429,Sore Throat,,,,,,
+194,,,C0018681,Headache,,,,,,
+194,,,C0010200,Coughing,,,,,,
+194,,,C0234233,Sore to touch,,,,,,
+195,C0004096,Asthma,,,,,,,,
+196,C0004096,Asthma,,,,,,,,
+196,,,C0425449,Gasping for breath,,,,,,
+196,,,C0232292,Chest tightness,,,,,,
+196,,,C0043144,Wheezing,,,,,,
+196,,,C0010200,Coughing,,,,,,
+196,,,C0013404,Dyspnea,,,,,,
+196,,,,,,,,,C0224337,Skeletal muscle structure of thorax
+197,C0004096,Asthma,,,,,,,,
+197,,,,,C1274136,Symptom control (regime/therapy),,,,
+198,C0004096,Asthma,,,,,,,,
+198,,,C0043144,Wheezing,,,,,,
+198,,,C0010200,Coughing,,,,,,
+198,,,,,C0152054,Therapeutic tactile stimulation,,,,
+198,,,,,,,,,C0031354,Pharyngeal structure
+199,C0004096,Asthma,,,,,,,,
+199,,,,,C0684199,Homeopathy,,,,
+200,C0011847,Diabetes,,,,,,,,
+200,,,C0221423,Illness (finding),,,,,,
+200,,,C0221100,Hangover from any Alcohol or Other Drugs substance,,,,,,
+200,,,,,C0087111,Therapeutic procedure,,,,
+200,,,,,,,,,C0006104,Brain
+201,C0011847,Diabetes,,,,,,,,
+202,C0011847,Diabetes,,,,,,,,
+203,C0012634,Disease,,,,,,,,
+203,,,,,C0187769,Operative procedure on knee,,,,
+203,,,,,C0920347,Procedure on spinal cord (procedure),,,,
+203,,,,,C1519433,Special Diet Therapy,,,,
+203,,,,,C1959633,Spatial guidance for medical procedure,,,,
+203,,,,,,,,,C1184743,bony process
+204,C0011847,Diabetes,,,,,,,,
+204,,,,,C1322279,Dilate procedure,,,,
+204,,,,,,,,,C0005847,Blood Vessel
+205,C0011847,Diabetes,,,,,,,,
+205,,,C0028643,Numbness,,,,,,
+205,,,C0030193,Pain,,,,,,
+205,,,,,,,,,C0230347,Left upper arm structure
+206,C0011847,Diabetes,,,,,,,,
+207,C0011847,Diabetes,,,,,,,,
+207,,,C0232854,Slowing of urinary stream,,,,,,
+207,,,C3714552,Weakness,,,,,,
+207,,,C0030193,Pain,,,,,,
+207,,,C1135120,Breakthrough Pain,,,,,,
+208,C0011849,Diabetes Mellitus,,,,,,,,
+208,,,C0221423,Illness (finding),,,,,,
+208,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+209,C0011847,Diabetes,,,,,,,,
+209,,,C0043144,Wheezing,,,,,,
+209,,,,,,,,,C0221997,Nail bed structure
+209,,,,,,,,,C0027342,Nail plate
+210,C0011847,Diabetes,,,,,,,,
+210,,,C0042571,Vertigo,,,,,,
+210,,,C3714552,Weakness,,,,,,
+210,,,,,C0741847,Bypass,,,,
+211,C0011847,Diabetes,,,,,,,,
+211,,,,,C0079613,Adoptive Immunotherapy,,,,
+211,,,,,C1963578,Release (procedure),,,,
+212,C0004096,Asthma,,,,,,,,
+212,,,,,C3854686,Thermoplasty of bronchus,,,,
+212,,,,,C0184661,Interventional procedure,,,,
+213,C0004096,Asthma,,,,,,,,
+213,,,C0010200,Coughing,,,,,,
+213,,,,,C0748725,sinus surgery,,,,
+214,C0011847,Diabetes,,,,,,,,
+215,C0004096,Asthma,,,,,,,,
+215,,,,,C0150141,Bathing,,,,
+216,C0004096,Asthma,,,,,,,,
+217,C0004096,Asthma,,,,,,,,
+217,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+218,C0011849,Diabetes Mellitus,,,,,,,,
+218,,,C0020175,Hunger,,,,,,
+218,,,C0344232,Blurred vision,,,,,,
+219,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+219,,,,,C0021485,Injection of therapeutic agent,,,,
+220,C0011847,Diabetes,,,,,,,,
+221,C0011847,Diabetes,,,,,,,,
+222,C0011847,Diabetes,,,,,,,,
+222,,,C0030193,Pain,,,,,,
+223,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+224,C0011847,Diabetes,,,,,,,,
+224,,,C0557875,Tired,,,,,,
+224,,,C0020175,Hunger,,,,,,
+224,,,C0231218,Malaise,,,,,,
+224,,,C0232471,Thirsty,,,,,,
+224,,,,,,,,,C0038553,Sublingual Gland
+224,,,,,,,,,C0040408,Tongue
+225,C0011847,Diabetes,,,,,,,,
+225,,,C0020175,Hunger,,,,,,
+225,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+226,C0011847,Diabetes,,,,,,,,
+227,C0004096,Asthma,,,,,,,,
+228,C0004096,Asthma,,,,,,,,
+228,,,C0033774,Pruritus,,,,,,
+229,C0011847,Diabetes,,,,,,,,
+229,,,C0037088,Signs and Symptoms,,,,,,
+229,,,,,C1519433,Special Diet Therapy,,,,
+229,,,,,C2973270,Health Checkup,,,,
+229,,,,,C1522704,Exercise Pain Management,,,,
+230,C0004096,Asthma,,,,,,,,
+230,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+231,C0004096,Asthma,,,,,,,,
+231,,,C0231218,Malaise,,,,,,
+231,,,C0042571,Vertigo,,,,,,
+231,,,C0018681,Headache,,,,,,
+231,,,C0013404,Dyspnea,,,,,,
+232,C0004096,Asthma,,,,,,,,
+232,,,,,,,,,C1280202,Entire eye
+233,C0012634,Disease,,,,,,,,
+233,,,C0221423,Illness (finding),,,,,,
+233,,,,,,,,,C0222762,Thoracic cage structure
+233,,,,,,,,,C0024109,Lung
+234,C0004096,Asthma,,,,,,,,
+234,,,C0008031,Chest Pain,,,,,,
+234,,,C0030193,Pain,,,,,,
+235,C0004096,Asthma,,,,,,,,
+235,,,C0010200,Coughing,,,,,,
+235,,,C0013404,Dyspnea,,,,,,
+235,,,,,C1522704,Exercise Pain Management,,,,
+235,,,,,,,,,C0423866,Lanugo
+236,C0011847,Diabetes,,,,,,,,
+237,C0004096,Asthma,,,,,,,,
+237,,,C0027424,Nasal congestion (finding),,,,,,
+237,,,C0009806,Constipation,,,,,,
+237,,,C0018681,Headache,,,,,,
+237,,,C3714552,Weakness,,,,,,
+237,,,C0026821,Muscle Cramp,,,,,,
+237,,,C0030193,Pain,,,,,,
+237,,,C0917801,Sleeplessness,,,,,,
+237,,,,,C0441610,Reduction - action,,,,
+237,,,,,C0242297,Dietary Supplementation,,,,
+237,,,,,C0087111,Therapeutic procedure,,,,
+238,C0362046,Prediabetes syndrome,,,,,,,,
+239,C0011847,Diabetes,,,,,,,,
+239,,,,,,,,,C1185738,Column (anatomic)
+239,,,,,,,,,C0507115,Superior segmental bronchus
+240,C0011847,Diabetes,,,,,,,,
+240,,,,,C1519433,Special Diet Therapy,,,,
+240,,,,,,,,,C0016504,Foot
+241,C0020456,Hyperglycemia,,,,,,,,
+242,C0011847,Diabetes,,,,,,,,
+242,,,,,C0152054,Therapeutic tactile stimulation,,,,
+243,C0011847,Diabetes,,,,,,,,
+244,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+244,,,,,C0108844,CDE protocol-cyclophosphamide/doxorubicin/etoposide,,,,
+244,,,,,C1522704,Exercise Pain Management,,,,
+245,C0004096,Asthma,,,,,,,,
+245,,,,,,,,,C1281590,Entire head
+246,C0011847,Diabetes,,,,,,,,
+247,C0004096,Asthma,,,,,,,,
+248,C0004096,Asthma,,,,,,,,
+248,,,C0232292,Chest tightness,,,,,,
+248,,,C0043144,Wheezing,,,,,,
+248,,,,,C0079613,Adoptive Immunotherapy,,,,
+249,C0011847,Diabetes,,,,,,,,
+250,C0004096,Asthma,,,,,,,,
+250,,,,,,,,,C0694666,Right deltoid
+251,C0497169,hiv-infection/aids,,,,,,,,
+251,,,,,,,,,C0042449,Veins
+252,C0011847,Diabetes,,,,,,,,
+252,,,C0858708,itch burning,,,,,,
+252,,,,,C0018821,Cardiac Surgery procedures,,,,
+252,,,,,C0162577,Angioplasty,,,,
+252,,,,,C0185023,Fixation - action,,,,
+252,,,,,C0522776,Placement of stent,,,,
+253,C0497169,hiv-infection/aids,,,,,,,,
+253,,,C0221512,Stomach ache,,,,,,
+253,,,C0392171,Influenza-like symptoms,,,,,,
+254,C0009421,Comatose,,,,,,,,
+254,,,,,,,,,C0521421,Entire ear
+255,C0004096,Asthma,,,,,,,,
+255,,,C0027769,Nervousness,,,,,,
+255,,,,,,,C3216041,Prednisone Pill,,
+255,,,,,,,,,C1281590,Entire head
+255,,,,,,,,,C0935616,Chamber (anatomical)
+256,C0497169,hiv-infection/aids,,,,,,,,
+256,,,C0234657,Feeling of heat in eye,,,,,,
+256,,,C0221423,Illness (finding),,,,,,
+256,,,C0011991,Diarrhea,,,,,,
+256,,,C0015672,Fatigue,,,,,,
+256,,,,,C0301571,Liquid diet,,,,
+257,C0004096,Asthma,,,,,,,,
+257,,,,,C0152277,Incision and drainage,,,,
+257,,,,,,,,,C3887642,Hippocampus Proper
+258,C0004096,Asthma,,,,,,,,
+258,,,,,,,,,C0028429,Nose
+259,C0004096,Asthma,,,,,,,,
+259,,,C0010200,Coughing,,,,,,
+259,,,C0849791,sinus drainage,,,,,,
+260,C0011847,Diabetes,,,,,,,,
+260,,,C0013911,Emaciation,,,,,,
+261,C0011847,Diabetes,,,,,,,,
+262,C0011847,Diabetes,,,,,,,,
+262,,,,,,,,,C0507115,Superior segmental bronchus
+263,C0011847,Diabetes,,,,,,,,
+263,,,C0577573,Mass of body region,,,,,,
+263,,,C1704276,Spasmodic movement,,,,,,
+263,,,,,C1519433,Special Diet Therapy,,,,
+264,C0011847,Diabetes,,,,,,,,
+265,C0011847,Diabetes,,,,,,,,
+266,C0011847,Diabetes,,,,,,,,
+267,C0011847,Diabetes,,,,,,,,
+267,,,C0497406,Overweight,,,,,,
+267,,,C0033774,Pruritus,,,,,,
+267,,,,,C0949766,Physical therapy,,,,
+267,,,,,C0152277,Incision and drainage,,,,
+267,,,,,C0087111,Therapeutic procedure,,,,
+267,,,,,,,,,C0018563,Hand
+268,C0497169,hiv-infection/aids,,,,,,,,
+268,,,C1579838,Sore mouth,,,,,,
+268,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+268,,,,,C0040461,Toothbrushing,,,,
+268,,,,,C0184958,Toilet procedure,,,,
+268,,,,,,,,,C0042232,Vagina
+268,,,,,,,,,C0017562,Gingiva
+268,,,,,,,,,C0003461,Anus
+268,,,,,,,,,C0018563,Hand
+268,,,,,,,,,C0040408,Tongue
+268,,,,,,,,,C1278927,Entire anus
+268,,,,,,,,,C0023759,Lip structure
+268,,,,,,,,,C0040426,Tooth structure
+269,C0497169,hiv-infection/aids,,,,,,,,
+270,C0011847,Diabetes,,,,,,,,
+270,,,C0018681,Headache,,,,,,
+271,C0019693,HIV Infections,,,,,,,,
+272,C0497169,hiv-infection/aids,,,,,,,,
+272,,,C0221423,Illness (finding),,,,,,
+272,,,C0015230,Exanthema,,,,,,
+272,,,,,,,,,C1269612,Entire upper arm
+272,,,,,,,,,C0222074,Skin structure of forehead
+273,C0497169,hiv-infection/aids,,,,,,,,
+273,,,C0015230,Exanthema,,,,,,
+273,,,C0033774,Pruritus,,,,,,
+273,,,C0231528,Myalgia,,,,,,
+273,,,C0018681,Headache,,,,,,
+273,,,,,,,,,C0030851,penis
+273,,,,,,,,,C0222204,Skin of upper arm
+273,,,,,,,,,C1269612,Entire upper arm
+274,C0497169,hiv-infection/aids,,,,,,,,
+274,,,C0221423,Illness (finding),,,,,,
+274,,,C0015230,Exanthema,,,,,,
+274,,,C0231218,Malaise,,,,,,
+274,,,C0015672,Fatigue,,,,,,
+274,,,C0085624,Burning sensation,,,,,,
+274,,,C0242429,Sore Throat,,,,,,
+274,,,C0850149,Dry cough,,,,,,
+274,,,,,C1511790,Detection,,,,
+274,,,,,,,,,C1281590,Entire head
+274,,,,,,,,,C0222204,Skin of upper arm
+274,,,,,,,,,C0042232,Vagina
+274,,,,,,,,,C1269612,Entire upper arm
+274,,,,,,,,,C0018563,Hand
+274,,,,,,,,,C0040408,Tongue
+274,,,,,,,,,C1280739,Entire penis
+274,,,,,,,,,C1281592,Entire neck
+274,,,,,,,,,C0016504,Foot
+275,C0497169,hiv-infection/aids,,,,,,,,
+275,,,C0003862,Arthralgia,,,,,,
+275,,,C0241374,Thigh pain,,,,,,
+275,,,C0007859,Neck Pain,,,,,,
+275,,,C0042963,Vomiting,,,,,,
+275,,,C0015230,Exanthema,,,,,,
+275,,,C0392171,Influenza-like symptoms,,,,,,
+275,,,C0012833,Dizziness,,,,,,
+275,,,,,C1519433,Special Diet Therapy,,,,
+275,,,,,,,,,C1281590,Entire head
+275,,,,,,,,,C0030851,penis
+275,,,,,,,,,C0222204,Skin of upper arm
+275,,,,,,,,,C0222149,Skin of chest
+275,,,,,,,,,C1269612,Entire upper arm
+275,,,,,,,,,C0003461,Anus
+275,,,,,,,,,C0040067,Thumb structure
+275,,,,,,,,,C0816233,Entire skin of chest
+275,,,,,,,,,C0222213,Skin structure of elbow
+275,,,,,,,,,C1281591,Entire face
+275,,,,,,,,,C1281592,Entire neck
+276,C0497169,hiv-infection/aids,,,,,,,,
+276,,,C0234233,Sore to touch,,,,,,
+276,,,,,,,,,C0227073,Mandibular right first molar
+276,,,,,,,,,C0016504,Foot
+277,C0019693,HIV Infections,,,,,,,,
+277,,,,,C3687832,DRUGS,,,,
+277,,,,,,,,,C0030851,penis
+278,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+278,,,C0557875,Tired,,,,,,
+279,C0011847,Diabetes,,,,,,,,
+280,C0011847,Diabetes,,,,,,,,
+281,C0011847,Diabetes,,,,,,,,
+281,,,C0004604,Back Pain,,,,,,
+281,,,C0683369,Clouded consciousness,,,,,,
+281,,,C0302539,spells (neurological symptom),,,,,,
+282,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+283,C0011847,Diabetes,,,,,,,,
+283,,,,,,,,,C0016504,Foot
+284,C0011847,Diabetes,,,,,,,,
+284,,,C0085624,Burning sensation,,,,,,
+284,,,,,C0021107,Implantation procedure,,,,
+284,,,,,C3275122,Pacemaker Procedure,,,,
+285,C0011847,Diabetes,,,,,,,,
+286,C0011847,Diabetes,,,,,,,,
+286,,,C3714552,Weakness,,,,,,
+286,,,,,,,,,C0030274,Pancreas
+287,C0011847,Diabetes,,,,,,,,
+287,,,,,C1519433,Special Diet Therapy,,,,
+288,C0497169,hiv-infection/aids,,,,,,,,
+289,C0011847,Diabetes,,,,,,,,
+290,C0497169,hiv-infection/aids,,,,,,,,
+290,,,,,,,,,C0030851,penis
+290,,,,,,,,,C0042232,Vagina
+291,C0497169,hiv-infection/aids,,,,,,,,
+291,,,C0015230,Exanthema,,,,,,
+291,,,,,C0040461,Toothbrushing,,,,
+292,C0497169,hiv-infection/aids,,,,,,,,
+292,,,C0278145,Stabbing pain,,,,,,
+292,,,C0849850,blotch,,,,,,
+292,,,C0033774,Pruritus,,,,,,
+292,,,C0231528,Myalgia,,,,,,
+292,,,C0600142,Hot flushes,,,,,,
+292,,,C0030193,Pain,,,,,,
+292,,,C0455270,Sharp pain,,,,,,
+292,,,C0028081,Night sweats,,,,,,
+292,,,C0239589,Pain in finger,,,,,,
+292,,,C0234233,Sore to touch,,,,,,
+292,,,,,,,,,C0042232,Vagina
+292,,,,,,,,,C0017562,Gingiva
+292,,,,,,,,,C0040408,Tongue
+292,,,,,,,,,C0028109,Nipples
+292,,,,,,,,,C0229315,Ear lobe
+292,,,,,,,,,C0022889,Labyrinth
+292,,,,,,,,,C0041967,Urethra
+292,,,,,,,,,C1281583,Entire hand
+292,,,,,,,,,C1281591,Entire face
+292,,,,,,,,,C0229962,Body part
+292,,,,,,,,,C0028429,Nose
+292,,,,,,,,,C1281592,Entire neck
+292,,,,,,,,,C1281590,Entire head
+292,,,,,,,,,C0030851,penis
+292,,,,,,,,,C0227936,Body of penis
+292,,,,,,,,,C1269612,Entire upper arm
+292,,,,,,,,,C0796494,lobe
+293,C0031350,Pharyngitis,,,,,,,,
+293,,,C0242429,Sore Throat,,,,,,
+293,,,C0027769,Nervousness,,,,,,
+293,,,,,,,,,C1281584,Entire finger
+293,,,,,,,,,C1280739,Entire penis
+294,C0858513,hiv-3,,,,,,,,
+295,C0497169,hiv-infection/aids,,,,,,,,
+296,C0031350,Pharyngitis,,,,,,,,
+296,,,C0242429,Sore Throat,,,,,,
+296,,,C0027769,Nervousness,,,,,,
+296,,,,,,,,,C1281584,Entire finger
+296,,,,,,,,,C1280739,Entire penis
+297,C0497169,hiv-infection/aids,,,,,,,,
+297,,,C0003862,Arthralgia,,,,,,
+297,,,C0221423,Illness (finding),,,,,,
+297,,,C2129214,Loose stool,,,,,,
+297,,,C0015230,Exanthema,,,,,,
+297,,,C0235309,Upset stomach,,,,,,
+297,,,C0015672,Fatigue,,,,,,
+297,,,C0149651,Clubbing,,,,,,
+297,,,C0012833,Dizziness,,,,,,
+297,,,,,,,,,C1278985,Entire vagina
+297,,,,,,,,,C0030851,penis
+297,,,,,,,,,C0027342,Nail plate
+297,,,,,,,,,C0042232,Vagina
+297,,,,,,,,,C1269612,Entire upper arm
+297,,,,,,,,,C1268131,Vaginal part
+297,,,,,,,,,C0022359,Jaw
+297,,,,,,,,,C1281592,Entire neck
+298,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+298,,,,,C0152054,Therapeutic tactile stimulation,,,,
+299,C0011847,Diabetes,,,,,,,,
+300,C0362046,Prediabetes syndrome,,,,,,,,
+301,C0011847,Diabetes,,,,,,,,
+302,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+302,,,,,C0087111,Therapeutic procedure,,,,
+303,C0497169,hiv-infection/aids,,,,,,,,
+303,,,C0003862,Arthralgia,,,,,,
+303,,,C0015230,Exanthema,,,,,,
+303,,,C0231749,Knee pain,,,,,,
+303,,,C0030193,Pain,,,,,,
+303,,,,,C1293134,Enlargement procedure,,,,
+303,,,,,,,,,C0222193,Skin of penis
+303,,,,,,,,,C0018563,Hand
+303,,,,,,,,,C0040408,Tongue
+303,,,,,,,,,C0030647,Patella
+304,C0011847,Diabetes,,,,,,,,
+304,,,C0795691,HEART PROBLEM,,,,,,
+304,,,,,C2825182,Atrial Ablation,,,,
+304,,,,,C0162563,Cardiac ablation,,,,
+304,,,,,C0021485,Injection of therapeutic agent,,,,
+304,,,,,,,C1512802,"Insulin, 70/30",,
+304,,,,,,,,,C0018787,Heart
+305,C0011847,Diabetes,,,,,,,,
+305,,,C0030193,Pain,,,,,,
+305,,,,,,,,,C1279605,Entire right lower leg
+305,,,,,,,,,C0016504,Foot
+306,C0011847,Diabetes,,,,,,,,
+306,,,C0232471,Thirsty,,,,,,
+306,,,C0220870,Lightheadedness,,,,,,
+306,,,,,,,,,C1281584,Entire finger
+307,C0040253,Tinea of perianal region,,,,,,,,
+307,,,C0392171,Influenza-like symptoms,,,,,,
+307,,,,,,,,,C1280698,Entire throat (surface region of neck)
+307,,,,,,,,,C1285092,Gland
+308,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+309,C0497169,hiv-infection/aids,,,,,,,,
+309,,,C0003862,Arthralgia,,,,,,
+309,,,C0221512,Stomach ache,,,,,,
+309,,,C0221423,Illness (finding),,,,,,
+309,,,C0234238,Ache,,,,,,
+309,,,C0011991,Diarrhea,,,,,,
+309,,,C0015230,Exanthema,,,,,,
+309,,,C0857027,Feeling Sick,,,,,,
+309,,,C0015672,Fatigue,,,,,,
+309,,,C0033774,Pruritus,,,,,,
+309,,,C0850149,Dry cough,,,,,,
+309,,,C0033775,Pruritus Ani,,,,,,
+309,,,,,C0087111,Therapeutic procedure,,,,
+309,,,,,,,,,C0042232,Vagina
+309,,,,,,,,,C0022742,Knee
+309,,,,,,,,,C0036270,Scalp structure
+310,C0497169,hiv-infection/aids,,,,,,,,
+310,,,C0039070,Syncope,,,,,,
+310,,,,,,,,,C0042232,Vagina
+310,,,,,,,,,C0003461,Anus
+311,C0497169,hiv-infection/aids,,,,,,,,
+311,,,C0003862,Arthralgia,,,,,,
+311,,,C0741585,BODY ACHE,,,,,,
+311,,,C0030193,Pain,,,,,,
+311,,,,,,,,,C1279050,Entire inguinal lymph node
+311,,,,,,,,,C0017420,Genitalia
+311,,,,,,,,,C2987482,Animal Coat
+312,C0497169,hiv-infection/aids,,,,,,,,
+313,C0019693,HIV Infections,,,,,,,,
+314,C0497169,hiv-infection/aids,,,,,,,,
+314,,,,,,,,,C0222224,Skin structure of hand
+314,,,,,,,,,C0016504,Foot
+315,C0497169,hiv-infection/aids,,,,,,,,
+315,,,C0042963,Vomiting,,,,,,
+316,C0011847,Diabetes,,,,,,,,
+317,C0497169,hiv-infection/aids,,,,,,,,
+318,C0011847,Diabetes,,,,,,,,
+318,,,C0015230,Exanthema,,,,,,
+319,C0011847,Diabetes,,,,,,,,
+319,,,,,C0185364,Osteoplasty,,,,
+319,,,,,C0035139,Surgical Replantation,,,,
+319,,,,,C0185317,"Arthroplasty, Replacement",,,,
+319,,,,,,,,,C1279998,Entire right foot
+319,,,,,,,,,C1281589,Entire toe
+319,,,,,,,,,C0016505,Bone structure of foot
+319,,,,,,,,,C0016504,Foot
+320,C0011847,Diabetes,,,,,,,,
+320,,,C0016512,Foot pain,,,,,,
+320,,,C0030193,Pain,,,,,,
+320,,,,,C0024875,Massage,,,,
+321,C0011847,Diabetes,,,,,,,,
+321,,,C0850630,tingling in fingers,,,,,,
+321,,,C2242996,Has tingling sensation,,,,,,
+321,,,,,,,,,C1283788,Entire spinal nerve
+321,,,,,,,,,C0016504,Foot
+322,C0011849,Diabetes Mellitus,,,,,,,,
+323,C0011847,Diabetes,,,,,,,,
+323,,,C0016512,Foot pain,,,,,,
+323,,,C0030193,Pain,,,,,,
+323,,,,,C0024875,Massage,,,,
+324,C0400966,Non-alcoholic Fatty Liver Disease,,,,,,,,
+324,,,,,C0259836,"Diet, Carbohydrate-Restricted",,,,
+324,,,,,C0301585,Fat diet,,,,
+324,,,,,C1519433,Special Diet Therapy,,,,
+324,,,,,C0521974,"Diet, High-Fat",,,,
+324,,,,,C0242970,Fat-Restricted Diet,,,,
+324,,,,,,,,,C1281591,Entire face
+325,C0497169,hiv-infection/aids,,,,,,,,
+325,,,,,,,,,C0030851,penis
+325,,,,,,,,,C0042232,Vagina
+326,C0497169,hiv-infection/aids,,,,,,,,
+326,,,,,,,,,C0042232,Vagina
+327,C0497169,hiv-infection/aids,,,,,,,,
+327,,,C0010200,Coughing,,,,,,
+328,C0497169,hiv-infection/aids,,,,,,,,
+328,,,,,,,,,C0042232,Vagina
+329,C0497169,hiv-infection/aids,,,,,,,,
+330,C0497169,hiv-infection/aids,,,,,,,,
+331,C0497169,hiv-infection/aids,,,,,,,,
+331,,,C2957106,headache severe,,,,,,
+331,,,C0030193,Pain,,,,,,
+331,,,,,C1527374,Group Therapy,,,,
+331,,,,,,,,,C1281589,Entire toe
+331,,,,,,,,,C1280541,Entire nerve
+332,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+332,,,,,C0152054,Therapeutic tactile stimulation,,,,
+332,,,,,,,,,C0030851,penis
+332,,,,,,,,,C0018563,Hand
+332,,,,,,,,,C1281584,Entire finger
+333,C0017665,Membranous glomerulonephritis,,,,,,,,
+333,,,C0812426,Kidney problem,,,,,,
+334,C0011847,Diabetes,,,,,,,,
+334,,,C0037088,Signs and Symptoms,,,,,,
+334,,,,,C1519433,Special Diet Therapy,,,,
+335,C0497169,hiv-infection/aids,,,,,,,,
+336,C0497169,hiv-infection/aids,,,,,,,,
+336,,,C0221423,Illness (finding),,,,,,
+336,,,,,C0020587,Hypnotherapy,,,,
+337,C0011847,Diabetes,,,,,,,,
+337,,,C0858600,taste sweet,,,,,,
+338,C0497169,hiv-infection/aids,,,,,,,,
+339,C0011847,Diabetes,,,,,,,,
+340,C0011847,Diabetes,,,,,,,,
+341,C0011847,Diabetes,,,,,,,,
+341,,,C0497406,Overweight,,,,,,
+342,C0011849,Diabetes Mellitus,,,,,,,,
+343,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+343,,,C0028643,Numbness,,,,,,
+343,,,C0030193,Pain,,,,,,
+343,,,,,C1519433,Special Diet Therapy,,,,
+344,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+345,C0011847,Diabetes,,,,,,,,
+345,,,C0221423,Illness (finding),,,,,,
+345,,,,,C0087111,Therapeutic procedure,,,,
+346,C0497169,hiv-infection/aids,,,,,,,,
+346,,,,,,,,,C1550261,Glans
+346,,,,,,,,,C1281584,Entire finger
+346,,,,,,,,,C1280739,Entire penis
+347,C0019693,HIV Infections,,,,,,,,
+347,,,C0221423,Illness (finding),,,,,,
+347,,,C0231218,Malaise,,,,,,
+347,,,,,C0028678,nursing therapy,,,,
+347,,,,,C0199782,Administration of insulin,,,,
+347,,,,,,,,,C0018563,Hand
+347,,,,,,,,,C1269078,Entire upper limb
+348,C0442874,Neuropathy,,,,,,,,
+348,,,C0016382,Flushing,,,,,,
+348,,,,,C0040808,Treatment Protocols,,,,
+348,,,,,,,C3227243,Edurant Pill,,
+348,,,,,,,,,C1281591,Entire face
+349,C0497169,hiv-infection/aids,,,,,,,,
+350,C0036916,Sexually Transmitted Diseases,,,,,,,,
+350,,,C0221423,Illness (finding),,,,,,
+350,,,C0015230,Exanthema,,,,,,
+350,,,C0018681,Headache,,,,,,
+350,,,,,,,,,C0030851,penis
+350,,,,,,,,,C0003461,Anus
+351,C0497169,hiv-infection/aids,,,,,,,,
+351,,,C1260880,Rhinorrhea,,,,,,
+351,,,C0036396,Sciatica,,,,,,
+351,,,C0221423,Illness (finding),,,,,,
+351,,,C0015230,Exanthema,,,,,,
+351,,,C0018681,Headache,,,,,,
+351,,,C0010200,Coughing,,,,,,
+351,,,C0040822,Tremor,,,,,,
+351,,,,,,,,,C0227121,Gum of maxilla
+351,,,,,,,,,C1281584,Entire finger
+352,C0497169,hiv-infection/aids,,,,,,,,
+352,,,C0037088,Signs and Symptoms,,,,,,
+352,,,C0392171,Influenza-like symptoms,,,,,,
+352,,,C0242429,Sore Throat,,,,,,
+352,,,,,,,,,C0030851,penis
+352,,,,,,,,,C0003461,Anus
+353,C0497169,hiv-infection/aids,,,,,,,,
+353,,,,,,,,,C0230425,Structure of right thigh
+354,C0011847,Diabetes,,,,,,,,
+355,C0011847,Diabetes,,,,,,,,
+356,C0011847,Diabetes,,,,,,,,
+356,,,,,,,,,C0016504,Foot
+357,C0020456,Hyperglycemia,,,,,,,,
+357,,,C0557875,Tired,,,,,,
+357,,,,,C0021485,Injection of therapeutic agent,,,,
+357,,,,,C1519433,Special Diet Therapy,,,,
+357,,,,,,,,,C1268087,Upper body structure
+357,,,,,,,,,C0229962,Body part
+358,C0011847,Diabetes,,,,,,,,
+359,C0004135,Ataxia Telangiectasia,,,,,,,,
+359,,,C3714552,Weakness,,,,,,
+359,,,,,,,,,C0018787,Heart
+360,C0011849,Diabetes Mellitus,,,,,,,,
+361,C0497169,hiv-infection/aids,,,,,,,,
+361,,,,,,,,,C0042232,Vagina
+361,,,,,,,,,C0746922,Anatomic Node
+361,,,,,,,,,C1281584,Entire finger
+362,C0497169,hiv-infection/aids,,,,,,,,
+362,,,,,,,,,C0042232,Vagina
+363,C0497169,hiv-infection/aids,,,,,,,,
+363,,,,,C0886384,5 minutes Office visit,,,,
+363,,,,,C0185051,Removal by grinding,,,,
+363,,,,,,,,,C1281591,Entire face
+363,,,,,,,,,C0028429,Nose
+364,C0497169,hiv-infection/aids,,,,,,,,
+364,,,,,,,,,C1550261,Glans
+364,,,,,,,,,C1281584,Entire finger
+364,,,,,,,,,C1280739,Entire penis
+365,C0497169,hiv-infection/aids,,,,,,,,
+365,,,,,C2004459,Abdominoperineal resection,,,,
+365,,,,,,,,,C1253959,Branch of
+366,C0019693,HIV Infections,,,,,,,,
+367,C0497169,hiv-infection/aids,,,,,,,,
+367,,,C0221423,Illness (finding),,,,,,
+367,,,C0007859,Neck Pain,,,,,,
+367,,,C0741585,BODY ACHE,,,,,,
+367,,,C0557875,Tired,,,,,,
+367,,,C0015230,Exanthema,,,,,,
+367,,,C0027497,Nausea,,,,,,
+367,,,C0033774,Pruritus,,,,,,
+367,,,C0231528,Myalgia,,,,,,
+367,,,C0018681,Headache,,,,,,
+367,,,C0030193,Pain,,,,,,
+367,,,C0028081,Night sweats,,,,,,
+367,,,C0085593,Chills,,,,,,
+367,,,,,,,,,C1995013,Set of muscles
+368,C0497169,hiv-infection/aids,,,,,,,,
+368,,,C1260880,Rhinorrhea,,,,,,
+368,,,C0221512,Stomach ache,,,,,,
+368,,,C0242429,Sore Throat,,,,,,
+368,,,C1291077,Abdominal bloating,,,,,,
+368,,,C0014724,Eructation,,,,,,
+368,,,C0085593,Chills,,,,,,
+368,,,,,,,,,C1269612,Entire upper arm
+368,,,,,,,,,C1280698,Entire throat (surface region of neck)
+368,,,,,,,,,C1280541,Entire nerve
+368,,,,,,,,,C0023759,Lip structure
+369,C0497169,hiv-infection/aids,,,,,,,,
+369,,,C0033774,Pruritus,,,,,,
+369,,,C0085624,Burning sensation,,,,,,
+370,C0011847,Diabetes,,,,,,,,
+371,C0011849,Diabetes Mellitus,,,,,,,,
+372,C0011847,Diabetes,,,,,,,,
+373,C0011847,Diabetes,,,,,,,,
+373,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+374,C0011847,Diabetes,,,,,,,,
+374,,,C0857027,Feeling Sick,,,,,,
+375,C0497169,hiv-infection/aids,,,,,,,,
+376,C0011847,Diabetes,,,,,,,,
+376,,,C0849640,skin damage,,,,,,
+376,,,,,C1262684,Allergy treatment,,,,
+376,,,,,C0441610,Reduction - action,,,,
+376,,,,,C0087111,Therapeutic procedure,,,,
+376,,,,,,,,,C0022131,Islets of Langerhans
+376,,,,,,,,,C0030274,Pancreas
+376,,,,,,,,,C0699819,Gut
+376,,,,,,,,,C0229962,Body part
+377,C0011847,Diabetes,,,,,,,,
+377,,,,,C0596199,blood vessel restoration,,,,
+378,C0019693,HIV Infections,,,,,,,,
+378,,,,,,,,,C1281590,Entire head
+379,C0497169,hiv-infection/aids,,,,,,,,
+379,,,C0011991,Diarrhea,,,,,,
+379,,,C0242429,Sore Throat,,,,,,
+379,,,C0849959,feeling dizzy,,,,,,
+380,C0019693,HIV Infections,,,,,,,,
+380,,,C0027769,Nervousness,,,,,,
+380,,,,,,,,,C0003461,Anus
+381,C0497169,hiv-infection/aids,,,,,,,,
+381,,,C0015672,Fatigue,,,,,,
+381,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+381,,,,,C0886384,5 minutes Office visit,,,,
+382,C0497169,hiv-infection/aids,,,,,,,,
+382,,,C0015230,Exanthema,,,,,,
+382,,,C0015672,Fatigue,,,,,,
+382,,,C3714552,Weakness,,,,,,
+382,,,C0344232,Blurred vision,,,,,,
+382,,,C0683369,Clouded consciousness,,,,,,
+382,,,,,,,,,C0448953,Mustache (body structure)
+382,,,,,,,,,C0015420,Eyebrow structure
+382,,,,,,,,,C1269612,Entire upper arm
+382,,,,,,,,,C0036270,Scalp structure
+383,C0497169,hiv-infection/aids,,,,,,,,
+383,,,C0015230,Exanthema,,,,,,
+383,,,C0033774,Pruritus,,,,,,
+383,,,,,,,,,C1278920,Entire stomach
+383,,,,,,,,,C0016536,Forearm
+384,C0497169,hiv-infection/aids,,,,,,,,
+384,,,,,C3687832,DRUGS,,,,
+384,,,,,C0152054,Therapeutic tactile stimulation,,,,
+384,,,,,,,,,C1269612,Entire upper arm
+384,,,,,,,,,C0018563,Hand
+384,,,,,,,,,C0040067,Thumb structure
+384,,,,,,,,,C1281584,Entire finger
+384,,,,,,,,,C1281583,Entire hand
+385,C0011847,Diabetes,,,,,,,,
+385,,,,,C0040431,Tooth Bleaching,,,,
+385,,,,,C0242390,Home Remedies,,,,
+386,C0011847,Diabetes,,,,,,,,
+386,,,C0016512,Foot pain,,,,,,
+386,,,C0085602,Polydipsia,,,,,,
+386,,,,,,,,,C0015392,Eye
+386,,,,,,,,,C0016504,Foot
+387,C0011847,Diabetes,,,,,,,,
+388,C0011847,Diabetes,,,,,,,,
+389,C0011847,Diabetes,,,,,,,,
+390,C0011847,Diabetes,,,,,,,,
+390,,,,,,,,,C1278978,Entire kidney
+390,,,,,,,,,C0030274,Pancreas
+391,C0011847,Diabetes,,,,,,,,
+392,C0011847,Diabetes,,,,,,,,
+392,,,,,C1519433,Special Diet Therapy,,,,
+393,C0011847,Diabetes,,,,,,,,
+393,,,C0015672,Fatigue,,,,,,
+393,,,C2242996,Has tingling sensation,,,,,,
+393,,,,,C1519433,Special Diet Therapy,,,,
+394,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+394,,,C0011991,Diarrhea,,,,,,
+394,,,C0042963,Vomiting,,,,,,
+394,,,,,C1519433,Special Diet Therapy,,,,
+394,,,,,C1522704,Exercise Pain Management,,,,
+394,,,,,,,,,C0423866,Lanugo
+395,C0019693,HIV Infections,,,,,,,,
+395,,,,,C0184967,Insertion of pack (procedure),,,,
+395,,,,,,,,,C0015392,Eye
+395,,,,,,,,,C1184743,bony process
+396,C0497169,hiv-infection/aids,,,,,,,,
+396,,,C0557875,Tired,,,,,,
+396,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+396,,,,,,,,,C0031354,Pharyngeal structure
+397,C0497169,hiv-infection/aids,,,,,,,,
+397,,,C0557875,Tired,,,,,,
+397,,,C0015230,Exanthema,,,,,,
+397,,,C0015672,Fatigue,,,,,,
+397,,,,,,,,,C0040408,Tongue
+398,C0019693,HIV Infections,,,,,,,,
+398,,,,,C0152054,Therapeutic tactile stimulation,,,,
+398,,,,,,,,,C0042232,Vagina
+398,,,,,,,,,C1281584,Entire finger
+398,,,,,,,,,C1281583,Entire hand
+398,,,,,,,,,C1268990,Entire breast
+399,C0021400,Influenza,,,,,,,,
+399,,,,,C0008819,Male Circumcision,,,,
+399,,,,,,,,,C0042232,Vagina
+399,,,,,,,,,C0018563,Hand
+399,,,,,,,,,C0016504,Foot
+400,C0497169,hiv-infection/aids,,,,,,,,
+400,,,C0015230,Exanthema,,,,,,
+400,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+400,,,C0018681,Headache,,,,,,
+400,,,,,,,,,C0042232,Vagina
+400,,,,,,,,,C0003461,Anus
+400,,,,,,,,,C1280698,Entire throat (surface region of neck)
+400,,,,,,,,,C0018563,Hand
+400,,,,,,,,,C0042449,Veins
+400,,,,,,,,,C1280739,Entire penis
+401,C0497169,hiv-infection/aids,,,,,,,,
+401,,,,,C3687832,DRUGS,,,,
+401,,,,,C0087111,Therapeutic procedure,,,,
+402,C0497169,hiv-infection/aids,,,,,,,,
+402,,,C0239783,Inguinal pain,,,,,,
+402,,,C1579838,Sore mouth,,,,,,
+402,,,C0231218,Malaise,,,,,,
+402,,,C0242429,Sore Throat,,,,,,
+402,,,C0522067,Liver pain,,,,,,
+402,,,C0030193,Pain,,,,,,
+402,,,C0236000,Jaw pain,,,,,,
+402,,,C0683369,Clouded consciousness,,,,,,
+402,,,C0013404,Dyspnea,,,,,,
+402,,,,,,,,,C1278920,Entire stomach
+402,,,,,,,,,C0042232,Vagina
+402,,,,,,,,,C0037993,Spleen
+402,,,,,,,,,C0040408,Tongue
+402,,,,,,,,,C0024204,lymph nodes
+402,,,,,,,,,C0521421,Entire ear
+403,C0019693,HIV Infections,,,,,,,,
+403,,,,,,,,,C0042449,Veins
+403,,,,,,,,,C1253959,Branch of
+404,C0497169,hiv-infection/aids,,,,,,,,
+404,,,C0683369,Clouded consciousness,,,,,,
+404,,,,,C0152060,Transection (procedure),,,,
+404,,,,,,,,,C0042449,Veins
+405,C0019693,HIV Infections,,,,,,,,
+405,,,,,,,,,C0018563,Hand
+405,,,,,,,,,C0042449,Veins
+406,C0011847,Diabetes,,,,,,,,
+406,,,,,C0079613,Adoptive Immunotherapy,,,,
+406,,,,,C3267174,Blood Glucose control,,,,
+406,,,,,C0948092,diabetes mellitus management,,,,
+406,,,,,C1522704,Exercise Pain Management,,,,
+406,,,,,C0184967,Insertion of pack (procedure),,,,
+407,C0011847,Diabetes,,,,,,,,
+408,C0497169,hiv-infection/aids,,,,,,,,
+408,,,C0011991,Diarrhea,,,,,,
+408,,,C0027497,Nausea,,,,,,
+408,,,,,C0087111,Therapeutic procedure,,,,
+409,C0011847,Diabetes,,,,,,,,
+409,,,C0039070,Syncope,,,,,,
+410,C0149756,"Fasciitis, Plantar",,,,,,,,
+410,,,C0751372,Nerve Pain,,,,,,
+411,C0011847,Diabetes,,,,,,,,
+411,,,,,C0184661,Interventional procedure,,,,
+412,C0011847,Diabetes,,,,,,,,
+412,,,,,C1519433,Special Diet Therapy,,,,
+412,,,,,C1511790,Detection,,,,
+413,C0011847,Diabetes,,,,,,,,
+413,,,C0221423,Illness (finding),,,,,,
+413,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+413,,,,,C0199782,Administration of insulin,,,,
+414,C0011847,Diabetes,,,,,,,,
+414,,,,,C0152060,Transection (procedure),,,,
+414,,,,,C1522704,Exercise Pain Management,,,,
+414,,,,,C1959633,Spatial guidance for medical procedure,,,,
+415,C0011847,Diabetes,,,,,,,,
+415,,,,,C0021485,Injection of therapeutic agent,,,,
+415,,,,,C0586328,Subcutaneous injection of insulin,,,,
+415,,,,,,,,,C1184743,bony process
+416,C0497169,hiv-infection/aids,,,,,,,,
+416,,,C0003862,Arthralgia,,,,,,
+416,,,C0221423,Illness (finding),,,,,,
+416,,,C2129214,Loose stool,,,,,,
+416,,,C0015230,Exanthema,,,,,,
+416,,,C0235309,Upset stomach,,,,,,
+416,,,C0015672,Fatigue,,,,,,
+416,,,C0149651,Clubbing,,,,,,
+416,,,C0012833,Dizziness,,,,,,
+416,,,,,C0016143,First Aid,,,,
+416,,,,,,,,,C1278985,Entire vagina
+416,,,,,,,,,C0030851,penis
+416,,,,,,,,,C0027342,Nail plate
+416,,,,,,,,,C0042232,Vagina
+416,,,,,,,,,C1268131,Vaginal part
+416,,,,,,,,,C0022359,Jaw
+416,,,,,,,,,C1281592,Entire neck
+416,,,,,,,,,C1269078,Entire upper limb
+417,C0497169,hiv-infection/aids,,,,,,,,
+418,C0497169,hiv-infection/aids,,,,,,,,
+418,,,C0000737,Abdominal Pain,,,,,,
+419,C0014518,Toxic Epidermal Necrolysis,,,,,,,,
+419,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+419,,,,,,,,,C0042232,Vagina
+420,C0497169,hiv-infection/aids,,,,,,,,
+420,,,C0015230,Exanthema,,,,,,
+421,C0497169,hiv-infection/aids,,,,,,,,
+421,,,,,,,,,C0017562,Gingiva
+422,C0497169,hiv-infection/aids,,,,,,,,
+422,,,C0221423,Illness (finding),,,,,,
+422,,,C0011991,Diarrhea,,,,,,
+422,,,C0557875,Tired,,,,,,
+422,,,C3714552,Weakness,,,,,,
+422,,,C0018681,Headache,,,,,,
+422,,,C0474585,Feces color: tarry,,,,,,
+422,,,C0085593,Chills,,,,,,
+422,,,,,,,,,C1281590,Entire head
+423,C0497169,hiv-infection/aids,,,,,,,,
+423,,,C0018681,Headache,,,,,,
+423,,,C0220870,Lightheadedness,,,,,,
+423,,,,,,,,,C0018563,Hand
+423,,,,,,,,,C0003461,Anus
+424,C0019693,HIV Infections,,,,,,,,
+424,,,,,,,,,C0015392,Eye
+425,C0497169,hiv-infection/aids,,,,,,,,
+425,,,,,C0152054,Therapeutic tactile stimulation,,,,
+425,,,,,,,,,C0018563,Hand
+425,,,,,,,,,C0040426,Tooth structure
+426,C0011847,Diabetes,,,,,,,,
+427,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+428,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+429,C0011847,Diabetes,,,,,,,,
+430,C0011849,Diabetes Mellitus,,,,,,,,
+431,C0011847,Diabetes,,,,,,,,
+432,C0011847,Diabetes,,,,,,,,
+432,,,C0221423,Illness (finding),,,,,,
+433,C0011847,Diabetes,,,,,,,,
+434,C0497169,hiv-infection/aids,,,,,,,,
+434,,,,,C0152054,Therapeutic tactile stimulation,,,,
+434,,,,,C0586328,Subcutaneous injection of insulin,,,,
+434,,,,,C0087111,Therapeutic procedure,,,,
+434,,,,,,,,,C0230403,Fifth finger
+435,C0036916,Sexually Transmitted Diseases,,,,,,,,
+435,,,C0392171,Influenza-like symptoms,,,,,,
+435,,,C0030193,Pain,,,,,,
+435,,,C0220870,Lightheadedness,,,,,,
+436,C0497169,hiv-infection/aids,,,,,,,,
+436,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+437,C0263940,Curb,,,,,,,,
+438,C0011847,Diabetes,,,,,,,,
+438,,,C0392674,Exhaustion,,,,,,
+438,,,,,C1519433,Special Diet Therapy,,,,
+438,,,,,C1522704,Exercise Pain Management,,,,
+438,,,,,C0087111,Therapeutic procedure,,,,
+438,,,,,C1959633,Spatial guidance for medical procedure,,,,
+438,,,,,,,,,C1281586,Entire thigh
+438,,,,,,,,,C0016504,Foot
+439,C0497169,hiv-infection/aids,,,,,,,,
+439,,,,,,,,,C0042232,Vagina
+439,,,,,,,,,C1280739,Entire penis
+440,C0497169,hiv-infection/aids,,,,,,,,
+440,,,,,,,,,C1280698,Entire throat (surface region of neck)
+441,C0497169,hiv-infection/aids,,,,,,,,
+442,C0497169,hiv-infection/aids,,,,,,,,
+442,,,,,C0278286,Dressing of skin or wound,,,,
+442,,,,,C0079613,Adoptive Immunotherapy,,,,
+442,,,,,C0152054,Therapeutic tactile stimulation,,,,
+442,,,,,,,,,C0027342,Nail plate
+442,,,,,,,,,C0040067,Thumb structure
+443,C0011849,Diabetes Mellitus,,,,,,,,
+444,C0497169,hiv-infection/aids,,,,,,,,
+444,,,C0011991,Diarrhea,,,,,,
+444,,,C0857027,Feeling Sick,,,,,,
+444,,,C0392171,Influenza-like symptoms,,,,,,
+444,,,,,C0886384,5 minutes Office visit,,,,
+444,,,,,,,,,C0423866,Lanugo
+445,C0011847,Diabetes,,,,,,,,
+446,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+446,,,,,,,,,C1281584,Entire finger
+447,C0497169,hiv-infection/aids,,,,,,,,
+447,,,C0221512,Stomach ache,,,,,,
+447,,,C0848290,sick to stomach,,,,,,
+447,,,,,C1511790,Detection,,,,
+447,,,,,,,,,C0019939,Horns
+448,C0011847,Diabetes,,,,,,,,
+448,,,C0557875,Tired,,,,,,
+448,,,C0231218,Malaise,,,,,,
+448,,,,,C1519433,Special Diet Therapy,,,,
+448,,,,,C1522704,Exercise Pain Management,,,,
+449,C0011849,Diabetes Mellitus,,,,,,,,
+449,,,C0557875,Tired,,,,,,
+449,,,C0027497,Nausea,,,,,,
+449,,,C0015672,Fatigue,,,,,,
+449,,,C0231218,Malaise,,,,,,
+449,,,C0012833,Dizziness,,,,,,
+449,,,C0232471,Thirsty,,,,,,
+449,,,C0018681,Headache,,,,,,
+449,,,C0392674,Exhaustion,,,,,,
+449,,,,,C0152054,Therapeutic tactile stimulation,,,,
+449,,,,,,,,,C1281590,Entire head
+449,,,,,,,,,C0023759,Lip structure
+450,C0011847,Diabetes,,,,,,,,
+451,C0011847,Diabetes,,,,,,,,
+452,C0011847,Diabetes,,,,,,,,
+453,C0011847,Diabetes,,,,,,,,
+454,C0011847,Diabetes,,,,,,,,
+454,,,C3714552,Weakness,,,,,,
+454,,,C0030193,Pain,,,,,,
+454,,,,,,,,,C1279606,Entire left lower leg
+454,,,,,,,,,C0040357,Toes
+454,,,,,,,,,C1269612,Entire upper arm
+454,,,,,,,,,C0018563,Hand
+454,,,,,,,,,C1280541,Entire nerve
+454,,,,,,,,,C1140618,Upper Extremity
+454,,,,,,,,,C0016504,Foot
+455,C0011847,Diabetes,,,,,,,,
+456,C1263960,Diabetes with coma (disorder),,,,,,,,
+456,,,C0042963,Vomiting,,,,,,
+457,C0497169,hiv-infection/aids,,,,,,,,
+457,,,C0027769,Nervousness,,,,,,
+457,,,,,C0040423,Tonsillectomy,,,,
+458,C0497169,hiv-infection/aids,,,,,,,,
+458,,,C0221423,Illness (finding),,,,,,
+458,,,,,C0042387,Vasectomy,,,,
+458,,,,,,,,,C0018563,Hand
+458,,,,,,,,,C1281584,Entire finger
+459,C0497169,hiv-infection/aids,,,,,,,,
+460,C0497169,hiv-infection/aids,,,,,,,,
+460,,,,,C0392879,infusion of cortisone,,,,
+461,C0019693,HIV Infections,,,,,,,,
+462,C0497169,hiv-infection/aids,,,,,,,,
+462,,,,,,,,,C0030851,penis
+462,,,,,,,,,C0018563,Hand
+463,C0019693,HIV Infections,,,,,,,,
+464,C0497169,hiv-infection/aids,,,,,,,,
+464,,,,,C0087111,Therapeutic procedure,,,,
+464,,,,,,,,,C0018563,Hand
+464,,,,,,,,,C0930960,Left index finger
+464,,,,,,,,,C1281584,Entire finger
+465,C0497169,hiv-infection/aids,,,,,,,,
+465,,,C0231218,Malaise,,,,,,
+465,,,,,,,,,C0042232,Vagina
+465,,,,,,,,,C0024204,lymph nodes
+465,,,,,,,,,C0041967,Urethra
+466,C0011847,Diabetes,,,,,,,,
+466,,,,,C1519433,Special Diet Therapy,,,,
+466,,,,,C1522704,Exercise Pain Management,,,,
+467,C0011847,Diabetes,,,,,,,,
+468,C1535939,Pneumocystis jiroveci pneumonia,,,,,,,,
+469,C0011847,Diabetes,,,,,,,,
+469,,,C0232471,Thirsty,,,,,,
+469,,,,,,,,,C0018563,Hand
+469,,,,,,,,,C0016504,Foot
+470,C0011847,Diabetes,,,,,,,,
+471,C0011847,Diabetes,,,,,,,,
+472,C0362046,Prediabetes syndrome,,,,,,,,
+472,,,,,C1522704,Exercise Pain Management,,,,
+473,C0011847,Diabetes,,,,,,,,
+473,,,,,C2937251,sliding scale,,,,
+474,C0497169,hiv-infection/aids,,,,,,,,
+474,,,,,,,,,C0042232,Vagina
+474,,,,,,,,,C0746922,Anatomic Node
+474,,,,,,,,,C1281584,Entire finger
+475,C0497169,hiv-infection/aids,,,,,,,,
+476,C0497169,hiv-infection/aids,,,,,,,,
+477,C0497169,hiv-infection/aids,,,,,,,,
+477,,,C0221423,Illness (finding),,,,,,
+477,,,C0392171,Influenza-like symptoms,,,,,,
+477,,,C0241727,walking pain,,,,,,
+477,,,C0234233,Sore to touch,,,,,,
+477,,,,,,,,,C0030851,penis
+477,,,,,,,,,C0022742,Knee
+478,C0497169,hiv-infection/aids,,,,,,,,
+478,,,C0015230,Exanthema,,,,,,
+478,,,C0242429,Sore Throat,,,,,,
+478,,,C0850149,Dry cough,,,,,,
+478,,,,,C0152054,Therapeutic tactile stimulation,,,,
+478,,,,,,,,,C0042232,Vagina
+478,,,,,,,,,C0018563,Hand
+478,,,,,,,,,C1278927,Entire anus
+478,,,,,,,,,C1280739,Entire penis
+479,C0497169,hiv-infection/aids,,,,,,,,
+479,,,,,,,,,C0042232,Vagina
+479,,,,,,,,,C0746922,Anatomic Node
+479,,,,,,,,,C1281584,Entire finger
+480,C0497169,hiv-infection/aids,,,,,,,,
+480,,,,,,,,,C0042232,Vagina
+480,,,,,,,,,C0746922,Anatomic Node
+480,,,,,,,,,C1281584,Entire finger
+481,C0011847,Diabetes,,,,,,,,
+481,,,,,C0600080,Stretching exercises,,,,
+481,,,,,C0021485,Injection of therapeutic agent,,,,
+481,,,,,C1519433,Special Diet Therapy,,,,
+481,,,,,,,,,C0023884,Liver
+482,C0011847,Diabetes,,,,,,,,
+483,C0011847,Diabetes,,,,,,,,
+484,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+485,C0011847,Diabetes,,,,,,,,
+486,C0011847,Diabetes,,,,,,,,
+486,,,C0221423,Illness (finding),,,,,,
+486,,,,,,,,,C0040426,Tooth structure
+486,,,,,,,,,C0262950,Skeletal bone
+487,C0011847,Diabetes,,,,,,,,
+487,,,,,,,,,C0004895,Beak
+487,,,,,,,,,C0018563,Hand
+487,,,,,,,,,C0040426,Tooth structure
+487,,,,,,,,,C1184743,bony process
+488,C0011847,Diabetes,,,,,,,,
+488,,,C0028643,Numbness,,,,,,
+488,,,C0235129,Feeling strange,,,,,,
+488,,,C0221423,Illness (finding),,,,,,
+488,,,C0239649,Numbness of foot,,,,,,
+488,,,C0231218,Malaise,,,,,,
+488,,,C0020175,Hunger,,,,,,
+488,,,C0015672,Fatigue,,,,,,
+488,,,C0085593,Chills,,,,,,
+488,,,,,C0393040,cisplatin/ifosfamide/mesna/mitomycin protocol,,,,
+488,,,,,C0011878,Diabetic Diet,,,,
+488,,,,,,,,,C1305418,Entire calf of leg (body structure)
+489,C0011847,Diabetes,,,,,,,,
+490,C0011847,Diabetes,,,,,,,,
+490,,,,,C0175795,oral medication,,,,
+490,,,,,C0199782,Administration of insulin,,,,
+491,C0019340,herpes,,,,,,,,
+491,,,C0006625,Cachexia,,,,,,
+492,C0497169,hiv-infection/aids,,,,,,,,
+492,,,,,,,,,C1281590,Entire head
+493,C0497169,hiv-infection/aids,,,,,,,,
+494,C0011847,Diabetes,,,,,,,,
+494,,,,,C1697762,Booster Immunization - ActSubstanceAdministrationCode,,,,
+495,C0011847,Diabetes,,,,,,,,
+495,,,C0011991,Diarrhea,,,,,,
+496,C0497169,hiv-infection/aids,,,,,,,,
+496,,,C0221512,Stomach ache,,,,,,
+496,,,C3640014,Unbearable Pain,,,,,,
+496,,,C0000737,Abdominal Pain,,,,,,
+496,,,C0012833,Dizziness,,,,,,
+496,,,C0013456,Earache,,,,,,
+496,,,C0344375,Stomach cramps (finding),,,,,,
+496,,,C0220870,Lightheadedness,,,,,,
+496,,,C0027769,Nervousness,,,,,,
+496,,,,,,,,,C1278920,Entire stomach
+496,,,,,,,,,C1280698,Entire throat (surface region of neck)
+496,,,,,,,,,C0521421,Entire ear
+497,C0011847,Diabetes,,,,,,,,
+497,,,C0497406,Overweight,,,,,,
+497,,,C0015672,Fatigue,,,,,,
+497,,,C0232471,Thirsty,,,,,,
+497,,,,,C1522704,Exercise Pain Management,,,,
+497,,,,,C3275067,Cardiac Lead Procedure,,,,
+497,,,,,,,,,C0015665,Fat Body
+497,,,,,,,,,C0030274,Pancreas
+497,,,,,,,,,C0023884,Liver
+498,C0011847,Diabetes,,,,,,,,
+498,,,C0220870,Lightheadedness,,,,,,
+499,C0011847,Diabetes,,,,,,,,
+499,,,C0042963,Vomiting,,,,,,
+499,,,C0027497,Nausea,,,,,,
+499,,,C0015672,Fatigue,,,,,,
+499,,,C0497406,Overweight,,,,,,
+499,,,C0344232,Blurred vision,,,,,,
+500,C0011849,Diabetes Mellitus,,,,,,,,
+500,,,C0596601,gastrointestinal gas,,,,,,
+500,,,,,C0886384,5 minutes Office visit,,,,
+500,,,,,,,,,C0018563,Hand
+500,,,,,,,,,C1269078,Entire upper limb
+501,C0011847,Diabetes,,,,,,,,
+501,,,,,C3687832,DRUGS,,,,
+501,,,,,C0040808,Treatment Protocols,,,,
+501,,,,,C1293124,Staple implantation procedure,,,,
+501,,,,,C0282046,"Surgery, Day",,,,
+501,,,,,C1519433,Special Diet Therapy,,,,
+501,,,,,C1456587,Bariatric Surgery,,,,
+501,,,,,C1522704,Exercise Pain Management,,,,
+501,,,,,C0087111,Therapeutic procedure,,,,
+501,,,,,C1135440,Procedures involving the use of pharmaceuticals,,,,
+501,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+501,,,,,,,,,C0023884,Liver
+501,,,,,,,,,C0038351,Stomach
+502,C0011849,Diabetes Mellitus,,,,,,,,
+502,,,C0023218,Leg cramps,,,,,,
+502,,,,,C1522704,Exercise Pain Management,,,,
+503,C0011847,Diabetes,,,,,,,,
+504,C0011847,Diabetes,,,,,,,,
+504,,,,,C2945673,Clinical adjustment,,,,
+505,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+505,,,,,,,,,C1278920,Entire stomach
+506,C0019693,HIV Infections,,,,,,,,
+507,C0011847,Diabetes,,,,,,,,
+507,,,C0221423,Illness (finding),,,,,,
+507,,,C0557875,Tired,,,,,,
+508,C0001175,Acquired Immunodeficiency Syndrome,,,,,,,,
+508,,,,,C0152054,Therapeutic tactile stimulation,,,,
+508,,,,,,,,,C0042232,Vagina
+509,C0011847,Diabetes,,,,,,,,
+510,C0011847,Diabetes,,,,,,,,
+511,C0497169,hiv-infection/aids,,,,,,,,
+511,,,C0242429,Sore Throat,,,,,,
+511,,,,,C0152054,Therapeutic tactile stimulation,,,,
+511,,,,,,,,,C0018563,Hand
+511,,,,,,,,,C0040426,Tooth structure
+512,C1704330,Dental Diseases,,,,,,,,
+512,,,C1442877,Sore skin,,,,,,
+512,,,,,,,,,C0030851,penis
+513,C0497169,hiv-infection/aids,,,,,,,,
+514,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+515,C0497169,hiv-infection/aids,,,,,,,,
+516,C0497169,hiv-infection/aids,,,,,,,,
+516,,,,,C0152054,Therapeutic tactile stimulation,,,,
+516,,,,,C0024875,Massage,,,,
+516,,,,,C0087111,Therapeutic procedure,,,,
+516,,,,,C0150347,Simple massage,,,,
+516,,,,,,,,,C1278997,Entire scalp
+516,,,,,,,,,C1269612,Entire upper arm
+516,,,,,,,,,C0018563,Hand
+516,,,,,,,,,C0015392,Eye
+516,,,,,,,,,C0018494,Hair
+516,,,,,,,,,C1281583,Entire hand
+517,C0497169,hiv-infection/aids,,,,,,,,
+517,,,,,,,,,C0039597,Testis
+517,,,,,,,,,C1269078,Entire upper limb
+518,C0497169,hiv-infection/aids,,,,,,,,
+519,C0497169,hiv-infection/aids,,,,,,,,
+520,C0011849,Diabetes Mellitus,,,,,,,,
+520,,,,,C0441636,Surgical shortening - action,,,,
+520,,,,,,,,,C0018787,Heart
+520,,,,,,,,,C0006104,Brain
+521,C0011847,Diabetes,,,,,,,,
+522,C0011847,Diabetes,,,,,,,,
+523,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+523,,,,,C1519433,Special Diet Therapy,,,,
+524,C0011847,Diabetes,,,,,,,,
+524,,,C0018834,Heartburn,,,,,,
+524,,,C0557875,Tired,,,,,,
+524,,,C0085631,Agitation,,,,,,
+524,,,C0497406,Overweight,,,,,,
+524,,,C0240941,Pruritus of scalp,,,,,,
+524,,,C0018681,Headache,,,,,,
+524,,,C0004604,Back Pain,,,,,,
+524,,,C0030193,Pain,,,,,,
+524,,,C0007859,Neck Pain,,,,,,
+524,,,C3257803,Watery eyes,,,,,,
+524,,,C0027497,Nausea,,,,,,
+524,,,C0033774,Pruritus,,,,,,
+524,,,C0600142,Hot flushes,,,,,,
+524,,,C0232431,Cold sweat,,,,,,
+524,,,C0683369,Clouded consciousness,,,,,,
+524,,,,,C0152277,Incision and drainage,,,,
+524,,,,,,,,,C0224086,Belly of skeletal muscle
+524,,,,,,,,,C0230348,Both upper arms
+524,,,,,,,,,C1269612,Entire upper arm
+524,,,,,,,,,C0018563,Hand
+524,,,,,,,,,C1280698,Entire throat (surface region of neck)
+524,,,,,,,,,C0022742,Knee
+524,,,,,,,,,C0040426,Tooth structure
+524,,,,,,,,,C0022359,Jaw
+524,,,,,,,,,C1281592,Entire neck
+524,,,,,,,,,C0016504,Foot
+525,C0011847,Diabetes,,,,,,,,
+525,,,,,C1522704,Exercise Pain Management,,,,
+525,,,,,,,,,C0022646,Kidney
+526,C0011847,Diabetes,,,,,,,,
+527,C0263537,Onychogryposis,,,,,,,,
+527,,,,,C0850352,pedicure,,,,
+527,,,,,C0204774,Soaking Procedure,,,,
+527,,,,,C0441645,Trimming - action,,,,
+527,,,,,,,,,C0018534,Hallux structure
+527,,,,,,,,,C0027342,Nail plate
+527,,,,,,,,,C1281589,Entire toe
+527,,,,,,,,,C0016504,Foot
+528,C0497169,hiv-infection/aids,,,,,,,,
+528,,,C0015230,Exanthema,,,,,,
+528,,,,,C0152054,Therapeutic tactile stimulation,,,,
+528,,,,,,,,,C0004895,Beak
+528,,,,,,,,,C1281584,Entire finger
+528,,,,,,,,,C1281583,Entire hand
+528,,,,,,,,,C0028429,Nose
+529,C0497169,hiv-infection/aids,,,,,,,,
+529,,,,,C0021485,Injection of therapeutic agent,,,,
+530,C0497169,hiv-infection/aids,,,,,,,,
+530,,,C0003862,Arthralgia,,,,,,
+530,,,C0221423,Illness (finding),,,,,,
+530,,,C2129214,Loose stool,,,,,,
+530,,,C0015230,Exanthema,,,,,,
+530,,,C0235309,Upset stomach,,,,,,
+530,,,C0015672,Fatigue,,,,,,
+530,,,C0149651,Clubbing,,,,,,
+530,,,C0012833,Dizziness,,,,,,
+530,,,,,C0016143,First Aid,,,,
+530,,,,,,,,,C0027342,Nail plate
+530,,,,,,,,,C0042232,Vagina
+530,,,,,,,,,C1268131,Vaginal part
+530,,,,,,,,,C0022359,Jaw
+530,,,,,,,,,C1281592,Entire neck
+530,,,,,,,,,C1269078,Entire upper limb
+531,C0497169,hiv-infection/aids,,,,,,,,
+531,,,C0015230,Exanthema,,,,,,
+531,,,C0850149,Dry cough,,,,,,
+531,,,C0018681,Headache,,,,,,
+531,,,C0234233,Sore to touch,,,,,,
+531,,,,,C1293134,Enlargement procedure,,,,
+531,,,,,,,,,C0030851,penis
+531,,,,,,,,,C0746922,Anatomic Node
+531,,,,,,,,,C1269078,Entire upper limb
+532,C0497169,hiv-infection/aids,,,,,,,,
+532,,,C2242996,Has tingling sensation,,,,,,
+532,,,,,,,,,C0018563,Hand
+532,,,,,,,,,C0016504,Foot
+533,C0497169,hiv-infection/aids,,,,,,,,
+533,,,C0578687,Sore eye,,,,,,
+533,,,C0015230,Exanthema,,,,,,
+533,,,C0312422,Blackout - symptom,,,,,,
+533,,,C0231218,Malaise,,,,,,
+533,,,C0040822,Tremor,,,,,,
+533,,,C0030193,Pain,,,,,,
+533,,,C0026821,Muscle Cramp,,,,,,
+533,,,C0221512,Stomach ache,,,,,,
+533,,,C0232292,Chest tightness,,,,,,
+533,,,C0392171,Influenza-like symptoms,,,,,,
+533,,,C0242429,Sore Throat,,,,,,
+533,,,C0033774,Pruritus,,,,,,
+533,,,C0847550,red nose,,,,,,
+533,,,C0234233,Sore to touch,,,,,,
+533,,,C0013404,Dyspnea,,,,,,
+533,,,C0019825,Hoarseness,,,,,,
+533,,,,,C3687832,DRUGS,,,,
+533,,,,,,,,,C1280698,Entire throat (surface region of neck)
+533,,,,,,,,,C1285092,Gland
+533,,,,,,,,,C0038351,Stomach
+533,,,,,,,,,C0028429,Nose
+533,,,,,,,,,C1281592,Entire neck
+534,C0019693,HIV Infections,,,,,,,,
+535,C0497169,hiv-infection/aids,,,,,,,,
+535,,,,,C0279848,cisplatin/etoposide/mitoxantrone/tamoxifen protocol,,,,
+535,,,,,,,,,C0003461,Anus
+536,C0011847,Diabetes,,,,,,,,
+536,,,,,C0278286,Dressing of skin or wound,,,,
+536,,,,,,,,,C1281589,Entire toe
+537,C0497169,hiv-infection/aids,,,,,,,,
+538,C0497169,hiv-infection/aids,,,,,,,,
+538,,,C0239589,Pain in finger,,,,,,
+538,,,,,C0193788,Total thyroidectomy (procedure),,,,
+538,,,,,,,,,C0003461,Anus
+538,,,,,,,,,C1281584,Entire finger
+539,C0011847,Diabetes,,,,,,,,
+540,C0019693,HIV Infections,,,,,,,,
+540,,,C0015230,Exanthema,,,,,,
+540,,,,,C0152054,Therapeutic tactile stimulation,,,,
+540,,,,,,,,,C0004895,Beak
+540,,,,,,,,,C0018563,Hand
+540,,,,,,,,,C0222001,Structure of nail of finger
+540,,,,,,,,,C1281584,Entire finger
+540,,,,,,,,,C0028429,Nose
+541,C0011847,Diabetes,,,,,,,,
+542,C0011847,Diabetes,,,,,,,,
+542,,,C3714552,Weakness,,,,,,
+542,,,C0302539,spells (neurological symptom),,,,,,
+542,,,,,C0199782,Administration of insulin,,,,
+542,,,,,C0199176,Prophylactic treatment,,,,
+542,,,,,C2960841,Lifestyle change therapy,,,,
+542,,,,,C0745343,insulin treatment,,,,
+542,,,,,C0087111,Therapeutic procedure,,,,
+542,,,,,C3275067,Cardiac Lead Procedure,,,,
+542,,,,,C0441516,Demand (clinical),,,,
+542,,,,,,,,,C1269537,Entire brain
+542,,,,,,,,,C0230446,Both lower legs
+542,,,,,,,,,C0040452,Tooth root structure
+542,,,,,,,,,C0019564,Hippocampus (Brain)
+542,,,,,,,,,C0006104,Brain
+542,,,,,,,,,C1184743,bony process
+542,,,,,,,,,C0016504,Foot
+543,C0011847,Diabetes,,,,,,,,
+543,,,C0012833,Dizziness,,,,,,
+543,,,C0231749,Knee pain,,,,,,
+543,,,,,C0152277,Incision and drainage,,,,
+543,,,,,C1522704,Exercise Pain Management,,,,
+543,,,,,,,,,C0025148,Medulla Oblongata
+543,,,,,,,,,C0022742,Knee
+543,,,,,,,,,C0016504,Foot
+544,C0011847,Diabetes,,,,,,,,
+545,C0004135,Ataxia Telangiectasia,,,,,,,,
+546,C0011847,Diabetes,,,,,,,,
+547,C0011847,Diabetes,,,,,,,,
+547,,,,,C1522704,Exercise Pain Management,,,,
+547,,,,,,,,,C0262950,Skeletal bone
+548,C0011847,Diabetes,,,,,,,,
+548,,,,,C0279266,carmustine/methotrexate/procarbazine protocol,,,,
+549,C0011847,Diabetes,,,,,,,,
+549,,,C0003862,Arthralgia,,,,,,
+549,,,C0009806,Constipation,,,,,,
+549,,,C0232471,Thirsty,,,,,,
+549,,,C0231528,Myalgia,,,,,,
+549,,,C0018681,Headache,,,,,,
+549,,,C0917801,Sleeplessness,,,,,,
+549,,,,,C0557033,Reminding,,,,
+549,,,,,C0452415,Diet good,,,,
+549,,,,,C1522704,Exercise Pain Management,,,,
+549,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+549,,,,,,,,,C1268986,Entire trochlear nerve
+550,C0011847,Diabetes,,,,,,,,
+550,,,,,C1522704,Exercise Pain Management,,,,
+551,C0011847,Diabetes,,,,,,,,
+551,,,,,C0392920,Chemotherapy Regimen,,,,
+551,,,,,C0021083,Immunotherapy,,,,
+551,,,,,C0079613,Adoptive Immunotherapy,,,,
+551,,,,,C0085162,Pancreaticoduodenectomy,,,,
+551,,,,,C0557061,Discussion (procedure),,,,
+551,,,,,C0087111,Therapeutic procedure,,,,
+551,,,,,,,,,C0376161,Comb animal structure
+551,,,,,,,,,C0030274,Pancreas
+551,,,,,,,,,C0023884,Liver
+552,C0011847,Diabetes,,,,,,,,
+552,,,,,,,,,C0042232,Vagina
+553,C0011847,Diabetes,,,,,,,,
+553,,,C0036572,Seizures,,,,,,
+554,C0497169,hiv-infection/aids,,,,,,,,
+554,,,,,C0886384,5 minutes Office visit,,,,
+554,,,,,C0204774,Soaking Procedure,,,,
+554,,,,,C0040461,Toothbrushing,,,,
+554,,,,,,,,,C0042232,Vagina
+554,,,,,,,,,C0015392,Eye
+554,,,,,,,,,C0040408,Tongue
+554,,,,,,,,,C1281584,Entire finger
+554,,,,,,,,,C1281591,Entire face
+555,C0011847,Diabetes,,,,,,,,
+555,,,C0028643,Numbness,,,,,,
+555,,,C0234238,Ache,,,,,,
+555,,,C0023222,Pain in lower limb,,,,,,
+555,,,C0221758,Stiff back,,,,,,
+555,,,C0239649,Numbness of foot,,,,,,
+555,,,C0574002,Edema of foot (finding),,,,,,
+555,,,C0238656,Ankle pain,,,,,,
+555,,,C3714552,Weakness,,,,,,
+555,,,C0427008,Stiffness,,,,,,
+555,,,C0030193,Pain,,,,,,
+555,,,C0392674,Exhaustion,,,,,,
+555,,,,,,,,,C0230102,Lower back structure
+555,,,,,,,,,C1279605,Entire right lower leg
+555,,,,,,,,,C0018787,Heart
+555,,,,,,,,,C0022122,Bone structure of ischium
+555,,,,,,,,,C0037941,Spinal nerve structure
+555,,,,,,,,,C1279998,Entire right foot
+555,,,,,,,,,C1281586,Entire thigh
+555,,,,,,,,,C1280541,Entire nerve
+555,,,,,,,,,C0037949,Vertebral column
+555,,,,,,,,,C0024109,Lung
+555,,,,,,,,,C0003842,Arteries
+555,,,,,,,,,C0016504,Foot
+556,C0497169,hiv-infection/aids,,,,,,,,
+556,,,C0235108,Feeling tense,,,,,,
+556,,,C0234238,Ache,,,,,,
+556,,,C0221170,Muscular stiffness,,,,,,
+556,,,C0085624,Burning sensation,,,,,,
+556,,,C0030193,Pain,,,,,,
+556,,,,,,,,,C0018787,Heart
+556,,,,,,,,,C1269612,Entire upper arm
+556,,,,,,,,,C0018563,Hand
+556,,,,,,,,,C0559499,Biceps brachii muscle structure
+556,,,,,,,,,C1268255,Entire right upper arm
+556,,,,,,,,,C1281584,Entire finger
+556,,,,,,,,,C0016536,Forearm
+557,C0497169,hiv-infection/aids,,,,,,,,
+557,,,C0015230,Exanthema,,,,,,
+557,,,C0010200,Coughing,,,,,,
+557,,,C0027769,Nervousness,,,,,,
+557,,,,,,,,,C1278920,Entire stomach
+558,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+558,,,,,C0188605,Amputation of the foot (procedure),,,,
+559,C0497169,hiv-infection/aids,,,,,,,,
+559,,,C0151908,Dry skin,,,,,,
+559,,,C0234233,Sore to touch,,,,,,
+559,,,,,,,,,C1280739,Entire penis
+560,C0011847,Diabetes,,,,,,,,
+560,,,C0020175,Hunger,,,,,,
+560,,,,,C1519433,Special Diet Therapy,,,,
+561,C0011847,Diabetes,,,,,,,,
+561,,,,,C1959633,Spatial guidance for medical procedure,,,,
+562,C0011847,Diabetes,,,,,,,,
+563,C0011847,Diabetes,,,,,,,,
+564,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+565,C0011847,Diabetes,,,,,,,,
+566,C0011847,Diabetes,,,,,,,,
+567,C0011847,Diabetes,,,,,,,,
+567,,,,,C1519433,Special Diet Therapy,,,,
+568,C0497169,hiv-infection/aids,,,,,,,,
+568,,,,,C0021485,Injection of therapeutic agent,,,,
+568,,,,,,,,,C0042232,Vagina
+568,,,,,,,,,C1280698,Entire throat (surface region of neck)
+568,,,,,,,,,C0040408,Tongue
+568,,,,,,,,,C1278916,Entire parotid gland
+569,C0011847,Diabetes,,,,,,,,
+569,,,C0016512,Foot pain,,,,,,
+569,,,C0233401,Psychiatric symptom,,,,,,
+569,,,C0497406,Overweight,,,,,,
+569,,,C2242996,Has tingling sensation,,,,,,
+569,,,,,,,,,C1305418,Entire calf of leg (body structure)
+569,,,,,,,,,C0018563,Hand
+569,,,,,,,,,C1281591,Entire face
+569,,,,,,,,,C0016504,Foot
+570,C0497169,hiv-infection/aids,,,,,,,,
+570,,,C0030193,Pain,,,,,,
+570,,,,,C0024875,Massage,,,,
+570,,,,,,,,,C0030851,penis
+570,,,,,,,,,C1278927,Entire anus
+571,C0497169,hiv-infection/aids,,,,,,,,
+571,,,,,C0872145,Directly Observed Therapy,,,,
+572,C0497169,hiv-infection/aids,,,,,,,,
+573,C0497169,hiv-infection/aids,,,,,,,,
+573,,,C0018681,Headache,,,,,,
+573,,,C0013456,Earache,,,,,,
+573,,,,,,,,,C0040421,Palatine Tonsil
+574,C0497169,hiv-infection/aids,,,,,,,,
+574,,,,,,,,,C0042232,Vagina
+575,C0497169,hiv-infection/aids,,,,,,,,
+575,,,C0231218,Malaise,,,,,,
+575,,,C0848283,rundown,,,,,,
+575,,,,,C0079613,Adoptive Immunotherapy,,,,
+576,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+577,C0497169,hiv-infection/aids,,,,,,,,
+578,C0497169,hiv-infection/aids,,,,,,,,
+578,,,C1096446,slight fever,,,,,,
+578,,,C0011991,Diarrhea,,,,,,
+578,,,C0015672,Fatigue,,,,,,
+578,,,C0231218,Malaise,,,,,,
+578,,,C0242429,Sore Throat,,,,,,
+578,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+578,,,,,,,,,C0588054,Cervical lymph node group
+578,,,,,,,,,C1281592,Entire neck
+579,C0497169,hiv-infection/aids,,,,,,,,
+580,C0497169,hiv-infection/aids,,,,,,,,
+580,,,C0221423,Illness (finding),,,,,,
+580,,,C0007859,Neck Pain,,,,,,
+580,,,C0741585,BODY ACHE,,,,,,
+580,,,C0557875,Tired,,,,,,
+580,,,C0027497,Nausea,,,,,,
+580,,,C0033774,Pruritus,,,,,,
+580,,,C0231528,Myalgia,,,,,,
+580,,,C0018681,Headache,,,,,,
+580,,,C0030193,Pain,,,,,,
+580,,,C0028081,Night sweats,,,,,,
+580,,,C0085593,Chills,,,,,,
+580,,,,,,,,,C1995013,Set of muscles
+581,C0497169,hiv-infection/aids,,,,,,,,
+581,,,,,C0152054,Therapeutic tactile stimulation,,,,
+581,,,,,,,,,C0023759,Lip structure
+582,C0011847,Diabetes,,,,,,,,
+583,C0011847,Diabetes,,,,,,,,
+583,,,C0235309,Upset stomach,,,,,,
+583,,,,,C0005961,Bone Marrow Transplantation,,,,
+583,,,,,,,C0986239,glimepiride 1 MG,,
+583,,,,,,,,,C0019552,Hip structure
+584,C0011847,Diabetes,,,,,,,,
+585,C0011849,Diabetes Mellitus,,,,,,,,
+586,C0011847,Diabetes,,,,,,,,
+586,,,C0012833,Dizziness,,,,,,
+586,,,C0018681,Headache,,,,,,
+586,,,C0220870,Lightheadedness,,,,,,
+587,C0011847,Diabetes,,,,,,,,
+587,,,,,C0152054,Therapeutic tactile stimulation,,,,
+587,,,,,C1519433,Special Diet Therapy,,,,
+588,C0011847,Diabetes,,,,,,,,
+588,,,,,,,,,C1288949,Entire left hand
+589,C0011847,Diabetes,,,,,,,,
+589,,,C0497406,Overweight,,,,,,
+589,,,,,C0087111,Therapeutic procedure,,,,
+590,C0497169,hiv-infection/aids,,,,,,,,
+591,C0011847,Diabetes,,,,,,,,
+592,C0497169,hiv-infection/aids,,,,,,,,
+593,C0497169,hiv-infection/aids,,,,,,,,
+594,C0011847,Diabetes,,,,,,,,
+594,,,,,C0087111,Therapeutic procedure,,,,
+594,,,,,,,,,C1278836,Entire spinal cord
+594,,,,,,,,,C0006104,Brain
+595,C0497169,hiv-infection/aids,,,,,,,,
+595,,,C0557875,Tired,,,,,,
+595,,,,,,,,,C1995013,Set of muscles
+596,C0497169,hiv-infection/aids,,,,,,,,
+596,,,,,,,,,C0017562,Gingiva
+596,,,,,,,,,C0026639,Oral mucous membrane structure
+597,C0497169,hiv-infection/aids,,,,,,,,
+597,,,,,,,,,C0003461,Anus
+598,C0004096,Asthma,,,,,,,,
+598,,,C0010200,Coughing,,,,,,
+598,,,,,C3687832,DRUGS,,,,
+598,,,,,,,,,C0699819,Gut
+599,C0497169,hiv-infection/aids,,,,,,,,
+599,,,C0242429,Sore Throat,,,,,,
+599,,,C0234233,Sore to touch,,,,,,
+599,,,,,,,,,C0040408,Tongue
+600,C0497169,hiv-infection/aids,,,,,,,,
+600,,,C0085624,Burning sensation,,,,,,
+600,,,C0242429,Sore Throat,,,,,,
+600,,,,,,,,,C0040408,Tongue
+601,C0019693,HIV Infections,,,,,,,,
+602,C0037036,Sialorrhea,,,,,,,,
+603,C0011847,Diabetes,,,,,,,,
+603,,,C0030193,Pain,,,,,,
+603,,,,,,,,,C0230102,Lower back structure
+603,,,,,,,,,C0018563,Hand
+603,,,,,,,,,C0022742,Knee
+603,,,,,,,,,C1281592,Entire neck
+604,C0011847,Diabetes,,,,,,,,
+605,C0011847,Diabetes,,,,,,,,
+605,,,,,C0301571,Liquid diet,,,,
+605,,,,,C0452415,Diet good,,,,
+605,,,,,C1522704,Exercise Pain Management,,,,
+606,C0011847,Diabetes,,,,,,,,
+606,,,,,C0021485,Injection of therapeutic agent,,,,
+607,C0019360,Herpes zoster disease,,,,,,,,
+607,,,C0030193,Pain,,,,,,
+607,,,,,,,,,C0042232,Vagina
+607,,,,,,,,,C0003461,Anus
+607,,,,,,,,,C1281586,Entire thigh
+607,,,,,,,,,C1279153,Entire cheek
+608,C0011847,Diabetes,,,,,,,,
+609,C0011847,Diabetes,,,,,,,,
+609,,,C0518214,Perceived quality of life,,,,,,
+609,,,C0231218,Malaise,,,,,,
+609,,,C0030193,Pain,,,,,,
+609,,,,,C0557061,Discussion (procedure),,,,
+609,,,,,C0087111,Therapeutic procedure,,,,
+609,,,,,,,,,C0021853,Intestines
+610,C0011847,Diabetes,,,,,,,,
+610,,,C0235309,Upset stomach,,,,,,
+610,,,C0020175,Hunger,,,,,,
+610,,,,,,,,,C1278920,Entire stomach
+610,,,,,,,,,C0021853,Intestines
+611,C0497169,hiv-infection/aids,,,,,,,,
+611,,,C0015230,Exanthema,,,,,,
+611,,,C0085624,Burning sensation,,,,,,
+611,,,,,,,,,C0227952,Foreskin of penis
+611,,,,,,,,,C1280739,Entire penis
+612,C0497169,hiv-infection/aids,,,,,,,,
+612,,,C0741585,BODY ACHE,,,,,,
+612,,,C0015230,Exanthema,,,,,,
+612,,,C0242429,Sore Throat,,,,,,
+612,,,C0028081,Night sweats,,,,,,
+612,,,,,C1959633,Spatial guidance for medical procedure,,,,
+612,,,,,,,,,C1281584,Entire finger
+613,C0497169,hiv-infection/aids,,,,,,,,
+613,,,C0857057,blotchy,,,,,,
+613,,,C0033774,Pruritus,,,,,,
+614,C0030360,Papillon-Lefevre Disease,,,,,,,,
+614,,,C0221423,Illness (finding),,,,,,
+615,C0497169,hiv-infection/aids,,,,,,,,
+615,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+615,,,C0018681,Headache,,,,,,
+615,,,C0030193,Pain,,,,,,
+615,,,C0028081,Night sweats,,,,,,
+615,,,C0234233,Sore to touch,,,,,,
+615,,,,,C0152054,Therapeutic tactile stimulation,,,,
+615,,,,,,,,,C1281590,Entire head
+615,,,,,,,,,C0018563,Hand
+615,,,,,,,,,C0003461,Anus
+615,,,,,,,,,C1280739,Entire penis
+616,C0497169,hiv-infection/aids,,,,,,,,
+616,,,C0015230,Exanthema,,,,,,
+616,,,C0033774,Pruritus,,,,,,
+617,C0011847,Diabetes,,,,,,,,
+618,C0011847,Diabetes,,,,,,,,
+618,,,,,C0474166,Medical counseling,,,,
+619,C0011847,Diabetes,,,,,,,,
+620,C0011847,Diabetes,,,,,,,,
+620,,,,,C1285306,Immune system destructive procedure,,,,
+620,,,,,,,,,C0030274,Pancreas
+621,C0011847,Diabetes,,,,,,,,
+621,,,,,C1522704,Exercise Pain Management,,,,
+621,,,,,,,,,C0022742,Knee
+621,,,,,,,,,C0016504,Foot
+622,C0011847,Diabetes,,,,,,,,
+623,C0011847,Diabetes,,,,,,,,
+623,,,C0312414,Menstrual spotting,,,,,,
+624,C0011847,Diabetes,,,,,,,,
+625,C0027051,Myocardial Infarction,,,,,,,,
+625,,,C0221512,Stomach ache,,,,,,
+625,,,C0231218,Malaise,,,,,,
+625,,,C0030193,Pain,,,,,,
+625,,,,,C0079613,Adoptive Immunotherapy,,,,
+625,,,,,,,,,C0224086,Belly of skeletal muscle
+626,C0014518,Toxic Epidermal Necrolysis,,,,,,,,
+626,,,C0030193,Pain,,,,,,
+626,,,C0600142,Hot flushes,,,,,,
+626,,,,,C0152054,Therapeutic tactile stimulation,,,,
+626,,,,,,,,,C0224086,Belly of skeletal muscle
+627,C0019693,HIV Infections,,,,,,,,
+627,,,,,,,,,C0042232,Vagina
+627,,,,,,,,,C1280388,Entire upper lip
+627,,,,,,,,,C0227123,Gum of mandible
+628,C0497169,hiv-infection/aids,,,,,,,,
+628,,,C0231218,Malaise,,,,,,
+629,C0497169,hiv-infection/aids,,,,,,,,
+629,,,C0085624,Burning sensation,,,,,,
+629,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+629,,,,,,,,,C1280739,Entire penis
+630,C0011847,Diabetes,,,,,,,,
+630,,,,,,,,,C0222007,Structure of nail of toe
+631,C0497169,hiv-infection/aids,,,,,,,,
+631,,,,,C3814046,PAD Regimen,,,,
+631,,,,,C0184661,Interventional procedure,,,,
+631,,,,,,,,,C0017562,Gingiva
+631,,,,,,,,,C1280389,Entire lower lip
+631,,,,,,,,,C1278911,Entire lip
+631,,,,,,,,,C0040426,Tooth structure
+631,,,,,,,,,C0458582,Upper lip structure
+632,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+632,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+633,C0036916,Sexually Transmitted Diseases,,,,,,,,
+633,,,C0221423,Illness (finding),,,,,,
+633,,,,,,,,,C0040421,Palatine Tonsil
+633,,,,,,,,,C0040408,Tongue
+634,C0019693,HIV Infections,,,,,,,,
+635,C0263068,Furuncle of groin,,,,,,,,
+635,,,C0557875,Tired,,,,,,
+635,,,C0040822,Tremor,,,,,,
+635,,,C0151315,Neck stiffness,,,,,,
+635,,,,,,,,,C0230388,Index finger
+635,,,,,,,,,C0042232,Vagina
+635,,,,,,,,,C0746922,Anatomic Node
+635,,,,,,,,,C1281584,Entire finger
+636,C0011847,Diabetes,,,,,,,,
+636,,,C0497406,Overweight,,,,,,
+636,,,,,C1638311,Blood glucose management,,,,
+636,,,,,C3267174,Blood Glucose control,,,,
+636,,,,,C1963578,Release (procedure),,,,
+636,,,,,,,,,C0699819,Gut
+636,,,,,,,,,C0262950,Skeletal bone
+637,C0237974,AIDS i,,,,,,,,
+637,,,C2129214,Loose stool,,,,,,
+637,,,C0015230,Exanthema,,,,,,
+637,,,C0015672,Fatigue,,,,,,
+637,,,C0231528,Myalgia,,,,,,
+637,,,C0013404,Dyspnea,,,,,,
+637,,,,,,,,,C1269612,Entire upper arm
+637,,,,,,,,,C0024204,lymph nodes
+637,,,,,,,,,C0588054,Cervical lymph node group
+637,,,,,,,,,C0022359,Jaw
+637,,,,,,,,,C1281592,Entire neck
+638,C0497169,hiv-infection/aids,,,,,,,,
+638,,,,,,,,,C0003461,Anus
+639,C0497169,hiv-infection/aids,,,,,,,,
+639,,,C0011991,Diarrhea,,,,,,
+640,C0497169,hiv-infection/aids,,,,,,,,
+641,C0497169,hiv-infection/aids,,,,,,,,
+642,C0796085,Nance-Horan syndrome,,,,,,,,
+642,,,C0011991,Diarrhea,,,,,,
+642,,,C0007859,Neck Pain,,,,,,
+642,,,C0231528,Myalgia,,,,,,
+642,,,C0004604,Back Pain,,,,,,
+642,,,,,,,,,C0042232,Vagina
+643,C0497169,hiv-infection/aids,,,,,,,,
+643,,,,,,,,,C0030851,penis
+644,C0011847,Diabetes,,,,,,,,
+645,C0497169,hiv-infection/aids,,,,,,,,
+645,,,C0497406,Overweight,,,,,,
+645,,,C0235710,Chest discomfort,,,,,,
+645,,,C2364135,Actual Discomfort,,,,,,
+645,,,,,,,,,C0018787,Heart
+646,C0497169,hiv-infection/aids,,,,,,,,
+646,,,C0004604,Back Pain,,,,,,
+646,,,C0030193,Pain,,,,,,
+646,,,,,C0524861,Oral Surgical Procedures,,,,
+646,,,,,C0002766,Pain management,,,,
+647,C0497169,hiv-infection/aids,,,,,,,,
+647,,,C0234233,Sore to touch,,,,,,
+647,,,,,C0185051,Removal by grinding,,,,
+647,,,,,,,,,C0030851,penis
+647,,,,,,,,,C0023759,Lip structure
+648,C0011849,Diabetes Mellitus,,,,,,,,
+648,,,C0036572,Seizures,,,,,,
+648,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+649,C0011847,Diabetes,,,,,,,,
+649,,,C2957106,headache severe,,,,,,
+649,,,C0015672,Fatigue,,,,,,
+649,,,C0231218,Malaise,,,,,,
+649,,,C0012833,Dizziness,,,,,,
+649,,,C0018681,Headache,,,,,,
+649,,,C0917801,Sleeplessness,,,,,,
+650,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+650,,,C0037088,Signs and Symptoms,,,,,,
+650,,,,,,,,,C1278920,Entire stomach
+650,,,,,,,,,C0018787,Heart
+650,,,,,,,,,C0040132,Thyroid Gland
+650,,,,,,,,,C0228505,Nodulus cerebelli
+650,,,,,,,,,C1281591,Entire face
+651,C0011847,Diabetes,,,,,,,,
+652,C0011847,Diabetes,,,,,,,,
+652,,,,,,,,,C1280698,Entire throat (surface region of neck)
+653,C0011847,Diabetes,,,,,,,,
+653,,,,,C0040461,Toothbrushing,,,,
+653,,,,,C0392148,Providing presence (regime/therapy),,,,
+653,,,,,C0557061,Discussion (procedure),,,,
+653,,,,,,,,,C0018787,Heart
+653,,,,,,,,,C0017562,Gingiva
+653,,,,,,,,,C0040426,Tooth structure
+654,C0011847,Diabetes,,,,,,,,
+654,,,,,C0301571,Liquid diet,,,,
+654,,,,,C0152277,Incision and drainage,,,,
+654,,,,,,,,,C0030274,Pancreas
+655,C0011847,Diabetes,,,,,,,,
+656,C0011847,Diabetes,,,,,,,,
+656,,,,,,,,,C4048756,Right arm
+657,C0011849,Diabetes Mellitus,,,,,,,,
+657,,,C0028643,Numbness,,,,,,
+657,,,C0557875,Tired,,,,,,
+657,,,C0005904,Body Temperature Changes,,,,,,
+657,,,C0030193,Pain,,,,,,
+657,,,,,C1522449,Therapeutic radiology procedure,,,,
+657,,,,,,,,,C0018563,Hand
+657,,,,,,,,,C1268255,Entire right upper arm
+658,C0011847,Diabetes,,,,,,,,
+658,,,C0011991,Diarrhea,,,,,,
+658,,,C0042963,Vomiting,,,,,,
+658,,,C0027497,Nausea,,,,,,
+658,,,,,C0021485,Injection of therapeutic agent,,,,
+659,C0011847,Diabetes,,,,,,,,
+659,,,,,C3275067,Cardiac Lead Procedure,,,,
+660,C0497169,hiv-infection/aids,,,,,,,,
+660,,,C0542476,Forgetful,,,,,,
+660,,,C0015230,Exanthema,,,,,,
+660,,,C0242429,Sore Throat,,,,,,
+660,,,C0033774,Pruritus,,,,,,
+660,,,C0018681,Headache,,,,,,
+660,,,C0850149,Dry cough,,,,,,
+660,,,,,C0152277,Incision and drainage,,,,
+660,,,,,C0087111,Therapeutic procedure,,,,
+660,,,,,,,,,C0042232,Vagina
+660,,,,,,,,,C0017562,Gingiva
+661,C0497169,hiv-infection/aids,,,,,,,,
+661,,,,,C0021485,Injection of therapeutic agent,,,,
+661,,,,,,,,,C0022742,Knee
+662,C0018939,Hematological Disease,,,,,,,,
+662,,,C2242996,Has tingling sensation,,,,,,
+662,,,C0027769,Nervousness,,,,,,
+662,,,,,C0074125,bleomycin/doxorubicin/lomustine/streptozocin protocol,,,,
+662,,,,,,,,,C1281590,Entire head
+663,C0001175,Acquired Immunodeficiency Syndrome,,,,,,,,
+663,,,C0011991,Diarrhea,,,,,,
+663,,,C0015230,Exanthema,,,,,,
+663,,,C0030193,Pain,,,,,,
+663,,,,,C0152054,Therapeutic tactile stimulation,,,,
+663,,,,,,,,,C0042232,Vagina
+663,,,,,,,,,C0262950,Skeletal bone
+664,C0497169,hiv-infection/aids,,,,,,,,
+664,,,C3714552,Weakness,,,,,,
+665,C0019693,HIV Infections,,,,,,,,
+665,,,C0015230,Exanthema,,,,,,
+665,,,C0033774,Pruritus,,,,,,
+665,,,,,,,,,C1278920,Entire stomach
+665,,,,,,,,,C1269612,Entire upper arm
+666,C0270724,Infantile Neuroaxonal Dystrophy,,,,,,,,
+667,C0497169,hiv-infection/aids,,,,,,,,
+667,,,C0015230,Exanthema,,,,,,
+667,,,C0015672,Fatigue,,,,,,
+668,C0497169,hiv-infection/aids,,,,,,,,
+668,,,,,C3687832,DRUGS,,,,
+669,C0497169,hiv-infection/aids,,,,,,,,
+670,C0011847,Diabetes,,,,,,,,
+671,C0011847,Diabetes,,,,,,,,
+671,,,C0015230,Exanthema,,,,,,
+671,,,C0033774,Pruritus,,,,,,
+672,C0011847,Diabetes,,,,,,,,
+672,,,,,,,,,C1281591,Entire face
+673,C0497169,hiv-infection/aids,,,,,,,,
+673,,,C0221423,Illness (finding),,,,,,
+673,,,C0557875,Tired,,,,,,
+673,,,C0033774,Pruritus,,,,,,
+673,,,C0004604,Back Pain,,,,,,
+673,,,,,C0021485,Injection of therapeutic agent,,,,
+673,,,,,,,,,C0746922,Anatomic Node
+673,,,,,,,,,C0018563,Hand
+673,,,,,,,,,C0018494,Hair
+674,C0011847,Diabetes,,,,,,,,
+674,,,,,C1527077,Peripheral Electronic Nerve Stimulation,,,,
+675,C0011847,Diabetes,,,,,,,,
+675,,,C0857027,Feeling Sick,,,,,,
+676,C0011847,Diabetes,,,,,,,,
+676,,,C0039070,Syncope,,,,,,
+676,,,,,C0021485,Injection of therapeutic agent,,,,
+676,,,,,C1519433,Special Diet Therapy,,,,
+677,C0011847,Diabetes,,,,,,,,
+677,,,C0011124,Decreased Libido,,,,,,
+677,,,,,,,,,C0019552,Hip structure
+678,C0004096,Asthma,,,,,,,,
+678,,,C1321587,Breathing abnormally deep,,,,,,
+679,C0004096,Asthma,,,,,,,,
+679,,,,,C0199176,Prophylactic treatment,,,,
+679,,,,,C0087111,Therapeutic procedure,,,,
+679,,,,,C0394663,Cupping,,,,
+679,,,,,C0394664,Acupuncture procedure,,,,
+679,,,,,,,,,C1550235,Cord - Body Parts
+680,C0019693,HIV Infections,,,,,,,,
+681,C0497169,hiv-infection/aids,,,,,,,,
+682,C0019340,herpes,,,,,,,,
+682,,,,,,,,,C0227759,Labium
+683,C0497169,hiv-infection/aids,,,,,,,,
+683,,,,,,,,,C0030851,penis
+683,,,,,,,,,C0003461,Anus
+684,C0497169,hiv-infection/aids,,,,,,,,
+684,,,,,C0582779,Exposure technique,,,,
+684,,,,,C1511790,Detection,,,,
+685,C0497169,hiv-infection/aids,,,,,,,,
+685,,,,,,,,,C0030851,penis
+685,,,,,,,,,C0003461,Anus
+686,C0497169,hiv-infection/aids,,,,,,,,
+686,,,C0033774,Pruritus,,,,,,
+686,,,C0233763,"Hallucinations, Visual",,,,,,
+686,,,C0344375,Stomach cramps (finding),,,,,,
+686,,,,,,,,,C1280739,Entire penis
+687,C0497169,hiv-infection/aids,,,,,,,,
+688,C0497169,hiv-infection/aids,,,,,,,,
+688,,,C0221423,Illness (finding),,,,,,
+688,,,C1579838,Sore mouth,,,,,,
+688,,,C0033774,Pruritus,,,,,,
+688,,,C0018681,Headache,,,,,,
+688,,,C0010200,Coughing,,,,,,
+688,,,C0028081,Night sweats,,,,,,
+688,,,C0027769,Nervousness,,,,,,
+688,,,C0234233,Sore to touch,,,,,,
+688,,,,,C0700589,Contraceptive methods,,,,
+688,,,,,C0392920,Chemotherapy Regimen,,,,
+688,,,,,C0087111,Therapeutic procedure,,,,
+688,,,,,,,,,C0026369,Structure of wisdom tooth
+688,,,,,,,,,C0042232,Vagina
+688,,,,,,,,,C1281592,Entire neck
+689,C0011847,Diabetes,,,,,,,,
+689,,,C0036572,Seizures,,,,,,
+689,,,C0221423,Illness (finding),,,,,,
+689,,,C0027497,Nausea,,,,,,
+689,,,C0015672,Fatigue,,,,,,
+689,,,C0012833,Dizziness,,,,,,
+689,,,C0018681,Headache,,,,,,
+689,,,C3714552,Weakness,,,,,,
+689,,,C0010200,Coughing,,,,,,
+689,,,C0040822,Tremor,,,,,,
+689,,,C0028081,Night sweats,,,,,,
+689,,,C0085593,Chills,,,,,,
+690,C0011847,Diabetes,,,,,,,,
+690,,,,,C1519433,Special Diet Therapy,,,,
+691,C0011847,Diabetes,,,,,,,,
+691,,,C0027498,Nausea and vomiting,,,,,,
+691,,,C0497406,Overweight,,,,,,
+691,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+691,,,C1579931,Depressed - symptom,,,,,,
+691,,,,,C0013806,Electroconvulsive Therapy,,,,
+691,,,,,,,,,C1281590,Entire head
+691,,,,,,,,,C0040421,Palatine Tonsil
+691,,,,,,,,,C0521421,Entire ear
+691,,,,,,,,,C0028429,Nose
+692,C0011847,Diabetes,,,,,,,,
+692,,,,,C0872279,Resistance Training,,,,
+692,,,,,C1522704,Exercise Pain Management,,,,
+692,,,,,,,,,C0230102,Lower back structure
+692,,,,,,,,,C0018787,Heart
+692,,,,,,,,,C0019552,Hip structure
+692,,,,,,,,,C0022742,Knee
+693,C0011847,Diabetes,,,,,,,,
+694,C0011847,Diabetes,,,,,,,,
+694,,,,,,,,,C0699819,Gut
+695,C0011847,Diabetes,,,,,,,,
+695,,,,,C1456647,Childhood Immunization,,,,
+696,C0011847,Diabetes,,,,,,,,
+697,C0497169,hiv-infection/aids,,,,,,,,
+698,C0497169,hiv-infection/aids,,,,,,,,
+698,,,C0015230,Exanthema,,,,,,
+698,,,,,,,,,C0003461,Anus
+698,,,,,,,,,C1278927,Entire anus
+698,,,,,,,,,C1288949,Entire left hand
+699,C0497169,hiv-infection/aids,,,,,,,,
+699,,,C0392171,Influenza-like symptoms,,,,,,
+699,,,C0242429,Sore Throat,,,,,,
+700,C0497169,hiv-infection/aids,,,,,,,,
+701,C0497169,hiv-infection/aids,,,,,,,,
+701,,,C0015230,Exanthema,,,,,,
+701,,,C0085624,Burning sensation,,,,,,
+701,,,,,,,,,C0227952,Foreskin of penis
+701,,,,,,,,,C1280739,Entire penis
+702,C0497169,hiv-infection/aids,,,,,,,,
+702,,,C0027769,Nervousness,,,,,,
+702,,,C0234233,Sore to touch,,,,,,
+702,,,,,,,,,C0018563,Hand
+703,C0011847,Diabetes,,,,,,,,
+703,,,,,C1519433,Special Diet Therapy,,,,
+704,C0497169,hiv-infection/aids,,,,,,,,
+704,,,C3714552,Weakness,,,,,,
+704,,,,,C0872145,Directly Observed Therapy,,,,
+704,,,,,,,,,C0017562,Gingiva
+704,,,,,,,,,C1278911,Entire lip
+704,,,,,,,,,C0023759,Lip structure
+705,C0497169,hiv-infection/aids,,,,,,,,
+705,,,C0221423,Illness (finding),,,,,,
+705,,,C0000737,Abdominal Pain,,,,,,
+706,C0011847,Diabetes,,,,,,,,
+707,C0011847,Diabetes,,,,,,,,
+707,,,,,C3267174,Blood Glucose control,,,,
+707,,,,,C1533685,Injection procedure,,,,
+707,,,,,,,,,C0423866,Lanugo
+708,C0011847,Diabetes,,,,,,,,
+708,,,C0234369,Trembling,,,,,,
+708,,,C0742339,chest heaviness,,,,,,
+708,,,C3714552,Weakness,,,,,,
+708,,,C0030193,Pain,,,,,,
+708,,,C0302539,spells (neurological symptom),,,,,,
+708,,,,,C1522704,Exercise Pain Management,,,,
+708,,,,,,,,,C1269612,Entire upper arm
+708,,,,,,,,,C0699819,Gut
+709,C0362046,Prediabetes syndrome,,,,,,,,
+709,,,,,C1519433,Special Diet Therapy,,,,
+709,,,,,C0020699,Hysterectomy,,,,
+710,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+710,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+710,,,,,C0152054,Therapeutic tactile stimulation,,,,
+710,,,,,,,,,C1288948,Entire right hand
+710,,,,,,,,,C0935603,Left thumb
+710,,,,,,,,,C0016504,Foot
+711,C0011849,Diabetes Mellitus,,,,,,,,
+711,,,C0278141,Excruciating pain,,,,,,
+711,,,C0030193,Pain,,,,,,
+711,,,,,,,,,C0016504,Foot
+712,C0497169,hiv-infection/aids,,,,,,,,
+712,,,,,C3850098,Pre-Exposure Prophylaxis,,,,
+712,,,,,C0087111,Therapeutic procedure,,,,
+712,,,,,C1443861,Post-Exposure Prophylaxis,,,,
+713,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+713,,,C0221423,Illness (finding),,,,,,
+713,,,,,C0021485,Injection of therapeutic agent,,,,
+713,,,,,C1519433,Special Diet Therapy,,,,
+713,,,,,C1522704,Exercise Pain Management,,,,
+714,C0497169,hiv-infection/aids,,,,,,,,
+714,,,C0037088,Signs and Symptoms,,,,,,
+714,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+714,,,,,C0042196,Vaccination,,,,
+714,,,,,C0087111,Therapeutic procedure,,,,
+715,C0497169,hiv-infection/aids,,,,,,,,
+716,C0497169,hiv-infection/aids,,,,,,,,
+716,,,,,C0679721,prevention service,,,,
+716,,,,,C0087111,Therapeutic procedure,,,,
+718,C0497169,hiv-infection/aids,,,,,,,,
+718,,,,,C3850098,Pre-Exposure Prophylaxis,,,,
+718,,,,,C1963724,Antiretroviral therapy,,,,
+718,,,,,C0087111,Therapeutic procedure,,,,
+718,,,,,,,,,C0042232,Vagina
+718,,,,,,,,,C0003461,Anus
+719,C0497169,hiv-infection/aids,,,,,,,,
+719,,,C0037088,Signs and Symptoms,,,,,,
+720,C0497169,hiv-infection/aids,,,,,,,,
+720,,,,,C0683525,treatment options,,,,
+720,,,,,C0087111,Therapeutic procedure,,,,
+721,C0019693,HIV Infections,,,,,,,,
+721,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+722,C0497169,hiv-infection/aids,,,,,,,,
+722,,,C0234238,Ache,,,,,,
+722,,,C0392171,Influenza-like symptoms,,,,,,
+722,,,,,,,,,C0040421,Palatine Tonsil
+722,,,,,,,,,C1280698,Entire throat (surface region of neck)
+723,C0022658,Kidney Diseases,,,,,,,,
+723,,,C0027769,Nervousness,,,,,,
+723,,,,,C1948041,Surgical and medical procedures,,,,
+723,,,,,,,,,C0699819,Gut
+723,,,,,,,,,C0038351,Stomach
+723,,,,,,,,,C0022646,Kidney
+724,C0022658,Kidney Diseases,,,,,,,,
+724,,,C0848168,out (of) breath,,,,,,
+724,,,C0030193,Pain,,,,,,
+724,,,,,,,,,C0230102,Lower back structure
+724,,,,,,,,,C0018787,Heart
+724,,,,,,,,,C0022646,Kidney
+725,C0022658,Kidney Diseases,,,,,,,,
+725,,,,,,,,,C0178784,Organ
+725,,,,,,,,,C0227613,Right kidney
+725,,,,,,,,,C0023884,Liver
+725,,,,,,,,,C0022646,Kidney
+726,C0041912,Upper Respiratory Infections,,,,,,,,
+726,,,,,,,,,C1278978,Entire kidney
+727,C0022658,Kidney Diseases,,,,,,,,
+727,,,C0030193,Pain,,,,,,
+727,,,,,,,,,C0022646,Kidney
+728,C3887499,Renal cyst,,,,,,,,
+728,,,C0030193,Pain,,,,,,
+729,C0011847,Diabetes,,,,,,,,
+729,,,,,C0282046,"Surgery, Day",,,,
+729,,,,,,,,,C0018787,Heart
+730,C0011847,Diabetes,,,,,,,,
+730,,,C0231218,Malaise,,,,,,
+730,,,C0030193,Pain,,,,,,
+730,,,,,,,,,C0230443,Structure of left lower leg
+731,C0011847,Diabetes,,,,,,,,
+731,,,C0027497,Nausea,,,,,,
+731,,,C0012833,Dizziness,,,,,,
+731,,,,,,,,,C1281584,Entire finger
+732,C0011847,Diabetes,,,,,,,,
+732,,,,,C0152054,Therapeutic tactile stimulation,,,,
+732,,,,,C1963578,Release (procedure),,,,
+732,,,,,,,,,C0018563,Hand
+732,,,,,,,,,C1281584,Entire finger
+733,C0011847,Diabetes,,,,,,,,
+734,C0011847,Diabetes,,,,,,,,
+735,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+736,C0022650,Kidney Calculi,,,,,,,,
+736,,,,,C0152060,Transection (procedure),,,,
+736,,,,,,,,,C0030851,penis
+737,C0235640,Posthitis,,,,,,,,
+737,,,C0030193,Pain,,,,,,
+737,,,,,C0008819,Male Circumcision,,,,
+737,,,,,C0087111,Therapeutic procedure,,,,
+737,,,,,,,,,C0227952,Foreskin of penis
+738,C0022658,Kidney Diseases,,,,,,,,
+739,C0022650,Kidney Calculi,,,,,,,,
+740,C0022650,Kidney Calculi,,,,,,,,
+740,,,,,C1522704,Exercise Pain Management,,,,
+741,C0022658,Kidney Diseases,,,,,,,,
+741,,,,,C3687832,DRUGS,,,,
+741,,,,,C1697762,Booster Immunization - ActSubstanceAdministrationCode,,,,
+741,,,,,,,,,C1261317,Transplanted kidney
+742,C0022658,Kidney Diseases,,,,,,,,
+742,,,C0027497,Nausea,,,,,,
+742,,,C0000729,Abdominal Cramps,,,,,,
+742,,,C0085624,Burning sensation,,,,,,
+742,,,C0234230,"Pain, Burning",,,,,,
+742,,,C0004604,Back Pain,,,,,,
+742,,,C0234233,Sore to touch,,,,,,
+742,,,,,,,,,C0030786,Hip Bone
+742,,,,,,,,,C0947182,ribs on right side
+742,,,,,,,,,C0224334,Skeletal muscle structure of back
+743,C0011847,Diabetes,,,,,,,,
+743,,,C0221423,Illness (finding),,,,,,
+743,,,,,C2945704,Conventional Treatment,,,,
+743,,,,,C0199782,Administration of insulin,,,,
+743,,,,,C1519433,Special Diet Therapy,,,,
+743,,,,,C0087111,Therapeutic procedure,,,,
+743,,,,,,,,,C0040426,Tooth structure
+744,C0009450,Communicable Diseases,,,,,,,,
+744,,,,,C0011946,Dialysis procedure,,,,
+744,,,,,C1961139,Grafting procedure,,,,
+744,,,,,,,,,C4048756,Right arm
+745,C0011849,Diabetes Mellitus,,,,,,,,
+745,,,C0020175,Hunger,,,,,,
+745,,,C0012833,Dizziness,,,,,,
+745,,,C0027769,Nervousness,,,,,,
+746,C0011847,Diabetes,,,,,,,,
+747,C0011847,Diabetes,,,,,,,,
+747,,,,,C0040145,Thyroidectomy,,,,
+747,,,,,,,,,C0040132,Thyroid Gland
+748,C0011847,Diabetes,,,,,,,,
+749,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+749,,,,,C1519433,Special Diet Therapy,,,,
+750,C0011847,Diabetes,,,,,,,,
+750,,,C0232471,Thirsty,,,,,,
+750,,,C0018681,Headache,,,,,,
+750,,,,,,,,,C0042232,Vagina
+751,C0022658,Kidney Diseases,,,,,,,,
+751,,,,,C0040732,Transplantation,,,,
+751,,,,,C0452415,Diet good,,,,
+751,,,,,C1522704,Exercise Pain Management,,,,
+751,,,,,,,,,C0030274,Pancreas
+751,,,,,,,,,C0022646,Kidney
+752,C0022658,Kidney Diseases,,,,,,,,
+753,C0022658,Kidney Diseases,,,,,,,,
+753,,,C0003862,Arthralgia,,,,,,
+753,,,C0221423,Illness (finding),,,,,,
+753,,,C0281856,Generalized aches and pains,,,,,,
+753,,,C0558489,Renal pain,,,,,,
+753,,,C0015672,Fatigue,,,,,,
+753,,,C0033774,Pruritus,,,,,,
+753,,,C0857245,Redness of face,,,,,,
+753,,,C0030193,Pain,,,,,,
+753,,,,,C1522704,Exercise Pain Management,,,,
+753,,,,,,,,,C1281591,Entire face
+754,C0022658,Kidney Diseases,,,,,,,,
+754,,,C0234238,Ache,,,,,,
+754,,,C0016199,Flank Pain,,,,,,
+754,,,C0857213,cramp in lower abdomen,,,,,,
+754,,,C0030193,Pain,,,,,,
+754,,,C1446787,Cramping sensation quality,,,,,,
+754,,,,,,,,,C0030797,Pelvis
+754,,,,,,,,,C1281594,Entire abdomen
+754,,,,,,,,,C0022646,Kidney
+755,C0022658,Kidney Diseases,,,,,,,,
+755,,,,,C0011946,Dialysis procedure,,,,
+755,,,,,C0022671,Kidney Transplantation,,,,
+755,,,,,,,,,C0178784,Organ
+756,C0022658,Kidney Diseases,,,,,,,,
+756,,,,,C1519433,Special Diet Therapy,,,,
+757,C0022650,Kidney Calculi,,,,,,,,
+757,,,C0234238,Ache,,,,,,
+757,,,C0016382,Flushing,,,,,,
+757,,,C0812426,Kidney problem,,,,,,
+757,,,,,C0452415,Diet good,,,,
+757,,,,,C1522704,Exercise Pain Management,,,,
+758,C0022658,Kidney Diseases,,,,,,,,
+758,,,C0683369,Clouded consciousness,,,,,,
+758,,,,,,,,,C0033572,Prostate
+758,,,,,,,,,C0447584,Fundus of urinary bladder
+758,,,,,,,,,C0229985,Surgical margins
+759,C0011849,Diabetes Mellitus,,,,,,,,
+759,,,,,C1638311,Blood glucose management,,,,
+760,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+760,,,,,C1522704,Exercise Pain Management,,,,
+761,C0011847,Diabetes,,,,,,,,
+762,C0011849,Diabetes Mellitus,,,,,,,,
+762,,,C0030193,Pain,,,,,,
+762,,,,,C3687832,DRUGS,,,,
+762,,,,,C1519433,Special Diet Therapy,,,,
+762,,,,,C1522704,Exercise Pain Management,,,,
+763,C0011847,Diabetes,,,,,,,,
+763,,,,,,,,,C0222032,Spur (body structure)
+764,C0011847,Diabetes,,,,,,,,
+765,C0011847,Diabetes,,,,,,,,
+766,C0011847,Diabetes,,,,,,,,
+767,C0497169,hiv-infection/aids,,,,,,,,
+767,,,C0221423,Illness (finding),,,,,,
+767,,,,,C0005841,Blood Transfusion,,,,
+768,C0497169,hiv-infection/aids,,,,,,,,
+768,,,,,C0087111,Therapeutic procedure,,,,
+769,C0497169,hiv-infection/aids,,,,,,,,
+769,,,,,C3687832,DRUGS,,,,
+769,,,,,C0301571,Liquid diet,,,,
+769,,,,,,,,,C0018494,Hair
+770,C0497169,hiv-infection/aids,,,,,,,,
+771,C0272285,Heparin-induced thrombocytopenia,,,,,,,,
+771,,,,,,,,,C0934502,anatomical layer
+772,C0497169,hiv-infection/aids,,,,,,,,
+772,,,,,C0392877,infusion of drug,,,,
+772,,,,,C1963724,Antiretroviral therapy,,,,
+772,,,,,C0040808,Treatment Protocols,,,,
+772,,,,,C0087111,Therapeutic procedure,,,,
+772,,,,,,,,,C0042232,Vagina
+772,,,,,,,,,C0003461,Anus
+773,C0022658,Kidney Diseases,,,,,,,,
+773,,,C0024031,Low Back Pain,,,,,,
+773,,,C0557875,Tired,,,,,,
+773,,,C0016199,Flank Pain,,,,,,
+773,,,C1291077,Abdominal bloating,,,,,,
+773,,,C0033774,Pruritus,,,,,,
+773,,,C0030193,Pain,,,,,,
+773,,,,,C0301571,Liquid diet,,,,
+773,,,,,,,,,C0039597,Testis
+773,,,,,,,,,C0022646,Kidney
+774,C0022658,Kidney Diseases,,,,,,,,
+774,,,C0030193,Pain,,,,,,
+774,,,,,,,,,C0230102,Lower back structure
+774,,,,,,,,,C1278978,Entire kidney
+775,C0022658,Kidney Diseases,,,,,,,,
+776,C0022658,Kidney Diseases,,,,,,,,
+776,,,C0024031,Low Back Pain,,,,,,
+776,,,C0748706,side pain,,,,,,
+776,,,C0030193,Pain,,,,,,
+776,,,,,C0332293,Treated with,,,,
+776,,,,,,,,,C1278929,Entire liver
+776,,,,,,,,,C1281594,Entire abdomen
+776,,,,,,,,,C1281591,Entire face
+776,,,,,,,,,C0022646,Kidney
+777,C0022658,Kidney Diseases,,,,,,,,
+778,C0022658,Kidney Diseases,,,,,,,,
+779,C0022650,Kidney Calculi,,,,,,,,
+779,,,C0004604,Back Pain,,,,,,
+780,C0011849,Diabetes Mellitus,,,,,,,,
+781,C0018799,Heart Diseases,,,,,,,,
+781,,,,,C0425403,Increased protein diet,,,,
+782,C0011847,Diabetes,,,,,,,,
+782,,,C1579931,Depressed - symptom,,,,,,
+782,,,C0700590,Increased sweating,,,,,,
+782,,,,,C0022671,Kidney Transplantation,,,,
+782,,,,,,,,,C0006141,Breast
+782,,,,,,,,,C1269612,Entire upper arm
+783,C0011847,Diabetes,,,,,,,,
+784,C0011847,Diabetes,,,,,,,,
+785,C0011847,Diabetes,,,,,,,,
+785,,,,,C1522704,Exercise Pain Management,,,,
+785,,,,,,,,,C0015385,Limb structure
+786,C0011847,Diabetes,,,,,,,,
+786,,,C0016204,Flatulence,,,,,,
+786,,,C0557875,Tired,,,,,,
+787,C0033771,Prurigo,,,,,,,,
+787,,,C0578050,Pain of lymph node,,,,,,
+787,,,,,,,,,C1281590,Entire head
+787,,,,,,,,,C0030851,penis
+787,,,,,,,,,C1281592,Entire neck
+788,C0497169,hiv-infection/aids,,,,,,,,
+788,,,,,C0087111,Therapeutic procedure,,,,
+789,C0497169,hiv-infection/aids,,,,,,,,
+790,C0497169,hiv-infection/aids,,,,,,,,
+791,C0497169,hiv-infection/aids,,,,,,,,
+791,,,C3714552,Weakness,,,,,,
+792,C0497169,hiv-infection/aids,,,,,,,,
+792,,,C0234238,Ache,,,,,,
+792,,,C0392171,Influenza-like symptoms,,,,,,
+792,,,,,,,,,C0040421,Palatine Tonsil
+792,,,,,,,,,C1280698,Entire throat (surface region of neck)
+793,C0497169,hiv-infection/aids,,,,,,,,
+793,,,C0221423,Illness (finding),,,,,,
+793,,,,,C0005841,Blood Transfusion,,,,
+794,C0022658,Kidney Diseases,,,,,,,,
+794,,,,,C0700589,Contraceptive methods,,,,
+794,,,,,C0374711,Surgical repair,,,,
+794,,,,,C0452415,Diet good,,,,
+794,,,,,C1522704,Exercise Pain Management,,,,
+794,,,,,C0029151,Oral contraception,,,,
+794,,,,,,,,,C0022646,Kidney
+795,C0011854,"Diabetes Mellitus, Insulin-Dependent",,,,,,,,
+795,,,,,C1533734,Administration procedure,,,,
+796,C0011847,Diabetes,,,,,,,,
+797,C0011847,Diabetes,,,,,,,,
+798,C0011847,Diabetes,,,,,,,,
+799,C0011847,Diabetes,,,,,,,,
+799,,,C0557875,Tired,,,,,,
+800,C0011847,Diabetes,,,,,,,,
+800,,,C0795691,HEART PROBLEM,,,,,,
+800,,,,,C0150544,Diabetic care,,,,
+801,C0011847,Diabetes,,,,,,,,
+801,,,,,C0040808,Treatment Protocols,,,,
+802,C0011847,Diabetes,,,,,,,,
+802,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+802,,,,,C1282573,Evacuation procedure,,,,
+803,C0022658,Kidney Diseases,,,,,,,,
+803,,,C0278144,Dull pain,,,,,,
+803,,,,,C0204774,Soaking Procedure,,,,
+803,,,,,,,,,C0039597,Testis
+803,,,,,,,,,C0030797,Pelvis
+804,C0011847,Diabetes,,,,,,,,
+805,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+806,C0022658,Kidney Diseases,,,,,,,,
+806,,,C0558489,Renal pain,,,,,,
+806,,,C0015230,Exanthema,,,,,,
+806,,,C0030193,Pain,,,,,,
+806,,,,,,,,,C1278920,Entire stomach
+806,,,,,,,,,C0227613,Right kidney
+806,,,,,,,,,C0229962,Body part
+807,C0497169,hiv-infection/aids,,,,,,,,
+808,C0497169,hiv-infection/aids,,,,,,,,
+809,C0497169,hiv-infection/aids,,,,,,,,
+810,C0497169,hiv-infection/aids,,,,,,,,
+810,,,,,C0152277,Incision and drainage,,,,
+811,C0020538,Hypertensive disease,,,,,,,,
+812,C0022658,Kidney Diseases,,,,,,,,
+812,,,C0577573,Mass of body region,,,,,,
+812,,,C0184567,Acute onset pain,,,,,,
+812,,,C0009806,Constipation,,,,,,
+812,,,C0037763,Spasm,,,,,,
+812,,,C0016382,Flushing,,,,,,
+812,,,C0030193,Pain,,,,,,
+812,,,,,C0013103,Drainage procedure,,,,
+812,,,,,C0184661,Interventional procedure,,,,
+812,,,,,C0565198,Drainage of bladder,,,,
+812,,,,,C0017296,gene therapy,,,,
+812,,,,,C0177049,Insertion of indwelling urinary catheter,,,,
+812,,,,,C0741419,back surgery,,,,
+812,,,,,C0002921,Local anesthesia,,,,
+812,,,,,C0023878,Lithotripsy,,,,
+812,,,,,C3275067,Cardiac Lead Procedure,,,,
+812,,,,,,,,,C2339084,Fatty layer
+812,,,,,,,,,C1278978,Entire kidney
+812,,,,,,,,,C0227613,Right kidney
+812,,,,,,,,,C0227614,Left kidney
+812,,,,,,,,,C1281573,Entire bladder
+812,,,,,,,,,C1995013,Set of muscles
+812,,,,,,,,,C0041967,Urethra
+812,,,,,,,,,C0022646,Kidney
+813,C0022658,Kidney Diseases,,,,,,,,
+813,,,C2896456,Pain in left thigh,,,,,,
+813,,,,,C3687832,DRUGS,,,,
+813,,,,,C0011946,Dialysis procedure,,,,
+813,,,,,,,,,C0022646,Kidney
+814,C0022658,Kidney Diseases,,,,,,,,
+814,,,C0683369,Clouded consciousness,,,,,,
+814,,,,,,,,,C1278978,Entire kidney
+815,C0022650,Kidney Calculi,,,,,,,,
+815,,,,,C0683525,treatment options,,,,
+815,,,,,,,,,C0019939,Horns
+816,C0022658,Kidney Diseases,,,,,,,,
+816,,,,,C0152277,Incision and drainage,,,,
+816,,,,,,,,,C0227613,Right kidney
+817,C0022658,Kidney Diseases,,,,,,,,
+818,C0011847,Diabetes,,,,,,,,
+818,,,,,,,,,C1281590,Entire head
+819,C0011847,Diabetes,,,,,,,,
+819,,,,,C1519433,Special Diet Therapy,,,,
+820,C0011847,Diabetes,,,,,,,,
+820,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+821,C0011847,Diabetes,,,,,,,,
+821,,,,,,,,,C0022646,Kidney
+823,C0242301,furuncle,,,,,,,,
+823,,,,,C0078044,VAPAC protocol,,,,
+824,C0011847,Diabetes,,,,,,,,
+824,,,C0037088,Signs and Symptoms,,,,,,
+825,C0011847,Diabetes,,,,,,,,
+826,C0011847,Diabetes,,,,,,,,
+827,C0022658,Kidney Diseases,,,,,,,,
+827,,,,,,,,,C1278978,Entire kidney
+827,,,,,,,,,C0038925,Surgical Flaps
+827,,,,,,,,,C0022646,Kidney
+828,C0497169,hiv-infection/aids,,,,,,,,
+829,C0022658,Kidney Diseases,,,,,,,,
+829,,,C0030193,Pain,,,,,,
+830,C0022658,Kidney Diseases,,,,,,,,
+830,,,,,,,,,C1278978,Entire kidney
+830,,,,,,,,,C1261317,Transplanted kidney
+831,C0022658,Kidney Diseases,,,,,,,,
+832,C0022658,Kidney Diseases,,,,,,,,
+833,C0022658,Kidney Diseases,,,,,,,,
+833,,,C0000737,Abdominal Pain,,,,,,
+833,,,C0854148,cells in urine,,,,,,
+833,,,C0015672,Fatigue,,,,,,
+833,,,C1446787,Cramping sensation quality,,,,,,
+833,,,C0438716,Chest pressure,,,,,,
+833,,,C0234233,Sore to touch,,,,,,
+833,,,,,,,,,C0038293,Sternum
+834,C0011175,Dehydration,,,,,,,,
+834,,,C0027497,Nausea,,,,,,
+834,,,C0231218,Malaise,,,,,,
+834,,,C0012833,Dizziness,,,,,,
+834,,,C0004604,Back Pain,,,,,,
+834,,,C0030193,Pain,,,,,,
+834,,,,,C1306232,Severing,,,,
+834,,,,,C0150141,Bathing,,,,
+834,,,,,C0152277,Incision and drainage,,,,
+834,,,,,,,,,C0035561,Bone structure of rib
+835,C0022658,Kidney Diseases,,,,,,,,
+835,,,,,C0022671,Kidney Transplantation,,,,
+836,C0022658,Kidney Diseases,,,,,,,,
+836,,,C0036572,Seizures,,,,,,
+836,,,,,C0022671,Kidney Transplantation,,,,
+837,C0022658,Kidney Diseases,,,,,,,,
+837,,,C0027424,Nasal congestion (finding),,,,,,
+837,,,C0009806,Constipation,,,,,,
+837,,,C0018681,Headache,,,,,,
+837,,,C3714552,Weakness,,,,,,
+837,,,C0026821,Muscle Cramp,,,,,,
+837,,,C0030193,Pain,,,,,,
+837,,,C0917801,Sleeplessness,,,,,,
+837,,,,,C0441610,Reduction - action,,,,
+837,,,,,C0242297,Dietary Supplementation,,,,
+837,,,,,C0087111,Therapeutic procedure,,,,
+838,C0022658,Kidney Diseases,,,,,,,,
+838,,,,,C0040732,Transplantation,,,,
+838,,,,,,,,,C1281591,Entire face
+839,C0022658,Kidney Diseases,,,,,,,,
+839,,,,,C0087111,Therapeutic procedure,,,,
+840,C0022658,Kidney Diseases,,,,,,,,
+841,C0019693,HIV Infections,,,,,,,,
+842,C0497169,hiv-infection/aids,,,,,,,,
+843,C0497169,hiv-infection/aids,,,,,,,,
+844,C0001175,Acquired Immunodeficiency Syndrome,,,,,,,,
+845,C0497169,hiv-infection/aids,,,,,,,,
+846,C0022658,Kidney Diseases,,,,,,,,
+846,,,,,,,,,C0042027,Urinary tract
+847,C0022658,Kidney Diseases,,,,,,,,
+847,,,C3714552,Weakness,,,,,,
+847,,,,,C0886384,5 minutes Office visit,,,,
+847,,,,,,,,,C0230102,Lower back structure
+847,,,,,,,,,C0423866,Lanugo
+848,C0022658,Kidney Diseases,,,,,,,,
+848,,,C0221512,Stomach ache,,,,,,
+848,,,,,C0087111,Therapeutic procedure,,,,
+848,,,,,,,,,C0746922,Anatomic Node
+848,,,,,,,,,C0227613,Right kidney
+848,,,,,,,,,C0016976,Gallbladder
+848,,,,,,,,,C1269001,Entire gallbladder
+848,,,,,,,,,C0022646,Kidney
+849,C0019693,HIV Infections,,,,,,,,
+849,,,,,C0184958,Toilet procedure,,,,
+849,,,,,,,,,C0034896,Rectum
+849,,,,,,,,,C1278927,Entire anus
+850,C0497169,hiv-infection/aids,,,,,,,,
+850,,,C0392171,Influenza-like symptoms,,,,,,
+850,,,C0242429,Sore Throat,,,,,,
+851,C0497169,hiv-infection/aids,,,,,,,,
+852,C0497169,hiv-infection/aids,,,,,,,,
+853,C0019693,HIV Infections,,,,,,,,
+853,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+854,C0272302,Gray Platelet Syndrome,,,,,,,,
+855,C0019693,HIV Infections,,,,,,,,
+855,,,,,,,,,C0017562,Gingiva
+855,,,,,,,,,C0003461,Anus
+856,C0022658,Kidney Diseases,,,,,,,,
+857,C0022650,Kidney Calculi,,,,,,,,
+857,,,,,C0087111,Therapeutic procedure,,,,
+858,C0022658,Kidney Diseases,,,,,,,,
+858,,,C0085624,Burning sensation,,,,,,
+858,,,,,C0152277,Incision and drainage,,,,
+858,,,,,,,,,C0005682,Urinary Bladder
+859,C0022658,Kidney Diseases,,,,,,,,
+859,,,C0085624,Burning sensation,,,,,,
+860,C0022658,Kidney Diseases,,,,,,,,
+861,C0022658,Kidney Diseases,,,,,,,,
+861,,,C0231218,Malaise,,,,,,
+861,,,C0030193,Pain,,,,,,
+861,,,C0455270,Sharp pain,,,,,,
+861,,,,,C0184958,Toilet procedure,,,,
+861,,,,,,,,,C0005682,Urinary Bladder
+862,C0022658,Kidney Diseases,,,,,,,,
+862,,,C0232854,Slowing of urinary stream,,,,,,
+862,,,C0314719,Dryness of eye,,,,,,
+863,C0022658,Kidney Diseases,,,,,,,,
+863,,,C0231218,Malaise,,,,,,
+864,C0022658,Kidney Diseases,,,,,,,,
+864,,,C0016204,Flatulence,,,,,,
+864,,,C0751295,Memory Loss,,,,,,
+864,,,,,C0011946,Dialysis procedure,,,,
+864,,,,,,,,,C0006104,Brain
+865,C0022658,Kidney Diseases,,,,,,,,
+865,,,C0000737,Abdominal Pain,,,,,,
+865,,,C1291077,Abdominal bloating,,,,,,
+865,,,C0030193,Pain,,,,,,
+865,,,,,C0150141,Bathing,,,,
+866,C0497169,hiv-infection/aids,,,,,,,,
+867,C0019693,HIV Infections,,,,,,,,
+868,C0497169,hiv-infection/aids,,,,,,,,
+868,,,C0221423,Illness (finding),,,,,,
+868,,,C0015672,Fatigue,,,,,,
+868,,,C0010200,Coughing,,,,,,
+869,C0022658,Kidney Diseases,,,,,,,,
+869,,,,,C3687832,DRUGS,,,,
+870,C0022658,Kidney Diseases,,,,,,,,
+870,,,C0027424,Nasal congestion (finding),,,,,,
+870,,,C0009806,Constipation,,,,,,
+870,,,C0018681,Headache,,,,,,
+870,,,C3714552,Weakness,,,,,,
+870,,,C0026821,Muscle Cramp,,,,,,
+870,,,C0030193,Pain,,,,,,
+870,,,C0917801,Sleeplessness,,,,,,
+870,,,,,C0441610,Reduction - action,,,,
+870,,,,,C0242297,Dietary Supplementation,,,,
+870,,,,,C0087111,Therapeutic procedure,,,,
+871,C0022658,Kidney Diseases,,,,,,,,
+871,,,,,,,,,C1281573,Entire bladder
+872,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+872,,,C0581394,Swollen legs,,,,,,
+872,,,,,,,,,C0224086,Belly of skeletal muscle
+872,,,,,,,,,C1281591,Entire face
+872,,,,,,,,,C0022646,Kidney
+872,,,,,,,,,C1281592,Entire neck
+873,C0497169,hiv-infection/aids,,,,,,,,
+873,,,C3714552,Weakness,,,,,,
+874,C0497169,hiv-infection/aids,,,,,,,,
+874,,,,,C0007471,Cauterization - action,,,,
+874,,,,,,,,,C0018563,Hand
+874,,,,,,,,,C0028429,Nose
+875,C0019693,HIV Infections,,,,,,,,
+875,,,,,C1511790,Detection,,,,
+876,C0497169,hiv-infection/aids,,,,,,,,
+877,C0497169,hiv-infection/aids,,,,,,,,
+877,,,C0027769,Nervousness,,,,,,
+877,,,C0234233,Sore to touch,,,,,,
+877,,,,,,,,,C0018563,Hand
+878,C0497169,hiv-infection/aids,,,,,,,,
+878,,,C0011991,Diarrhea,,,,,,
+878,,,,,,,,,C0003461,Anus
+878,,,,,,,,,C0038351,Stomach
+879,C0497169,hiv-infection/aids,,,,,,,,
+879,,,,,C1511790,Detection,,,,
+880,C0019693,HIV Infections,,,,,,,,
+880,,,C1096446,slight fever,,,,,,
+880,,,C0015672,Fatigue,,,,,,
+880,,,C0018681,Headache,,,,,,
+880,,,C0850149,Dry cough,,,,,,
+880,,,,,C0040732,Transplantation,,,,
+880,,,,,C0920425,cancer therapy,,,,
+880,,,,,,,,,C0230102,Lower back structure
+881,C0022658,Kidney Diseases,,,,,,,,
+882,C0497169,hiv-infection/aids,,,,,,,,
+882,,,C1260880,Rhinorrhea,,,,,,
+882,,,C0015230,Exanthema,,,,,,
+882,,,C0392171,Influenza-like symptoms,,,,,,
+882,,,C0231218,Malaise,,,,,,
+882,,,C0242429,Sore Throat,,,,,,
+882,,,C0010200,Coughing,,,,,,
+882,,,C0085593,Chills,,,,,,
+882,,,C0234233,Sore to touch,,,,,,
+882,,,,,C0185115,Extraction,,,,
+882,,,,,C0013103,Drainage procedure,,,,
+882,,,,,C3687832,DRUGS,,,,
+882,,,,,C0152054,Therapeutic tactile stimulation,,,,
+882,,,,,,,,,C0230388,Index finger
+882,,,,,,,,,C0040426,Tooth structure
+883,C0497169,hiv-infection/aids,,,,,,,,
+883,,,C0234238,Ache,,,,,,
+883,,,C0392171,Influenza-like symptoms,,,,,,
+883,,,,,,,,,C0040421,Palatine Tonsil
+883,,,,,,,,,C1280698,Entire throat (surface region of neck)
+884,C0497169,hiv-infection/aids,,,,,,,,
+885,C0022658,Kidney Diseases,,,,,,,,
+885,,,C0748706,side pain,,,,,,
+885,,,C0027497,Nausea,,,,,,
+885,,,C0004604,Back Pain,,,,,,
+885,,,C0030193,Pain,,,,,,
+885,,,C1446787,Cramping sensation quality,,,,,,
+885,,,,,,,,,C0041951,Ureter
+885,,,,,,,,,C0005682,Urinary Bladder
+886,C0497169,hiv-infection/aids,,,,,,,,
+886,,,C0015230,Exanthema,,,,,,
+886,,,C0033774,Pruritus,,,,,,
+886,,,,,C0332293,Treated with,,,,
+886,,,,,C1959633,Spatial guidance for medical procedure,,,,
+886,,,,,,,,,C1278920,Entire stomach
+886,,,,,,,,,C0030851,penis
+886,,,,,,,,,C0227997,Structure of right testis
+887,C0022658,Kidney Diseases,,,,,,,,
+887,,,C0037088,Signs and Symptoms,,,,,,
+887,,,C0030193,Pain,,,,,,
+887,,,,,C0152277,Incision and drainage,,,,
+887,,,,,C1519433,Special Diet Therapy,,,,
+887,,,,,C0023878,Lithotripsy,,,,
+887,,,,,,,,,C0004895,Beak
+887,,,,,,,,,C0041951,Ureter
+887,,,,,,,,,C0230347,Left upper arm structure
+887,,,,,,,,,C0022646,Kidney
+888,C0022658,Kidney Diseases,,,,,,,,
+889,C0005683,Urinary Bladder Calculi (disorder),,,,,,,,
+890,C0022650,Kidney Calculi,,,,,,,,
+890,,,C0030193,Pain,,,,,,
+891,C0010709,Cyst,,,,,,,,
+891,,,C0234238,Ache,,,,,,
+891,,,,,,,,,C1281594,Entire abdomen
+892,C0022650,Kidney Calculi,,,,,,,,
+892,,,C0030193,Pain,,,,,,
+893,C0022658,Kidney Diseases,,,,,,,,
+893,,,C0030193,Pain,,,,,,
+893,,,C0040822,Tremor,,,,,,
+893,,,,,C0441516,Demand (clinical),,,,
+894,C0022658,Kidney Diseases,,,,,,,,
+894,,,C0574068,Rib pain,,,,,,
+894,,,C0151830,Pain in urethra,,,,,,
+895,C0497169,hiv-infection/aids,,,,,,,,
+896,C0011860,"Diabetes Mellitus, Non-Insulin-Dependent",,,,,,,,
+896,,,,,C1522704,Exercise Pain Management,,,,
+897,C0011847,Diabetes,,,,,,,,
+897,,,C0003862,Arthralgia,,,,,,
+897,,,C0028643,Numbness,,,,,,
+897,,,C0008031,Chest Pain,,,,,,
+897,,,C0015230,Exanthema,,,,,,
+897,,,C0013395,Dyspepsia,,,,,,
+897,,,C0018520,Halitosis,,,,,,
+897,,,C0015672,Fatigue,,,,,,
+897,,,C0497406,Overweight,,,,,,
+897,,,C0018681,Headache,,,,,,
+897,,,C0010200,Coughing,,,,,,
+897,,,C0917801,Sleeplessness,,,,,,
+897,,,,,C3687832,DRUGS,,,,
+897,,,,,C0374711,Surgical repair,,,,
+897,,,,,C0034991,Rehabilitation therapy,,,,
+897,,,,,C1963578,Release (procedure),,,,
+897,,,,,,,,,C1552158,Supernumerary mandibular right central primary incisor
+897,,,,,,,,,C0699819,Gut
+897,,,,,,,,,C1184743,bony process
+897,,,,,,,,,C0227047,Maxillary left first premolar
+898,C0003864,Arthritis,,,,,,,,
+898,,,,,,,,,C1278978,Entire kidney
+898,,,,,,,,,C0227613,Right kidney
+899,C0019693,HIV Infections,,,,,,,,
+899,,,,,C1511790,Detection,,,,
+900,C0497169,hiv-infection/aids,,,,,,,,
+900,,,C0015230,Exanthema,,,,,,
+900,,,,,,,,,C0003461,Anus
+900,,,,,,,,,C1278927,Entire anus
+900,,,,,,,,,C1288949,Entire left hand
+901,C0497169,hiv-infection/aids,,,,,,,,
+901,,,,,C3687832,DRUGS,,,,
+901,,,,,C0301571,Liquid diet,,,,
+901,,,,,,,,,C0018494,Hair
+902,C0022658,Kidney Diseases,,,,,,,,
+902,,,C0030193,Pain,,,,,,
+902,,,C0392674,Exhaustion,,,,,,
+904,C0497169,hiv-infection/aids,,,,,,,,
+905,C0497169,hiv-infection/aids,,,,,,,,
+905,,,,,C3850098,Pre-Exposure Prophylaxis,,,,
+905,,,,,C1443861,Post-Exposure Prophylaxis,,,,
+906,C0497169,hiv-infection/aids,,,,,,,,
+906,,,,,C0087111,Therapeutic procedure,,,,
+907,C0497169,hiv-infection/aids,,,,,,,,
+907,,,,,,,,,C0935602,Right thumb
+908,C0497169,hiv-infection/aids,,,,,,,,
+908,,,,,,,,,C1278927,Entire anus
+909,C0497169,hiv-infection/aids,,,,,,,,
+909,,,,,C1318469,Lubrication procedure,,,,
+909,,,,,,,,,C0030851,penis
+909,,,,,,,,,C0003461,Anus
+910,C0497169,hiv-infection/aids,,,,,,,,
+910,,,C0027769,Nervousness,,,,,,
+910,,,,,,,,,C1281590,Entire head
+911,C0022658,Kidney Diseases,,,,,,,,
+911,,,C0497406,Overweight,,,,,,
+911,,,,,,,,,C0022655,Structure of cortex of kidney
+911,,,,,,,,,C0022646,Kidney
+912,C0022658,Kidney Diseases,,,,,,,,
+912,,,,,C0948350,renal and pancreas transplant,,,,
+912,,,,,C0002921,Local anesthesia,,,,
+912,,,,,,,,,C0040426,Tooth structure
+913,C0022658,Kidney Diseases,,,,,,,,
+913,,,C0024031,Low Back Pain,,,,,,
+913,,,C0011991,Diarrhea,,,,,,
+913,,,C0000737,Abdominal Pain,,,,,,
+913,,,C0549299,uti symptoms,,,,,,
+913,,,C0015672,Fatigue,,,,,,
+913,,,C0236083,Burning feeling vagina,,,,,,
+913,,,C0085624,Burning sensation,,,,,,
+913,,,C0030193,Pain,,,,,,
+913,,,C0004604,Back Pain,,,,,,
+913,,,,,,,,,C0042232,Vagina
+913,,,,,,,,,C1281586,Entire thigh
+914,C0022658,Kidney Diseases,,,,,,,,
+914,,,,,C0948350,renal and pancreas transplant,,,,
+914,,,,,C0002921,Local anesthesia,,,,
+914,,,,,,,,,C0040426,Tooth structure
+915,C0022658,Kidney Diseases,,,,,,,,
+915,,,C0557875,Tired,,,,,,
+915,,,,,,,,,C0423866,Lanugo
+916,C0022658,Kidney Diseases,,,,,,,,
+916,,,C0042963,Vomiting,,,,,,
+916,,,C0741585,BODY ACHE,,,,,,
+916,,,C0231218,Malaise,,,,,,
+916,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+916,,,C0018681,Headache,,,,,,
+916,,,C0030193,Pain,,,,,,
+916,,,,,C0279268,doxorubicin/semustine/streptozocin protocol,,,,
+917,C0022658,Kidney Diseases,,,,,,,,
+917,,,C0030193,Pain,,,,,,
+918,C0022658,Kidney Diseases,,,,,,,,
+919,C0022658,Kidney Diseases,,,,,,,,
+919,,,,,,,,,C1281590,Entire head
+920,C0011849,Diabetes Mellitus,,,,,,,,
+920,,,,,C0339897,Transjugular intrahepatic portosystemic shunt procedure,,,,
+921,C0497169,hiv-infection/aids,,,,,,,,
+921,,,,,C0087111,Therapeutic procedure,,,,
+922,C0011849,Diabetes Mellitus,,,,,,,,
+923,C0497169,hiv-infection/aids,,,,,,,,
+923,,,C0221423,Illness (finding),,,,,,
+923,,,,,C0005841,Blood Transfusion,,,,
+924,C0022658,Kidney Diseases,,,,,,,,
+924,,,C0683369,Clouded consciousness,,,,,,
+924,,,,,,,,,C1268126,Kidney part
+925,C0497169,hiv-infection/aids,,,,,,,,
+925,,,C0542476,Forgetful,,,,,,
+925,,,C0015230,Exanthema,,,,,,
+925,,,C0242429,Sore Throat,,,,,,
+925,,,C0033774,Pruritus,,,,,,
+925,,,C0018681,Headache,,,,,,
+925,,,,,C0152277,Incision and drainage,,,,
+925,,,,,C0087111,Therapeutic procedure,,,,
+925,,,,,,,,,C0042232,Vagina
+926,C0497169,hiv-infection/aids,,,,,,,,
+926,,,,,,,,,C1281590,Entire head
+927,C0042109,Urticaria,,,,,,,,
+927,,,C0015230,Exanthema,,,,,,
+927,,,C0033774,Pruritus,,,,,,
+927,,,,,,,,,C0026369,Structure of wisdom tooth
+927,,,,,,,,,C0043189,Wing
+927,,,,,,,,,C1281591,Entire face
+927,,,,,,,,,C1269078,Entire upper limb
+928,C0497169,hiv-infection/aids,,,,,,,,
+928,,,,,C1533685,Injection procedure,,,,
+928,,,,,,,,,C1269612,Entire upper arm
+929,C0497169,hiv-infection/aids,,,,,,,,
+929,,,C0426623,Excessive upper gastrointestinal gas,,,,,,
+929,,,,,,,,,C1278926,Entire rectum
+930,C0497169,hiv-infection/aids,,,,,,,,
+930,,,C0239783,Inguinal pain,,,,,,
+930,,,C0015230,Exanthema,,,,,,
+930,,,C1096596,foot discomfort,,,,,,
+930,,,C0231218,Malaise,,,,,,
+930,,,C0242429,Sore Throat,,,,,,
+930,,,C0564822,Pain in left leg,,,,,,
+930,,,,,,,,,C0018563,Hand
+930,,,,,,,,,C0024204,lymph nodes
+931,C0497169,hiv-infection/aids,,,,,,,,
+931,,,,,,,,,C0030851,penis
+932,C0497169,hiv-infection/aids,,,,,,,,
+933,C0497169,hiv-infection/aids,,,,,,,,
+934,C0497169,hiv-infection/aids,,,,,,,,
+934,,,C0683369,Clouded consciousness,,,,,,
+934,,,,,,,,,C0017562,Gingiva
+934,,,,,,,,,C0018563,Hand
+934,,,,,,,,,C1281591,Entire face
+935,C0022658,Kidney Diseases,,,,,,,,
+935,,,C0558489,Renal pain,,,,,,
+935,,,,,,,,,C1278920,Entire stomach
+935,,,,,,,,,C0022646,Kidney
+936,C0000833,Abscess,,,,,,,,
+936,,,C0030193,Pain,,,,,,
+937,C0022658,Kidney Diseases,,,,,,,,
+937,,,C0812426,Kidney problem,,,,,,
+938,C3714506,Meckel syndrome type 1,,,,,,,,
+938,,,C0574002,Edema of foot (finding),,,,,,
+938,,,,,C0439631,Primary operation,,,,
+938,,,,,C1522704,Exercise Pain Management,,,,
+938,,,,,,,,,C0018787,Heart
+938,,,,,,,,,C0015426,Eyelid structure
+938,,,,,,,,,C1281591,Entire face
+939,C0022658,Kidney Diseases,,,,,,,,
+940,C1384594,Nephroptosis,,,,,,,,
+940,,,C0577573,Mass of body region,,,,,,
+940,,,C0423640,Right Flank Pain,,,,,,
+940,,,C0235299,Right upper quadrant pain,,,,,,
+940,,,,,,,,,C0021853,Intestines
+940,,,,,,,,,C0022646,Kidney
+941,C0022658,Kidney Diseases,,,,,,,,
+941,,,C0042963,Vomiting,,,,,,
+941,,,C0000737,Abdominal Pain,,,,,,
+941,,,C0178310,signs and symptoms of ill-defined conditions,,,,,,
+941,,,C0849963,Feeling nervous,,,,,,
+941,,,C0015672,Fatigue,,,,,,
+941,,,C3714552,Weakness,,,,,,
+941,,,C0423736,Scalding pain on urination,,,,,,
+941,,,C0004604,Back Pain,,,,,,
+941,,,C0026821,Muscle Cramp,,,,,,
+941,,,C0917801,Sleeplessness,,,,,,
+941,,,C0085593,Chills,,,,,,
+941,,,C0013404,Dyspnea,,,,,,
+941,,,,,,,,,C0018787,Heart
+941,,,,,,,,,C0230347,Left upper arm structure
+941,,,,,,,,,C1281594,Entire abdomen
+941,,,,,,,,,C0022646,Kidney
+942,C0497169,hiv-infection/aids,,,,,,,,
+942,,,C0221423,Illness (finding),,,,,,
+942,,,,,,,,,C1281590,Entire head
+942,,,,,,,,,C0018563,Hand
+942,,,,,,,,,C1278927,Entire anus
+942,,,,,,,,,C1280739,Entire penis
+943,C0497169,hiv-infection/aids,,,,,,,,
+943,,,C0231218,Malaise,,,,,,
+943,,,C0242429,Sore Throat,,,,,,
+943,,,C0033774,Pruritus,,,,,,
+943,,,C0231528,Myalgia,,,,,,
+943,,,C0683369,Clouded consciousness,,,,,,
+943,,,,,C0152054,Therapeutic tactile stimulation,,,,
+944,C0497169,hiv-infection/aids,,,,,,,,
+944,,,,,C1948041,Surgical and medical procedures,,,,
+944,,,,,,,,,C0423866,Lanugo
+945,C0497169,hiv-infection/aids,,,,,,,,
+946,C0497169,hiv-infection/aids,,,,,,,,
+946,,,,,,,,,C1278896,Entire nose
+946,,,,,,,,,C1281584,Entire finger
+947,C0497169,hiv-infection/aids,,,,,,,,
+947,,,C0577573,Mass of body region,,,,,,
+947,,,C0234238,Ache,,,,,,
+947,,,C0557875,Tired,,,,,,
+947,,,C0281856,Generalized aches and pains,,,,,,
+947,,,C0015230,Exanthema,,,,,,
+947,,,C0231218,Malaise,,,,,,
+947,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+947,,,C0231528,Myalgia,,,,,,
+947,,,C0030193,Pain,,,,,,
+947,,,C2364135,Actual Discomfort,,,,,,
+947,,,C0242429,Sore Throat,,,,,,
+947,,,C0033774,Pruritus,,,,,,
+947,,,C0850149,Dry cough,,,,,,
+947,,,C0235710,Chest discomfort,,,,,,
+947,,,C0683369,Clouded consciousness,,,,,,
+947,,,C0234233,Sore to touch,,,,,,
+947,,,,,,,,,C1280538,Entire tendon
+947,,,,,,,,,C0018787,Heart
+947,,,,,,,,,C0042232,Vagina
+947,,,,,,,,,C1279998,Entire right foot
+947,,,,,,,,,C1280698,Entire throat (surface region of neck)
+947,,,,,,,,,C1279999,Entire left foot
+947,,,,,,,,,C1281586,Entire thigh
+947,,,,,,,,,C1280541,Entire nerve
+947,,,,,,,,,C1760774,Structure of muscle of forearm
+947,,,,,,,,,C1995013,Set of muscles
+947,,,,,,,,,C0039508,Tendon structure
+948,C0497169,hiv-infection/aids,,,,,,,,
+949,C0022658,Kidney Diseases,,,,,,,,
+949,,,C0024031,Low Back Pain,,,,,,
+949,,,C0085624,Burning sensation,,,,,,
+949,,,C0004604,Back Pain,,,,,,
+949,,,,,,,,,C0005682,Urinary Bladder
+949,,,,,,,,,C0022646,Kidney
+950,C0022658,Kidney Diseases,,,,,,,,
+950,,,C0085624,Burning sensation,,,,,,
+950,,,C0004604,Back Pain,,,,,,
+951,C0497169,hiv-infection/aids,,,,,,,,
+951,,,,,C3687832,DRUGS,,,,
+951,,,,,C0301571,Liquid diet,,,,
+951,,,,,,,,,C0018494,Hair
+952,C0497169,hiv-infection/aids,,,,,,,,
+952,,,C0849796,ear congestion,,,,,,
+952,,,C0015672,Fatigue,,,,,,
+952,,,C0043144,Wheezing,,,,,,
+952,,,C0010200,Coughing,,,,,,
+952,,,,,,,,,C0018563,Hand
+952,,,,,,,,,C1288948,Entire right hand
+952,,,,,,,,,C0028429,Nose
+953,C0497169,hiv-infection/aids,,,,,,,,
+953,,,C0557875,Tired,,,,,,
+953,,,C1442877,Sore skin,,,,,,
+953,,,C1579838,Sore mouth,,,,,,
+953,,,C0027497,Nausea,,,,,,
+953,,,C0020175,Hunger,,,,,,
+953,,,C0012833,Dizziness,,,,,,
+953,,,C0039070,Syncope,,,,,,
+953,,,C0848283,rundown,,,,,,
+953,,,,,C0079613,Adoptive Immunotherapy,,,,
+953,,,,,,,,,C0230398,Fourth finger
+953,,,,,,,,,C0036277,Bone structure of scapula
+953,,,,,,,,,C1281591,Entire face
+954,C0022658,Kidney Diseases,,,,,,,,
+954,,,C0497481,Pain in penis,,,,,,
+954,,,,,,,,,C1281573,Entire bladder
+954,,,,,,,,,C1280739,Entire penis
+955,C0497169,hiv-infection/aids,,,,,,,,
+955,,,,,C0087111,Therapeutic procedure,,,,
+956,C0022658,Kidney Diseases,,,,,,,,
+956,,,,,C1519433,Special Diet Therapy,,,,
+956,,,,,,,,,C0022646,Kidney
+957,C0022658,Kidney Diseases,,,,,,,,
+957,,,C0040822,Tremor,,,,,,
+957,,,,,,,,,C1278978,Entire kidney
+957,,,,,,,,,C0022646,Kidney
+958,C0022658,Kidney Diseases,,,,,,,,
+959,C0022658,Kidney Diseases,,,,,,,,
+959,,,,,,,,,C0022646,Kidney
+960,C0022658,Kidney Diseases,,,,,,,,
+961,C0022658,Kidney Diseases,,,,,,,,
+961,,,C0748706,side pain,,,,,,
+961,,,C0027497,Nausea,,,,,,
+961,,,C0231218,Malaise,,,,,,
+961,,,C0030193,Pain,,,,,,
+961,,,C0220870,Lightheadedness,,,,,,
+961,,,,,C1522704,Exercise Pain Management,,,,
+962,C0019693,HIV Infections,,,,,,,,
+962,,,C0015230,Exanthema,,,,,,
+962,,,,,C0185051,Removal by grinding,,,,
+962,,,,,,,,,C0039597,Testis
+962,,,,,,,,,C0030851,penis
+962,,,,,,,,,C0042232,Vagina
+962,,,,,,,,,C0017420,Genitalia
+963,C0497169,hiv-infection/aids,,,,,,,,
+963,,,C0028643,Numbness,,,,,,
+963,,,C2129214,Loose stool,,,,,,
+963,,,C0027497,Nausea,,,,,,
+963,,,C0149651,Clubbing,,,,,,
+963,,,C0012833,Dizziness,,,,,,
+963,,,C0231528,Myalgia,,,,,,
+963,,,C0239832,Numbness of hand,,,,,,
+963,,,C0236000,Jaw pain,,,,,,
+963,,,C0231772,Burning feet,,,,,,
+963,,,,,,,,,C0027342,Nail plate
+963,,,,,,,,,C1288948,Entire right hand
+963,,,,,,,,,C0588054,Cervical lymph node group
+963,,,,,,,,,C0022359,Jaw
+963,,,,,,,,,C1281592,Entire neck
+964,C0497169,hiv-infection/aids,,,,,,,,
+964,,,C0015230,Exanthema,,,,,,
+964,,,C0085624,Burning sensation,,,,,,
+964,,,,,,,,,C1305417,Entire elbow region
+965,C0497169,hiv-infection/aids,,,,,,,,
+965,,,C0028643,Numbness,,,,,,
+965,,,C2129214,Loose stool,,,,,,
+965,,,C0027497,Nausea,,,,,,
+965,,,C0149651,Clubbing,,,,,,
+965,,,C0012833,Dizziness,,,,,,
+965,,,C0231528,Myalgia,,,,,,
+965,,,C0239832,Numbness of hand,,,,,,
+965,,,C0236000,Jaw pain,,,,,,
+965,,,C0231772,Burning feet,,,,,,
+965,,,,,,,,,C0027342,Nail plate
+965,,,,,,,,,C1288948,Entire right hand
+965,,,,,,,,,C0588054,Cervical lymph node group
+965,,,,,,,,,C0022359,Jaw
+965,,,,,,,,,C1281592,Entire neck
+966,C0497169,hiv-infection/aids,,,,,,,,
+966,,,C0221423,Illness (finding),,,,,,
+966,,,C0231218,Malaise,,,,,,
+966,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+966,,,C0040822,Tremor,,,,,,
+967,C0497169,hiv-infection/aids,,,,,,,,
+967,,,C0234233,Sore to touch,,,,,,
+967,,,,,C0919867,dental cleaning,,,,
+968,C0019693,HIV Infections,,,,,,,,
+968,,,C0042963,Vomiting,,,,,,
+968,,,C0027497,Nausea,,,,,,
+969,C0497169,hiv-infection/aids,,,,,,,,
+969,,,C0028643,Numbness,,,,,,
+969,,,C2129214,Loose stool,,,,,,
+969,,,C0027497,Nausea,,,,,,
+969,,,C0149651,Clubbing,,,,,,
+969,,,C0012833,Dizziness,,,,,,
+969,,,C0231528,Myalgia,,,,,,
+969,,,C0239832,Numbness of hand,,,,,,
+969,,,C0236000,Jaw pain,,,,,,
+969,,,C0231772,Burning feet,,,,,,
+969,,,,,,,,,C0027342,Nail plate
+969,,,,,,,,,C1288948,Entire right hand
+969,,,,,,,,,C0588054,Cervical lymph node group
+969,,,,,,,,,C0022359,Jaw
+969,,,,,,,,,C1281592,Entire neck
+970,C0497169,hiv-infection/aids,,,,,,,,
+970,,,C0011991,Diarrhea,,,,,,
+970,,,,,C3275067,Cardiac Lead Procedure,,,,
+970,,,,,,,,,C0041638,Umbilicus (Anatomy)
+971,C0497169,hiv-infection/aids,,,,,,,,
+971,,,,,,,,,C0042232,Vagina
+971,,,,,,,,,C0018563,Hand
+971,,,,,,,,,C0003461,Anus
+972,C0012634,Disease,,,,,,,,
+972,,,,,,,,,C1278978,Entire kidney
+972,,,,,,,,,C0022646,Kidney
+973,C0022658,Kidney Diseases,,,,,,,,
+974,C0022658,Kidney Diseases,,,,,,,,
+974,,,C0015230,Exanthema,,,,,,
+974,,,C0015672,Fatigue,,,,,,
+974,,,C0027769,Nervousness,,,,,,
+975,C0022658,Kidney Diseases,,,,,,,,
+975,,,C0574002,Edema of foot (finding),,,,,,
+975,,,C0030193,Pain,,,,,,
+975,,,,,,,,,C1305418,Entire calf of leg (body structure)
+975,,,,,,,,,C0227192,Inferior esophageal sphincter structure
+975,,,,,,,,,C0022646,Kidney
+976,C0022658,Kidney Diseases,,,,,,,,
+977,C0022658,Kidney Diseases,,,,,,,,
+977,,,C0042963,Vomiting,,,,,,
+977,,,C0030193,Pain,,,,,,
+977,,,C1446787,Cramping sensation quality,,,,,,
+977,,,,,C0152054,Therapeutic tactile stimulation,,,,
+977,,,,,,,,,C0042027,Urinary tract
+977,,,,,,,,,C0005682,Urinary Bladder
+977,,,,,,,,,C1281594,Entire abdomen
+977,,,,,,,,,C0227665,Both kidneys
+978,C0497169,hiv-infection/aids,,,,,,,,
+978,,,,,C0392877,infusion of drug,,,,
+978,,,,,C0011209,Obstetric Delivery,,,,
+978,,,,,,,,,C0006141,Breast
+979,C0497169,hiv-infection/aids,,,,,,,,
+979,,,C0027769,Nervousness,,,,,,
+979,,,,,,,,,C0042232,Vagina
+980,C0011847,Diabetes,,,,,,,,
+980,,,,,C1519433,Special Diet Therapy,,,,
+981,C0268621,Hepatic methionine adenosyltransferase deficiency,,,,,,,,
+981,,,,,,,,,C0023759,Lip structure
+981,,,,,,,,,C1281592,Entire neck
+982,C0497169,hiv-infection/aids,,,,,,,,
+982,,,C0234238,Ache,,,,,,
+982,,,C0011991,Diarrhea,,,,,,
+982,,,C0042963,Vomiting,,,,,,
+982,,,C0015230,Exanthema,,,,,,
+982,,,C0015672,Fatigue,,,,,,
+982,,,C0018681,Headache,,,,,,
+982,,,C0030193,Pain,,,,,,
+982,,,C2029681,Symptom of head,,,,,,
+982,,,C0151315,Neck stiffness,,,,,,
+982,,,C1260880,Rhinorrhea,,,,,,
+982,,,C0221512,Stomach ache,,,,,,
+982,,,C0863105,sore back,,,,,,
+982,,,C0027497,Nausea,,,,,,
+982,,,C0242429,Sore Throat,,,,,,
+982,,,C1291077,Abdominal bloating,,,,,,
+982,,,C0010200,Coughing,,,,,,
+982,,,C0013456,Earache,,,,,,
+982,,,C2220244,Symptom of neck,,,,,,
+982,,,C0234233,Sore to touch,,,,,,
+982,,,,,,,,,C0027532,Skeletal muscle structure of neck
+982,,,,,,,,,C1281590,Entire head
+982,,,,,,,,,C1278920,Entire stomach
+982,,,,,,,,,C0042232,Vagina
+982,,,,,,,,,C1280698,Entire throat (surface region of neck)
+982,,,,,,,,,C0224334,Skeletal muscle structure of back
+982,,,,,,,,,C0024204,lymph nodes
+982,,,,,,,,,C1995013,Set of muscles
+982,,,,,,,,,C0038351,Stomach
+982,,,,,,,,,C0423866,Lanugo
+982,,,,,,,,,C0521421,Entire ear
+982,,,,,,,,,C1281592,Entire neck
+983,C0019693,HIV Infections,,,,,,,,
+983,,,,,C0024875,Massage,,,,
+983,,,,,C3272275,Urgent Procedure,,,,
+983,,,,,,,,,C0042232,Vagina
+983,,,,,,,,,C0018563,Hand
+983,,,,,,,,,C1280739,Entire penis
+984,C0497169,hiv-infection/aids,,,,,,,,
+984,,,,,C0007471,Cauterization - action,,,,
+984,,,,,,,,,C0018563,Hand
+984,,,,,,,,,C0028429,Nose
+985,C0031350,Pharyngitis,,,,,,,,
+985,,,C0015230,Exanthema,,,,,,
+985,,,C0242429,Sore Throat,,,,,,
+985,,,,,,,,,C0042232,Vagina
+986,C0497169,hiv-infection/aids,,,,,,,,
+986,,,,,,,,,C1281583,Entire hand
+987,C0858513,hiv-3,,,,,,,,
+987,,,,,C1511790,Detection,,,,
+988,C0022658,Kidney Diseases,,,,,,,,
+988,,,C0558489,Renal pain,,,,,,
+989,C0019693,HIV Infections,,,,,,,,
+989,,,C0234238,Ache,,,,,,
+989,,,,,,,,,C0042232,Vagina
+989,,,,,,,,,C0588054,Cervical lymph node group
+989,,,,,,,,,C1281592,Entire neck
+990,C0042029,Urinary tract infection,,,,,,,,
+990,,,C0231617,Catch - Finding of sensory dimension of pain,,,,,,
+990,,,C0085624,Burning sensation,,,,,,
+990,,,,,,,,,C0005682,Urinary Bladder
+991,C3280240,"MICROCEPHALY, EPILEPSY, AND DIABETES SYNDROME",,,,,,,,
+991,,,C3714552,Weakness,,,,,,
+991,,,C0030193,Pain,,,,,,
+992,C0022658,Kidney Diseases,,,,,,,,
+992,,,,,C0184958,Toilet procedure,,,,
+993,C0022658,Kidney Diseases,,,,,,,,
+994,C0497169,hiv-infection/aids,,,,,,,,
+994,,,,,C0522772,Shaving - surgical procedure,,,,
+994,,,,,,,,,C0017562,Gingiva
+994,,,,,,,,,C0018563,Hand
+995,C0022658,Kidney Diseases,,,,,,,,
+995,,,,,,,,,C1278978,Entire kidney
+995,,,,,,,,,C0178784,Organ
+996,C0022658,Kidney Diseases,,,,,,,,
+996,,,,,,,,,C1281583,Entire hand
+997,C0022658,Kidney Diseases,,,,,,,,
+997,,,C0030193,Pain,,,,,,
+997,,,C0455270,Sharp pain,,,,,,
+997,,,,,,,,,C0040357,Toes
+997,,,,,,,,,C0018563,Hand
+997,,,,,,,,,C1281587,Entire foot
+997,,,,,,,,,C0038351,Stomach
+997,,,,,,,,,C0022646,Kidney
+997,,,,,,,,,C0016504,Foot

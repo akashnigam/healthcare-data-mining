@@ -19,6 +19,7 @@
 package gov.nih.nlm.nls.metamap;
 
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -50,6 +51,9 @@ import org.apache.commons.text.similarity.JaroWinklerDistance;
 public class MetaMapAnnotator {
 
     private static Properties configProp = new Properties();
+
+    // String Constants
+    private static final String EMPTY_STRING = "";
     private static final String PATH_TO_RESOURCES = "./resources/";
 
     MetaMapApi api;
@@ -98,7 +102,8 @@ public class MetaMapAnnotator {
      * @throws IOException
      */
     private static void init() throws IOException {
-        InputStream configStream = MetaMapAnnotator.class.getClassLoader().getResourceAsStream("./gov/nih/nlm/nls/metamap/MetaMapAnnotatorConfig.properties");
+        File configFile = new File(PATH_TO_RESOURCES + "MetaMapAnnotatorConfig.properties");
+        FileInputStream configStream = new FileInputStream(configFile);
         configProp.load(configStream);
         populateIgnoredWordsList();
         populatePOSTags();
@@ -106,7 +111,7 @@ public class MetaMapAnnotator {
 
     /**
      * Populate the words to be ignored from the CSV file into a list
-     * 
+     *
      */
     private static void populateIgnoredWordsList() {
         Reader in = null;
@@ -134,7 +139,7 @@ public class MetaMapAnnotator {
 
     /**
      * Populate the POS tags to be included from the CSV file into a list
-     * 
+     *
      */
     private static void populatePOSTags() {
         Reader in = null;
@@ -178,38 +183,63 @@ public class MetaMapAnnotator {
      */
     private static void processWebUserPostData() throws FileNotFoundException, IOException, Exception {
         File dir = new File(configProp.getProperty("web_scraper_csv_folder"));
+                String serverhost = MetaMapApi.DEFAULT_SERVER_HOST;
+        int serverport = MetaMapApi.DEFAULT_SERVER_PORT;
+        int timeout = -1;
+
+        PrintStream output = System.out;
+        MetaMapAnnotator frontEnd = new MetaMapAnnotator(serverhost, serverport);
+        List<String> options = new ArrayList<>();
+        options.add("-y");  // Use word sense disambiguation https://metamap.nlm.nih.gov/Docs/FAQ/WSD.pdf Adds overhead to processing
+        options.add("--restrict_to_sts");   // Retain only Concepts with Specified Semantic Types. https://metamap.nlm.nih.gov/SemanticTypesAndGroups.shtml
+        options.add("dsyn,sosy,topp,clnd,bpoc");
+        options.add("--unique_acros_abbrs_only");   // Restricts the generation of acronym/abbreviation (AA) variants to those forms with unique expansions.
+        options.add("--no_derivational_variants");  // Prevents the use of any derivational variation in the computation of word variants. This option exists because derivational variants can involve a significant change in meaning.
+        options.add("--TAGGER_SERVER");
+        options.add("localhost");
+        //disable below option if slow
+        options.add("--composite_phrases");
+        options.add("4");
+
+//        System.out.println("options: " + options);
+        if (timeout > -1) {
+            frontEnd.setTimeout(timeout);
+        }
         File[] csvFilesList = dir.listFiles((File directory, String filename) -> filename.endsWith(".csv"));
         for (File file : csvFilesList) {
             Reader in = new FileReader(file);
             Iterable<CSVRecord> records = CSVFormat.RFC4180.withFirstRecordAsHeader().parse(in);
             String outputFile = PATH_TO_RESOURCES + file.getName();
-            CSVFormat csvFileFormat = CSVFormat.EXCEL.withHeader("PostNumber", "DiseaseId", "DiseaseName", "SymptomId", "SymptomName","treatmentId","treatmentName","drugId", "drugname","bodypartId","bodypartName");
-            FileWriter fileWriter = new FileWriter(outputFile);
-            CSVPrinter csvFilePrinter = new CSVPrinter(fileWriter, csvFileFormat);
-            for (CSVRecord record : records) {
-                long recordNumber = record.getRecordNumber();
-                String diseaseCategory = record.get(0);
-                String postLink = record.get(1);
-                String postHeading = record.get(2);
-                String postContent = record.get(3);
+            CSVFormat csvFileFormat = CSVFormat.EXCEL.withHeader("PostNumber", "DiseaseId", "DiseaseName", "SymptomId", "SymptomName", "TreatmentId", "TreatmentName", "DrugId", "DrugName", "BodypartId", "BodypartName");
+            CSVPrinter csvFilePrinter;
+            try (FileWriter fileWriter = new FileWriter(outputFile)) {
+                csvFilePrinter = new CSVPrinter(fileWriter, csvFileFormat);
+                for (CSVRecord record : records) {
+                    long recordNumber = record.getRecordNumber();
+                    String diseaseCategory = record.get(0);
+                    String postLink = record.get(1);
+                    String postHeading = record.get(2);
+                    String postContent = record.get(3);
 
-                //clean off non ascii characters
-                diseaseCategory = stripNonASCII(diseaseCategory);
-                postHeading = stripNonASCII(postHeading);
-                postContent = stripNonASCII(postContent);
+                    //clean off non ASCII characters
+                    diseaseCategory = stripNonASCII(diseaseCategory);
+                    postHeading = stripNonASCII(postHeading);
+                    postContent = stripNonASCII(postContent);
 
-                System.out.println("----------------------------------------------------");
+                    System.out.println("----------------------------------------------------");
 //                System.out.println(disease_name);
 //                System.out.println(postHeading);
 //                System.out.println(postContent);
 //                System.out.println("----------------------------------------------------");
-                triggerMetaMap(csvFilePrinter, recordNumber, diseaseCategory, postHeading, postContent);
-                System.out.println("----------------------------------------------------");
+                    triggerMetaMap(frontEnd, output, options, csvFilePrinter, recordNumber, diseaseCategory, postHeading, postContent);
+                    System.out.println("----------------------------------------------------");
+                }
+                fileWriter.flush();
             }
-            fileWriter.flush();
-            fileWriter.close();
             csvFilePrinter.close();
         }
+        
+        frontEnd.api.disconnect();
 
     }
 
@@ -223,9 +253,9 @@ public class MetaMapAnnotator {
      */
     private static String stripNonASCII(String inputText) {
         String result = inputText;
-        result = result.replaceAll("[^\\x00-\\x7F]", "");
-        result = result.replaceAll("[\\p{Cntrl}&&[^\r\n\t]]", "");
-        result = result.replaceAll("\\p{C}", "");
+        result = result.replaceAll("[^\\x00-\\x7F]", EMPTY_STRING);
+        result = result.replaceAll("[\\p{Cntrl}&&[^\r\n\t]]", EMPTY_STRING);
+        result = result.replaceAll("\\p{C}", EMPTY_STRING);
         result = result.trim();
         return result;
     }
@@ -240,31 +270,11 @@ public class MetaMapAnnotator {
      *
      * @throws Exception
      */
-    private static void triggerMetaMap(CSVPrinter csvFilePrinter, long recordNumber, String category, String postHeading, String postContent) throws Exception {
-        String serverhost = MetaMapApi.DEFAULT_SERVER_HOST;
-        int serverport = MetaMapApi.DEFAULT_SERVER_PORT;
-        int timeout = -1;
+    private static void triggerMetaMap(MetaMapAnnotator mmFrontEnd, PrintStream output,List<String> options, CSVPrinter csvFilePrinter, long recordNumber, String category, String postHeading, String postContent) throws Exception {
 
-        PrintStream output = System.out;
-        MetaMapAnnotator frontEnd = new MetaMapAnnotator(serverhost, serverport);
-        List<String> options = new ArrayList<>();
-        options.add("-y");
-        options.add("--restrict_to_sts");
-        options.add("dsyn,sosy,topp,clnd,bpoc");
-        options.add("--unique_acros_abbrs_only");
-        options.add("--no_derivational_variants");
-        options.add("--TAGGER_SERVER");
-        options.add("localhost");
-        //disable below option if slow
-        options.add("--composite_phrases");
-        options.add("4");
-
-//        System.out.println("options: " + options);
-        if (timeout > -1) {
-            frontEnd.setTimeout(timeout);
+        if (!"".equals(postContent) && !"".equals(category)) {
+            mmFrontEnd.process(csvFilePrinter, recordNumber, category, postContent, output, options);
         }
-        frontEnd.process(csvFilePrinter, recordNumber,category, postContent, output, options);
-        frontEnd.api.disconnect();
     }
 
     /**
@@ -277,114 +287,53 @@ public class MetaMapAnnotator {
      *
      * @throws Exception
      */
-    private void process(CSVPrinter csvFilePrinter, long recordNumber,String category, String terms, PrintStream out, List<String> serverOptions) throws Exception {
+    private void process(CSVPrinter csvFilePrinter, long recordNumber, String category, String terms, PrintStream out, List<String> serverOptions) throws Exception {
         if (serverOptions.size() > 0) {
             api.setOptions(serverOptions);
         }
-        int diseasesCount=0;
-        HashMap<String, String> diseaseDict = new HashMap<>(); 
+        int diseasesCount = 0;
+        HashMap<String, String> diseaseDict = new HashMap<>();
         HashMap<String, String> symptomDict = new HashMap<>();
         HashMap<String, String> treatmentDict = new HashMap<>();
         HashMap<String, String> drugsDict = new HashMap<>();
         HashMap<String, String> bodyPartDict = new HashMap<>();
-        List<Result> categoryMM=api.processCitationsFromString(category);
-        String categoryMMName="";
-        String categoryMMId="";
+        List<Result> categoryMM = api.processCitationsFromString(category);
+        String categoryMMName = EMPTY_STRING;
+        String categoryMMId = EMPTY_STRING;
         for (Result result : categoryMM) {
             if (result != null) {
-            for (Utterance utterance : result.getUtteranceList()) {
-            for (PCM pcm : utterance.getPCMList()) {
-            for (Mapping map : pcm.getMappingList()) {
-                for (Ev mapEv : map.getEvList()) {
-                    if (mapEv.getSemanticTypes().contains("dsyn")) {
-                                        categoryMMName = mapEv.getPreferredName();
-                                        categoryMMId = mapEv.getConceptId();
-                                    }
+                for (Utterance utterance : result.getUtteranceList()) {
+                    for (PCM pcm : utterance.getPCMList()) {
+                        for (Mapping map : pcm.getMappingList()) {
+                            for (Ev mapEv : map.getEvList()) {
+                                if (mapEv.getSemanticTypes().contains("dsyn")) {
+                                    categoryMMName = mapEv.getPreferredName();
+                                    categoryMMId = mapEv.getConceptId();
+                                }
+                            }
+                        }
+                    }
                 }
+
             }
-            }
-            }
-            
-            }
-            
+
         }
-        
         List<Result> resultList = api.processCitationsFromString(terms);
-        
-        
+
         for (Result result : resultList) {
             if (result != null) {
-//                out.println("input text: ");
+//                out.println("Input text: ");
 //                out.println(" " + result.getInputText());
-//                List<AcronymsAbbrevs> aaList = result.getAcronymsAbbrevsList();
-//                if (aaList.size() > 0) {
-//                    out.println("Acronyms and Abbreviations:");
-//                    aaList.stream().map((e) -> {
-//                        out.println("Acronym: " + e.getAcronym());
-//                        return e;
-//                    }).map((e) -> {
-//                        out.println("Expansion: " + e.getExpansion());
-//                        return e;
-//                    }).map((e) -> {
-//                        out.println("Count list: " + e.getCountList());
-//                        return e;
-//                    }).forEachOrdered((e) -> {
-//                        out.println("CUI list: " + e.getCUIList());
-//                    });
-//                }
-//                List<Negation> negList = result.getNegationList();
-//                if (negList.size() > 0) {
-//                    out.println("Negations:");
-//                    for (Negation e : negList) {
-//                        out.println("type: " + e.getType());
-//                        out.print("Trigger: " + e.getTrigger() + ": [");
-//                        for (Position pos : e.getTriggerPositionList()) {
-//                            out.print(pos + ",");
-//                        }
-//                        out.println("]");
-//                        out.print("ConceptPairs: [");
-//                        for (ConceptPair pair : e.getConceptPairList()) {
-//                            out.print(pair + ",");
-//                        }
-//                        out.println("]");
-//                        out.print("ConceptPositionList: [");
-//                        for (Position pos : e.getConceptPositionList()) {
-//                            out.print(pos + ",");
-//                        }
-//                        out.println("]");
-//                    }
-//                }
                 for (Utterance utterance : result.getUtteranceList()) {
 //                    out.println("Utterance:");
 //                    out.println(" Id: " + utterance.getId());
-//                    out.println("Utterance text: " + utterance.getString());
+//                    out.println(" Utterance text: " + utterance.getString());
 //                    out.println(" Position: " + utterance.getPosition());
                     for (PCM pcm : utterance.getPCMList()) {
-
-//                        out.println("Phrase:");
-                        out.println(" text: " + pcm.getPhrase().getPhraseText());
+                        out.println(" Phrase: " + pcm.getPhrase().getPhraseText());
 //                        out.println(" Minimal Commitment Parse: " + pcm.getPhrase().getMincoManAsString());
-//                        out.println("Candidates:");
-//                        for (Ev ev : pcm.getCandidatesInstance().getEvList()) {
-//                            out.println(" Candidate:");
-//                            out.println("  Score: " + ev.getScore());
-//                            out.println("  Concept Id: " + ev.getConceptId());
-//                            out.println("  Concept Name: " + ev.getConceptName());
-//                            out.println("  Preferred Name: " + ev.getPreferredName());
-//                            out.println("  Matched Words: " + ev.getMatchedWords());
-//                            out.println("  Semantic Types: " + ev.getSemanticTypes());
-//                            out.println("  MatchMap: " + ev.getMatchMap());
-//                            out.println("  MatchMap alt. repr.: " + ev.getMatchMapList());
-//                            out.println("  is Head?: " + ev.isHead());
-//                            out.println("  is Overmatch?: " + ev.isOvermatch());
-//                            out.println("  Sources: " + ev.getSources());
-//                            out.println("  Positional Info: " + ev.getPositionalInfo());
-//                            out.println("  Pruning Status: " + ev.getPruningStatus());
-//                            out.println("  Negation Status: " + ev.getNegationStatus());
-//                        }
-//                        out.println(" " + pcm.getPhrase().getMincoMan());
 //                        HashMap<String, String> wordTagList = listInputMatches(pcm.getPhrase().getMincoMan());
-//                        out.println("  Mappings:");
+                        out.println("  Mappings:");
                         for (Mapping map : pcm.getMappingList()) {
 //                        out.println(" Map Score: " + map.getScore());
                             for (Ev mapEv : map.getEvList()) {
@@ -412,15 +361,15 @@ public class MetaMapAnnotator {
 //                                if (isAcronym(mapEv.getPreferredName(), mapEv.getMatchedWords().toString())) {
 //                                    filterOut = true;
 //                                }
-//                                if (!filterOut) {
+                                if (!filterOut) {
 //                                out.println("   Score: " + mapEv.getScore());
-                                out.println("   Filter Status: " + filterOut);
-                                out.println("   Concept Id: " + mapEv.getConceptId());
+                                    out.println("   Filter Status: " + filterOut);
+                                    out.println("   Concept Id: " + mapEv.getConceptId());
 //                                out.println("   Term: " + mapEv.getTerm());
-                                out.println("   Concept Name: " + mapEv.getConceptName());
-                                out.println("   Preferred Name: " + mapEv.getPreferredName());
-                                out.println("   Matched Words: " + mapEv.getMatchedWords());
-                                out.println("   Semantic Types: " + mapEv.getSemanticTypes());
+                                    out.println("   Concept Name: " + mapEv.getConceptName());
+                                    out.println("   Preferred Name: " + mapEv.getPreferredName());
+                                    out.println("   Matched Words: " + mapEv.getMatchedWords());
+                                    out.println("   Semantic Types: " + mapEv.getSemanticTypes());
 //                                out.println("   MatchMap: " + mapEv.getMatchMap());
 //                                out.println("   MatchMap alt. repr.: " + mapEv.getMatchMapList());
 //                                out.println("   is Head?: " + mapEv.isHead());
@@ -429,13 +378,12 @@ public class MetaMapAnnotator {
 //                                out.println("   Positional Info: " + mapEv.getPositionalInfo());
 //                                out.println("   Pruning Status: " + mapEv.getPruningStatus());
 //                                out.println("   Negation Status: " + mapEv.getNegationStatus());
-                                if (!filterOut) {
-                                    String diseaseName = "", symptomName = "", diseaseId = "", symptomId = "",treatmentName="", treatmentId="", drugName="", drugId="", bodyPartName="", bodypartId="";
+                                    String diseaseName = EMPTY_STRING, symptomName = EMPTY_STRING, diseaseId = EMPTY_STRING, symptomId = EMPTY_STRING, treatmentName = EMPTY_STRING, treatmentId = EMPTY_STRING, drugName = EMPTY_STRING, drugId = EMPTY_STRING, bodyPartName = EMPTY_STRING, bodypartId = EMPTY_STRING;
                                     if (mapEv.getSemanticTypes().contains("dsyn")) {
                                         diseaseName = mapEv.getPreferredName();
                                         diseaseId = mapEv.getConceptId();
                                         diseaseDict.put(diseaseId, diseaseName);
-                                        diseasesCount=diseasesCount+1;
+                                        diseasesCount += 1;
                                     }
                                     if (mapEv.getSemanticTypes().contains("sosy")) {
                                         symptomName = mapEv.getPreferredName();
@@ -456,48 +404,44 @@ public class MetaMapAnnotator {
                                         bodyPartName = mapEv.getPreferredName();
                                         bodypartId = mapEv.getConceptId();
                                         bodyPartDict.put(bodypartId, bodyPartName);
-                                        
+
                                     }
-                                    //csvFilePrinter.printRecord(recordNumber, diseaseId, diseaseName, symptomId, symptomName, treatmentId, treatmentName, drugId, drugName, bodypartId, bodyPartName);
                                 }
-//                                }
                             }
                         }
                     }
                 }
 
             } else {
-                out.println("NULL result instance! ");
+                out.println("The result instance is NULL!");
             }
         }
-        if(!"".equals(categoryMMId)){
-        if(diseasesCount==0){
-            diseaseDict.put(categoryMMId, categoryMMName);
-        }
-        if(diseasesCount>1){
-            diseaseDict.clear();
-            diseaseDict.put(categoryMMId, categoryMMName);
-        }
-        }
-        if(diseaseDict.size()==1){
-            for (Map.Entry<String,String> entry : diseaseDict.entrySet()) {
-                csvFilePrinter.printRecord(recordNumber,entry.getKey(),entry.getValue(),"","","","","","","","");
+        if (!EMPTY_STRING.equals(categoryMMId)) {
+            if (diseasesCount == 0) {
+                diseaseDict.put(categoryMMId, categoryMMName);
             }
-            for (Map.Entry<String,String> entry : symptomDict.entrySet()) {
-                csvFilePrinter.printRecord(recordNumber,"","",entry.getKey(),entry.getValue(),"","","","","","");
-            }
-            for (Map.Entry<String,String> entry : treatmentDict.entrySet()) {
-                csvFilePrinter.printRecord(recordNumber,"","","","",entry.getKey(),entry.getValue(),"","","","");
-            }
-            for (Map.Entry<String,String> entry : drugsDict.entrySet()) {
-                csvFilePrinter.printRecord(recordNumber,"","","","","","",entry.getKey(),entry.getValue(),"","");
-            }
-            for (Map.Entry<String,String> entry : bodyPartDict.entrySet()) {
-                csvFilePrinter.printRecord(recordNumber,"","","","","","","","",entry.getKey(),entry.getValue());
+            if (diseasesCount > 1) {
+                diseaseDict.clear();
+                diseaseDict.put(categoryMMId, categoryMMName);
             }
         }
-        
-        
+        if (diseaseDict.size() == 1) {
+            for (Map.Entry<String, String> entry : diseaseDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber, entry.getKey(), entry.getValue(), EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING);
+            }
+            for (Map.Entry<String, String> entry : symptomDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber, EMPTY_STRING, EMPTY_STRING, entry.getKey(), entry.getValue(), EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING);
+            }
+            for (Map.Entry<String, String> entry : treatmentDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, entry.getKey(), entry.getValue(), EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING);
+            }
+            for (Map.Entry<String, String> entry : drugsDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, entry.getKey(), entry.getValue(), EMPTY_STRING, EMPTY_STRING);
+            }
+            for (Map.Entry<String, String> entry : bodyPartDict.entrySet()) {
+                csvFilePrinter.printRecord(recordNumber, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, EMPTY_STRING, entry.getKey(), entry.getValue());
+            }
+        }
         this.api.resetOptions();
     }
 
@@ -586,7 +530,7 @@ public class MetaMapAnnotator {
                 return posTagEntry.getValue();
             }
         }
-        return "";
+        return EMPTY_STRING;
     }
 
     /**
@@ -628,7 +572,7 @@ public class MetaMapAnnotator {
         while (iter.hasNext()) {
 
             if (iter.next().equals("arg:inputmatch")) {
-                String tag, word = "";
+                String tag, word = EMPTY_STRING;
                 word = iter.next();
                 while (iter.hasNext()) {
                     String p = iter.peek();
