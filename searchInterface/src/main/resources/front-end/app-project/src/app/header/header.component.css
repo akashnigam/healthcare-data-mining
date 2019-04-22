@@ -1,0 +1,28 @@
+ul{
+    
+    padding:0;
+    margin:0;
+    display:flex;
+}
+
+a {
+    text-decoration: none;
+    color:white;
+}
+
+.spacer{
+    flex: 1 1 auto;
+}
+
+/* #nav{
+    text-align:center
+} */
+
+.navbar-center
+{
+    position: absolute;
+    width: 100%;
+    left: 0;
+    top: 0;
+    text-align: center;
+}
