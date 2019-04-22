@@ -72,4 +72,7 @@ Solution: Just remove the culprit post from input and run the application again.
 * For the list of stop words being ignored check IgnoredWrords.csv file under resources.
 * The code for detailed printing is commented out to ensure high speed run on large dataset.
 * The code for filtering concepts based on POS tags specified in IncludePOSTags.csv(under resources folder) is commented out to recognise all the  concepts rather than accuracy since only the top frequent sets will be returned by the search.
-
+* Since the MetaMap processing is slow we can start multiple instances of the application. Here is how it looks like
+![Running on Mutiple Systems](screenshot-run-multiple-systems.JPG)
+![Running on Mutiple Instances System 1](screenshot-mutiple-instance-run-1.png)
+![Running on Mutiple Instances System 2](screenshot-multiple-instance-run-2.png)
