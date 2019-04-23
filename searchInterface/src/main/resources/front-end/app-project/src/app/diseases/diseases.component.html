@@ -4,8 +4,10 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6">
+      <br>
       <form class="example-form">
         <mat-form-field class="example-full-width">
+
           <input matInput  placeholder="Diseases" [matAutocomplete]="auto" [formControl]="stateCtrl">
           <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayFn" >
             <mat-option (onSelectionChange)="submitValue(disease)" *ngFor="let disease of filteredStates | async" [value]="disease">
@@ -18,28 +20,27 @@
       </form>
 
       <div *ngIf="flag">
-        {{disease.diseaseName}} Reported by {{disease.recordCount}}
+        <p style="padding-left:10px"> <b>{{disease.diseaseName}}</b> reported by {{disease.recordCount}} users</p>
         <mat-card class="example-card">
-          <mat-card-header>
-            <mat-card-title>Symptoms</mat-card-title>
-          </mat-card-header>
+
+            <mat-card-title style="text-align:left">Symptoms</mat-card-title>
+
           <mat-card-content>
             <p *ngFor="let x of disease.diseaseSymptoms ">
-              {{ x.symptom.symptomName }}
-              Reported by:{{ x.count}}
-              <!-- {{x.count/disease.recordCount * 100}}% -->
+              <b>    {{ x.symptom.symptomName }}</b>
+              reported by {{(100 * x.count/disease.symptomCount)| number:'1.1-2'}} % users
             </p>
           </mat-card-content>
         </mat-card>
 
         <mat-card class="example-card">
-          <mat-card-header>
-            <mat-card-title>Treatments</mat-card-title>
-          </mat-card-header>
+
+            <mat-card-title style="text-align:left">Treatments</mat-card-title>
+
           <mat-card-content>
             <p *ngFor="let x of disease.diseases_treatments ">
-              {{ x.treatment.treatmentName }}
-              Reported by: {{ round(x.count/disease.recordCount * 100)}} %
+              <b>  {{ x.treatment.treatmentName }}</b>
+              reported by {{(100 * x.count/disease.treatmentCount)| number:'1.1-2'}} % users
             </p>
           </mat-card-content>
         </mat-card>

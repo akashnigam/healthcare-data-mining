@@ -14,6 +14,7 @@ export class SymptomsComponent implements OnInit {
   title = 'materialApp';
   myControl = new FormControl();
   disease:any=null;
+  vsum:any=0;
 
   flagdemo=false;
   headers=new HttpHeaders({ 'Access-Control-Allow-Origin':'*'});
@@ -68,8 +69,18 @@ export class SymptomsComponent implements OnInit {
     this.http.get<any>('http://localhost:8080/getDiseasesSymptom/'+value,{headers:this.headers})
                                   .subscribe( response =>{
                                       this.disease=response;
+
+                                     for (var i = 0; i < response.length; i++){
+                                         var obj = response[i];
+                                         for (var key in obj){
+                                             if(key==='count')
+                                             this.vsum += obj[key];
+                                         }
+                                     }
+
+                                     response.sort((a, b) => (a.count < b.count) ? 1 : -1);
+
                                       this.flag=true;
-                                      console.log("hitesh");
                                       console.log(this.disease);});
 
 

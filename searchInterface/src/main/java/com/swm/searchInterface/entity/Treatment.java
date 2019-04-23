@@ -13,8 +13,7 @@ import java.util.Set;
 public class Treatment {
 
     @Id
-    @GeneratedValue
-    private int treatmentId;
+    private String treatmentId;
 
 
     private String treatmentName;
@@ -38,17 +37,17 @@ public class Treatment {
         this.diseases_treatments = diseases_treatments;
     }
 
-    public Treatment(int treatmentId, String treatmentName, String description) {
+    public Treatment(String treatmentId, String treatmentName, String description) {
         this.treatmentId = treatmentId;
         this.treatmentName = treatmentName;
         this.description = description;
     }
 
-    public int getTreatmentId() {
+    public String getTreatmentId() {
         return treatmentId;
     }
 
-    public void setTreatmentId(int treatmentId) {
+    public void setTreatmentId(String treatmentId) {
         this.treatmentId = treatmentId;
     }
 

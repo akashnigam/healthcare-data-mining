@@ -35,7 +35,7 @@ BEGIN
 		END IF;
         SELECT count(1) INTO @dis_sym_cnt FROM ontology.disease_symptoms WHERE symptom_id=s_id and disease_id=d_id;
         IF @dis_sym_cnt=0 THEN
-			INSERT INTO ontology.disease_symptoms VALUES (d_id,s_id,0);
+			INSERT INTO ontology.disease_symptoms VALUES (d_id,s_id,1);
 		ELSE
 			UPDATE ontology.disease_symptoms SET count=count+1
             WHERE symptom_id=s_id AND disease_id=d_id;
@@ -50,7 +50,7 @@ BEGIN
 		END IF;
         SELECT count(1) INTO @dis_tr_cnt FROM ontology.disease_treatments WHERE disease_id=d_id and treatment_id=t_id;
         IF @dis_tr_cnt=0 THEN
-			INSERT INTO ontology.disease_treatments VALUES (d_id,t_id,0);
+			INSERT INTO ontology.disease_treatments VALUES (d_id,t_id,1);
 		ELSE
 			UPDATE ontology.disease_treatments SET count=count+1
             WHERE treatment_id=t_id AND disease_id=d_id;
@@ -65,7 +65,7 @@ BEGIN
 		END IF;
         SELECT count(1) INTO @dis_tr1_cnt FROM ontology.disease_treatments WHERE disease_id=d_id and treatment_id=dr_id;
         IF @dis_tr1_cnt=0 THEN
-			INSERT INTO ontology.disease_treatments VALUES (d_id,dr_id,0);
+			INSERT INTO ontology.disease_treatments VALUES (d_id,dr_id,1);
 		ELSE
 			UPDATE ontology.disease_treatments SET count=count+1
             WHERE treatment_id=dr_id AND disease_id=d_id;

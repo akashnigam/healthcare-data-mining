@@ -68,9 +68,14 @@ export class DiseasesComponent implements OnInit {
 
     this.http.get<any>('http://localhost:8080/getDisease/'+value,{headers:this.headers})
                                   .subscribe( response =>{
-                                      this.disease=response;
+
+
+                                  response.diseaseSymptoms.sort((a, b) => (a.count < b.count) ? 1 : -1);
+                                  console.log(response);
+
+                                      response.diseaseSymptoms=response.diseaseSymptoms.slice(0,5);
+                                      this.disease = response;
                                       this.flag=true;
-                                      console.log("hitesh");
                                       console.log(this.disease.diseaseSymptoms);});
 
 
