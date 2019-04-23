@@ -15,13 +15,12 @@ public class Symptom {
 
 
     @Id
-    @GeneratedValue
-    private int symptomId;
+    private String symptomId;
 
 
     private String symptomName;
 
-    private String description;
+//    private String description;
 
     @OneToMany(mappedBy = "symptom", cascade = CascadeType.ALL)
     @JsonBackReference
@@ -39,17 +38,16 @@ public class Symptom {
     }
 
 
-    public Symptom(int symptomId, String symptomName, String description) {
+    public Symptom(String symptomId, String symptomName) {
         this.symptomId = symptomId;
         this.symptomName = symptomName;
-        this.description = description;
     }
 
-    public int getSymptomId() {
+    public String getSymptomId() {
         return symptomId;
     }
 
-    public void setSymptomId(int symptomId) {
+    public void setSymptomId(String symptomId) {
         this.symptomId = symptomId;
     }
 
@@ -61,13 +59,6 @@ public class Symptom {
         this.symptomName = symptomName;
     }
 
-    public String getDescription() {
-        return description;
-    }
-
-    public void setDescription(String description) {
-        this.description = description;
-    }
 
 
     @Override
@@ -75,7 +66,6 @@ public class Symptom {
         return "Symptom{" +
                 "symptomId=" + symptomId +
                 ", symptomName='" + symptomName + '\'' +
-                ", description='" + description + '\'' +
                 ", diseases="  +
                 '}';
     }

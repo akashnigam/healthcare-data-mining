@@ -13,8 +13,7 @@ import java.util.Set;
 public class Disease {
 
     @Id
-    @GeneratedValue
-    private int diseaseId;
+    private String diseaseId;
 
 
     @OneToMany(mappedBy = "disease", cascade = CascadeType.ALL)
@@ -58,7 +57,7 @@ public class Disease {
 
     private int treatmentCount;
 
-    public Disease(int diseaseId, String diseaseName, String diseaseDescription, int recordCount, int symptomCount, int treatmentCount) {
+    public Disease(String diseaseId, String diseaseName, String diseaseDescription, int recordCount, int symptomCount, int treatmentCount) {
         this.diseaseId = diseaseId;
         this.diseaseName = diseaseName;
         this.diseaseDescription = diseaseDescription;
@@ -67,11 +66,11 @@ public class Disease {
         this.treatmentCount = treatmentCount;
     }
 
-    public int getDiseaseId() {
+    public String getDiseaseId() {
         return diseaseId;
     }
 
-    public void setDiseaseId(int diseaseId) {
+    public void setDiseaseId(String diseaseId) {
         this.diseaseId = diseaseId;
     }
 
