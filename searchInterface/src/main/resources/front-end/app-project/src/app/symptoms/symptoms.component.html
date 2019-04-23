@@ -4,6 +4,7 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6">
+      <br>
       <form class="example-form">
         <mat-form-field class="example-full-width">
           <input matInput  placeholder="Symptoms" [matAutocomplete]="auto" [formControl]="stateCtrl">
@@ -26,7 +27,7 @@
           <mat-card-content>
             <p *ngFor="let x of disease ">
               {{ x.disease.diseaseName }}
-              Reported by: {{ x.count }}
+              reported by {{(100 * x.count/disease.symptomCount)|number:0}} % users
             </p>
           </mat-card-content>
         </mat-card>

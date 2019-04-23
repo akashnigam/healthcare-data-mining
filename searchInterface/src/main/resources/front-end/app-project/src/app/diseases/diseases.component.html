@@ -4,8 +4,10 @@
 <div class="container">
   <div class="row">
     <div class="col-md-6">
+      <br>
       <form class="example-form">
         <mat-form-field class="example-full-width">
+
           <input matInput  placeholder="Diseases" [matAutocomplete]="auto" [formControl]="stateCtrl">
           <mat-autocomplete #auto="matAutocomplete" [displayWith]="displayFn" >
             <mat-option (onSelectionChange)="submitValue(disease)" *ngFor="let disease of filteredStates | async" [value]="disease">
@@ -18,7 +20,7 @@
       </form>
 
       <div *ngIf="flag">
-        {{disease.diseaseName}} Reported by {{disease.recordCount}}
+        {{disease.diseaseName}} reported by {{disease.recordCount}} users
         <mat-card class="example-card">
           <mat-card-header>
             <mat-card-title>Symptoms</mat-card-title>
@@ -26,8 +28,7 @@
           <mat-card-content>
             <p *ngFor="let x of disease.diseaseSymptoms ">
               {{ x.symptom.symptomName }}
-              Reported by:{{ x.count}}
-              <!-- {{x.count/disease.recordCount * 100}}% -->
+              reported by {{(100 * x.count/disease.symptomCount)|number:0}} % users
             </p>
           </mat-card-content>
         </mat-card>
@@ -39,7 +40,7 @@
           <mat-card-content>
             <p *ngFor="let x of disease.diseases_treatments ">
               {{ x.treatment.treatmentName }}
-              Reported by: {{ round(x.count/disease.recordCount * 100)}} %
+              reported by {{(100 * x.count/disease.treatmentCount)|number:0}} % users
             </p>
           </mat-card-content>
         </mat-card>
