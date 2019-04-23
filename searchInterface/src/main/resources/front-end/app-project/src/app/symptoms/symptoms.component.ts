@@ -78,8 +78,8 @@ export class SymptomsComponent implements OnInit {
                                          }
                                      }
 
-                                     response.sort((a, b) => (a.count < b.count) ? 1 : -1);
-
+                                     this.disease.sort((a, b) => (a.count < b.count) ? 1 : -1);
+                                      this.disease=this.disease.slice(0,5);
                                       this.flag=true;
                                       console.log(this.disease);});
 

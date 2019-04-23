@@ -20,7 +20,7 @@ public class Disease {
     @JsonManagedReference
     private Set<DiseaseSymptom> diseaseSymptoms = new HashSet<>();
 
-    @OneToMany(mappedBy = "treatment", cascade = CascadeType.ALL)
+    @OneToMany(mappedBy = "disease", cascade = CascadeType.ALL)
     @JsonManagedReference
     private Set<DiseaseTreatment> diseases_treatments = new HashSet<DiseaseTreatment>();
 
