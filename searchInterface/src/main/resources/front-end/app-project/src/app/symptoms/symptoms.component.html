@@ -21,13 +21,13 @@
       <div *ngIf="flag">
 
         <mat-card class="example-card">
-          <mat-card-header>
-            <mat-card-title>Diseases</mat-card-title>
-          </mat-card-header>
+
+            <mat-card-title style="text-align:left">Diseases</mat-card-title>
+
           <mat-card-content>
             <p *ngFor="let x of disease ">
-              {{ x.disease.diseaseName }}
-              reported by {{(100 * x.count/disease.symptomCount)|number:0}} % users
+              <b>{{ x.disease.diseaseName }}</b>
+              reported by {{ (100 * x.count/this.vsum) | number:'1.1-2'}} % users
             </p>
           </mat-card-content>
         </mat-card>

@@ -71,7 +71,7 @@ export class DiseasesComponent implements OnInit {
 
 
                                   response.diseaseSymptoms.sort((a, b) => (a.count < b.count) ? 1 : -1);
-                                  console.log(response.diseaseSymptoms);
+                                  console.log(response);
 
                                       response.diseaseSymptoms=response.diseaseSymptoms.slice(0,5);
                                       this.disease = response;
