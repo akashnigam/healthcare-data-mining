@@ -4,6 +4,8 @@ The aim of this project is to build an information extraction system that can tu
 
 > :warning: For the install, excute instructions, screenshots and module specific functions look at the **README.md** files under each module.
 > This is a general **README** file with higher level details of the project.
+> Data(user posts) scraped from  multiple sources (in [WebMD.com](https://www.webmd.com/), [Drugs.com](https://www.drugs.com/), [Patient.info](https://patient.info/)) is stored in scraper/data/src/ directory.
+> Medical concepts extracted from data are stored in MetaMapAnnotator/resources/ directory.
 
 ### The Problem
 
